@@ -9,20 +9,37 @@ jobs:
   fetch-news-updates:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
+        python-version: '3.10'
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+
     - name: Run AI news scanner
       run: python ai_news_scanner.py
+
     - name: Commit and push if there are changes
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         git add ai_news_updates.txt
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update AI news"; git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update AI news" && git push)
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: ai-news-updates
+        path: ai_news_updates.txt
+
+    - name: Output Python version and pip list
+      if: failure()
+      run: |
+        python --version
+        pip list
