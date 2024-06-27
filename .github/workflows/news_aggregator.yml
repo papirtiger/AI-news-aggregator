@@ -2,7 +2,7 @@ name: Fetch AI News Updates
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
+    - cron: '0 2 * * *'  # This runs at 02:00 UTC every day
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
