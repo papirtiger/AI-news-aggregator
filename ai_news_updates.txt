@@ -1,0 +1,111 @@
+AI News Updates - 2024-06-27 07:41:40
+
+From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Synthflow picks up $7.4M for no code voice assistance for SMEs
+Description: <p>What is AI good for? Automating repetitive tasks for the very busy people running small businesses, reckons Berlin-based startup Synthflow, which is announcing a $7.4 million seed round for its SME...
+Link: https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/
+Headline: Sonia’s AI chatbot steps in for therapists
+Description: <p>Can chatbots replace human therapists? Some startups &#8212; and patients &#8212; claim that they can. But it&#8217;s not exactly settled science. One study found that 80% of people who&#8217;ve us...
+Link: https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/
+Headline: Persona’s founders are certain the world can use another humanoid robot
+Description: <p>At this early stage, Persona’s pitch doesn’t stray far from the various humanoid firms with which it’s set to compete.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/06/26/personas-founders-are-certain-the-world-can-use-another-humanoid-robot/
+Headline: This Week in AI: The fate of generative AI is in the courts’ hands
+Description: <p>Hiya, folks, and welcome to TechCrunch’s regular AI newsletter. This week in AI, music labels accused two startups developing AI-powered song generators, Udio and Suno, of copyright infringement. T...
+Link: https://techcrunch.com/2024/06/26/this-week-in-ai-the-fate-of-generative-ai-is-in-the-courts-hands/
+Headline: Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers
+Description: <p>Four startups will share €1 million in prize money and 8 million GPU hours to train their models on a couple of the bloc's HPC supercomputers over the next 12 months.</p>
+<p>© 2024 TechCrunch. All ...
+Link: https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/
+Headline: Formation Bio raises $372M to boost drug development with AI
+Description: <p>Formation builds tech-forward solutions for clinical trials and drug development.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/
+Headline: Video editing app Captions releases AI edit feature that automatically adds effects to your video
+Description: <p>Video editing app Captions, which is backed by a16z, Kleiner Perkins and Sequoia Capital, has launched a new feature that takes an existing unedited video and adds custom graphics, zooms, music, so...
+Link: https://techcrunch.com/2024/06/26/video-editing-app-captions-releases-a-new-ai-edit-feature-that-automatically-adds-effects-to-your-video/
+Headline: CData, which helps orgs use data across apps and build AI models, snaps up $350M
+Description: <p>CData builds connectors that enterprises can use to stitch together data from different sources – and locations, not just in the cloud – more easily. </p>
+<p>© 2024 TechCrunch. All rights reserved....
+Link: https://techcrunch.com/2024/06/26/cdata-which-helps-orgs-use-data-across-apps-and-to-build-ai-models-snaps-up-350m/
+Headline: Fetcherr lands $90M to get airlines on board with dynamic pricing
+Description: <p>In a push to bolster profits, more airlines are turning to controversial dynamic pricing tech, which prices fares and amenities variably based on a traveler's willingness to pay for them. </p>
+<p>©...
+Link: https://techcrunch.com/2024/06/26/fetcherr-lands-90m-to-get-airlines-on-board-with-dynamic-pricing/
+
+---
+
+From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: An AI-designed horse purse is tearing apart this small but passionate community
+Description: <figure>
+      <img alt="A model holding a purse shaped like a horse with a hazy, impressionistic pattern. Behind her is a similar dreamlike pattern." src="https://cdn.vox-cdn.com/thumbor/OjYrTO-wjgO5...
+Link: https://www.theverge.com/2024/6/26/24186635/baggu-collina-strada-collaboration-ai-purses-art
+Headline: A group of R1 jailbreakers found a massive security flaw in Rabbit’s code
+Description: <figure>
+      <img alt="A photo of the Rabbit R1." src="https://cdn.vox-cdn.com/thumbor/dpaqBuj5WNtB-gLFd9Ss5--KpBw=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73429677/Rabbit_...
+Link: https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase
+Headline: An AI version of Al Michaels will deliver Olympic recaps on Peacock
+Description: <figure>
+      <img alt="Al Michaels looks on from the sideline prior to an NFL football game between the Tennessee Titans and the Pittsburgh Steelers at Acrisure Stadium on November 2nd, 2023, in Pit...
+Link: https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps
+Headline: Figma announces big redesign with AI
+Description: <figure>
+      <img alt="A screenshot demonstrating Figma’s new AI tool." src="https://cdn.vox-cdn.com/thumbor/dmJYJRrMZq0npiGA3NV2PqiM41Q=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_imag...
+Link: https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides
+Headline: The RIAA versus AI, explained
+Description: <figure>
+      <img alt="A smiling computer surrounded by music notes connected like data points." src="https://cdn.vox-cdn.com/thumbor/ZPaE0rDxwh9e8odzVLRuHy5Cmvo=/0x0:2040x1360/1310x873/cdn.vox-cdn....
+Link: https://www.theverge.com/24186085/riaa-lawsuits-udio-suno-copyright-fair-use-music
+Headline: The owner of Toys ‘R’ Us just used OpenAI’s Sora to animate the zombie brand
+Description: <figure>
+      <img alt="A boy in a checkered red and white tablecloth of a shirt, with red hair, generated by OpenAI, to represent Toys R Us founder Charles Lazarus." src="https://cdn.vox-cdn.com/thu...
+Link: https://www.theverge.com/2024/6/25/24186051/toys-r-us-openai-sora-brand-film
+Headline: ChatGPT’s Mac app is here, but its flirty advanced voice mode has been delayed
+Description: <figure>
+      <img alt="Vector illustration of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/p4UMioTA9xpbZ9Is_w-LxRjaNfY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/...
+Link: https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed
+Headline: Google announces surprise Pixel 9 hardware event in August
+Description: <figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/bmSNwSucmV9yLuyiVah5Rq6rDWg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73426852/1vpavic_20240501__0201.0.jpg" />...
+Link: https://www.theverge.com/2024/6/25/24185767/google-pixel-hardware-ai-event-august-date
+Headline: Gmail’s Gemini AI sidebar and email summaries are rolling out now
+Description: <figure>
+      <img alt="The Gmail logo on a red and white background" src="https://cdn.vox-cdn.com/thumbor/RNExieIqJB3cATeXfpBoDQoJQew=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/ima...
+Link: https://www.theverge.com/2024/6/24/24185277/google-gmail-gemini-ai-sidebar
+
+---
+
+From source: https://www.wired.com/category/artificial-intelligence/
+
+---
+
+From source: https://blogs.nvidia.com/feed/
+Headline: Thinking Outside the Blox: How Roblox Is Using Generative AI to Enhance User Experiences
+Description: Roblox is a colorful online platform that aims to reimagine the way that people come together — now that vision is being augmented by generative AI. In this episode of NVIDIA’s AI Podcast, host Noah K...
+Link: https://blogs.nvidia.com/blog/roblox-anupam-singh/
+Headline: Cut the Noise: NVIDIA Broadcast Supercharges Livestreaming, Remote Work
+Description: NVIDIA Broadcast offers AI-powered features that improve audio and video quality for a variety of use cases.
+Link: https://blogs.nvidia.com/blog/ai-decoded-broadcast/
+Headline: EvolutionaryScale Debuts With ESM3 Generative AI Model for Protein Design
+Description: Generative AI has revolutionized software development with prompt-based code generation — protein design is next. EvolutionaryScale today announced the release of its ESM3 model, the third-generation ...
+Link: https://blogs.nvidia.com/blog/evolutionaryscale-esm3-generative-ai-nim-bionemo-h100/
+Headline: Decoding How NVIDIA AI Workbench Powers App Development
+Description: NVIDIA AI Workbench simplifies AI developer workflows by helping users build their own RAG projects, customize models and more.
+Link: https://blogs.nvidia.com/blog/ai-decoded-workbench-hybrid-rag/
+Headline: Light Bulb Moment: NVIDIA CEO Sees Bright Future for AI-Powered Electric Grid
+Description: The electric grid and the utilities managing it have an important role to play in the next industrial revolution that’s being driven by AI and accelerated computing, said NVIDIA founder and CEO Jensen...
+Link: https://blogs.nvidia.com/blog/ai-electric-grid-edison/
+Headline: Seamless in Seattle: NVIDIA Research Showcases Advancements in Visual Generative AI at CVPR
+Description: NVIDIA researchers are at the forefront of the rapidly advancing field of visual generative AI, developing new techniques to create and interpret images, videos and 3D environments. More than 50 of th...
+Link: https://blogs.nvidia.com/blog/visual-generative-ai-cvpr-research/
+Headline: NVIDIA Advances Physical AI at CVPR With Largest Indoor Synthetic Dataset
+Description: NVIDIA contributed the largest ever indoor synthetic dataset to the Computer Vision and Pattern Recognition (CVPR) conference’s annual AI City Challenge — helping researchers and developers advance th...
+Link: https://blogs.nvidia.com/blog/ai-city-challenge-omniverse-cvpr/
+
+---
+
+From source: https://openai.com/blog/rss.xml
+
+---
+
