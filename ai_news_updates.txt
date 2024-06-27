@@ -1,6 +1,9 @@
-AI News Updates - 2024-06-27 14:29:06
+AI News Updates - 2024-06-27 14:29:45
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Character.AI now allows users to talk with AI avatars over calls
+Description: <p>a16z-backed Character.AI said today that it is now allowing users to talk to AI characters over calls. The feature currently supports multiple languages, including English, Spanish, Portuguese, Rus...
+Link: https://techcrunch.com/2024/06/27/character-ai-now-allows-users-to-talk-with-avatars-over-calls/
 Headline: SoftBank forms AI healthcare JV in Japan with Tempus
 Description: <p>SoftBank Group founder Masayoshi Son announced on Thursday that the Japanese tech giant has set up a joint venture in the country with Chicago-based health tech company Tempus. Together, the pair p...
 Link: https://techcrunch.com/2024/06/27/softbank-forms-ai-healthcare-jv-in-japan-with-tempus/
@@ -30,9 +33,6 @@ Headline: Persona’s founders are certain the world can use another humanoid ro
 Description: <p>At this early stage, Persona’s pitch doesn’t stray far from the various humanoid firms with which it’s set to compete.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 Link: https://techcrunch.com/2024/06/26/personas-founders-are-certain-the-world-can-use-another-humanoid-robot/
-Headline: This Week in AI: The fate of generative AI is in the courts’ hands
-Description: <p>Hiya, folks, and welcome to TechCrunch’s regular AI newsletter. This week in AI, music labels accused two startups developing AI-powered song generators, Udio and Suno, of copyright infringement. T...
-Link: https://techcrunch.com/2024/06/26/this-week-in-ai-the-fate-of-generative-ai-is-in-the-courts-hands/
 
 ---
 
