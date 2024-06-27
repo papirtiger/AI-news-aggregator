@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4  # Updated from v3 to v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5  # Updated from v4 to v5
       with:
         python-version: '3.10'
 
@@ -24,7 +24,7 @@ jobs:
 
     - name: Run AI news scanner
       run: python ai_news_scanner.py
-
+      
     - name: Commit and push if there are changes
       run: |
         git config --global user.name 'GitHub Action'
@@ -39,7 +39,15 @@ jobs:
         path: ai_news_updates.txt
 
     - name: Output Python version and pip list
-      if: failure()
+      if: always()  # This will run regardless of previous step outcomes
       run: |
         python --version
         pip list
+
+    - name: Debug on failure
+      if: failure()
+      run: |
+        echo "Workflow failed. Outputting additional debug information:"
+        ls -la
+        cat ai_news_updates.txt || echo "ai_news_updates.txt not found"
+        git status
