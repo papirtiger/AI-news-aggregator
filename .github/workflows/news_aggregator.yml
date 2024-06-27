@@ -1,0 +1,28 @@
+name: Fetch AI News Updates
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Runs every 12 hours
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  fetch-news-updates:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run AI news scanner
+      run: python ai_news_scanner.py
+    - name: Commit and push if there are changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add ai_news_updates.txt
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update AI news"; git push)
