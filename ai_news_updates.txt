@@ -1,6 +1,25 @@
-AI News Updates - 2024-06-27 14:29:45
+AI News Updates - 2024-06-28 02:34:33
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz
+Description: <p>Hebbia, a startup using generative AI to search large documents and return answers, has raised a nearly $100 million Series B led by Andreessen Horowitz, according to three people with knowledge of...
+Link: https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/
+Headline: MagicSchool thinks AI in the classroom is inevitable, so it’s aiming to help teachers and students use it properly
+Description: <p>These days, when you hear about students and generative AI, chances are that you’re getting a taste of the debate over the adoption of tools like ChatGPT. Are they a help? (Yay! Great for research!...
+Link: https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/
+Headline: Zuckerberg disses closed-source AI competitors as trying to ‘create God’
+Description: <p>In the conversation, Zuckerberg said there needs to be a lot of different AIs that get created to reflect people's different interests. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal ...
+Link: https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/
+Headline: Andrew Ng plans to raise $120M for next AI Fund
+Description: <p>AI big shot Andrew Ng&#8217;s AI Fund, a startup incubator that backs small teams of experts looking to solve key problems using AI, plans to raise upward of $120 million for its second tranche. A ...
+Link: https://techcrunch.com/2024/06/27/andrew-ng-plans-to-raise-120m-for-next-ai-fund/
+Headline: Meta starts testing user-created AI chatbots on Instagram
+Description: <p>Meta CEO Mark Zuckerberg announced on Thursday that the company will begin to surface AI characters made by creators through Meta AI studio on Instagram. The tests will begin in the U.S. The social...
+Link: https://techcrunch.com/2024/06/27/meta-starts-testing-user-created-ai-chatbots-on-instagram/
+Headline: TechCrunch Minute: Reddit is taking a stand against AI crawlers
+Description: <p>Reddit is taking a stand against AI companies — or at least asking them to pay up. Earlier this week, Reddit announced that it’s changing its Robots Exclusion Protocol, also known as its robots.txt...
+Link: https://techcrunch.com/video/techcrunch-minute-reddit-is-taking-a-stand-against-ai-crawlers/
 Headline: Character.AI now allows users to talk with AI avatars over calls
 Description: <p>a16z-backed Character.AI said today that it is now allowing users to talk to AI characters over calls. The feature currently supports multiple languages, including English, Spanish, Portuguese, Rus...
 Link: https://techcrunch.com/2024/06/27/character-ai-now-allows-users-to-talk-with-avatars-over-calls/
@@ -11,32 +30,22 @@ Headline: Axelera lands new funds as the AI chip market heats up
 Description: <p>Axelera designs AI-running chips and systems for applications like security, retail, automotive and robotics.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 Link: https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/
-Headline: Illumex is using GenAI to ease pain of getting good data into LLMs
-Description: <p>By now we know how crucial it is to have quality data for use by large language models (LLMs), but getting data ready for the models has been an early challenge for companies, an opening that repre...
-Link: https://techcrunch.com/2024/06/27/illumex-is-using-genai-to-ease-pain-of-getting-good-data-into-llms/
-Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
-Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to hyper-charge productivity through writing essays and code wit...
-Link: https://techcrunch.com/2024/06/27/chatgpt-everything-to-know-about-the-ai-chatbot/
-Headline: Orby is building AI agents for the enterprise
-Description: <p>Orby AI, is building a generative AI platform that attempts to automate a range of different business workflows, including workflows that involve data entry, documents processing and forms validati...
-Link: https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/
-Headline: Dust grabs another $16 million for its enterprise AI assistants connected to internal data
-Description: <p>French startup Dust has raised a $16 million Series A funding round led by Sequoia Capital. With Dust, companies can create custom AI assistants and share them with their employees so that they can...
-Link: https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/
-Headline: Synthflow picks up $7.4M for no code voice assistance for SMEs
-Description: <p>What is AI good for? Automating repetitive tasks for the very busy people running small businesses, reckons Berlin-based startup Synthflow, which is announcing a $7.4 million seed round for its SME...
-Link: https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/
-Headline: Sonia’s AI chatbot steps in for therapists
-Description: <p>Can chatbots replace human therapists? Some startups &#8212; and patients &#8212; claim that they can. But it&#8217;s not exactly settled science. One study found that 80% of people who&#8217;ve us...
-Link: https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/
-Headline: Persona’s founders are certain the world can use another humanoid robot
-Description: <p>At this early stage, Persona’s pitch doesn’t stray far from the various humanoid firms with which it’s set to compete.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/06/26/personas-founders-are-certain-the-world-can-use-another-humanoid-robot/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Perplexity AI: the answer engine with a lot of question marks
+Description: <figure>
+      <img alt="Vector collage of the Perplexity logo." src="https://cdn.vox-cdn.com/thumbor/RSL-CyK16HqtZjbZlyYmyg6mR2o=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734...
+Link: https://www.theverge.com/24187792/perplexity-ai-news-updates
+Headline: Perplexity’s grand theft AI
+Description: <figure>
+      <img alt="Vector collage of the Perplexity logo." src="https://cdn.vox-cdn.com/thumbor/kSF8rP2JPuDhLJJXxb9AkF9sD-w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734...
+Link: https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism
+Headline: Google touts ‘enterprise-ready’ AI with more facts and less make-believe
+Description: <figure>
+      <img alt="Photo illustration of a computer with a brain on the screen." src="https://cdn.vox-cdn.com/thumbor/GGd0Pm2bteKrp9Mix-a1B5yjVI0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/...
+Link: https://www.theverge.com/2024/6/27/24187534/google-vertex-ai-developer-search-features-third-party-data
 Headline: YouTube is trying to make AI music deals with major record labels
 Description: <figure>
       <img alt="Illustration of a YouTube logo with geometric background" src="https://cdn.vox-cdn.com/thumbor/xp14BxArgH_gtoo_HPV4ZqcrbLg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chor...
@@ -61,18 +70,6 @@ Headline: The RIAA versus AI, explained
 Description: <figure>
       <img alt="A smiling computer surrounded by music notes connected like data points." src="https://cdn.vox-cdn.com/thumbor/ZPaE0rDxwh9e8odzVLRuHy5Cmvo=/0x0:2040x1360/1310x873/cdn.vox-cdn....
 Link: https://www.theverge.com/24186085/riaa-lawsuits-udio-suno-copyright-fair-use-music
-Headline: The owner of Toys ‘R’ Us just used OpenAI’s Sora to animate the zombie brand
-Description: <figure>
-      <img alt="A boy in a checkered red and white tablecloth of a shirt, with red hair, generated by OpenAI, to represent Toys R Us founder Charles Lazarus." src="https://cdn.vox-cdn.com/thu...
-Link: https://www.theverge.com/2024/6/25/24186051/toys-r-us-openai-sora-brand-film
-Headline: ChatGPT’s Mac app is here, but its flirty advanced voice mode has been delayed
-Description: <figure>
-      <img alt="Vector illustration of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/p4UMioTA9xpbZ9Is_w-LxRjaNfY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/...
-Link: https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed
-Headline: Google announces surprise Pixel 9 hardware event in August
-Description: <figure>
-      <img alt="" src="https://cdn.vox-cdn.com/thumbor/bmSNwSucmV9yLuyiVah5Rq6rDWg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73426852/1vpavic_20240501__0201.0.jpg" />...
-Link: https://www.theverge.com/2024/6/25/24185767/google-pixel-hardware-ai-event-august-date
 
 ---
 
