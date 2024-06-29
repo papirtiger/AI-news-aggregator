@@ -1,10 +1,19 @@
-AI News Updates - 2024-06-28 02:34:33
+AI News Updates - 2024-06-29 02:31:43
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Amazon hires founders away from AI startup Adept
+Description: <p>Adept, a startup developing AI-powered &#8220;agents&#8221; to complete various software-based tasks, has agreed to license its tech to Amazon and the startup&#8217;s co-founders and portions of it...
+Link: https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/
+Headline: YC alum Fluently’s AI-powered English coach attracts $2M seed round
+Description: <p>There are plenty of resources to learn English, but not so many for near-native speakers who still want to improve their fluency. That description applies to Stan Beliaev and Yurii Rebryk, and this...
+Link: https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/
+Headline: Google Gemini: Everything you need to know about the new generative AI platform
+Description: <p>Google&#8217;s trying to make waves with Gemini, its flagship suite of generative AI models, apps and services. So what&#8217;s Google Gemini, exactly? How can you use it? And how does Gemini stack...
+Link: https://techcrunch.com/2024/06/28/what-is-google-gemini-ai/
 Headline: Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz
 Description: <p>Hebbia, a startup using generative AI to search large documents and return answers, has raised a nearly $100 million Series B led by Andreessen Horowitz, according to three people with knowledge of...
 Link: https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/
-Headline: MagicSchool thinks AI in the classroom is inevitable, so it’s aiming to help teachers and students use it properly
+Headline: Will AI get an A+ in edtech? MagicSchool raises $15M to find out
 Description: <p>These days, when you hear about students and generative AI, chances are that you’re getting a taste of the debate over the adoption of tools like ChatGPT. Are they a help? (Yay! Great for research!...
 Link: https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/
 Headline: Zuckerberg disses closed-source AI competitors as trying to ‘create God’
@@ -12,28 +21,16 @@ Description: <p>In the conversation, Zuckerberg said there needs to be a lot of 
 <p>© 2024 TechCrunch. All rights reserved. For personal ...
 Link: https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/
 Headline: Andrew Ng plans to raise $120M for next AI Fund
-Description: <p>AI big shot Andrew Ng&#8217;s AI Fund, a startup incubator that backs small teams of experts looking to solve key problems using AI, plans to raise upward of $120 million for its second tranche. A ...
+Description: <p>AI big shot Andrew Ng&#8217;s AI Fund, a startup incubator that backs small teams of experts looking to solve key problems using AI, plans to raise upward of $120 million for its second effort. A f...
 Link: https://techcrunch.com/2024/06/27/andrew-ng-plans-to-raise-120m-for-next-ai-fund/
-Headline: Meta starts testing user-created AI chatbots on Instagram
-Description: <p>Meta CEO Mark Zuckerberg announced on Thursday that the company will begin to surface AI characters made by creators through Meta AI studio on Instagram. The tests will begin in the U.S. The social...
-Link: https://techcrunch.com/2024/06/27/meta-starts-testing-user-created-ai-chatbots-on-instagram/
-Headline: TechCrunch Minute: Reddit is taking a stand against AI crawlers
-Description: <p>Reddit is taking a stand against AI companies — or at least asking them to pay up. Earlier this week, Reddit announced that it’s changing its Robots Exclusion Protocol, also known as its robots.txt...
-Link: https://techcrunch.com/video/techcrunch-minute-reddit-is-taking-a-stand-against-ai-crawlers/
-Headline: Character.AI now allows users to talk with AI avatars over calls
-Description: <p>a16z-backed Character.AI said today that it is now allowing users to talk to AI characters over calls. The feature currently supports multiple languages, including English, Spanish, Portuguese, Rus...
-Link: https://techcrunch.com/2024/06/27/character-ai-now-allows-users-to-talk-with-avatars-over-calls/
-Headline: SoftBank forms AI healthcare JV in Japan with Tempus
-Description: <p>SoftBank Group founder Masayoshi Son announced on Thursday that the Japanese tech giant has set up a joint venture in the country with Chicago-based health tech company Tempus. Together, the pair p...
-Link: https://techcrunch.com/2024/06/27/softbank-forms-ai-healthcare-jv-in-japan-with-tempus/
-Headline: Axelera lands new funds as the AI chip market heats up
-Description: <p>Axelera designs AI-running chips and systems for applications like security, retail, automotive and robotics.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The Center for Investigative Reporting is suing OpenAI and Microsoft
+Description: <figure>
+      <img alt="ChatGPT logo in mint green and black colors." src="https://cdn.vox-cdn.com/thumbor/MpQ6EnuIVX0u3K_rODtRpUzf0Ys=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/ima...
+Link: https://www.theverge.com/2024/6/28/24188239/openai-microsoft-center-for-investigative-reporting-lawsuit
 Headline: Perplexity AI: the answer engine with a lot of question marks
 Description: <figure>
       <img alt="Vector collage of the Perplexity logo." src="https://cdn.vox-cdn.com/thumbor/RSL-CyK16HqtZjbZlyYmyg6mR2o=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734...
@@ -66,10 +63,6 @@ Headline: Figma announces big redesign with AI
 Description: <figure>
       <img alt="A screenshot demonstrating Figma’s new AI tool." src="https://cdn.vox-cdn.com/thumbor/dmJYJRrMZq0npiGA3NV2PqiM41Q=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_imag...
 Link: https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides
-Headline: The RIAA versus AI, explained
-Description: <figure>
-      <img alt="A smiling computer surrounded by music notes connected like data points." src="https://cdn.vox-cdn.com/thumbor/ZPaE0rDxwh9e8odzVLRuHy5Cmvo=/0x0:2040x1360/1310x873/cdn.vox-cdn....
-Link: https://www.theverge.com/24186085/riaa-lawsuits-udio-suno-copyright-fair-use-music
 
 ---
 
