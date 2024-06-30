@@ -61,21 +61,34 @@ def main():
          "selectors": {"article": "div.summary-item", "title": "h3", "description": "div.summary-item__dek", "link": "a"}},
         {"type": "rss", "url": "https://blogs.nvidia.com/feed/"},
         {"type": "rss", "url": "https://openai.com/blog/rss.xml"},
-        # New sources
         {"type": "rss", "url": "https://www.artificialintelligence-news.com/feed/"},
         {"type": "rss", "url": "https://www.ai-trends.com/feed/"},
         {"type": "rss", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"},
-        {"type": "scrape", "url": "https://www.anthropic.com/news"},  # Note: This might need custom scraping logic
         {"type": "rss", "url": "https://ai.googleblog.com/feeds/posts/default"},
         {"type": "rss", "url": "https://www.microsoft.com/en-us/ai/ai-blog-feed"},
         {"type": "rss", "url": "https://aws.amazon.com/blogs/machine-learning/feed/"},
         {"type": "rss", "url": "https://venturebeat.com/category/ai/feed/"},
         {"type": "rss", "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml"},
         {"type": "rss", "url": "https://www.forbes.com/ai/feed/"},
+        
+        # AI-observer blogs
+        {"type": "rss", "url": "https://www.oneusefulthingatime.com/feed"},  # Ethan Mollick's Substack
+        {"type": "rss", "url": "https://garymarcus.substack.com/feed"},  # Gary Marcus's Substack
+        {"type": "rss", "url": "https://www.aisnakeoil.com/feed"},  # AI Snake Oil blog
+        
+        # New sources from the provided list
+        {"type": "rss", "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml"},
+        {"type": "rss", "url": "https://www.newscientist.com/subject/technology/feed/"},
+        {"type": "rss", "url": "https://www.infoworld.com/category/artificial-intelligence/index.rss"},
+        {"type": "rss", "url": "https://www.nature.com/subjects/artificial-intelligence.rss"},
+        {"type": "rss", "url": "https://www.reddit.com/r/artificial/top/.rss"},
+        {"type": "scrape", "url": "https://aimagazine.com/ai-and-machine-learning",
+         "selectors": {"article": "div.article-card", "title": "h2", "description": "p", "link": "a"}},
     ]
     
     keywords = ["artificial intelligence", "AI", "machine learning", "deep learning", "neural network", 
-                "AI ethics", "AI legislation", "AI regulation", "AI risk", "AI safety"]
+                "AI ethics", "AI legislation", "AI regulation", "AI risk", "AI safety",
+                "AI progress", "AI capabilities", "AI limitations", "AI hype", "AI reality"]
     
     output = f"AI News Updates - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
     
