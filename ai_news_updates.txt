@@ -1,4 +1,4 @@
-AI News Updates - 2024-06-30 02:36:32
+AI News Updates - 2024-06-30 09:14:42
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
 Headline: Gemini’s data-analyzing abilities aren’t as good as Google claims
@@ -100,6 +100,185 @@ Link: https://blogs.nvidia.com/blog/visual-generative-ai-cvpr-research/
 ---
 
 From source: https://openai.com/blog/rss.xml
+
+---
+
+From source: https://www.artificialintelligence-news.com/feed/
+Headline: Microsoft details ‘Skeleton Key’ AI jailbreak
+Description: <p>Microsoft has disclosed a new type of AI jailbreak attack dubbed &#8220;Skeleton Key,&#8221; which can bypass responsible AI guardrails in multiple generative AI models. This technique, capable of ...
+Link: https://www.artificialintelligence-news.com/2024/06/28/microsoft-details-skeleton-key-ai-jailbreak/
+Headline: Tech war escalates: OpenAI shuts door on China
+Description: <p>This week, OpenAI has decisively blocked access to its site from mainland China and Hong Kong, cutting off developers and companies from some of the most advanced AI technologies available today. O...
+Link: https://www.artificialintelligence-news.com/2024/06/28/tech-war-escalates-openai-shuts-door-on-china/
+Headline: SoftBank launches healthcare venture with Tempus AI
+Description: <p>SoftBank Group, the Japanese technology investment firm, has announced a strategic joint venture with Tempus AI, a company specialising in AI-driven medical data analysis and treatment recommendati...
+Link: https://www.artificialintelligence-news.com/2024/06/28/softbank-group-launches-healthcare-venture-tempus-ai/
+Headline: US clamps down on China-bound investments
+Description: <p>In a move that has further strained the already tense US-China relations, the Biden administration has advanced plans to restrict American investments in key Chinese technology sectors. This decisi...
+Link: https://www.artificialintelligence-news.com/2024/06/27/us-clamps-down-china-bound-investments/
+Headline: Think tank calls for AI incident reporting system
+Description: <p>The Centre for Long-Term Resilience (CLTR) has called for a comprehensive incident reporting system to urgently address a critical gap in AI regulation plans. According to the CLTR, AI has a histor...
+Link: https://www.artificialintelligence-news.com/2024/06/26/think-tank-calls-for-ai-incident-reporting-system/
+Headline: Alibaba Cloud launches English version of AI model hub
+Description: <p>Alibaba Cloud has taken a step towards globalising its AI offerings by unveiling an version of ModelScope, its open-source AI model community. The move aims to bring generative AI capabilities to a...
+Link: https://www.artificialintelligence-news.com/2024/06/25/alibaba-cloud-launches-english-version-ai-model-hub/
+Headline: Could an Apple-Meta partnership redefine the AI landscape?
+Description: <p>Apple has reportedly entered into discussions with Meta to integrate the latter&#8217;s generative AI model into its newly unveiled personalised AI system, Apple Intelligence. Sources familiar with...
+Link: https://www.artificialintelligence-news.com/2024/06/25/could-apple-meta-partnership-redefine-ai-landscape/
+Headline: SoftBank chief: Forget AGI, ASI will be here within 10 years
+Description: <p>SoftBank founder and CEO Masayoshi Son has claimed that artificial super intelligence (ASI) could be a reality within the next decade. Speaking at SoftBank&#8217;s annual meeting in Tokyo on June 2...
+Link: https://www.artificialintelligence-news.com/2024/06/24/softbank-chief-forget-agi-asi-here-within-10-years/
+Headline: Apple’s EU AI delay: Innovation vs regulation
+Description: <p>Apple announced on Friday that it would block its highly anticipated Apple Intelligence AI features, iPhone Mirroring, and SharePlay Screen Sharing for EU users. While not entirely unexpected, this...
+Link: https://www.artificialintelligence-news.com/2024/06/24/apple-eu-ai-delay-innovation-vs-regulation/
+---
+
+From source: https://www.ai-trends.com/feed/
+
+---
+
+From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: Training AI music models is about to get very expensive
+Description: AI music is suddenly in a make-or-break moment. On June 24, Suno and Udio, two leading AI music startups that make tools to generate complete songs from a prompt in seconds, were sued by major record ...
+Link: https://www.technologyreview.com/2024/06/27/1094379/ai-music-suno-udio-lawsuit-record-labels-youtube-licensing/
+Headline: My colleagues turned me into an AI-powered NPC. I hate him.
+Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. It feels weird, talking to yourself online.&#160; Especia...
+Link: https://www.technologyreview.com/2024/06/25/1094202/my-colleagues-turned-me-into-an-ai-powered-npc-i-hate-him/
+Headline: Synthesia’s hyperrealistic deepfakes will soon have full bodies
+Description: Startup Synthesia’s AI-generated avatars are getting an update to make them even more realistic: They will soon have bodies that can move, and hands that gesticulate. The new full-body avatars will be...
+Link: https://www.technologyreview.com/2024/06/24/1094170/synthesias-hyperrealistic-deepfakes-will-soon-have-full-bodies/
+Headline: How underwater drones could shape a potential Taiwan-China conflict
+Description: A potential future conflict between Taiwan and China would be shaped by novel methods of drone warfare involving advanced underwater drones and increased levels of autonomy, according to a new war-gam...
+Link: https://www.technologyreview.com/2024/06/20/1094051/how-underwater-drones-could-shape-a-potential-taiwan-china-conflict/
+Headline: How generative AI could reinvent what it means to play
+Description: First, a confession. I only got into playing video games a little over a year ago (I know, I know). A Christmas gift of an Xbox Series S “for the kids” dragged me—pretty easily, it turns out—into the ...
+Link: https://www.technologyreview.com/2024/06/20/1093428/generative-ai-reinventing-video-games-immersive-npcs/
+Headline: I tested out a buzzy new text-to-video AI model from China
+Description: This story first appeared in China Report, MIT Technology Review’s newsletter about technology in China. Sign up to receive it in your inbox every Tuesday. You may not be familiar with Kuaishou, but t...
+Link: https://www.technologyreview.com/2024/06/19/1094027/kling-kuaishou-video-ai-china/
+Headline: Meta has created a way to watermark AI-generated speech
+Description: Meta has created a system that can embed hidden signals, known as watermarks, in AI-generated audio clips, which could help in detecting AI-generated content online.&#160; The tool, called AudioSeal, ...
+Link: https://www.technologyreview.com/2024/06/18/1094009/meta-has-created-a-way-to-watermark-ai-generated-speech/
+Headline: Why artists are becoming less scared of AI
+Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Knock, knock.&#160; Who’s there?&#160; An AI with generic joke...
+Link: https://www.technologyreview.com/2024/06/18/1093998/why-artists-becoming-less-scared-of-ai/
+Headline: Why does AI hallucinate?
+Description: MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what&#8217;s coming next. You can read more from the series here. The World Healt...
+Link: https://www.technologyreview.com/2024/06/18/1093440/what-causes-ai-hallucinate-chatbots/
+Headline: What happened when 20 comedians got AI to write their routines
+Description: AI is good at lots of things: spotting patterns in data, creating fantastical images, and condensing thousands of words into just a few paragraphs. But can it be a useful tool for writing comedy?&#160...
+Link: https://www.technologyreview.com/2024/06/17/1093740/what-happened-when-20-comedians-got-ai-to-write-their-routines/
+
+---
+
+From source: https://www.anthropic.com/news
+
+---
+
+From source: https://ai.googleblog.com/feeds/posts/default
+
+---
+
+From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
+
+---
+
+From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: The future of productivity agents with NinjaTech AI and AWS Trainium
+Description: NinjaTech AI’s mission is to make everyone more productive by taking care of time-consuming complex tasks with fast and affordable artificial intelligence (AI) agents. We recently launched MyNinja.ai,...
+Link: https://aws.amazon.com/blogs/machine-learning/the-future-of-productivity-agents-with-ninjatech-ai-and-aws-trainium/
+Headline: Build generative AI applications on Amazon Bedrock — the secure, compliant, and responsible foundation
+Description: Generative AI&nbsp;has revolutionized industries by creating content, from text and images to audio and code. Although it can unlock numerous possibilities, integrating generative AI into applications...
+Link: https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-on-amazon-bedrock-the-secure-compliant-and-responsible-foundation/
+Headline: Build a conversational chatbot using different LLMs within single interface – Part 1
+Description: With the advent of generative artificial intelligence (AI), foundation models (FMs) can generate content such as answering questions, summarizing text, and providing highlights from the sourced docume...
+Link: https://aws.amazon.com/blogs/machine-learning/build-a-conversational-chatbot-using-different-llms-within-single-interface-part-1/
+Headline: Automate derivative confirms processing using AWS AI services for the capital markets industry
+Description: In this post, we show how you can automate and intelligently process derivative confirms at scale using AWS AI services. The solution combines Amazon Textract, a fully managed ML service to effortless...
+Link: https://aws.amazon.com/blogs/machine-learning/automate-derivative-confirms-processing-using-aws-ai-services-for-the-capital-markets-industry/
+Headline: AI-powered assistants for investment research with multi-modal data: An application of Agents for Amazon Bedrock
+Description: This post is a follow-up to Generative AI and multi-modal agents in AWS: The key to unlocking new value in financial markets. This blog is part of the series, Generative AI and AI/ML in Capital Market...
+Link: https://aws.amazon.com/blogs/machine-learning/ai-powered-assistants-for-investment-research-with-multi-modal-data-an-application-of-agents-for-amazon-bedrock/
+Headline: AI21 Labs Jamba-Instruct model is now available in Amazon Bedrock
+Description: We are excited to announce the availability of the Jamba-Instruct large language model (LLM) in Amazon Bedrock. Jamba-Instruct is built by AI21 Labs, and most notably supports a 256,000-token context ...
+Link: https://aws.amazon.com/blogs/machine-learning/ai21-labs-jamba-instruct-model-is-now-available-in-amazon-bedrock/
+Headline: Scale and simplify ML workload monitoring on Amazon EKS with AWS Neuron Monitor container
+Description: Amazon Web Services is excited to announce the launch of the AWS Neuron Monitor container, an innovative tool designed to enhance the monitoring capabilities of AWS Inferentia and AWS Trainium chips o...
+Link: https://aws.amazon.com/blogs/machine-learning/scale-and-simplify-ml-workload-monitoring-on-amazon-eks-with-aws-neuron-monitor-container/
+Headline: Build safe and responsible generative AI applications with guardrails
+Description: Large language models (LLMs) enable remarkably human-like conversations, allowing builders to create novel applications. LLMs find use in chatbots for customer service, virtual assistants, content gen...
+Link: https://aws.amazon.com/blogs/machine-learning/build-safe-and-responsible-generative-ai-applications-with-guardrails/
+---
+
+From source: https://venturebeat.com/category/ai/feed/
+Headline: From chatbots to superintelligence: Mapping AI’s ambitious journey
+Description: The path to AGI and superintelligence is uncertain — but the rapid evolution of AI is undeniable, promising transformative advancements.
+Link: https://venturebeat.com/ai/from-chatbots-to-superintelligence-mapping-ais-ambitious-journey/
+Headline: What’s the best interface for gen AI? It all depends on the use case
+Description: The upcoming VB Transform 2024 conference will further explore these themes with expert panels discussing the cross-functional future of AI.
+Link: https://venturebeat.com/ai/whats-the-best-interface-for-gen-ai-it-all-depends-on-the-use-case/
+Headline: Announcing our 2024 VB Transform Innovation Showcase finalists
+Description: The 2024 Innovation Showcase finalists are: Typeface, Tabnine, Instabase, Catio, AutoAlign and SambaNova System.
+Link: https://venturebeat.com/ai/announcing-our-2024-vb-transform-innovation-showcase-finalists/
+Headline: Amazon upgrades AI assistant Q to make call centers way more efficient
+Description: AWS updates its chatbot for contact centers, Amazon Q for Connect, with a real-time step-by-step guides for agents to answer customer calls.
+Link: https://venturebeat.com/ai/amazon-upgrades-ai-assistant-q-to-make-call-centers-way-more-efficient/
+Headline: LMSYS launches ‘Multimodal Arena’: GPT-4 tops leaderboard, but AI still can’t out-see humans
+Description: LMSYS's new Multimodal Arena reveals GPT-4 leads in AI vision tasks, but benchmark results show even top models lag behind human visual understanding and reasoning capabilities.
+Link: https://venturebeat.com/ai/lmsys-launches-multimodal-arena-gpt-4-tops-leaderboard-but-ai-still-cant-out-see-humans/
+Headline: Resemble AI’s next-generation AI audio detection model, Detect-2B, is 94% accurate
+Description: Detect-2B, the next version of Resemble's AI audio detection model, relies on a new way to hear audio artifacts to know if the clip is real.
+Link: https://venturebeat.com/ai/resemble-ais-next-generation-ai-audio-detection-model-detect-2b-is-94-accurate/
+Headline: AI personal assistant startup Ario raises $16 million, aims to democratize digital helpers
+Description: Ario raises $16M to build an AI personal assistant that leverages users' personal data, aiming to provide affordable, high-value digital assistance to everyone.
+Link: https://venturebeat.com/ai/ai-personal-assistant-startup-ario-raises-16-million-aims-to-democratize-digital-helpers/
+Headline: Orby AI raises $30M to use generative AI to automate your most tedious work tasks
+Description: Orby AI raises $30M Series A to automate complex enterprise workflows using generative AI and large action models, revolutionizing productivity.
+Link: https://venturebeat.com/ai/orby-ai-raises-30m-to-use-generative-ai-to-automate-your-most-tedious-work-tasks/
+Headline: Time Magazine partners with OpenAI and ElevenLabs
+Description: Time's embrace of two up-and-coming AI companies shows a strong vote of confidence in the technology overall.
+Link: https://venturebeat.com/ai/time-magazine-partners-with-openai-and-elevenlabs/
+Headline: Meta’s LLM Compiler is the latest AI breakthrough to change the way we code
+Description: Meta unveils LLM Compiler, an AI-powered suite of models revolutionizing code optimization and compilation, promising faster, more efficient software development and new frontiers in AI-assisted progr...
+Link: https://venturebeat.com/ai/metas-llm-compiler-is-the-latest-ai-breakthrough-to-change-the-way-we-code/
+
+---
+
+From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: The best robot vacuum deals: Save on Roomba, Roborock, and more
+Description: We rounded up the best deals on robot vacuums and mops available now to simplify your cleaning routine and satisfy your budget.
+Link: https://www.zdnet.com/home-and-office/robot-vacuum-deals/#ftag=RSSbaffb68
+Headline: I changed these 5 ChatGPT settings for an instant productivity boost (and how they work)
+Description: Customizing your ChatGPT experience with these simple tips makes every future AI conversation so much more productive.
+Link: https://www.zdnet.com/article/i-changed-these-5-chatgpt-settings-for-an-instant-productivity-boost-and-how-they-work/#ftag=RSSbaffb68
+Headline: As AI auditions for role in tomorrow's entertainment industry, workers race for protections
+Description: Leading entertainment and legal experts detail writers, actors, and musicians' fight to keep AI from stealing the spotlight.
+Link: https://www.zdnet.com/article/as-ai-auditions-for-role-in-tomorrows-entertainment-industry-workers-race-for-protections/#ftag=RSSbaffb68
+Headline: Qualcomm's AI dreams and Microsoft's built-to-last laptops lead the Innovation Index
+Description: Hardware stole the show this week, from Qualcomm's AI chips to Microsoft's impressively repairable laptops.
+Link: https://www.zdnet.com/article/innovation-index-june-28-2024/#ftag=RSSbaffb68
+Headline: I upgrade my iPhone every year, but iPhone 16 worries me - here's why
+Description: Who really wants to be an early adopter of Apple Intelligence? If you're considering an iPhone 16 model primarily for its AI capabilities, manage your expectations.
+Link: https://www.zdnet.com/article/i-upgrade-my-iphone-every-year-but-iphone-16-worries-me-heres-why/#ftag=RSSbaffb68
+Headline: Vids, Google's AI video creation tool, is now available to test. Here's how to try it out
+Description: Need to create videos for work? Google Vids can do the job in a few clicks.
+Link: https://www.zdnet.com/article/vids-googles-ai-video-creation-tool-is-now-available-to-test-heres-how-to-try-it-out/#ftag=RSSbaffb68
+Headline: How to make ChatGPT provide sources and citations
+Description: Contrary to prevailing wisdom, you can get ChatGPT to give up its sources. Here's how.
+Link: https://www.zdnet.com/article/how-to-make-chatgpt-provide-sources-and-citations/#ftag=RSSbaffb68
+Headline: What is artificial general intelligence?
+Description: Everything you need to know about the path to creating an AI as smart as a human or even smarter.
+Link: https://www.zdnet.com/article/what-is-artificial-general-intelligence/#ftag=RSSbaffb68
+Headline: We need bold minds to challenge AI, not lazy prompt writers, bank CIO says
+Description: Wanted: Critical thinkers with perspectives and skills to interpret AI-generated results. (Those with an over-reliance on ChatGPT need not apply.)
+Link: https://www.zdnet.com/article/we-need-bold-minds-to-challenge-ai-not-lazy-prompt-writers-bank-cio-says/#ftag=RSSbaffb68
+Headline: AI washing is dirty business. Lenovo's COO explains how to avoid it
+Description: Lenovo's Linda Yao spoke to ZDNET about the myths and misconceptions of AI. Here's how to avoid being misled.
+Link: https://www.zdnet.com/article/ai-washing-is-dirty-business-lenovos-coo-explains-how-to-avoid-it/#ftag=RSSbaffb68
+
+---
+
+From source: https://www.forbes.com/ai/feed/
 
 ---
 
