@@ -1,4 +1,4 @@
-AI News Updates - 2024-06-30 09:14:42
+AI News Updates - 2024-06-30 13:41:00
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
 Headline: Gemini’s data-analyzing abilities aren’t as good as Google claims
@@ -171,10 +171,6 @@ Link: https://www.technologyreview.com/2024/06/17/1093740/what-happened-when-20-
 
 ---
 
-From source: https://www.anthropic.com/news
-
----
-
 From source: https://ai.googleblog.com/feeds/posts/default
 
 ---
@@ -279,6 +275,197 @@ Link: https://www.zdnet.com/article/ai-washing-is-dirty-business-lenovos-coo-exp
 ---
 
 From source: https://www.forbes.com/ai/feed/
+
+---
+
+From source: https://www.oneusefulthingatime.com/feed
+
+---
+
+From source: https://garymarcus.substack.com/feed
+
+---
+
+From source: https://www.aisnakeoil.com/feed
+Headline: AI scaling myths
+Description: Scaling will run out. The question is when.
+Link: https://www.aisnakeoil.com/p/ai-scaling-myths
+Headline: Scientists should use AI as a tool, not an oracle
+Description: How AI hype leads to flawed research that fuels more hype
+Link: https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool
+Headline: AI leaderboards are no longer useful. It's time to switch to Pareto curves.
+Description: What spending $2,000 can tell us about evaluating AI agents
+Link: https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful
+Headline: AI Snake Oil is now available to preorder
+Description: What artificial intelligence can do, what it can't, and how to tell the difference
+Link: https://www.aisnakeoil.com/p/ai-snake-oil-is-now-available-to
+Headline: Tech policy is only frustrating 90% of the time
+Description: That&#8217;s what makes it worthwhile
+Link: https://www.aisnakeoil.com/p/tech-policy-is-only-frustrating-90
+Headline: AI safety is not a model property
+Description: Trying to make an AI model that can&#8217;t be misused is like trying to make a computer that can&#8217;t be used for bad things
+Link: https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property
+Headline: A safe harbor for AI evaluation and red teaming
+Description: An argument for legal and technical safe harbors for AI safety and trustworthiness research
+Link: https://www.aisnakeoil.com/p/a-safe-harbor-for-independent-ai
+Headline: On the Societal Impact of Open Foundation Models
+Description: Adding precision to the debate on openness in AI
+Link: https://www.aisnakeoil.com/p/on-the-societal-impact-of-open-foundation
+Headline: Will AI transform law?
+Description: The hype is not supported by current evidence
+Link: https://www.aisnakeoil.com/p/will-ai-transform-law
+Headline: Generative AI’s end-run around copyright won’t be resolved by the courts
+Description: Output similarity is a distraction
+Link: https://www.aisnakeoil.com/p/generative-ais-end-run-around-copyright
+
+---
+
+From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Researchers develop new training technique that aims to make AI systems less socially biased
+Description: Researchers have created a new, cost-effective training technique for artificial intelligence systems that aims to make them less socially biased.
+Link: https://www.sciencedaily.com/releases/2024/06/240625210027.htm
+Headline: Next platform for brain-inspired computing
+Description: Computers have come so far in terms of their power and potential, rivaling and even eclipsing human brains in their ability to store and crunch data, make predictions and communicate. But there is one...
+Link: https://www.sciencedaily.com/releases/2024/06/240625205646.htm
+Headline: Robots face the future
+Description: Researchers have found a way to bind engineered skin tissue to the complex forms of humanoid robots. This brings with it potential benefits to robotic platforms such as increased mobility, self-healin...
+Link: https://www.sciencedaily.com/releases/2024/06/240625205041.htm
+Headline: Meet CARMEN, a robot that helps people with mild cognitive impairment
+Description: Meet CARMEN, short for Cognitively Assistive Robot for Motivation and Neurorehabilitation -- a small, tabletop robot designed to help people with mild cognitive impairment (MCI) learn skills to improv...
+Link: https://www.sciencedaily.com/releases/2024/06/240624125640.htm
+Headline: Prying open the AI black box
+Description: Meet SQUID, a new computational tool. Compared with other genomic AI models, SQUID is more consistent, reduces background noise, and can yield better predictions regarding critical mutations. The new ...
+Link: https://www.sciencedaily.com/releases/2024/06/240621122906.htm
+Headline: Researchers teach AI to spot what you're sketching
+Description: A new way to teach artificial intelligence (AI) to understand human line drawings -- even from non-artists -- has been developed.
+Link: https://www.sciencedaily.com/releases/2024/06/240617173704.htm
+Headline: AI recognizes athletes' emotions
+Description: Using computer-assisted neural networks, researchers have been able to accurately identify affective states from the body language of tennis players during games. For the first time, they trained a mo...
+Link: https://www.sciencedaily.com/releases/2024/06/240617173613.htm
+Headline: Researchers use large language models to help robots navigate
+Description: A technique can plan a trajectory for a robot using only language-based inputs. While it can't outperform vision-based approaches, it could be useful in settings that lack visual data to use for train...
+Link: https://www.sciencedaily.com/releases/2024/06/240614141929.htm
+Headline: Self-assembling and disassembling swarm molecular robots via DNA molecular controller
+Description: Researchers have succeeded in developing a DNA-based molecular controller. Crucially, this controller enables the autonomous assembly and disassembly of molecular robots, as opposed to manually direct...
+Link: https://www.sciencedaily.com/releases/2024/06/240614141857.htm
+Headline: New technique improves AI ability to map 3D space with 2D cameras
+Description: Researchers have developed a technique that allows artificial intelligence (AI) programs to better map three-dimensional spaces using two-dimensional images captured by multiple cameras. Because the t...
+Link: https://www.sciencedaily.com/releases/2024/06/240613140913.htm
+
+---
+
+From source: https://www.newscientist.com/subject/technology/feed/
+Headline: AI can identify the most brilliant and entertaining chess moves
+Description: An AI that can tell which chess moves are awe-inspiring is being used to make a chess computer that would play creatively, possibly making it more enjoyable to watch or compete against
+Link: https://www.newscientist.com/article/2436253-ai-can-identify-the-most-brilliant-and-entertaining-chess-moves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: See the solitary structures that once helped aircraft stay on course
+Description: Photographer Ignacio Evangelista's stark shots shine a light on the little-known VOR beacons, once key to aviation navigation but now being replaced by GPS
+Link: https://www.newscientist.com/article/2436948-see-the-solitary-structures-that-once-helped-aircraft-stay-on-course/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: University examiners fail to spot ChatGPT answers in real-world test
+Description: ChatGPT-written exam submissions for a psychology degree mostly went undetected and tended to get better marks than real students’ work
+Link: https://www.newscientist.com/article/2436888-university-examiners-fail-to-spot-chatgpt-answers-in-real-world-test/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: $1m prize for AI that can solve puzzles that are simple for humans
+Description: Deducing the correct pattern that links pairs of coloured grids is relatively easy for most people, but relies on skills that artificial intelligence models lack. A new $1 million prize hopes to encou...
+Link: https://www.newscientist.com/article/2437029-1m-prize-for-ai-that-can-solve-puzzles-that-are-simple-for-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: AI can turn text into sign language – but it’s often unintelligible
+Description: Researchers have developed an AI model that can translate text into sign language, but experts in Deaf culture and sign language say the translations range from semi-comprehensible to “really unintell...
+Link: https://www.newscientist.com/article/2436111-ai-can-turn-text-into-sign-language-but-its-often-unintelligible/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Smiling robot face is made from living human skin cells
+Description: A technique for attaching a skin made from living human cells to a robotic framework could give robots the ability to emote and communicate better
+Link: https://www.newscientist.com/article/2436859-smiling-robot-face-is-made-from-living-human-skin-cells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Origami computer uses folded paper for calculations
+Description: By representing data as folds in paper, the principles of origami can theoretically be used to compute anything imaginable
+Link: https://www.newscientist.com/article/2435729-origami-computer-uses-folded-paper-for-calculations/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: The truth about social media and screen time's impact on young people
+Description: There are many scary claims about excess time on digital devices for children and teenagers. Here’s a guide to the real risks - and what to do about them
+Link: https://www.newscientist.com/article/mg26234960-900-the-truth-about-social-media-and-screen-times-impact-on-young-people/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Microphone made of atom-thick graphene could be used in smartphones
+Description: Reducing the size of the microphone in electronic devices would allow manufacturers to include more of them, increasing the capability for noise cancellation
+Link: https://www.newscientist.com/article/2436470-microphone-made-of-atom-thick-graphene-could-be-used-in-smartphones/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Phased introductions to smartphones will help kids more than bans
+Description: Creating "walled gardens", much like TV channels do, would provide children better tools to navigate a lifetime of social media than banning smartphones altogether
+Link: https://www.newscientist.com/article/mg26234962-900-phased-introductions-to-smartphones-will-help-kids-more-than-bans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+
+---
+
+From source: https://www.infoworld.com/category/artificial-intelligence/index.rss
+Headline: Google opens access to 2 million context window of Gemini 1.5 Pro
+Description: <article>
+	<section class="page">
+<p>Google has opened access to the 2-million-token context window of the <a href="https://www.infoworld.com/article/3715180/google-updates-vertex-ai-with-new-llm-capa...
+Link: https://www.infoworld.com/article/3715707/google-opens-access-to-2-million-context-window-of-gemini-15-pro.html#tk.rss_artificialintelligence
+Headline: Google Cloud’s Vertex AI gets new grounding options
+Description: <article>
+	<section class="page">
+<p>Google Cloud is introducing a new set of grounding options that will further enable enterprises to reduce <a href="https://www.infoworld.com/article/3708254/addres...
+Link: https://www.infoworld.com/article/3715706/google-cloud-s-vertex-ai-gets-new-grounding-options.html#tk.rss_artificialintelligence
+Headline: The perils of overengineering generative AI systems
+Description: <article>
+	<section class="page">
+<p>Cloud is the easiest way to build <a href="https://www.infoworld.com/article/3689973/what-is-generative-ai-artificial-intelligence-that-creates.html">generative AI...
+Link: https://www.infoworld.com/article/3715704/the-perils-of-overengineering-generative-ai-systems.html#tk.rss_artificialintelligence
+Headline: AI development on a Copilot+ PC? Not yet
+Description: <article>
+	<section class="page">
+<p>Microsoft and its hardware partners recently launched its Copilot+ PCs, powered by Arm CPUs with built-in neural processing units. They’re an interesting redirecti...
+Link: https://www.infoworld.com/article/3715584/ai-development-on-a-copilot-pc-not-yet.html#tk.rss_artificialintelligence
+Headline: Oracle HeatWave’s in-database LLMs to help reduce infra costs
+Description: <article>
+	<section class="page">
+<p>Oracle is adding new generative AI-focused features to its Heatwave data analytics cloud service, previously known as <a href="https://www.infoworld.com/article/36...
+Link: https://www.infoworld.com/article/3715583/oracle-heatwave-s-in-database-llms-to-help-reduce-infra-costs.html#tk.rss_artificialintelligence
+Headline: OpenAI acquires Rockset to enhance ChatGPT real-time data processing
+Description: <article>
+	<section class="page">
+<p>The ability to index, query, and analyze large amounts of data from real-time sources remains a major headache for anyone involved in building database systems.</p...
+Link: https://www.infoworld.com/article/3715564/openai-acquires-rockset-to-enhance-chatgpt-real-time-data-processing.html#tk.rss_artificialintelligence
+Headline: DataStax updates tools for building gen AI applications
+Description: <article>
+	<section class="page">
+<p><!-- wp:paragraph --></p><p><a href="https://www.infoworld.com/article/3298539/datastax-review-cassandra-made-faster-and-easier.html">DataStax</a> is updating its ...
+Link: https://www.infoworld.com/article/3715701/datastax-updates-tools-for-building-gen-ai-applications.html#tk.rss_artificialintelligence
+Headline: AI is in the tire-kicking phase
+Description: <article>
+	<section class="page">
+<p>Just <a href="https://readwrite.com/gartner-on-big-data-everyones-doing-it-no-one-knows-why/" rel="nofollow">like big data back in 2013</a>, we’re in the “everyone...
+Link: https://www.infoworld.com/article/3715623/ai-is-in-the-tire-kicking-phase.html#tk.rss_artificialintelligence
+Headline: A balanced approach to AI platform selection
+Description: <article>
+	<section class="page">
+<p>I’m not sure why our industry keeps falling into the trap that when a new concept emerges, there are near-immediate announcements that it runs best on one platform...
+Link: https://www.infoworld.com/article/3715625/a-balanced-approach-to-ai-platform-selection.html#tk.rss_artificialintelligence
+Headline: JetBrains AI Assistant to integrate Google Gemini AI models
+Description: <article>
+	<section class="page">
+<p>JetBrains plans to use the <a href="https://www.infoworld.com/article/3715180/google-updates-vertex-ai-with-new-llm-capabilities-agent-builder-feature.html">Google...
+Link: https://www.infoworld.com/article/3715624/jetbrains-ai-assistant-to-integrate-google-gemini-ai-models.html#tk.rss_artificialintelligence
+
+---
+
+From source: https://www.nature.com/subjects/artificial-intelligence.rss
+
+---
+
+From source: https://www.reddit.com/r/artificial/top/.rss
+Headline: Skeleton Key' attack unlocks the worst of AI, says Microsoft
+Description: <!-- SC_OFF --><div class="md"><ul> <li><p>Microsoft disclosed the 'Skeleton Key' attack that can bypass safety measures on AI models, enabling them to produce harmful content.</p></li> <li><p>The att...
+Link: https://www.reddit.com/r/artificial/comments/1dre8vb/skeleton_key_attack_unlocks_the_worst_of_ai_says/
+Headline: Golden age of AI memes
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1drsv1a/golden_age_of_ai_memes/"> <img alt="Golden age of AI memes" src="https://a.thumbs.redditmedia.com/KYouLXmQ4pbmnsS3lrDjmvS...
+Link: https://www.reddit.com/r/artificial/comments/1drsv1a/golden_age_of_ai_memes/
+Headline: One-Minute Daily AI News 6/29/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> Introduces <strong>CriticGPT</strong>: A New Artificial Intelligence AI Model based on GPT-4 to Catch Errors in ChatGPT’s Code Output.[1...
+Link: https://www.reddit.com/r/artificial/comments/1drszdj/oneminute_daily_ai_news_6292024/
+Headline: Wow, AI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1drva96/wow_ai/"> <img alt="Wow, AI" src="https://preview.redd.it/a794q206mn9d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s...
+Link: https://www.reddit.com/r/artificial/comments/1drva96/wow_ai/
+Headline: Peter Thiel says ChatGPT has "clearly" passed the Turing Test, which was the Holy Grail of AI, and this raises significant questions about what it means to be a human being
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1drsqy7/peter_thiel_says_chatgpt_has_clearly_passed_the/"> <img alt="Peter Thiel says ChatGPT has &quot;clearly&quot; passed the ...
+Link: https://www.reddit.com/r/artificial/comments/1drsqy7/peter_thiel_says_chatgpt_has_clearly_passed_the/
+
+---
+
+From source: https://aimagazine.com/ai-and-machine-learning
 
 ---
 
