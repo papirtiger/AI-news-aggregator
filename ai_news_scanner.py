@@ -53,7 +53,7 @@ def is_relevant(text, keywords):
 
 def main():
     logging.info("Starting AI news aggregation")
-    # List of news sources
+    # Updated list of news sources
     sources = [
         {"type": "rss", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
         {"type": "rss", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
@@ -61,6 +61,17 @@ def main():
          "selectors": {"article": "div.summary-item", "title": "h3", "description": "div.summary-item__dek", "link": "a"}},
         {"type": "rss", "url": "https://blogs.nvidia.com/feed/"},
         {"type": "rss", "url": "https://openai.com/blog/rss.xml"},
+        # New sources
+        {"type": "rss", "url": "https://www.artificialintelligence-news.com/feed/"},
+        {"type": "rss", "url": "https://www.ai-trends.com/feed/"},
+        {"type": "rss", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"},
+        {"type": "scrape", "url": "https://www.anthropic.com/news"},  # Note: This might need custom scraping logic
+        {"type": "rss", "url": "https://ai.googleblog.com/feeds/posts/default"},
+        {"type": "rss", "url": "https://www.microsoft.com/en-us/ai/ai-blog-feed"},
+        {"type": "rss", "url": "https://aws.amazon.com/blogs/machine-learning/feed/"},
+        {"type": "rss", "url": "https://venturebeat.com/category/ai/feed/"},
+        {"type": "rss", "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml"},
+        {"type": "rss", "url": "https://www.forbes.com/ai/feed/"},
     ]
     
     keywords = ["artificial intelligence", "AI", "machine learning", "deep learning", "neural network", 
