@@ -1,6 +1,24 @@
-AI News Updates - 2024-06-29 02:31:43
+AI News Updates - 2024-06-30 02:36:32
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Gemini’s data-analyzing abilities aren’t as good as Google claims
+Description: <p>Two separate studies investigated how well Google's Gemini models and others make sense out of an enormous amount of data.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/06/29/geminis-data-analyzing-abilities-arent-as-good-as-google-claims/
+Headline: SAP, and Oracle, and IBM, oh my! ‘Cloud and AI’ drive legacy software firms to record valuations
+Description: <p>There&#8217;s something of a trend around legacy software firms and their soaring valuations: Companies founded in dinosaur times are on a tear, evidenced this week with SAP&#8216;s shares topping ...
+Link: https://techcrunch.com/2024/06/29/sap-and-oracle-and-ibm-oh-my-cloud-and-ai-drive-legacy-software-firms-to-record-valuations/
+Headline: Women in AI: Sarah Bitamazire helps companies implement responsible AI
+Description: <p>Sarah Bitamazire is the chief policy officer at the boutique advisory firm Lumiera.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/06/29/women-in-ai-sarah-bitamazire-helps-companies-implement-responsible-ai/
+Headline: Detroit Police Department agrees to new rules around facial recognition tech
+Description: <p>As part of a legal settlement, the Detroit Police Department has agreed to new guardrails limiting how it can use facial recognition technology. These new policies prohibit the police from arrestin...
+Link: https://techcrunch.com/2024/06/29/detroit-police-department-agrees-to-new-rules-around-facial-recognition-tech/
+Headline: MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating generative AI
+Description: <p>He says that the problem is that generative AI is not human or even human-like, and it’s flawed to try and assign human capabilities to it. </p>
+<p>© 2024 TechCrunch. All rights reserved. For perso...
+Link: https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/
 Headline: Amazon hires founders away from AI startup Adept
 Description: <p>Adept, a startup developing AI-powered &#8220;agents&#8221; to complete various software-based tasks, has agreed to license its tech to Amazon and the startup&#8217;s co-founders and portions of it...
 Link: https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/
@@ -10,20 +28,6 @@ Link: https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coa
 Headline: Google Gemini: Everything you need to know about the new generative AI platform
 Description: <p>Google&#8217;s trying to make waves with Gemini, its flagship suite of generative AI models, apps and services. So what&#8217;s Google Gemini, exactly? How can you use it? And how does Gemini stack...
 Link: https://techcrunch.com/2024/06/28/what-is-google-gemini-ai/
-Headline: Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz
-Description: <p>Hebbia, a startup using generative AI to search large documents and return answers, has raised a nearly $100 million Series B led by Andreessen Horowitz, according to three people with knowledge of...
-Link: https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/
-Headline: Will AI get an A+ in edtech? MagicSchool raises $15M to find out
-Description: <p>These days, when you hear about students and generative AI, chances are that you’re getting a taste of the debate over the adoption of tools like ChatGPT. Are they a help? (Yay! Great for research!...
-Link: https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/
-Headline: Zuckerberg disses closed-source AI competitors as trying to ‘create God’
-Description: <p>In the conversation, Zuckerberg said there needs to be a lot of different AIs that get created to reflect people's different interests. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal ...
-Link: https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/
-Headline: Andrew Ng plans to raise $120M for next AI Fund
-Description: <p>AI big shot Andrew Ng&#8217;s AI Fund, a startup incubator that backs small teams of experts looking to solve key problems using AI, plans to raise upward of $120 million for its second effort. A f...
-Link: https://techcrunch.com/2024/06/27/andrew-ng-plans-to-raise-120m-for-next-ai-fund/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
