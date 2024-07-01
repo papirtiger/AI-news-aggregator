@@ -1,6 +1,21 @@
-AI News Updates - 2024-06-30 13:41:00
+AI News Updates - 2024-07-01 02:38:49
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: AI-powered scams and what you can do about them
+Description: <p>This is by no means a complete list, just a few of the most obvious tricks that AI can supercharge. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/06/30/ai-powered-scams-and-what-you-can-do-about-them/
+Headline: Apple reportedly working to bring AI to the Vision Pro
+Description: <p>Apple’s AI plans go beyond the previously announced Apple Intelligence launches on the iPhone, iPad, and Mac. According to Bloomberg’s Mark Gurman, the company is also working to bring these featur...
+Link: https://techcrunch.com/2024/06/30/apple-reportedly-working-to-bring-ai-to-the-vision-pro/
+Headline: ServiceNow’s generative AI solutions are taking advantage of the data on its own platform
+Description: <p>One of the earlier SaaS adherents to generative AI has been ServiceNow, which has been able to take advantage of the data in its own platform to help build more business-centric models.</p>
+<p>© 20...
+Link: https://techcrunch.com/2024/06/30/servicenows-generative-ai-solutions-are-taking-advantage-of-the-data-on-its-own-platform/
+Headline: Here are India’s biggest AI startups based on how much money they’ve raised
+Description: <p>India's top AI startups include those building LLMs and setting up the stage for AGI as well as bringing AI to cooking and serving farmers.</p>
+<p>© 2024 TechCrunch. All rights reserved. For person...
+Link: https://techcrunch.com/2024/06/30/here-are-indias-biggest-ai-startups-based-on-how-much-money-theyve-raised/
 Headline: Gemini’s data-analyzing abilities aren’t as good as Google claims
 Description: <p>Two separate studies investigated how well Google's Gemini models and others make sense out of an enormous amount of data.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
@@ -15,22 +30,14 @@ Link: https://techcrunch.com/2024/06/29/women-in-ai-sarah-bitamazire-helps-compa
 Headline: Detroit Police Department agrees to new rules around facial recognition tech
 Description: <p>As part of a legal settlement, the Detroit Police Department has agreed to new guardrails limiting how it can use facial recognition technology. These new policies prohibit the police from arrestin...
 Link: https://techcrunch.com/2024/06/29/detroit-police-department-agrees-to-new-rules-around-facial-recognition-tech/
-Headline: MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating generative AI
-Description: <p>He says that the problem is that generative AI is not human or even human-like, and it’s flawed to try and assign human capabilities to it. </p>
-<p>© 2024 TechCrunch. All rights reserved. For perso...
-Link: https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/
-Headline: Amazon hires founders away from AI startup Adept
-Description: <p>Adept, a startup developing AI-powered &#8220;agents&#8221; to complete various software-based tasks, has agreed to license its tech to Amazon and the startup&#8217;s co-founders and portions of it...
-Link: https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/
-Headline: YC alum Fluently’s AI-powered English coach attracts $2M seed round
-Description: <p>There are plenty of resources to learn English, but not so many for near-native speakers who still want to improve their fluency. That description applies to Stan Beliaev and Yurii Rebryk, and this...
-Link: https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/
-Headline: Google Gemini: Everything you need to know about the new generative AI platform
-Description: <p>Google&#8217;s trying to make waves with Gemini, its flagship suite of generative AI models, apps and services. So what&#8217;s Google Gemini, exactly? How can you use it? And how does Gemini stack...
-Link: https://techcrunch.com/2024/06/28/what-is-google-gemini-ai/
+
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Apple could announce a Google Gemini deal this fall
+Description: <figure>
+      <img alt="An illustration of the Apple logo." src="https://cdn.vox-cdn.com/thumbor/sIaA7CX7LuJRc8o-PTfL9aMDZkI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7343635...
+Link: https://www.theverge.com/2024/6/30/24189262/apple-intelligence-google-gemini-deal-iphone-mac-ipad-openai-chatgpt
 Headline: The Center for Investigative Reporting is suing OpenAI and Microsoft
 Description: <figure>
       <img alt="ChatGPT logo in mint green and black colors." src="https://cdn.vox-cdn.com/thumbor/MpQ6EnuIVX0u3K_rODtRpUzf0Ys=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/ima...
@@ -63,10 +70,6 @@ Headline: An AI version of Al Michaels will deliver Olympic recaps on Peacock
 Description: <figure>
       <img alt="Al Michaels looks on from the sideline prior to an NFL football game between the Tennessee Titans and the Pittsburgh Steelers at Acrisure Stadium on November 2nd, 2023, in Pit...
 Link: https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps
-Headline: Figma announces big redesign with AI
-Description: <figure>
-      <img alt="A screenshot demonstrating Figma’s new AI tool." src="https://cdn.vox-cdn.com/thumbor/dmJYJRrMZq0npiGA3NV2PqiM41Q=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_imag...
-Link: https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides
 
 ---
 
@@ -234,13 +237,13 @@ Link: https://venturebeat.com/ai/orby-ai-raises-30m-to-use-generative-ai-to-auto
 Headline: Time Magazine partners with OpenAI and ElevenLabs
 Description: Time's embrace of two up-and-coming AI companies shows a strong vote of confidence in the technology overall.
 Link: https://venturebeat.com/ai/time-magazine-partners-with-openai-and-elevenlabs/
-Headline: Meta’s LLM Compiler is the latest AI breakthrough to change the way we code
-Description: Meta unveils LLM Compiler, an AI-powered suite of models revolutionizing code optimization and compilation, promising faster, more efficient software development and new frontiers in AI-assisted progr...
-Link: https://venturebeat.com/ai/metas-llm-compiler-is-the-latest-ai-breakthrough-to-change-the-way-we-code/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Generative AI is new attack vector endangering enterprises, says CrowdStrike CTO
+Description: Gen AI opens up all kinds of opportunities to obtain sensitive data without even building malware.
+Link: https://www.zdnet.com/article/generative-ai-is-new-attack-vector-endangering-enterprises-says-crowdstrike-cto/#ftag=RSSbaffb68
 Headline: The best robot vacuum deals: Save on Roomba, Roborock, and more
 Description: We rounded up the best deals on robot vacuums and mops available now to simplify your cleaning routine and satisfy your budget.
 Link: https://www.zdnet.com/home-and-office/robot-vacuum-deals/#ftag=RSSbaffb68
@@ -268,9 +271,6 @@ Link: https://www.zdnet.com/article/what-is-artificial-general-intelligence/#fta
 Headline: We need bold minds to challenge AI, not lazy prompt writers, bank CIO says
 Description: Wanted: Critical thinkers with perspectives and skills to interpret AI-generated results. (Those with an over-reliance on ChatGPT need not apply.)
 Link: https://www.zdnet.com/article/we-need-bold-minds-to-challenge-ai-not-lazy-prompt-writers-bank-cio-says/#ftag=RSSbaffb68
-Headline: AI washing is dirty business. Lenovo's COO explains how to avoid it
-Description: Lenovo's Linda Yao spoke to ZDNET about the myths and misconceptions of AI. Here's how to avoid being misled.
-Link: https://www.zdnet.com/article/ai-washing-is-dirty-business-lenovos-coo-explains-how-to-avoid-it/#ftag=RSSbaffb68
 
 ---
 
@@ -321,6 +321,9 @@ Link: https://www.aisnakeoil.com/p/generative-ais-end-run-around-copyright
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Light-controlled artificial maple seeds could monitor the environment even in hard-to-reach locations
+Description: Researchers have developed a tiny robot replicating the aerial dance of falling maple seeds. In the future, this robot could be used for real-time environmental monitoring or delivery of small samples...
+Link: https://www.sciencedaily.com/releases/2024/06/240627172242.htm
 Headline: Researchers develop new training technique that aims to make AI systems less socially biased
 Description: Researchers have created a new, cost-effective training technique for artificial intelligence systems that aims to make them less socially biased.
 Link: https://www.sciencedaily.com/releases/2024/06/240625210027.htm
@@ -348,9 +351,6 @@ Link: https://www.sciencedaily.com/releases/2024/06/240614141929.htm
 Headline: Self-assembling and disassembling swarm molecular robots via DNA molecular controller
 Description: Researchers have succeeded in developing a DNA-based molecular controller. Crucially, this controller enables the autonomous assembly and disassembly of molecular robots, as opposed to manually direct...
 Link: https://www.sciencedaily.com/releases/2024/06/240614141857.htm
-Headline: New technique improves AI ability to map 3D space with 2D cameras
-Description: Researchers have developed a technique that allows artificial intelligence (AI) programs to better map three-dimensional spaces using two-dimensional images captured by multiple cameras. Because the t...
-Link: https://www.sciencedaily.com/releases/2024/06/240613140913.htm
 
 ---
 
@@ -447,21 +447,15 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Skeleton Key' attack unlocks the worst of AI, says Microsoft
-Description: <!-- SC_OFF --><div class="md"><ul> <li><p>Microsoft disclosed the 'Skeleton Key' attack that can bypass safety measures on AI models, enabling them to produce harmful content.</p></li> <li><p>The att...
-Link: https://www.reddit.com/r/artificial/comments/1dre8vb/skeleton_key_attack_unlocks_the_worst_of_ai_says/
 Headline: Golden age of AI memes
 Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1drsv1a/golden_age_of_ai_memes/"> <img alt="Golden age of AI memes" src="https://a.thumbs.redditmedia.com/KYouLXmQ4pbmnsS3lrDjmvS...
 Link: https://www.reddit.com/r/artificial/comments/1drsv1a/golden_age_of_ai_memes/
+Headline: AI trivially annoying and beating many humans at once
+Description: <!-- SC_OFF --><div class="md"><p>It struck me just how much humans depend on &quot;reactions&quot; from animals and other humans, to get their way. The world champion who lost to an AI opponent in St...
+Link: https://www.reddit.com/r/artificial/comments/1ds7hik/ai_trivially_annoying_and_beating_many_humans_at/
 Headline: One-Minute Daily AI News 6/29/2024
 Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> Introduces <strong>CriticGPT</strong>: A New Artificial Intelligence AI Model based on GPT-4 to Catch Errors in ChatGPT’s Code Output.[1...
 Link: https://www.reddit.com/r/artificial/comments/1drszdj/oneminute_daily_ai_news_6292024/
-Headline: Wow, AI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1drva96/wow_ai/"> <img alt="Wow, AI" src="https://preview.redd.it/a794q206mn9d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s...
-Link: https://www.reddit.com/r/artificial/comments/1drva96/wow_ai/
-Headline: Peter Thiel says ChatGPT has "clearly" passed the Turing Test, which was the Holy Grail of AI, and this raises significant questions about what it means to be a human being
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1drsqy7/peter_thiel_says_chatgpt_has_clearly_passed_the/"> <img alt="Peter Thiel says ChatGPT has &quot;clearly&quot; passed the ...
-Link: https://www.reddit.com/r/artificial/comments/1drsqy7/peter_thiel_says_chatgpt_has_clearly_passed_the/
 
 ---
 
