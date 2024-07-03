@@ -1,6 +1,23 @@
-AI News Updates - 2024-07-02 02:33:24
+AI News Updates - 2024-07-03 02:32:31
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Google’s environmental report pointedly avoids AI’s actual energy cost
+Description: <p>Google totally dodges the question of how much energy is AI is using — perhaps because the answer is "way more than we'd care to say."</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal us...
+Link: https://techcrunch.com/2024/07/02/googles-environmental-report-pointedly-avoids-ais-actual-energy-cost/
+Headline: Meta plans to bring generative AI to metaverse games
+Description: <p>Meta plans to bring more generative AI tech into games, specifically VR, AR and mixed reality games, as the company looks to reinvigorate its flagging metaverse strategy. According to a job listing...
+Link: https://techcrunch.com/2024/07/02/meta-plans-to-bring-generative-ai-to-metaverse-games/
+Headline: News outlets are accusing Perplexity of plagiarism and unethical web scraping
+Description: <p>In the age of generative AI, when chatbots can provide detailed answers to questions based on content pulled from the internet, the line between fair use and plagiarism, and between routine web scr...
+Link: https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/
+Headline: Figma disables its AI design feature that appeared to be ripping off Apple’s Weather app
+Description: <p>The Make Design feature is available within Figma's software and will generate UI (user interface) layouts and components from text prompts. </p>
+<p>© 2024 TechCrunch. All rights reserved. For pers...
+Link: https://techcrunch.com/2024/07/02/figma-disables-its-ai-design-feature-that-appeared-to-be-ripping-off-apples-weather-app/
+Headline: As the AI boom gobbles up power, Phaidra is helping companies manage datacenter power more efficiently
+Description: <p>Electricity&#160;demand is booming on account of&#160;AI. In a May 2024 report, Goldman Sachs predicted that data centers will use 8% of the U.S.&#8217;s total power supply by 2030, up from 3% in 2...
+Link: https://techcrunch.com/2024/07/02/phaidras-ai-helps-manage-data-center-energy-consumption/
 Headline: Anthropic looks to fund a new, more comprehensive generation of AI benchmarks
 Description: <p>Anthropic is launching a program to fund the development of new types of benchmarks capable of evaluating the performance and impact of AI models, including generative models like its own Claude. U...
 Link: https://techcrunch.com/2024/07/01/anthropic-looks-to-fund-a-new-more-comprehensive-generation-of-ai-benchmarks/
@@ -14,25 +31,25 @@ Link: https://techcrunch.com/2024/07/01/meta-changes-its-label-from-made-with-ai
 Headline: Robinhood snaps up Pluto to add AI tools to its investing app
 Description: <p>Investment app Robinhood is adding more AI features for investors with its acquisition of AI-powered research platform Pluto Capital, Inc. Announced on Monday, the company says that Pluto will allo...
 Link: https://techcrunch.com/2024/07/01/robinhood-snaps-up-pluto-to-add-ai-tools-to-its-investing-app/
-Headline: AI-powered scams and what you can do about them
-Description: <p>This is by no means a complete list, just a few of the most obvious tricks that AI can supercharge. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/06/30/ai-powered-scams-and-what-you-can-do-about-them/
-Headline: Apple reportedly working to bring AI to the Vision Pro
-Description: <p>Apple’s AI plans go beyond the previously announced Apple Intelligence launches on the iPhone, iPad and Mac. According to Bloomberg’s Mark Gurman, the company is also working to bring these feature...
-Link: https://techcrunch.com/2024/06/30/apple-reportedly-working-to-bring-ai-to-the-vision-pro/
-Headline: ServiceNow’s generative AI solutions are taking advantage of the data on its own platform
-Description: <p>One of the earlier SaaS adherents to generative AI has been ServiceNow, which has been able to take advantage of the data in its own platform to help build more business-centric models.</p>
-<p>© 20...
-Link: https://techcrunch.com/2024/06/30/servicenows-generative-ai-solutions-are-taking-advantage-of-the-data-on-its-own-platform/
-Headline: Here are India’s biggest AI startups based on how much money they’ve raised
-Description: <p>India's top AI startups include those building LLMs and setting up the stage for AGI as well as bringing AI to cooking and serving farmers.</p>
-<p>© 2024 TechCrunch. All rights reserved. For person...
-Link: https://techcrunch.com/2024/06/30/here-are-indias-biggest-ai-startups-based-on-how-much-money-theyve-raised/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Apple’s Phil Schiller is reportedly joining OpenAI’s board
+Description: <figure>
+      <img alt="Illustration depicting several Apple logos on a lime green background." src="https://cdn.vox-cdn.com/thumbor/_dbY18sVWM15swcPy2IzfSrd1QU=/0x0:2040x1360/1310x873/cdn.vox-cdn.co...
+Link: https://www.theverge.com/2024/7/2/24191105/apple-phil-schiller-join-openai-board
+Headline: Figma pulls AI tool after criticism that it ripped off Apple’s design
+Description: <figure>
+      <img alt="Vector illustration of the Figma logo." src="https://cdn.vox-cdn.com/thumbor/hfdw1rwOodGX03HZWMzy3mkSlGA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734...
+Link: https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy
+Headline: Google’s carbon footprint balloons in its Gemini AI era
+Description: <figure>
+      <img alt="An illustration of the Google logo." src="https://cdn.vox-cdn.com/thumbor/-nKjhyE0i2CCwa2LdLwrdDlXPn0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734406...
+Link: https://www.theverge.com/2024/7/2/24190874/google-ai-climate-change-carbon-emissions-rise
+Headline: The Pixel 9’s ‘Google AI’ is like Microsoft Recall but a little less creepy
+Description: <figure>
+      <img alt="A leaked image showing what appears to be the Google Pixel 9 Pro" src="https://cdn.vox-cdn.com/thumbor/703bh8c_rMF4uumvNKIQZFC3l8Q=/400x0:4720x2880/1310x873/cdn.vox-cdn.com/up...
+Link: https://www.theverge.com/2024/7/2/24190730/google-ai-pixel-phones-recall-like-feature
 Headline: This is Big Tech’s playbook for swallowing the AI industry
 Description: <figure>
       <img alt="New York Times DealBook Summit Held In New York City" src="https://cdn.vox-cdn.com/thumbor/yTDoQo8msd2T8hhYbJNA0SAEFSQ=/0x0:5213x3475/1310x873/cdn.vox-cdn.com/uploads/chorus_i...
@@ -57,18 +74,6 @@ Headline: Perplexity’s grand theft AI
 Description: <figure>
       <img alt="Vector collage of the Perplexity logo." src="https://cdn.vox-cdn.com/thumbor/kSF8rP2JPuDhLJJXxb9AkF9sD-w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734...
 Link: https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism
-Headline: Google touts ‘enterprise-ready’ AI with more facts and less make-believe
-Description: <figure>
-      <img alt="Photo illustration of a computer with a brain on the screen." src="https://cdn.vox-cdn.com/thumbor/GGd0Pm2bteKrp9Mix-a1B5yjVI0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/...
-Link: https://www.theverge.com/2024/6/27/24187534/google-vertex-ai-developer-search-features-third-party-data
-Headline: YouTube is trying to make AI music deals with major record labels
-Description: <figure>
-      <img alt="Illustration of a YouTube logo with geometric background" src="https://cdn.vox-cdn.com/thumbor/xp14BxArgH_gtoo_HPV4ZqcrbLg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chor...
-Link: https://www.theverge.com/2024/6/27/24187151/youtube-ai-music-deals-licensing-record-labels-sony-umg-warner
-Headline: An AI-designed horse purse is tearing apart this small but passionate community
-Description: <figure>
-      <img alt="A model holding a purse shaped like a horse with a hazy, impressionistic pattern. Behind her is a similar dreamlike pattern." src="https://cdn.vox-cdn.com/thumbor/OjYrTO-wjgO5...
-Link: https://www.theverge.com/2024/6/26/24186635/baggu-collina-strada-collaboration-ai-purses-art
 
 ---
 
@@ -103,6 +108,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Industry experts call for tailored AI rules in post-election UK
+Description: <p>As the UK gears up for its general election, industry leaders are weighing in on the potential impact on technology and AI regulation. With economic challenges at the forefront of political debates...
+Link: https://www.artificialintelligence-news.com/2024/07/02/industry-experts-tailored-ai-rules-post-election-uk/
 Headline: EU probes Microsoft-OpenAI and Google-Samsung AI deals
 Description: <p>The European Union has intensified its antitrust scrutiny on AI deals, starting with high-profile collaborations between Microsoft-OpenAI and Google-Samsung. Margrethe Vestager, the European Commis...
 Link: https://www.artificialintelligence-news.com/2024/07/01/eu-probes-microsoft-openai-and-google-samsung-ai-deals/
@@ -127,12 +135,6 @@ Link: https://www.artificialintelligence-news.com/2024/06/25/alibaba-cloud-launc
 Headline: Could an Apple-Meta partnership redefine the AI landscape?
 Description: <p>Apple has reportedly entered into discussions with Meta to integrate the latter&#8217;s generative AI model into its newly unveiled personalised AI system, Apple Intelligence. Sources familiar with...
 Link: https://www.artificialintelligence-news.com/2024/06/25/could-apple-meta-partnership-redefine-ai-landscape/
-Headline: SoftBank chief: Forget AGI, ASI will be here within 10 years
-Description: <p>SoftBank founder and CEO Masayoshi Son has claimed that artificial super intelligence (ASI) could be a reality within the next decade. Speaking at SoftBank&#8217;s annual meeting in Tokyo on June 2...
-Link: https://www.artificialintelligence-news.com/2024/06/24/softbank-chief-forget-agi-asi-here-within-10-years/
-Headline: Apple’s EU AI delay: Innovation vs regulation
-Description: <p>Apple announced on Friday that it would block its highly anticipated Apple Intelligence AI features, iPhone Mirroring, and SharePlay Screen Sharing for EU users. While not entirely unexpected, this...
-Link: https://www.artificialintelligence-news.com/2024/06/24/apple-eu-ai-delay-innovation-vs-regulation/
 
 ---
 
@@ -141,6 +143,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: AI companies are finally being forced to cough up for training data
+Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. The generative AI boom is built on scale. The more training da...
+Link: https://www.technologyreview.com/2024/07/02/1094508/ai-companies-are-finally-being-forced-to-cough-up-for-training-data/
 Headline: Training AI music models is about to get very expensive
 Description: AI music is suddenly in a make-or-break moment. On June 24, Suno and Udio, two leading AI music startups that make tools to generate complete songs from a prompt in seconds, were sued by major record ...
 Link: https://www.technologyreview.com/2024/06/27/1094379/ai-music-suno-udio-lawsuit-record-labels-youtube-licensing/
@@ -168,9 +173,6 @@ Link: https://www.technologyreview.com/2024/06/18/1093998/why-artists-becoming-l
 Headline: Why does AI hallucinate?
 Description: MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what&#8217;s coming next. You can read more from the series here. The World Healt...
 Link: https://www.technologyreview.com/2024/06/18/1093440/what-causes-ai-hallucinate-chatbots/
-Headline: What happened when 20 comedians got AI to write their routines
-Description: AI is good at lots of things: spotting patterns in data, creating fantastical images, and condensing thousands of words into just a few paragraphs. But can it be a useful tool for writing comedy?&#160...
-Link: https://www.technologyreview.com/2024/06/17/1093740/what-happened-when-20-comedians-got-ai-to-write-their-routines/
 
 ---
 
@@ -183,6 +185,18 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Improve productivity when processing scanned PDFs using Amazon Q Business
+Description: Amazon Q Business&nbsp;is a generative AI-powered assistant that can answer questions, provide summaries, generate content, and extract insights directly from the content in digital as well as scanned...
+Link: https://aws.amazon.com/blogs/machine-learning/improve-productivity-when-processing-scanned-pdfs-using-amazon-q-business/
+Headline: Access control for vector stores using metadata filtering with Knowledge Bases for Amazon Bedrock
+Description: In November 2023, we announced Knowledge Bases for Amazon Bedrock as generally available. Knowledge bases allow Amazon Bedrock users to unlock the full potential of Retrieval Augmented Generation (RAG...
+Link: https://aws.amazon.com/blogs/machine-learning/access-control-for-vector-stores-using-metadata-filtering-with-knowledge-bases-for-amazon-bedrock/
+Headline: Accenture creates a custom memory-persistent conversational user experience using Amazon Q Business
+Description: Traditionally, finding relevant information from documents has been a time-consuming and often frustrating process. Manually sifting through pages upon pages of text, searching for specific details, a...
+Link: https://aws.amazon.com/blogs/machine-learning/accenture-creates-a-custom-memory-persistent-conversational-user-experience-using-amazon-q-business/
+Headline: Create an end-to-end serverless digital assistant for semantic search with Amazon Bedrock
+Description: With the rise of generative artificial intelligence (AI), an increasing number of organizations use digital assistants to have their end-users ask domain-specific questions, using Retrieval Augmented ...
+Link: https://aws.amazon.com/blogs/machine-learning/create-an-end-to-end-serverless-digital-assistant-for-semantic-search-with-amazon-bedrock/
 Headline: Build a self-service digital assistant using Amazon Lex and Knowledge Bases for Amazon Bedrock
 Description: Organizations strive to implement efficient, scalable, cost-effective, and automated customer support solutions without compromising the customer experience. Generative artificial intelligence (AI)-po...
 Link: https://aws.amazon.com/blogs/machine-learning/build-a-self-service-digital-assistant-using-amazon-lex-and-knowledge-bases-for-amazon-bedrock/
@@ -198,56 +212,56 @@ Link: https://aws.amazon.com/blogs/machine-learning/the-future-of-productivity-a
 Headline: Build generative AI applications on Amazon Bedrock — the secure, compliant, and responsible foundation
 Description: Generative AI&nbsp;has revolutionized industries by creating content, from text and images to audio and code. Although it can unlock numerous possibilities, integrating generative AI into applications...
 Link: https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-on-amazon-bedrock-the-secure-compliant-and-responsible-foundation/
-Headline: Build a conversational chatbot using different LLMs within single interface – Part 1
-Description: With the advent of generative artificial intelligence (AI), foundation models (FMs) can generate content such as answering questions, summarizing text, and providing highlights from the sourced docume...
-Link: https://aws.amazon.com/blogs/machine-learning/build-a-conversational-chatbot-using-different-llms-within-single-interface-part-1/
-Headline: Automate derivative confirms processing using AWS AI services for the capital markets industry
-Description: In this post, we show how you can automate and intelligently process derivative confirms at scale using AWS AI services. The solution combines Amazon Textract, a fully managed ML service to effortless...
-Link: https://aws.amazon.com/blogs/machine-learning/automate-derivative-confirms-processing-using-aws-ai-services-for-the-capital-markets-industry/
-Headline: AI-powered assistants for investment research with multi-modal data: An application of Agents for Amazon Bedrock
-Description: This post is a follow-up to Generative AI and multi-modal agents in AWS: The key to unlocking new value in financial markets. This blog is part of the series, Generative AI and AI/ML in Capital Market...
-Link: https://aws.amazon.com/blogs/machine-learning/ai-powered-assistants-for-investment-research-with-multi-modal-data-an-application-of-agents-for-amazon-bedrock/
-Headline: AI21 Labs Jamba-Instruct model is now available in Amazon Bedrock
-Description: We are excited to announce the availability of the Jamba-Instruct large language model (LLM) in Amazon Bedrock. Jamba-Instruct is built by AI21 Labs, and most notably supports a 256,000-token context ...
-Link: https://aws.amazon.com/blogs/machine-learning/ai21-labs-jamba-instruct-model-is-now-available-in-amazon-bedrock/
-Headline: Scale and simplify ML workload monitoring on Amazon EKS with AWS Neuron Monitor container
-Description: Amazon Web Services is excited to announce the launch of the AWS Neuron Monitor container, an innovative tool designed to enhance the monitoring capabilities of AWS Inferentia and AWS Trainium chips o...
-Link: https://aws.amazon.com/blogs/machine-learning/scale-and-simplify-ml-workload-monitoring-on-amazon-eks-with-aws-neuron-monitor-container/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Meta drops ‘3D Gen’ bomb: AI-powered 3D asset creation at lightning speed
+Description: Meta unveils groundbreaking Meta 3D Gen system, revolutionizing AI-generated 3D assets with high-quality, PBR-supported meshes and textures in under a minute, potentially transforming game development...
+Link: https://venturebeat.com/ai/meta-drops-3d-gen-bomb-ai-powered-3d-asset-creation-at-lightning-speed/
+Headline: ElevenLabs adds AI voice of celebs to new digital narrator — but is it safe?
+Description: ElevenLabs is expanding the voice library of Reader to include AI voices of Judy Garland, James Dean, Burt Reynolds and Sir Laurence Olivier.
+Link: https://venturebeat.com/ai/elevenlabs-adds-ai-voice-of-celebs-to-new-digital-narrator-but-is-it-safe/
+Headline: Gen AI takes over finance: The leading applications and their challenges
+Description: It's important to note that while some roles are experiencing significant gen AI impact already, others remain largely unaffected due to the complex nature of their work, the need for human judgment, ...
+Link: https://venturebeat.com/ai/gen-ai-takes-over-finance-the-leading-applications-and-their-challenges/
+Headline: The future of music creation? Suno’s AI app hits the App Store
+Description: Suno launches its AI music generation app for iOS, revolutionizing music creation while facing legal challenges from major record labels over copyright concerns.
+Link: https://venturebeat.com/ai/the-future-of-music-creation-sunos-ai-app-hits-the-app-store/
+Headline: Vector database company Qdrant wants RAG to be more cost-effective
+Description: Qdrant's BM42 is a new search model that extracts data from chunks of a document which it says makes vector search more efficient.
+Link: https://venturebeat.com/ai/vector-database-company-qdrant-wants-rag-to-be-more-cost-effective/
+Headline: Why a true enterprise AI operating system is going to be legit revolutionary (learn more at VB Transform 2024)
+Description: What's it going to take to build the Linux or Windows of AI operating systems? Surprise: there's a laundry list of considerations.
+Link: https://venturebeat.com/ai/why-a-true-enterprise-ai-operating-system-is-going-to-be-legit-revolutionary-learn-more-at-vb-transform-2024/
+Headline: From AGI to ROI: The 6 AI debates shaping enterprise strategy in 2024
+Description: As we enter July 2024, there's a shift happening in AI. There's a move from hype to reality, underscored by six critical debates shaping the enterprise landscape. These debates represent fault lines b...
+Link: https://venturebeat.com/ai/from-agi-to-roi-the-6-ai-debates-shaping-enterprise-strategy-in-2024/
+Headline: Bitmagic raises $4M for AI platform that generates 3D games from consumer prompts
+Description: Bitmagic has raised $4 million to advance its plan to use generative AI to enable consumers to build 3D games based on text prompts.
+Link: https://venturebeat.com/ai/bitmagic-raises-4m-for-ai-platform-that-generates-3d-games-from-consumer-prompts/
 Headline: Deepfakes will cost $40 billion by 2027 as adversarial AI gains momentum
 Description: Now one of the fastest-growing forms of adversarial AI, deepfakes-related losses are expected to soar from $12.3 billion in 2023.
 Link: https://venturebeat.com/security/deepfakes-will-cost-40-billion-by-2027-as-adversarial-ai-gains-momentum/
 Headline: Apple just launched a public demo of its ‘4M’ AI model: Here’s why it’s a big deal
 Description: Apple launches public demo of 4M AI model, showcasing advanced multimodal capabilities and signaling a major shift in its AI strategy post-WWDC.
 Link: https://venturebeat.com/ai/apple-just-launched-a-public-demo-of-its-4m-ai-model-heres-why-its-a-big-deal/
-Headline: Runway’s Gen-3 Alpha AI video model now available – but there’s a catch
-Description: Gen-3 Alpha is expected to improve in the coming months, with a free version of the model also making its way to users at some point.
-Link: https://venturebeat.com/ai/runways-gen-3-alpha-ai-video-model-now-available-but-theres-a-catch/
-Headline: Is Groq the David to Nvidia’s Goliath? Groq CEO is bringing the noise to VB Transform 2024
-Description: Groq has become a major challenger to the GPU-dominated, incredibly bottlenecked, resource-starved compute landscape.
-Link: https://venturebeat.com/ai/is-groq-the-david-to-nvidias-goliath-groq-ceo-is-bringing-the-noise-to-vb-transform-2024/
-Headline: Walmart shows off its progress with augmented reality showrooms
-Description: Walmart showed off its use of augmented reality and artificial intelligence in its retail operations.
-Link: https://venturebeat.com/ai/walmart-shows-off-its-progress-with-augmented-reality-showrooms/
-Headline: From chatbots to superintelligence: Mapping AI’s ambitious journey
-Description: The path to AGI and superintelligence is uncertain — but the rapid evolution of AI is undeniable, promising transformative advancements.
-Link: https://venturebeat.com/ai/from-chatbots-to-superintelligence-mapping-ais-ambitious-journey/
-Headline: What’s the best interface for gen AI? It all depends on the use case
-Description: The upcoming VB Transform 2024 conference will further explore these themes with expert panels discussing the cross-functional future of AI.
-Link: https://venturebeat.com/ai/whats-the-best-interface-for-gen-ai-it-all-depends-on-the-use-case/
-Headline: Announcing our 2024 VB Transform Innovation Showcase finalists
-Description: The 2024 Innovation Showcase finalists are: Typeface, Tabnine, Instabase, Catio, AutoAlign and SambaNova System.
-Link: https://venturebeat.com/ai/announcing-our-2024-vb-transform-innovation-showcase-finalists/
-Headline: Amazon upgrades AI assistant Q to make call centers way more efficient
-Description: AWS updates its chatbot for contact centers, Amazon Q for Connect, with a real-time step-by-step guides for agents to answer customer calls.
-Link: https://venturebeat.com/ai/amazon-upgrades-ai-assistant-q-to-make-call-centers-way-more-efficient/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: AI tools could ease caseload of therapists feeling burnt out
+Description: Digital technology is transforming the nature of therapy - and AI is its next frontier.
+Link: https://www.zdnet.com/article/ai-tools-could-ease-the-caseload-of-therapists-feeling-burnt-out/#ftag=RSSbaffb68
+Headline: If AI is so amazing, why does ChatGPT melt down over this simple image edit task?
+Description: The chatbot started to talk very fast, reminiscent of the computer HAL 9000 trying to save itself in the movie 2001. Copilot didn't fare any better.
+Link: https://www.zdnet.com/article/if-ai-is-so-amazing-why-does-chatgpt-melt-down-over-this-simple-image-edit-task/#ftag=RSSbaffb68
+Headline: 'Google AI' is coming to the Pixel 9. Here's what it looks like and everything we know
+Description: Several new AI-powered photography features are expected in Google's next generation of phones. But which Pixel models will get the goodies?
+Link: https://www.zdnet.com/article/google-ai-is-coming-to-the-pixel-9-heres-what-it-looks-like-and-everything-we-know/#ftag=RSSbaffb68
+Headline: AI goes to Hollywood: James Dean, Judy Garland, and other stars will read to you now - for free
+Description: With ElevenLabs' Reader app, AI-generated versions of your favorite old Hollywood icons' voices can now read e-books, PDFs, and articles to you. Here's how to try it.
+Link: https://www.zdnet.com/article/ai-goes-to-hollywood-james-dean-judy-garland-and-other-stars-will-read-to-you-now/#ftag=RSSbaffb68
 Headline: Amazon proposes a new AI benchmark to measure RAG
 Description: Choosing the right algorithm for RAG could yield more AI improvements than scaling to larger and larger language models, say AWS researchers.
 Link: https://www.zdnet.com/article/amazon-proposes-a-new-ai-benchmark-to-measure-rag/#ftag=RSSbaffb68
@@ -257,24 +271,9 @@ Link: https://www.zdnet.com/article/how-my-4-favorite-ai-tools-help-me-get-more-
 Headline: How Apple adding Google Gemini to iOS will make your iPhone more useful
 Description: Apple Intelligence could mean Apple finally starting to catch up to the AI competition, especially if Google's Gemini is in the mix.
 Link: https://www.zdnet.com/article/how-apple-adding-google-gemini-to-ios-will-make-your-iphone-more-useful/#ftag=RSSbaffb68
-Headline: AI can't edit: Why ChatGPT failed hilariously at my simple image task
-Description: The chatbot started to talk very fast, reminiscent of the computer HAL 9000 trying to save itself in the movie 2001. Copilot didn't fare any better.
-Link: https://www.zdnet.com/article/ai-cant-edit-why-chatgpt-failed-hilariously-at-my-simple-image-task/#ftag=RSSbaffb68
 Headline: Generative AI is new attack vector endangering enterprises, says CrowdStrike CTO
 Description: Gen AI opens up all kinds of opportunities to obtain sensitive data without even building malware.
 Link: https://www.zdnet.com/article/generative-ai-is-new-attack-vector-endangering-enterprises-says-crowdstrike-cto/#ftag=RSSbaffb68
-Headline: The best robot vacuum deals: Save on Roomba, Roborock, and more
-Description: We rounded up the best deals on robot vacuums and mops available now to simplify your cleaning routine and satisfy your budget.
-Link: https://www.zdnet.com/home-and-office/robot-vacuum-deals/#ftag=RSSbaffb68
-Headline: I changed these 5 ChatGPT settings for an instant productivity boost (and how they work)
-Description: Customizing your ChatGPT experience with these simple tips makes every future AI conversation so much more productive.
-Link: https://www.zdnet.com/article/i-changed-these-5-chatgpt-settings-for-an-instant-productivity-boost-and-how-they-work/#ftag=RSSbaffb68
-Headline: As AI auditions for role in tomorrow's entertainment industry, workers race for protections
-Description: Leading entertainment and legal experts detail writers, actors, and musicians' fight to keep AI from stealing the spotlight.
-Link: https://www.zdnet.com/article/as-ai-auditions-for-role-in-tomorrows-entertainment-industry-workers-race-for-protections/#ftag=RSSbaffb68
-Headline: Qualcomm's AI dreams and Microsoft's built-to-last laptops lead the Innovation Index
-Description: Hardware stole the show this week, from Qualcomm's AI chips to Microsoft's impressively repairable laptops.
-Link: https://www.zdnet.com/article/innovation-index-june-28-2024/#ftag=RSSbaffb68
 
 ---
 
@@ -325,6 +324,9 @@ Link: https://www.aisnakeoil.com/p/generative-ais-end-run-around-copyright
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: New and improved camera inspired by the human eye
+Description: Computer scientists have invented a camera mechanism that improves how robots see and react to the world around them. Inspired by how the human eye works, their innovative camera system mimics the tin...
+Link: https://www.sciencedaily.com/releases/2024/07/240701162221.htm
 Headline: Light-controlled artificial maple seeds could monitor the environment even in hard-to-reach locations
 Description: Researchers have developed a tiny robot replicating the aerial dance of falling maple seeds. In the future, this robot could be used for real-time environmental monitoring or delivery of small samples...
 Link: https://www.sciencedaily.com/releases/2024/06/240627172242.htm
@@ -352,13 +354,16 @@ Link: https://www.sciencedaily.com/releases/2024/06/240617173613.htm
 Headline: Researchers use large language models to help robots navigate
 Description: A technique can plan a trajectory for a robot using only language-based inputs. While it can't outperform vision-based approaches, it could be useful in settings that lack visual data to use for train...
 Link: https://www.sciencedaily.com/releases/2024/06/240614141929.htm
-Headline: Self-assembling and disassembling swarm molecular robots via DNA molecular controller
-Description: Researchers have succeeded in developing a DNA-based molecular controller. Crucially, this controller enables the autonomous assembly and disassembly of molecular robots, as opposed to manually direct...
-Link: https://www.sciencedaily.com/releases/2024/06/240614141857.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Tiny chip could enable super-secure quantum Wi-Fi
+Description: A 1.8-millimetre-wide silicon chip with over 1000 components could help quantum devices communicate without the need for wires or specialised fridges
+Link: https://www.newscientist.com/article/2437975-tiny-chip-could-enable-super-secure-quantum-wi-fi/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: AI can predict how monkeys play Pac-Man
+Description: An AI model learned to predict the choices made by monkeys and their eye movements while playing Pac-Man, hinting that a machine intelligence can “think” in a similar way to mammals
+Link: https://www.newscientist.com/article/2437617-ai-can-predict-how-monkeys-play-pac-man/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: The hacker turned politician using digital tech to reimagine democracy
 Description: Taiwan’s first ever minister of digital affairs has transformed politics, using online platforms and AI to give power to the country’s citizens – with lessons for us all
 Link: https://www.newscientist.com/article/mg26334980-600-the-hacker-turned-politician-using-digital-tech-to-reimagine-democracy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -383,16 +388,20 @@ Link: https://www.newscientist.com/article/2436859-smiling-robot-face-is-made-fr
 Headline: Origami computer uses folded paper for calculations
 Description: By representing data as folds in paper, the principles of origami can theoretically be used to compute anything imaginable
 Link: https://www.newscientist.com/article/2435729-origami-computer-uses-folded-paper-for-calculations/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: The truth about social media and screen time's impact on young people
-Description: There are many scary claims about excess time on digital devices for children and teenagers. Here’s a guide to the real risks - and what to do about them
-Link: https://www.newscientist.com/article/mg26234960-900-the-truth-about-social-media-and-screen-times-impact-on-young-people/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Microphone made of atom-thick graphene could be used in smartphones
-Description: Reducing the size of the microphone in electronic devices would allow manufacturers to include more of them, increasing the capability for noise cancellation
-Link: https://www.newscientist.com/article/2436470-microphone-made-of-atom-thick-graphene-could-be-used-in-smartphones/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
 From source: https://www.infoworld.com/category/artificial-intelligence/index.rss
+Headline: Anthropic launches fund to measure capabilities of AI models
+Description: <article>
+	<section class="page">
+<p><!-- wp:paragraph --></p><p>AI research is hurtling forward, but our ability to assess its capabilities and potential risks appears to be lagging behind. To bridge...
+Link: https://www.infoworld.com/article/3715709/anthropic-launches-fund-to-measure-capabilities-of-ai-models.html#tk.rss_artificialintelligence
+Headline: How evolving AI regulations impact cybersecurity
+Description: <article>
+	<section class="page">
+<p>While their business and tech colleagues are busy experimenting and developing new applications, cybersecurity leaders are looking for ways to anticipate and count...
+Link: https://www.infoworld.com/article/3715603/how-evolving-ai-regulations-impact-cybersecurity.html#tk.rss_artificialintelligence
 Headline: Your generative AI project is going to fail
 Description: <article>
 	<section class="page">
@@ -418,21 +427,6 @@ Description: <article>
 	<section class="page">
 <p>Microsoft and its hardware partners recently launched its Copilot+ PCs, powered by Arm CPUs with built-in neural processing units. They’re an interesting redirecti...
 Link: https://www.infoworld.com/article/3715584/ai-development-on-a-copilot-pc-not-yet.html#tk.rss_artificialintelligence
-Headline: Oracle HeatWave’s in-database LLMs to help reduce infra costs
-Description: <article>
-	<section class="page">
-<p>Oracle is adding new generative AI-focused features to its Heatwave data analytics cloud service, previously known as <a href="https://www.infoworld.com/article/36...
-Link: https://www.infoworld.com/article/3715583/oracle-heatwave-s-in-database-llms-to-help-reduce-infra-costs.html#tk.rss_artificialintelligence
-Headline: OpenAI acquires Rockset to enhance ChatGPT real-time data processing
-Description: <article>
-	<section class="page">
-<p>The ability to index, query, and analyze large amounts of data from real-time sources remains a major headache for anyone involved in building database systems.</p...
-Link: https://www.infoworld.com/article/3715564/openai-acquires-rockset-to-enhance-chatgpt-real-time-data-processing.html#tk.rss_artificialintelligence
-Headline: DataStax updates tools for building gen AI applications
-Description: <article>
-	<section class="page">
-<p><!-- wp:paragraph --></p><p><a href="https://www.infoworld.com/article/3298539/datastax-review-cassandra-made-faster-and-easier.html">DataStax</a> is updating its ...
-Link: https://www.infoworld.com/article/3715701/datastax-updates-tools-for-building-gen-ai-applications.html#tk.rss_artificialintelligence
 
 ---
 
@@ -441,27 +435,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: AI can beat real university students in exams, study suggests
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dssf73/ai_can_beat_real_university_students_in_exams/"> <img alt="AI can beat real university students in exams, study suggests"...
-Link: https://www.reddit.com/r/artificial/comments/1dssf73/ai_can_beat_real_university_students_in_exams/
-Headline: 'Godfather of AI' Geoffrey Hinton says there is more than a 50% chance of AI posing an extinction risk, but one way to reduce that is if we first build weak systems to experiment on and see if they try to take control
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dslxhq/godfather_of_ai_geoffrey_hinton_says_there_is/"> <img alt="'Godfather of AI' Geoffrey Hinton says there is more than a 50...
-Link: https://www.reddit.com/r/artificial/comments/1dslxhq/godfather_of_ai_geoffrey_hinton_says_there_is/
-Headline: Mary Meeker wants AI and higher education to be partners.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dsu8dx/mary_meeker_wants_ai_and_higher_education_to_be/"> <img alt="Mary Meeker wants AI and higher education to be partners. " ...
-Link: https://www.reddit.com/r/artificial/comments/1dsu8dx/mary_meeker_wants_ai_and_higher_education_to_be/
-Headline: One-Minute Daily AI News 6/30/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>The copyright lawsuits against <strong>OpenAI</strong> are piling up as the tech company seeks data to train its AI.[1]</li> <li><strong>Google DeepMind</strong...
-Link: https://www.reddit.com/r/artificial/comments/1dsk5u2/oneminute_daily_ai_news_6302024/
-Headline: When you're the ultimate AI gatekeeper.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dt973a/when_youre_the_ultimate_ai_gatekeeper/"> <img alt="When you're the ultimate AI gatekeeper." src="https://preview.redd.it/...
-Link: https://www.reddit.com/r/artificial/comments/1dt973a/when_youre_the_ultimate_ai_gatekeeper/
-Headline: One-Minute Daily AI News 7/1/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>A novel AI-powered study explores evolutionary differences between male and female birdwing butterflies, shedding new light on a historical debate between <stro...
-Link: https://www.reddit.com/r/artificial/comments/1dt930v/oneminute_daily_ai_news_712024/
-Headline: AGI/ASI: How do you plan/prep/train for what lies ahead? Is it time or /r/aisurvival?
-Description: <!-- SC_OFF --><div class="md"><p>I'm halfway through <a href="https://situational-awareness.ai/">Situational Awareness</a> and the thesis is quite convincing in its various arguments.</p> <blockquote...
-Link: https://www.reddit.com/r/artificial/comments/1dsr4lm/agiasi_how_do_you_planpreptrain_for_what_lies/
+Headline: State-of-the-art LLMs are 4 to 6 orders of magnitude less efficient than human brain. A dramatically better architecture is needed to get to AGI.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dtkdr8/stateoftheart_llms_are_4_to_6_orders_of_magnitude/"> <img alt="State-of-the-art LLMs are 4 to 6 orders of magnitude less ...
+Link: https://www.reddit.com/r/artificial/comments/1dtkdr8/stateoftheart_llms_are_4_to_6_orders_of_magnitude/
+Headline: If someone did nothing but read 24 hours a day for their entire life, they'd consume about eight billion words. But today, the most advanced AIs consume more than eight trillion words in a single month of training.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dtd510/if_someone_did_nothing_but_read_24_hours_a_day/"> <img alt="If someone did nothing but read 24 hours a day for their enti...
+Link: https://www.reddit.com/r/artificial/comments/1dtd510/if_someone_did_nothing_but_read_24_hours_a_day/
+Headline: Google Search Ranks AI Spam Above Original Reporting in News Results
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dtthjx/google_search_ranks_ai_spam_above_original/"> <img alt="Google Search Ranks AI Spam Above Original Reporting in News Resu...
+Link: https://www.reddit.com/r/artificial/comments/1dtthjx/google_search_ranks_ai_spam_above_original/
+Headline: Cohere CEO Aidan Gomez says AI models are becoming so smart that it is difficult to assess improvement and we are trusting them more than we trust ourselves
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dtd6t0/cohere_ceo_aidan_gomez_says_ai_models_are/"> <img alt="Cohere CEO Aidan Gomez says AI models are becoming so smart that i...
+Link: https://www.reddit.com/r/artificial/comments/1dtd6t0/cohere_ceo_aidan_gomez_says_ai_models_are/
+Headline: Researchers upend AI status quo by eliminating matrix multiplication in LLMs
+Description: <!-- SC_OFF --><div class="md"><p>This model dramatically lowers the energy cost of LLMs and approaches the same performance at large model sizes.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a ...
+Link: https://www.reddit.com/r/artificial/comments/1dtmwvj/researchers_upend_ai_status_quo_by_eliminating/
+Headline: Predictions for the near future.
+Description: <!-- SC_OFF --><div class="md"><p>Have been working with TensorFlow since the year it was made available, following progression that got us to LLMs, going back to the &quot;Attention Is All You Need&q...
+Link: https://www.reddit.com/r/artificial/comments/1dtyn2o/predictions_for_the_near_future/
 
 ---
 
