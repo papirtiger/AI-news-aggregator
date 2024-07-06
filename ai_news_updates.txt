@@ -1,6 +1,12 @@
-AI News Updates - 2024-07-05 02:32:48
+AI News Updates - 2024-07-06 02:30:40
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI breach is a reminder that AI companies are treasure troves for hackers
+Description: <p>There&#8217;s no need to worry that your secret ChatGPT conversations were obtained in a recently reported breach of OpenAI&#8217;s systems. The hack itself, while troubling, appears to have been s...
+Link: https://techcrunch.com/2024/07/05/openai-breach-is-a-reminder-that-ai-companies-are-treasure-troves-for-hackers/
+Headline: Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup
+Description: <p>Quantum Rise, a Chicago-based startup that does AI-driven automation for companies like dunnhumby (a retail analytics platform for the grocery industry), has raised a $15 million seed round from Er...
+Link: https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/
 Headline: This Week in AI: With Chevron’s demise, AI regulation seems dead in the water
 Description: <p>Hiya, folks, and welcome to TechCrunch’s regular AI newsletter. This week in AI, the U.S. Supreme Court struck down &#8220;Chevron deference,&#8221; a 40-year-old ruling on federal agencies&#8217; ...
 Link: https://techcrunch.com/2024/07/03/this-week-in-ai-with-chevrons-demise-ai-regulation-seems-dead-in-the-water/
@@ -25,16 +31,6 @@ Link: https://techcrunch.com/2024/07/02/googles-environmental-report-pointedly-a
 Headline: Meta plans to bring generative AI to metaverse games
 Description: <p>Meta plans to bring more generative AI tech into games, specifically VR, AR and mixed reality games, as the company looks to reinvigorate its flagging metaverse strategy. According to a job listing...
 Link: https://techcrunch.com/2024/07/02/meta-plans-to-bring-generative-ai-to-metaverse-games/
-Headline: News outlets are accusing Perplexity of plagiarism and unethical web scraping
-Description: <p>In the age of generative AI, when chatbots can provide detailed answers to questions based on content pulled from the internet, the line between fair use and plagiarism, and between routine web scr...
-Link: https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/
-Headline: Figma disables its AI design feature that appeared to be ripping off Apple’s Weather app
-Description: <p>The Make Design feature is available within Figma's software and will generate UI (user interface) layouts and components from text prompts. </p>
-<p>© 2024 TechCrunch. All rights reserved. For pers...
-Link: https://techcrunch.com/2024/07/02/figma-disables-its-ai-design-feature-that-appeared-to-be-ripping-off-apples-weather-app/
-Headline: As the AI boom gobbles up power, Phaidra is helping companies manage datacenter power more efficiently
-Description: <p>Electricity&#160;demand is booming on account of&#160;AI. In a May 2024 report, Goldman Sachs predicted that data centers will use 8% of the U.S.&#8217;s total power supply by 2030, up from 3% in 2...
-Link: https://techcrunch.com/2024/07/02/phaidras-ai-helps-manage-data-center-energy-consumption/
 
 ---
 
@@ -112,6 +108,33 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Language Processing Units (LPUs): Paving the way for advanced voice AI in contact centres
+Description: <p>Have you heard about Language Processing Units (LPUs) yet? If you haven’t, prepare to be wowed! LPUs are specialised processors engineered specifically for language-related tasks. They differ from ...
+Link: https://www.artificialintelligence-news.com/2024/07/04/language-processing-units-lpus-paving-the-way-for-advanced-voice-ai-in-contact-centres/
+Headline: Nvidia: World’s most valuable company under French antitrust fire
+Description: <p>Nvidia recently overtook Microsoft as the world&#8217;s most valuable company and is now in the crosshairs of French antitrust regulators. The French authority is preparing to charge Nvidia with an...
+Link: https://www.artificialintelligence-news.com/2024/07/04/nvidia-worlds-most-valuable-company-under-french-antitrust-fire/
+Headline: FRVR AI makes game creation available to anyone
+Description: <p>Over the years, the video games industry has become one of the biggest and most influential mediums in the entertainment segment. Despite the myriad of games available on the market, from expensive...
+Link: https://www.artificialintelligence-news.com/2024/07/04/frvr-ai-makes-game-creation-available-to-anyone/
+Headline: Apple secures ‘observer’ seat on OpenAI board
+Description: <p>Following Apple&#8217;s partnership announcement with OpenAI at WWDC last month, a new report reveals that the tech giant will secure an &#8220;observer role&#8221; on OpenAI&#8217;s board of direc...
+Link: https://www.artificialintelligence-news.com/2024/07/03/apple-secures-observer-seat-openai-board/
+Headline: How AI is transforming digital marketing: 2024 trends and insights
+Description: <p>Discover how AI is revolutionising digital marketing with success stories and key strategies. Learn about personalisation, predictive analytics, content creation, and more. The rapid evolution of A...
+Link: https://www.artificialintelligence-news.com/2024/07/03/how-ai-is-transforming-digital-marketing-2024-trends-and-insights/
+Headline: Google’s dilemma: AI expansion vs achieving climate goals
+Description: <p>Google is currently grappling with a major dilemma: finding a way to maintain its impressive progress in AI technology while also staying true to its goal of minimising carbon emissions. In its 202...
+Link: https://www.artificialintelligence-news.com/2024/07/03/google-dilemma-ai-expansion-vs-achieving-climate-goals/
+Headline: Zoom now wants to be known ‘as an AI-first collaboration platform’
+Description: <p>COVID-19 has, in a sense, transformed Zoom from a business-only tool into a household name. Now, the $19 billion video-calling giant is looking to redefine itself, which means leaving behind much o...
+Link: https://www.artificialintelligence-news.com/2024/07/03/zoom-wants-to-be-known-ai-first-collaboration-platform/
+Headline: Industry experts call for tailored AI rules in post-election UK
+Description: <p>As the UK gears up for its general election, industry leaders are weighing in on the potential impact on technology and AI regulation. With economic challenges at the forefront of political debates...
+Link: https://www.artificialintelligence-news.com/2024/07/02/industry-experts-tailored-ai-rules-post-election-uk/
+Headline: EU probes Microsoft-OpenAI and Google-Samsung AI deals
+Description: <p>The European Union has intensified its antitrust scrutiny on AI deals, starting with high-profile collaborations between Microsoft-OpenAI and Google-Samsung. Margrethe Vestager, the European Commis...
+Link: https://www.artificialintelligence-news.com/2024/07/01/eu-probes-microsoft-openai-and-google-samsung-ai-deals/
 
 ---
 
@@ -120,6 +143,12 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: What are AI agents?
+Description: MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what&#8217;s coming next. You can read more from the series here. When ChatGPT wa...
+Link: https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/
+Headline: AI lie detectors are better than humans at spotting lies
+Description: This article first appeared in The Checkup,&#160;MIT Technology Review’s&#160;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&#160;sign up her...
+Link: https://www.technologyreview.com/2024/07/05/1094703/ai-lie-detectors-are-better-than-humans-at-spotting-lies/
 Headline: A way to let robots learn by listening will make them more useful
 Description: Most AI-powered robots today use cameras to understand their surroundings and learn new tasks, but it’s becoming easier to train robots with sound too, helping them adapt to tasks and environments whe...
 Link: https://www.technologyreview.com/2024/07/03/1094644/robots-learn-by-listening/
@@ -144,12 +173,6 @@ Link: https://www.technologyreview.com/2024/06/20/1093428/generative-ai-reinvent
 Headline: I tested out a buzzy new text-to-video AI model from China
 Description: This story first appeared in China Report, MIT Technology Review’s newsletter about technology in China. Sign up to receive it in your inbox every Tuesday. You may not be familiar with Kuaishou, but t...
 Link: https://www.technologyreview.com/2024/06/19/1094027/kling-kuaishou-video-ai-china/
-Headline: Meta has created a way to watermark AI-generated speech
-Description: Meta has created a system that can embed hidden signals, known as watermarks, in AI-generated audio clips, which could help in detecting AI-generated content online.&#160; The tool, called AudioSeal, ...
-Link: https://www.technologyreview.com/2024/06/18/1094009/meta-has-created-a-way-to-watermark-ai-generated-speech/
-Headline: Why artists are becoming less scared of AI
-Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Knock, knock.&#160; Who’s there?&#160; An AI with generic joke...
-Link: https://www.technologyreview.com/2024/06/18/1093998/why-artists-becoming-less-scared-of-ai/
 
 ---
 
@@ -193,6 +216,18 @@ Link: https://aws.amazon.com/blogs/machine-learning/build-a-self-service-digital
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Sony Honda Mobility shows off its cool Afeela electric car features | The DeanBeat
+Description: <p>Sony Honda Mobility will ship its Afeela electric cars starting in 2026. But the joint venture company is already showing off cool features in the new vehicle. I got a recent demo of the car and it...
+Link: https://venturebeat.com/ai/sony-honda-mobility-shows-off-its-cool-afeela-electric-car-features-the-deanbeat/
+Headline: Is the healthcare industry ready for generative AI? Nurses say no, Kaiser Permanente begs to differ
+Description: Are we ready to put our lives in the hands of generative AI? Kaiser Permanente's VP of AI shares how they went all in, at VB Transform.
+Link: https://venturebeat.com/ai/is-the-healthcare-industry-ready-for-generative-ai-nurses-say-no-kaiser-permanente-begs-to-differ/
+Headline: Meet the startup using AI to slash healthcare’s trillion-dollar administrative burden
+Description: Anterior raises $20M to transform healthcare administration with AI, promising to slash costs and streamline prior authorizations for health insurers.
+Link: https://venturebeat.com/ai/meet-the-startup-using-ai-to-slash-healthcares-trillion-dollar-administrative-burden/
+Headline: NodaFi raises $3.5M to become the ‘Salesforce for facility operations’
+Description: NodaFi secures $3.5M seed funding to transform facility management software, aiming to reclaim 1 billion work hours with AI-powered solutions in a rapidly growing $72B market.
+Link: https://venturebeat.com/ai/nodafi-raises-3-5m-to-become-the-salesforce-for-facility-operations/
 Headline: ElevenLabs launches free AI voice isolator to take on Adobe
 Description: In our tests, ElevenLabs' AI Voice Isolator was able to remove different types of background noises to extract clear speech, without any distortions.
 Link: https://venturebeat.com/ai/elevenlabs-launches-free-ai-voice-isolator-to-take-on-adobe/
@@ -211,22 +246,16 @@ Link: https://venturebeat.com/ai/gen-ais-impact-on-healthcare-cutting-edge-appli
 Headline: From code to impact: Devs unleash AI in energy at Crusoe’s hackathon
 Description: The event showcased how AI tools can compress months or years of traditional work into mere hours, potentially revolutionizing clean energy deployment.
 Link: https://venturebeat.com/ai/from-code-to-impact-crusoes-hackathon-reveals-ais-power-to-drive-change-in-energy-and-beyond/
-Headline: How AI Agents are changing software development
-Description: From writing code snippets to designing full software, here is how large language models (LLMs) are changing software development.
-Link: https://venturebeat.com/ai/how-ai-agents-are-changing-software-development/
-Headline: Announcing the finalists for the 6th annual VentureBeat AI Innovations Awards
-Description: The 2024 AI Innovation Awards winners will be announced during an awards ceremony on the main stage of VBTransform on July 10, 4-5 p.m. in San Francisco.
-Link: https://venturebeat.com/ai/announcing-the-finalists-for-the-6th-annual-venturebeat-ai-innovations-awards/
-Headline: Salesforce proves less is more: xLAM-1B ‘Tiny Giant’ beats bigger AI Models
-Description: Salesforce's xLAM-1B 'Tiny Giant' AI model outperforms larger competitors with just 1 billion parameters, revolutionizing on-device AI and challenging industry norms.
-Link: https://venturebeat.com/ai/salesforce-proves-less-is-more-xlam-1b-tiny-giant-beats-bigger-ai-models/
-Headline: Exclusive: Speech recognition AI learns industry jargon with aiOla’s novel approach
-Description: The company adapted OpenAI's Whisper model using its novel technique and improved its speech recognition accuracy by a significant margin.
-Link: https://venturebeat.com/ai/exclusive-speech-recognition-ai-learns-industry-jargon-with-aiolas-novel-approach/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Cloudflare's new free tool stops bots from scraping your website content to train AI
+Description: AI bots accessed around 39% of the top one million 'internet properties' using Cloudflare in June of 2024, according to the company.
+Link: https://www.zdnet.com/article/cloudflares-new-free-tool-stops-bots-from-scraping-your-website-content-to-train-ai/#ftag=RSSbaffb68
+Headline: Singapore is working on technical guidelines for securing AI systems
+Description: The voluntary guidelines will be a reference for cybersecurity professionals looking to improve AI security.
+Link: https://www.zdnet.com/article/singapore-is-working-on-technical-guidelines-for-securing-ai-systems/#ftag=RSSbaffb68
 Headline: How to create your own comic books with AI
 Description: Can't draw? No problem. The AI Comic Factory will generate comic book panels and pages based on your descriptions.
 Link: https://www.zdnet.com/article/how-to-create-your-own-comic-books-with-ai/#ftag=RSSbaffb68
@@ -248,13 +277,6 @@ Link: https://www.zdnet.com/article/ai-tools-could-ease-the-caseload-of-therapis
 Headline: If AI is so amazing, why does ChatGPT melt down over this simple image edit task?
 Description: The chatbot started to talk very fast, reminiscent of the computer HAL 9000 trying to save itself in the movie 2001. Copilot didn't fare any better.
 Link: https://www.zdnet.com/article/if-ai-is-so-amazing-why-does-chatgpt-melt-down-over-this-simple-image-edit-task/#ftag=RSSbaffb68
-Headline: 'Google AI' is coming to the Pixel 9. Here's what it looks like and everything we know
-Description: Several new AI-powered photography features are expected in Google's next generation of phones, but which Pixel models will get the goodies?
-Link: https://www.zdnet.com/article/google-ai-is-coming-to-the-pixel-9-heres-what-it-looks-like-and-everything-we-know/#ftag=RSSbaffb68
-Headline: AI goes to Hollywood: James Dean, Judy Garland, and other stars will read to you now - for free
-Description: With ElevenLabs' Reader app, AI-generated versions of your favorite old Hollywood icons' voices can now read e-books, PDFs, and articles to you. Here's how to try it.
-Link: https://www.zdnet.com/article/ai-goes-to-hollywood-james-dean-judy-garland-and-other-stars-will-read-to-you-now/#ftag=RSSbaffb68
-
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -338,6 +360,9 @@ Link: https://www.sciencedaily.com/releases/2024/06/240614141929.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: AI beats top racers at Gran Turismo – without cheating
+Description: An AI driver achieved faster lap times than the best humans in the video game Gran Turismo 7, and unlike previous versions, it only used information available to players
+Link: https://www.newscientist.com/article/2438564-ai-beats-top-racers-at-gran-turismo-without-cheating/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Mind-reading AI recreates what you're looking at with amazing accuracy
 Description: Giving AI systems the ability to focus on particular brain regions can make them much better at reconstructing images of what a monkey is looking at from brain recordings
 Link: https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -365,9 +390,6 @@ Link: https://www.newscientist.com/article/mg26334980-600-the-hacker-turned-poli
 Headline: AI can identify the most brilliant and entertaining chess moves
 Description: An AI that can tell which chess moves are awe-inspiring is being used to make a chess computer that would play creatively, possibly making it more enjoyable to watch or compete against
 Link: https://www.newscientist.com/article/2436253-ai-can-identify-the-most-brilliant-and-entertaining-chess-moves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: See the solitary structures that once helped aircraft stay on course
-Description: Photographer Ignacio Evangelista's stark shots shine a light on the little-known VOR beacons, once key to aviation navigation but now being replaced by GPS
-Link: https://www.newscientist.com/article/2436948-see-the-solitary-structures-that-once-helped-aircraft-stay-on-course/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -415,33 +437,36 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Top row: what the monkey saw. Bottom row: images reconstructed by AI based on the monkey's brain recordings
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dv86od/top_row_what_the_monkey_saw_bottom_row_images/"> <img alt="Top row: what the monkey saw. Bottom row: images reconstructed...
-Link: https://www.reddit.com/r/artificial/comments/1dv86od/top_row_what_the_monkey_saw_bottom_row_images/
-Headline: Harvard's Jonathan Zittrain says AI agents should have a Time To Live to keep them from proliferating out of control: "Give it a few goals, let it have a bank account, let it spend money... who knows where it ends up?"
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1duwepz/harvards_jonathan_zittrain_says_ai_agents_should/"> <img alt="Harvard's Jonathan Zittrain says AI agents should have a Ti...
-Link: https://www.reddit.com/r/artificial/comments/1duwepz/harvards_jonathan_zittrain_says_ai_agents_should/
-Headline: Brazil suspends Meta from using Instagram posts to train AI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dv4zqa/brazil_suspends_meta_from_using_instagram_posts/"> <img alt="Brazil suspends Meta from using Instagram posts to train AI"...
-Link: https://www.reddit.com/r/artificial/comments/1dv4zqa/brazil_suspends_meta_from_using_instagram_posts/
-Headline: "Nooo! AI art is stolen!"
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvdime/nooo_ai_art_is_stolen/"> <img alt="&quot;Nooo! AI art is stolen!&quot;" src="https://preview.redd.it/435hge7ymjad1.jpeg?w...
-Link: https://www.reddit.com/r/artificial/comments/1dvdime/nooo_ai_art_is_stolen/
-Headline: The New ‘Ethical’ AI Music Generator Can’t Write a Halfway Decent Song
-Description: <!-- SC_OFF --><div class="md"><p>Song generators are in hot water over alleged copyright infringement, but the AI tool Jen was trained on licensed material.</p> </div><!-- SC_ON --> &#32; submitted b...
-Link: https://www.reddit.com/r/artificial/comments/1dv8x5v/the_new_ethical_ai_music_generator_cant_write_a/
-Headline: One-Minute Daily AI News 7/3/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Researchers from UC Berkeley and Anyscale Introduce <strong>RouteLLM</strong>: An Open-Source Framework for Cost-Effective LLM Routing.[1]</li> <li><strong>Meta...
-Link: https://www.reddit.com/r/artificial/comments/1duykx7/oneminute_daily_ai_news_732024/
-Headline: Mfst copilot+ pc alternative🔥
-Description: <!-- SC_OFF --><div class="md"><p>Would you be interested in trying a AI tool that powers your PC (Windows, Mac, Linux) with capabilities similar to Microsoft's new &quot;recall&quot; feature powered ...
-Link: https://www.reddit.com/r/artificial/comments/1dvfn9c/mfst_copilot_pc_alternative/
-Headline: One-Minute Daily AI News 7/4/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>NYT: Hacker stole details about <strong>OpenAI’s</strong> AI tech, but the company kept it quiet.[1]</li> <li><strong>Japan</strong> introduces enormous humanoi...
-Link: https://www.reddit.com/r/artificial/comments/1dvh41f/oneminute_daily_ai_news_742024/
-Headline: My Autonomous AI Agents Will Upend the Stock Market
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dviwig/my_autonomous_ai_agents_will_upend_the_stock/"> <img alt="My Autonomous AI Agents Will Upend the Stock Market" src="https...
-Link: https://www.reddit.com/r/artificial/comments/1dviwig/my_autonomous_ai_agents_will_upend_the_stock/
+Headline: As promised here is a skybox (with AI) --> 3D environment (with AI) --> CGI shot workflow
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvu5ja/as_promised_here_is_a_skybox_with_ai_3d/"> <img alt="As promised here is a skybox (with AI) --&gt; 3D environment (with A...
+Link: https://www.reddit.com/r/artificial/comments/1dvu5ja/as_promised_here_is_a_skybox_with_ai_3d/
+Headline: AI is ruining the internet
+Description: <!-- SC_OFF --><div class="md"><p>I want to see everyone's thoughts about <a href="https://www.youtube.com/watch?v=UShsgCOzER4&amp;ab_channel=DrewGooden">Drew Gooden's YouTube video</a>, &quot;AI is r...
+Link: https://www.reddit.com/r/artificial/comments/1dvpxkq/ai_is_ruining_the_internet/
+Headline: OpenAI-powered humanoids working at BMW car factory
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvqd6v/openaipowered_humanoids_working_at_bmw_car_factory/"> <img alt="OpenAI-powered humanoids working at BMW car factory" src=...
+Link: https://www.reddit.com/r/artificial/comments/1dvqd6v/openaipowered_humanoids_working_at_bmw_car_factory/
+Headline: In a new study, AI-generated humor was rated as funnier than most human-created jokes. In a second study, it was on par with The Onion.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvqftt/in_a_new_study_aigenerated_humor_was_rated_as/"> <img alt="In a new study, AI-generated humor was rated as funnier than m...
+Link: https://www.reddit.com/r/artificial/comments/1dvqftt/in_a_new_study_aigenerated_humor_was_rated_as/
+Headline: How to write the simplest neural network with just math and python
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvycle/how_to_write_the_simplest_neural_network_with/"> <img alt="How to write the simplest neural network with just math and py...
+Link: https://www.reddit.com/r/artificial/comments/1dvycle/how_to_write_the_simplest_neural_network_with/
+Headline: How to build artificial neural networks closer to capabilities of biological?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvo4vc/how_to_build_artificial_neural_networks_closer_to/"> <img alt="How to build artificial neural networks closer to capabili...
+Link: https://www.reddit.com/r/artificial/comments/1dvo4vc/how_to_build_artificial_neural_networks_closer_to/
+Headline: Email Client That Actually Uses AI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dw9age/email_client_that_actually_uses_ai/"> <img alt="Email Client That Actually Uses AI" src="https://a.thumbs.redditmedia.com...
+Link: https://www.reddit.com/r/artificial/comments/1dw9age/email_client_that_actually_uses_ai/
+Headline: A Bugatti, a first lady and the fake stories aimed at Americans
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvwp07/a_bugatti_a_first_lady_and_the_fake_stories_aimed/"> <img alt="A Bugatti, a first lady and the fake stories aimed at Amer...
+Link: https://www.reddit.com/r/artificial/comments/1dvwp07/a_bugatti_a_first_lady_and_the_fake_stories_aimed/
+Headline: Can AI dedup Reddit?
+Description: <!-- SC_OFF --><div class="md"><p>New to the AI world and I'm wondering if Reddit could train an AI to help cut down on bots/karma reposters. The challenge would be reposters that slightly change text...
+Link: https://www.reddit.com/r/artificial/comments/1dwdpbv/can_ai_dedup_reddit/
+Headline: Ai in Longevity science
+Description: <!-- SC_OFF --><div class="md"><p>Please provide examples of how Ai is accelerating longevity science ( aging, cancer, disease). </p> <p>What resources exist for Ai developers developing for longevity...
+Link: https://www.reddit.com/r/artificial/comments/1dw1q65/ai_in_longevity_science/
 
 ---
 
