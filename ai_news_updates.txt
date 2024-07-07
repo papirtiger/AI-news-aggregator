@@ -1,6 +1,9 @@
-AI News Updates - 2024-07-06 02:30:40
+AI News Updates - 2024-07-07 02:36:08
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Tokens are a big reason today’s generative AI falls short
+Description: <p>Generative AI models don&#8217;t process text the same way humans do. Understanding their &#8220;token&#8221;-based internal environments may help explain some of their strange behaviors — and stub...
+Link: https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/
 Headline: OpenAI breach is a reminder that AI companies are treasure troves for hackers
 Description: <p>There&#8217;s no need to worry that your secret ChatGPT conversations were obtained in a recently reported breach of OpenAI&#8217;s systems. The hack itself, while troubling, appears to have been s...
 Link: https://techcrunch.com/2024/07/05/openai-breach-is-a-reminder-that-ai-companies-are-treasure-troves-for-hackers/
@@ -24,13 +27,6 @@ Headline: Europe is still serious about ESG, and Apiday is helping companies com
 Description: <p>Apiday leverages AI to save time for its customers. But like legacy consultants, it also offers human expertise.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 Link: https://techcrunch.com/2024/07/02/helped-by-regulatory-tailwinds-apiday-eyes-the-european-esg-reporting-market/
-Headline: Google’s environmental report pointedly avoids AI’s actual energy cost
-Description: <p>Google totally dodges the question of how much energy is AI is using — perhaps because the answer is "way more than we'd care to say."</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal us...
-Link: https://techcrunch.com/2024/07/02/googles-environmental-report-pointedly-avoids-ais-actual-energy-cost/
-Headline: Meta plans to bring generative AI to metaverse games
-Description: <p>Meta plans to bring more generative AI tech into games, specifically VR, AR and mixed reality games, as the company looks to reinvigorate its flagging metaverse strategy. According to a job listing...
-Link: https://techcrunch.com/2024/07/02/meta-plans-to-bring-generative-ai-to-metaverse-games/
 
 ---
 
@@ -216,6 +212,12 @@ Link: https://aws.amazon.com/blogs/machine-learning/build-a-self-service-digital
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: AI agent benchmarks are misleading, study warns
+Description: A study by Princeton University shows that benchmarks made for AI agents don't account for costs and are prone to overfitting.
+Link: https://venturebeat.com/ai/ai-agent-benchmarks-are-misleading-study-warns/
+Headline: Beyond GPUs: Innatera and the quiet uprising in AI hardware
+Description: The brain-inspired architecture gives neuromorphic systems distinct advantages, particularly for edge computing applications in consumer devices and industrial IoT.
+Link: https://venturebeat.com/ai/beyond-gpus-innatera-and-the-quiet-uprising-in-ai-hardware/
 Headline: Sony Honda Mobility shows off its cool Afeela electric car features | The DeanBeat
 Description: <p>Sony Honda Mobility will ship its Afeela electric cars starting in 2026. But the joint venture company is already showing off cool features in the new vehicle. I got a recent demo of the car and it...
 Link: https://venturebeat.com/ai/sony-honda-mobility-shows-off-its-cool-afeela-electric-car-features-the-deanbeat/
@@ -240,12 +242,6 @@ Link: https://venturebeat.com/ai/will-the-cost-of-scaling-infrastructure-limit-a
 Headline: AI is upending search as we know it
 Description: Generative AI is changing how people search, and enterprises are taking notice of the newest way to bring information to people: RAG.
 Link: https://venturebeat.com/ai/ai-is-upending-search-as-we-know-it/
-Headline: Gen AI’s impact on healthcare: Cutting-edge applications (and their challenges)
-Description: Generative AI is set to revolutionize healthcare. But it is fraught with many challenges, too. Experts discuss how we can bridge this gap.
-Link: https://venturebeat.com/ai/gen-ais-impact-on-healthcare-cutting-edge-applications-and-their-challenges/
-Headline: From code to impact: Devs unleash AI in energy at Crusoe’s hackathon
-Description: The event showcased how AI tools can compress months or years of traditional work into mere hours, potentially revolutionizing clean energy deployment.
-Link: https://venturebeat.com/ai/from-code-to-impact-crusoes-hackathon-reveals-ais-power-to-drive-change-in-energy-and-beyond/
 
 ---
 
@@ -437,36 +433,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: As promised here is a skybox (with AI) --> 3D environment (with AI) --> CGI shot workflow
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvu5ja/as_promised_here_is_a_skybox_with_ai_3d/"> <img alt="As promised here is a skybox (with AI) --&gt; 3D environment (with A...
-Link: https://www.reddit.com/r/artificial/comments/1dvu5ja/as_promised_here_is_a_skybox_with_ai_3d/
-Headline: AI is ruining the internet
-Description: <!-- SC_OFF --><div class="md"><p>I want to see everyone's thoughts about <a href="https://www.youtube.com/watch?v=UShsgCOzER4&amp;ab_channel=DrewGooden">Drew Gooden's YouTube video</a>, &quot;AI is r...
-Link: https://www.reddit.com/r/artificial/comments/1dvpxkq/ai_is_ruining_the_internet/
-Headline: OpenAI-powered humanoids working at BMW car factory
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvqd6v/openaipowered_humanoids_working_at_bmw_car_factory/"> <img alt="OpenAI-powered humanoids working at BMW car factory" src=...
-Link: https://www.reddit.com/r/artificial/comments/1dvqd6v/openaipowered_humanoids_working_at_bmw_car_factory/
-Headline: In a new study, AI-generated humor was rated as funnier than most human-created jokes. In a second study, it was on par with The Onion.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvqftt/in_a_new_study_aigenerated_humor_was_rated_as/"> <img alt="In a new study, AI-generated humor was rated as funnier than m...
-Link: https://www.reddit.com/r/artificial/comments/1dvqftt/in_a_new_study_aigenerated_humor_was_rated_as/
-Headline: How to write the simplest neural network with just math and python
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvycle/how_to_write_the_simplest_neural_network_with/"> <img alt="How to write the simplest neural network with just math and py...
-Link: https://www.reddit.com/r/artificial/comments/1dvycle/how_to_write_the_simplest_neural_network_with/
-Headline: How to build artificial neural networks closer to capabilities of biological?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvo4vc/how_to_build_artificial_neural_networks_closer_to/"> <img alt="How to build artificial neural networks closer to capabili...
-Link: https://www.reddit.com/r/artificial/comments/1dvo4vc/how_to_build_artificial_neural_networks_closer_to/
-Headline: Email Client That Actually Uses AI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dw9age/email_client_that_actually_uses_ai/"> <img alt="Email Client That Actually Uses AI" src="https://a.thumbs.redditmedia.com...
-Link: https://www.reddit.com/r/artificial/comments/1dw9age/email_client_that_actually_uses_ai/
-Headline: A Bugatti, a first lady and the fake stories aimed at Americans
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dvwp07/a_bugatti_a_first_lady_and_the_fake_stories_aimed/"> <img alt="A Bugatti, a first lady and the fake stories aimed at Amer...
-Link: https://www.reddit.com/r/artificial/comments/1dvwp07/a_bugatti_a_first_lady_and_the_fake_stories_aimed/
-Headline: Can AI dedup Reddit?
-Description: <!-- SC_OFF --><div class="md"><p>New to the AI world and I'm wondering if Reddit could train an AI to help cut down on bots/karma reposters. The challenge would be reposters that slightly change text...
-Link: https://www.reddit.com/r/artificial/comments/1dwdpbv/can_ai_dedup_reddit/
-Headline: Ai in Longevity science
-Description: <!-- SC_OFF --><div class="md"><p>Please provide examples of how Ai is accelerating longevity science ( aging, cancer, disease). </p> <p>What resources exist for Ai developers developing for longevity...
-Link: https://www.reddit.com/r/artificial/comments/1dw1q65/ai_in_longevity_science/
+Headline: NSFW AI Video and Image Tagging
+Description: <!-- SC_OFF --><div class="md"><p>I have some exciting news to share that I think you'll find interesting! After years of hard work and countless iterations, I've developed an AI model that can tag im...
+Link: https://www.reddit.com/r/artificial/comments/1dwybkt/nsfw_ai_video_and_image_tagging/
+Headline: OpenAI breach is a reminder that AI companies are treasure troves for hackers
+Description: <!-- SC_OFF --><div class="md"><ul> <li><p>The OpenAI breach, although limited, underscores the attractiveness of AI companies as targets for hackers.</p></li> <li><p>AI companies like OpenAI possess ...
+Link: https://www.reddit.com/r/artificial/comments/1dwr1cn/openai_breach_is_a_reminder_that_ai_companies_are/
+Headline: One-Minute Daily AI News 7/6/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>The US startup <strong>Solos</strong> Smartglasses has announced the forthcoming launch of a new range of camera-equipped glasses featuring <strong>ChatGPT</str...
+Link: https://www.reddit.com/r/artificial/comments/1dwr07k/oneminute_daily_ai_news_762024/
+Headline: AI Ghostwriting: Making Elite Content Creation Accessible to All
+Description: <!-- SC_OFF --><div class="md"><p>Ghostwriting, a cornerstone of nonfiction, is on the brink of a revolution. AI is democratizing this once-exclusive service, making it accessible to everyone. Traditi...
+Link: https://www.reddit.com/r/artificial/comments/1dx1jnv/ai_ghostwriting_making_elite_content_creation/
+Headline: Created The Best AI video I Could Of Animals Doing Human Things
+Description: <!-- SC_OFF --><div class="md"><p>Both the clips and music are AI generated.</p> <p><a href="https://youtu.be/L6xS9zXi1No?si=1cr1L9qztJ1Fszi3">https://youtu.be/L6xS9zXi1No?si=1cr1L9qztJ1Fszi3</a></p> ...
+Link: https://www.reddit.com/r/artificial/comments/1dwy391/created_the_best_ai_video_i_could_of_animals/
+Headline: Is AI the next step in the evolutionary ladder?
+Description: <!-- SC_OFF --><div class="md"><p>I've been thinking very deeply about this subject lately. Their are a couple of trends I'm seeing that make me think this way. </p> <ol> <li><p>Decrease in human popu...
+Link: https://www.reddit.com/r/artificial/comments/1dwojld/is_ai_the_next_step_in_the_evolutionary_ladder/
 
 ---
 
