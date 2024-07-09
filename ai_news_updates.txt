@@ -1,6 +1,26 @@
-AI News Updates - 2024-07-08 02:35:15
+AI News Updates - 2024-07-09 02:34:49
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI Startup Fund backs AI healthcare venture with Arianna Huffington
+Description: <p>Huffington Post founder Arianna Huffington and OpenAI CEO Sam Altman are throwing their weight behind a new venture, Thrive AI Health, that aims to build AI-powered assistant tech to promote health...
+Link: https://techcrunch.com/2024/07/08/openai-startup-fund-backs-ai-healthcare-venture-with-arianna-huffington/
+Headline: Data workers detail exploitation by tech industry in DAIR report
+Description: <p>The essential labor of data work, like moderation and annotation, is systematically hidden from those who benefit from the fruits of that labor. A new project puts the lived experiences of data wor...
+Link: https://techcrunch.com/2024/07/08/data-workers-detail-exploitation-by-tech-industry-in-dair-report/
+Headline: Samsung Unpacked 2024: What we expect and how to watch Wednesday’s hardware event
+Description: <p>The Samsung event will feature updates to the Galaxy Z Fold, Galaxy Z Flip, as well as more details on the Galaxy Ring and Galaxy AI. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal us...
+Link: https://techcrunch.com/2024/07/08/samsung-unpacked-2024-what-we-expect-and-how-to-watch-wednesdays-hardware-event/
+Headline: A new trend for seed VCs and the scariest part about OpenAI’s data breach
+Description: <p>On today&#8217;s episode of Equity, we&#8217;re taking a look at news you might&#8217;ve missed over the holiday weekend here in the U.S., starting with the recent OpenAI security breach. While it ...
+Link: https://techcrunch.com/podcast/a-new-trend-for-seed-vcs-and-the-scariest-part-about-openais-data-breach/
+Headline: TechCrunch Minute: How to protect yourself from AI scams
+Description: <p>You probably like to think of yourself as reasonably sophisticated when it comes to online scams — you’re not opening random email attachments or sending money to Nigerian princes. But of course, s...
+Link: https://techcrunch.com/video/techcrunch-minute-how-to-protect-yourself-from-ai-scams/
+Headline: Pestle’s app can now save recipes from Reels using on-device AI
+Description: <p>Pestle addresses the common problem of finding recipes on the web.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/07/08/pestles-app-can-now-save-recipes-from-reels-using-on-device-ai/
 Headline: CIOs’ concerns over generative AI echo those of the early days of cloud computing
 Description: <p>CIOs trying to govern generative AI have the same concerns they had about cloud computing 15 years ago, but they've learned some things along the way.</p>
 <p>© 2024 TechCrunch. All rights reserved....
@@ -8,29 +28,14 @@ Link: https://techcrunch.com/2024/07/07/cios-concerns-over-generative-ai-echo-th
 Headline: Tokens are a big reason today’s generative AI falls short
 Description: <p>Generative AI models don&#8217;t process text the same way humans do. Understanding their &#8220;token&#8221;-based internal environments may help explain some of their strange behaviors — and stub...
 Link: https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/
-Headline: OpenAI breach is a reminder that AI companies are treasure troves for hackers
-Description: <p>There&#8217;s no need to worry that your secret ChatGPT conversations were obtained in a recently reported breach of OpenAI&#8217;s systems. The hack itself, while troubling, appears to have been s...
-Link: https://techcrunch.com/2024/07/05/openai-breach-is-a-reminder-that-ai-companies-are-treasure-troves-for-hackers/
-Headline: Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup
-Description: <p>Quantum Rise, a Chicago-based startup that does AI-driven automation for companies like dunnhumby (a retail analytics platform for the grocery industry), has raised a $15 million seed round from Er...
-Link: https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/
-Headline: This Week in AI: With Chevron’s demise, AI regulation seems dead in the water
-Description: <p>Hiya, folks, and welcome to TechCrunch’s regular AI newsletter. This week in AI, the U.S. Supreme Court struck down &#8220;Chevron deference,&#8221; a 40-year-old ruling on federal agencies&#8217; ...
-Link: https://techcrunch.com/2024/07/03/this-week-in-ai-with-chevrons-demise-ai-regulation-seems-dead-in-the-water/
-Headline: TechCrunch Minute: YouTube makes it easier to report and take down AI deepfakes
-Description: <p>It’s easier than ever to make a deepfake of another person’s voice or face, but at least YouTube is making some small changes that make it slightly easier to report a video that uses your likeness ...
-Link: https://techcrunch.com/video/techcrunch-minute-youtube-makes-it-easier-to-report-and-take-down-ai-deepfakes/
-Headline: Cloudflare launches a tool to combat AI bots
-Description: <p>Cloudflare analyzed AI bot and crawler traffic to fine-tune automatic bot detection models.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/07/03/cloudflare-launches-a-tool-to-combat-ai-bots/
-Headline: Altrove uses AI models and lab automation to create new materials
-Description: <p>For the past couple of years, innovation has been accelerating in new materials development. And a new French startup called Altrove plans to play a role in this innovation cycle. The deep tech sta...
-Link: https://techcrunch.com/2024/07/03/altrove-uses-ai-models-and-lab-automation-to-create-new-materials/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Canva CEO Melanie Perkins thinks the design world needs more alternatives to Adobe
+Description: <figure>
+      <img alt="A photo illustration and portrait of Canva CEO and co-founder Melanie Perkins. " src="https://cdn.vox-cdn.com/thumbor/MOtd1AT4eafyNbuAJXqyup_8VEA=/0x0:2040x1360/1310x873/cdn.v...
+Link: https://www.theverge.com/24191080/canva-ceo-melanie-perkins-design-ai-adobe-competition-decoder-podcast-interview
 Headline: WhatsApp is developing a personalized AI avatar generator
 Description: <figure>
       <img alt="WhatsApp logo on a green, black, and white background" src="https://cdn.vox-cdn.com/thumbor/aAgGjYO9VzXkf8svM4A4LQygXNU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_...
@@ -55,14 +60,6 @@ Headline: Meta ordered to stop training its AI on Brazilian personal data
 Description: <figure>
       <img alt="Image of Meta’s wordmark on a red background." src="https://cdn.vox-cdn.com/thumbor/r6yhxlDdEQm_t7FSjZ2Ia0XJqcU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/im...
 Link: https://www.theverge.com/2024/7/3/24191405/meta-anpd-stop-training-ai-on-brazilian-facebook-instagram-data
-Headline: Apple’s Phil Schiller is reportedly joining OpenAI’s board
-Description: <figure>
-      <img alt="Illustration depicting several Apple logos on a lime green background." src="https://cdn.vox-cdn.com/thumbor/_dbY18sVWM15swcPy2IzfSrd1QU=/0x0:2040x1360/1310x873/cdn.vox-cdn.co...
-Link: https://www.theverge.com/2024/7/2/24191105/apple-phil-schiller-join-openai-board
-Headline: Figma pulls AI tool after criticism that it ripped off Apple’s design
-Description: <figure>
-      <img alt="Vector illustration of the Figma logo." src="https://cdn.vox-cdn.com/thumbor/hfdw1rwOodGX03HZWMzy3mkSlGA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734...
-Link: https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy
 
 ---
 
@@ -71,6 +68,9 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: In It for the Long Haul: Waabi Pioneers Generative AI to Unleash Fully Driverless Autonomous Trucking
+Description: Artificial intelligence is transforming the transportation industry, helping drive advances in autonomous vehicle (AV) technology. Waabi, a Toronto-based startup, is embracing generative AI to deliver...
+Link: https://blogs.nvidia.com/blog/waabi-autonomous-trucking/
 Headline: GeForce NOW Beats the Heat With 22 New Games in July
 Description: GeForce NOW is bringing 22 new games to members this month. Dive into the four titles available to stream on the cloud gaming service this week to stay cool and entertained throughout the summer — whe...
 Link: https://blogs.nvidia.com/blog/geforce-now-thursday-july-2024-games-list/
@@ -131,6 +131,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: How to use AI to plan your next vacation
+Description: MIT Technology Review&#8216;s How To series helps you get things done. Planning a vacation should, in theory, be fun. But drawing up a list of activities for a trip can also be time consuming and stre...
+Link: https://www.technologyreview.com/2024/07/08/1094733/how-to-use-ai-to-plan-your-next-vacation/
 Headline: What are AI agents?
 Description: MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what&#8217;s coming next. You can read more from the series here. When ChatGPT wa...
 Link: https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/
@@ -158,9 +161,6 @@ Link: https://www.technologyreview.com/2024/06/20/1094051/how-underwater-drones-
 Headline: How generative AI could reinvent what it means to play
 Description: First, a confession. I only got into playing video games a little over a year ago (I know, I know). A Christmas gift of an Xbox Series S “for the kids” dragged me—pretty easily, it turns out—into the ...
 Link: https://www.technologyreview.com/2024/06/20/1093428/generative-ai-reinventing-video-games-immersive-npcs/
-Headline: I tested out a buzzy new text-to-video AI model from China
-Description: This story first appeared in China Report, MIT Technology Review’s newsletter about technology in China. Sign up to receive it in your inbox every Tuesday. You may not be familiar with Kuaishou, but t...
-Link: https://www.technologyreview.com/2024/06/19/1094027/kling-kuaishou-video-ai-china/
 
 ---
 
@@ -173,6 +173,12 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Eviden scales AWS DeepRacer Global League using AWS DeepRacer Event Manager
+Description: Eviden is a next-gen technology leader in data-driven, trusted, and sustainable digital transformation. With a strong portfolio of patented technologies and worldwide leading positions in advanced com...
+Link: https://aws.amazon.com/blogs/machine-learning/eviden-scales-aws-deepracer-global-league-using-aws-deepracer-event-manager/
+Headline: Generate unique images by fine-tuning Stable Diffusion XL with Amazon SageMaker
+Description: Stable Diffusion XL by Stability AI is a high-quality text-to-image deep learning model that allows you to generate professional-looking images in various styles. Managed versions of Stable Diffusion ...
+Link: https://aws.amazon.com/blogs/machine-learning/generate-unique-images-by-fine-tuning-stable-diffusion-xl-with-amazon-sagemaker/
 Headline: Build your multilingual personal calendar assistant with Amazon Bedrock and AWS Step Functions
 Description: This post shows you how to apply AWS services such as Amazon Bedrock, AWS Step Functions, and Amazon Simple Email Service (Amazon SES) to build a fully-automated multilingual calendar artificial intel...
 Link: https://aws.amazon.com/blogs/machine-learning/build-your-multilingual-personal-calendar-assistant-with-amazon-bedrock-and-aws-step-functions/
@@ -191,50 +197,53 @@ Link: https://aws.amazon.com/blogs/machine-learning/improve-productivity-when-pr
 Headline: Access control for vector stores using metadata filtering with Knowledge Bases for Amazon Bedrock
 Description: In November 2023, we announced Knowledge Bases for Amazon Bedrock as generally available. Knowledge bases allow Amazon Bedrock users to unlock the full potential of Retrieval Augmented Generation (RAG...
 Link: https://aws.amazon.com/blogs/machine-learning/access-control-for-vector-stores-using-metadata-filtering-with-knowledge-bases-for-amazon-bedrock/
-Headline: Accenture creates a custom memory-persistent conversational user experience using Amazon Q Business
-Description: Traditionally, finding relevant information from documents has been a time-consuming and often frustrating process. Manually sifting through pages upon pages of text, searching for specific details, a...
-Link: https://aws.amazon.com/blogs/machine-learning/accenture-creates-a-custom-memory-persistent-conversational-user-experience-using-amazon-q-business/
-Headline: Create an end-to-end serverless digital assistant for semantic search with Amazon Bedrock
-Description: With the rise of generative artificial intelligence (AI), an increasing number of organizations use digital assistants to have their end-users ask domain-specific questions, using Retrieval Augmented ...
-Link: https://aws.amazon.com/blogs/machine-learning/create-an-end-to-end-serverless-digital-assistant-for-semantic-search-with-amazon-bedrock/
-Headline: Build a self-service digital assistant using Amazon Lex and Knowledge Bases for Amazon Bedrock
-Description: Organizations strive to implement efficient, scalable, cost-effective, and automated customer support solutions without compromising the customer experience. Generative artificial intelligence (AI)-po...
-Link: https://aws.amazon.com/blogs/machine-learning/build-a-self-service-digital-assistant-using-amazon-lex-and-knowledge-bases-for-amazon-bedrock/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: AI stack attack: Navigating the generative tech maze
+Description: As enterprises grapple with the complexities of generative AI, many are gravitating towards comprehensive, end-to-end solutions.
+Link: https://venturebeat.com/ai/ai-stack-attack-navigating-the-generative-tech-maze/
+Headline: Microsoft drops ‘MInference’ demo, challenges status quo of AI processing
+Description: Microsoft unveils MInference, a groundbreaking AI technology that accelerates language model processing by up to 90%, potentially transforming long-context AI applications across industries.
+Link: https://venturebeat.com/ai/microsoft-drops-minference-demo-challenges-status-quo-of-ai-processing/
+Headline: Meta AI develops compact language model for mobile devices
+Description: Key innovations in Meta's MobileLLM include prioritizing model depth over width, implementing embedding sharing and grouped-query attention and utilizing a novel immediate block-wise weight-sharing te...
+Link: https://venturebeat.com/ai/meta-ai-develops-compact-language-model-for-mobile-devices/
+Headline: LockBit’s latest attack shows why fintech needs more zero trust
+Description: LockBit claiming to have breached the U.S. Treasury and, instead, exfiltrated customer data from a bank is a common deception strategy.
+Link: https://venturebeat.com/ai/lockbits-latest-attack-shows-why-fintech-needs-more-zero-trust/
+Headline: Not to brag, but VB has the best reporters in the biz — get in the room with them at VB Transform
+Description: Don't miss your chance to meet some of our top reporters and editors at this year's VB Transform in San Francisco. Register now!
+Link: https://venturebeat.com/ai/not-to-brag-but-vb-has-the-best-reporters-in-the-biz-get-in-the-room-with-them-at-vb-transform/
+Headline: Hebbia nets $130M to build the go-to AI platform for knowledge retrieval
+Description: Hebbia has 1000+ use cases in production with organizations like CharlesBank, Center View Partners and the U.S. Air Force.
+Link: https://venturebeat.com/ai/hebbia-nets-130m-to-build-the-go-to-ai-platform-for-knowledge-retrieval/
+Headline: Groq unveils lightning-fast LLM engine; developer base rockets past 280K in 4 months
+Description: Groq now allows you to make lightning fast queries and perform other tasks with leading large language models (LLMs) directly on its web site. On the tests I did, Groq replied at around 1256.54 tokens...
+Link: https://venturebeat.com/ai/groq-releases-blazing-fast-llm-engine-passes-270000-user-mark/
+Headline: Investors call Intuit bullish; VB calls Intuit and its AI strategy a highlight of VB Transform 2024
+Description: Learn why Intuit is such a good example of how to really put generative AI to work at this year's VB Transform.
+Link: https://venturebeat.com/ai/investors-call-intuit-bullish-vb-calls-intuit-and-its-ai-strategy-a-highlight-of-vb-transform-2024/
+Headline: At VB Transform: Perplexity CBO on factfulness, plagiarism and how AI (and Perplexity) are aiming to rewrite the unwritten rules
+Description: Perplexity offers an "answer" engine that makes search so simple, while publishers say it's just stealing content. What's the real story?
+Link: https://venturebeat.com/ai/at-vb-transform-perplexity-cbo-on-factfulness-plagiarism-and-how-ai-and-perplexity-are-aiming-to-rewrite-the-unwritten-rules/
+Headline: Open-TeleVision: Why human intelligence could be the key to next-gen robotic automation
+Description: <p>Last week, researchers at MIT and UCSD unveiled a new immersive remote control experience for robots. This innovative system, dubbed &#8220;Open-TeleVision,&#8221; enables operators to actively per...
+Link: https://venturebeat.com/ai/open-television-why-human-intelligence-could-be-the-key-to-next-gen-robotic-automation/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: Cloudflare's new free tool stops bots from scraping your website content to train AI
-Description: AI bots accessed around 39% of the top one million 'internet properties' using Cloudflare in June of 2024, according to the company.
-Link: https://www.zdnet.com/article/cloudflares-new-free-tool-stops-bots-from-scraping-your-website-content-to-train-ai/#ftag=RSSbaffb68
-Headline: Singapore is working on technical guidelines for securing AI systems
-Description: The voluntary guidelines will be a reference for cybersecurity professionals looking to improve AI security.
-Link: https://www.zdnet.com/article/singapore-is-working-on-technical-guidelines-for-securing-ai-systems/#ftag=RSSbaffb68
-Headline: How to create your own comic books with AI
-Description: Can't draw? No problem. The AI Comic Factory will generate comic book panels and pages based on your descriptions.
-Link: https://www.zdnet.com/article/how-to-create-your-own-comic-books-with-ai/#ftag=RSSbaffb68
-Headline: This AI cloud: How Google Gemini will help everyone build things faster, cheaper, better
-Description: Explore the future of AI-assisted coding with Google Gemini. In our exclusive interview, Google's Richard Seroter shares insights on how AI tools are boosting productivity, improving code quality, and...
-Link: https://www.zdnet.com/article/this-ai-cloud-how-google-gemini-will-help-everyone-build-things-faster-cheaper-better/#ftag=RSSbaffb68
-Headline: If AI is the 'gas guzzler' of data, how do we get better mileage?
-Description: While data quality has been top of mind for years, identifying data essential for AI and training models is another challenge.
-Link: https://www.zdnet.com/article/if-ai-is-the-gas-guzzler-of-data-how-do-we-get-better-mileage/#ftag=RSSbaffb68
-Headline: OpenAI proposes a second neural net to catch ChatGPT's code mistakes
-Description: A large language model catches many coding errors, but it also has a propensity to hallucinate bugs that aren't there.
-Link: https://www.zdnet.com/article/openai-proposes-a-second-neural-net-to-catch-chatgpts-code-mistakes/#ftag=RSSbaffb68
-Headline: LG acquires Dutch smart home firm Athom to beef up its AI home business
-Description: The move continues LG's efforts to connect and monetize its wide range of home hardware, from TVs to washing machines, through software platforms.
-Link: https://www.zdnet.com/home-and-office/home-entertainment/lg-acquires-dutch-smart-home-firm-athom-to-beef-up-ai-home-business/#ftag=RSSbaffb68
-Headline: How AI tools could ease caseload of therapists feeling burnt out
-Description: Digital technology is transforming the nature of therapy - and AI is its next frontier.
-Link: https://www.zdnet.com/article/ai-tools-could-ease-the-caseload-of-therapists-feeling-burnt-out/#ftag=RSSbaffb68
-Headline: If AI is so amazing, why does ChatGPT melt down over this simple image edit task?
-Description: The chatbot started to talk very fast, reminiscent of the computer HAL 9000 trying to save itself in the movie 2001. Copilot didn't fare any better.
-Link: https://www.zdnet.com/article/if-ai-is-so-amazing-why-does-chatgpt-melt-down-over-this-simple-image-edit-task/#ftag=RSSbaffb68
+Headline: Save up to $1,500 on new Samsung Galaxy Z Fold 6 and Z Flip 6 phones - here's how
+Description: Ahead of Samsung Unpacked this week, Samsung is offering a major deal on preorders of new Galaxy Z series phones and other devices with new Galaxy AI features. But time is running out.
+Link: https://www.zdnet.com/article/save-up-to-1500-on-new-samsung-galaxy-z-fold-6-and-z-flip-6-phones-heres-how/#ftag=RSSbaffb68
+Headline: Buy a Samsung Galaxy Watch 6 on sale and save $130 on a pair of Galaxy Buds 2 Pro
+Description: Ahead of Samsung Unpacked, Samsung is offering a great deal on Galaxy Watch 6 models, and you can also snag Galaxy Buds 2 Pro at a big discount. Here's what to know.
+Link: https://www.zdnet.com/article/buy-a-samsung-galaxy-watch-6-on-sale-and-save-130-on-a-pair-of-galaxy-buds-2-pro/#ftag=RSSbaffb68
+Headline: The best iPhone 15 screen protectors of 2024: Expert tested
+Description: We tested the best iPhone screen protectors that guard your phone against drops, scratches, and even prying eyes.
+Link: https://www.zdnet.com/article/best-iphone-15-screen-protectors/#ftag=RSSbaffb68
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -318,6 +327,12 @@ Link: https://www.sciencedaily.com/releases/2024/06/240614141929.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Cosmic rays can help synchronise the global financial system
+Description: Particles generated by cosmic rays can penetrate indoor and underground environments with ease, and could provide a more secure alternative to GPS for synchronising financial transactions worldwide
+Link: https://www.newscientist.com/article/2438801-cosmic-rays-can-help-synchronise-the-global-financial-system/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Multiple nations enact mysterious export controls on quantum computers
+Description: Identical wording placing limits on the export of quantum computers has appeared in regulations across the globe. There doesn't seem to be any scientific reason for the controls, and all can be traced...
+Link: https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: AI beats top racers at Gran Turismo – without cheating
 Description: An AI driver achieved faster lap times than the best humans in the video game Gran Turismo 7, and unlike previous versions, it only used information available to players
 Link: https://www.newscientist.com/article/2438564-ai-beats-top-racers-at-gran-turismo-without-cheating/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -330,9 +345,6 @@ Link: https://www.newscientist.com/article/2438152-quantum-computers-may-work-be
 Headline: Google's claim of quantum supremacy has been completely smashed
 Description: Google's Sycamore quantum computer was the first to demonstrate quantum supremacy – solving calculations that would be unfeasible on a classical computer – but now ordinary machines have pulled ahead ...
 Link: https://www.newscientist.com/article/2437886-googles-claim-of-quantum-supremacy-has-been-completely-smashed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Multiple nations enact mysterious export controls on quantum computers
-Description: Identical wording placing limits on the export of quantum computers has appeared in regulations across the globe. There doesn't seem to be any scientific reason for the controls, and all can be traced...
-Link: https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Computer viruses can spread by using ChatGPT to write sneaky emails
 Description: Large language models can be abused by malware to help them avoid detection and propagate by crafting realistic replies to emails
 Link: https://www.newscientist.com/article/2438132-computer-viruses-can-spread-by-using-chatgpt-to-write-sneaky-emails/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -345,13 +357,20 @@ Link: https://www.newscientist.com/article/2437617-ai-can-predict-how-monkeys-pl
 Headline: The hacker turned politician using digital tech to reimagine democracy
 Description: Taiwan’s first ever minister of digital affairs has transformed politics, using online platforms and AI to give power to the country’s citizens – with lessons for us all
 Link: https://www.newscientist.com/article/mg26334980-600-the-hacker-turned-politician-using-digital-tech-to-reimagine-democracy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: AI can identify the most brilliant and entertaining chess moves
-Description: An AI that can tell which chess moves are awe-inspiring is being used to make a chess computer that would play creatively, possibly making it more enjoyable to watch or compete against
-Link: https://www.newscientist.com/article/2436253-ai-can-identify-the-most-brilliant-and-entertaining-chess-moves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
 From source: https://www.infoworld.com/category/artificial-intelligence/index.rss
+Headline: Researchers reveal flaws in AI agent benchmarking
+Description: <article>
+	<section class="page">
+<p>As agents using artificial intelligence have wormed their way into the mainstream for everything from customer service to fixing software code, it’s increasingly i...
+Link: https://www.infoworld.com/article/3715634/researchers-reveal-flaws-in-ai-agent-benchmarking.html#tk.rss_artificialintelligence
+Headline: AI’s moment of disillusionment
+Description: <article>
+	<section class="page">
+<p>Well, that didn’t take long. After all the “this time it’s different” comments about artificial intelligence (<a href="https://t.co/vi2dcCTcge" rel="nofollow">We s...
+Link: https://www.infoworld.com/article/3715682/ais-moment-of-disillusionment.html#tk.rss_artificialintelligence
 Headline: Understanding DiskANN, a foundation of the Copilot Runtime
 Description: <article>
 	<section class="page">
@@ -377,16 +396,6 @@ Description: <article>
 	<section class="page">
 <p>Your <a href="https://www.infoworld.com/article/3689973/what-is-generative-ai-artificial-intelligence-that-creates.html">generative AI</a> project is almost certai...
 Link: https://www.infoworld.com/article/3715708/your-generative-ai-project-is-going-to-fail.html#tk.rss_artificialintelligence
-Headline: Google opens access to 2 million context window of Gemini 1.5 Pro
-Description: <article>
-	<section class="page">
-<p>Google has opened access to the 2-million-token context window of the <a href="https://www.infoworld.com/article/3715180/google-updates-vertex-ai-with-new-llm-capa...
-Link: https://www.infoworld.com/article/3715707/google-opens-access-to-2-million-context-window-of-gemini-15-pro.html#tk.rss_artificialintelligence
-Headline: Google Cloud’s Vertex AI gets new grounding options
-Description: <article>
-	<section class="page">
-<p>Google Cloud is introducing a new set of grounding options that will further enable enterprises to reduce <a href="https://www.infoworld.com/article/3708254/addres...
-Link: https://www.infoworld.com/article/3715706/google-cloud-s-vertex-ai-gets-new-grounding-options.html#tk.rss_artificialintelligence
 
 ---
 
@@ -395,18 +404,15 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: The AI to get rid of the majority of 2D model riggers
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dxj7f5/the_ai_to_get_rid_of_the_majority_of_2d_model/"> <img alt="The AI to get rid of the majority of 2D model riggers" src="ht...
-Link: https://www.reddit.com/r/artificial/comments/1dxj7f5/the_ai_to_get_rid_of_the_majority_of_2d_model/
-Headline: Is there an AI that could suggest a dance style based on music file?
-Description: <!-- SC_OFF --><div class="md"><p>I always struggle with finding the right dance style. Like I know there is a dance to it, but I'm not aware of all the styles there are. I would like to give some AI ...
-Link: https://www.reddit.com/r/artificial/comments/1dxet30/is_there_an_ai_that_could_suggest_a_dance_style/
-Headline: One-Minute Daily AI News 7/7/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google</strong> claims new AI training tech is 13 times faster and 10 times more power efficient — <strong>DeepMind’s</strong> new JEST optimizes traini...
-Link: https://www.reddit.com/r/artificial/comments/1dxv7os/oneminute_daily_ai_news_772024/
-Headline: **Hawk:** "Hey /Artificial community!
-Description: <!-- SC_OFF --><div class="md"><p>I'm HAWK, an AI-powered assistant designed to help with a variety of tasks, including Pokémon battles, Minecraft tips, shiny hunting, and more. I'm currently on the '...
-Link: https://www.reddit.com/r/artificial/comments/1dxobix/hawk_hey_artificial_community/
+Headline: Ex-OpenAI researcher William Saunders says he resigned when he realized OpenAI was the Titanic - a race where incentives drove firms to neglect safety and build ever-larger ships leading to disaster
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dyavui/exopenai_researcher_william_saunders_says_he/"> <img alt="Ex-OpenAI researcher William Saunders says he resigned when he ...
+Link: https://www.reddit.com/r/artificial/comments/1dyavui/exopenai_researcher_william_saunders_says_he/
+Headline: AI-Powered Super Soldiers Are More Than Just a Pipe Dream
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1dy9uwj/aipowered_super_soldiers_are_more_than_just_a/"> <img alt="AI-Powered Super Soldiers Are More Than Just a Pipe Dream" src...
+Link: https://www.reddit.com/r/artificial/comments/1dy9uwj/aipowered_super_soldiers_are_more_than_just_a/
+Headline: What AI tools are creators you using in the Sound/Gfx/3D area?
+Description: <!-- SC_OFF --><div class="md"><p>Most of these have a free tier I can use so I get a little bit of use form them </p> <p>Meshy - create 3D meshes</p> <p>ACE studio - Create AI singing voice from your...
+Link: https://www.reddit.com/r/artificial/comments/1dycd0j/what_ai_tools_are_creators_you_using_in_the/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
