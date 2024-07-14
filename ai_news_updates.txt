@@ -1,6 +1,17 @@
-AI News Updates - 2024-07-13 02:33:07
+AI News Updates - 2024-07-14 02:40:39
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Here’s the full list of 28 US AI startups that have raised $100M or more in 2024
+Description: <p>In the first half of 2024 alone, more than $35.5 billion was invested into AI startups globally.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/
+Headline: Whistleblowers accuse OpenAI of ‘illegally restrictive’ NDAs
+Description: <p>Whistleblowers have accused OpenAI of placing illegal restrictions on how employees can communicate with government regulators, according to a letter obtained by The Washington Post. Lawyers repres...
+Link: https://techcrunch.com/2024/07/13/whistleblowers-accuse-openai-of-illegally-restrictive-ndas/
+Headline: What exactly is an AI agent?
+Description: <p>Regardless of how they're defined, the agents are for helping complete tasks in an automated way with as little human interaction as possible.</p>
+<p>© 2024 TechCrunch. All rights reserved. For per...
+Link: https://techcrunch.com/2024/07/13/what-exactly-is-an-ai-agent/
 Headline: Experiment finds AI boosts creativity individually — but lowers it collectively
 Description: <p>A new study examines whether AI could be an automated helpmeet in creative tasks, with mixed results: It appeared to help less naturally creative people write more original short stories — but damp...
 Link: https://techcrunch.com/2024/07/12/experiment-finds-ai-boosts-creativity-individually-but-lowers-it-collectively/
@@ -24,13 +35,6 @@ Headline: ‘Visual’ AI models might not see anything at all
 Description: <p>Although these companies' claims are artfully couched, it's clear that they want to express that the model sees in some sense of the word. </p>
 <p>© 2024 TechCrunch. All rights reserved. For person...
 Link: https://techcrunch.com/2024/07/11/are-visual-ai-models-actually-blind/
-Headline: Defense AI startup Helsing raises $487M Series C, plans Baltic expansion to combat Russian threat
-Description: <p>Helsing has created a new entity in Estonia and plans to spend €70 million on Baltic defense projects over the next three years.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only...
-Link: https://techcrunch.com/2024/07/11/defence-ai-startup-helsing-raises-487m-series-c-plans-baltic-expansion-to-combat-russian-threat/
-Headline: HerculesAI was working with large language models long before it was cool
-Description: <p>HerculesAI (formerly Zero Systems) has been working at automating professional services since 2017, originally concentrating on the legal industry. As part of that, it has actually been building la...
-Link: https://techcrunch.com/2024/07/11/herculesai-has-been-working-with-llms-long-before-it-was-cool/
 
 ---
 
@@ -209,6 +213,15 @@ Link: https://aws.amazon.com/blogs/machine-learning/fine-tune-anthropics-claude-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Psychological safety can be beneficial (to a point) — here’s where it gets dangerous
+Description: We must create environments where safety does not come through the transfer of risk, but where we can encounter risk in a supportive way.
+Link: https://venturebeat.com/ai/psychological-safety-can-be-beneficial-to-a-point-heres-where-it-gets-dangerous/
+Headline: Meta researchers distill System 2 thinking into LLMs, improving performance on complex reasoning
+Description: A technique by researchers at Meta FAIR distills System 2 thinking into LLMs so that they can perform reasoning tasks with less resources
+Link: https://venturebeat.com/ai/meta-researchers-distill-system-2-thinking-into-llms-improving-performance-on-complex-reasoning/
+Headline: DeepMind’s PEER scales language models with millions of tiny experts
+Description: Parameter-Efficient Expert Retrieval (PEER) is a technique that allows LLMs to scale to millions of experts and remain resource efficient.
+Link: https://venturebeat.com/ai/deepminds-peer-scales-language-models-with-millions-of-tiny-experts/
 Headline: Skillsoft: How to go from AI vision to AI reality
 Description: Every company's AI journey will be different, but they all must explore, experiment, skill and reskill until AI is in their DNA.
 Link: https://venturebeat.com/ai/skillsoft-how-to-go-from-ai-vision-to-ai-reality/
@@ -227,23 +240,16 @@ Link: https://venturebeat.com/ai/nvidia-will-show-simulation-and-genai-advances-
 Headline: OpenAI anticipates decrease in AI model costs amid adoption surge
 Description: At VB Transform 2024, Olivier Godement, the head of API Product at OpenAI, touched upon several subjects associated with OpenAI’s technology, including how the inference cost of its models has come do...
 Link: https://venturebeat.com/ai/openai-anticipates-decrease-in-ai-model-costs-amid-adoption-surge/
-Headline: Five ways generative AI is improving healthcare today and defining its future
-Description: Discover five transformative ways generative AI is revolutionizing healthcare today and shaping its future.
-Link: https://venturebeat.com/ai/five-ways-generative-ai-is-improving-healthcare-today-and-defining-its-future/
-Headline: Drag queens the future of healthcare? At least Healthvana thinks so
-Description: Taking a unique approach, Healthvana is upending AI-patient interactions, transcending typical healthcare portals that 'suck.'
-Link: https://venturebeat.com/ai/drag-queens-the-future-of-healthcare-at-least-healthvana-thinks-so/
-Headline: Financial services might be ‘too cautious’ in using gen AI
-Description: Financial services companies talk about how they use generative AI and why there has to be a high bar for AI apps before getting to consumers.
-Link: https://venturebeat.com/ai/financial-services-might-be-too-cautious-in-using-gen-ai/
-Headline: Announcing the winners of VentureBeat’s 6th Annual AI Innovation Awards
-Description: The awards recognized enterprise implementation, innovation, startup promise and visionary and inclusivity initiatives in generative AI.
-Link: https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-6th-annual-ai-innovation-awards/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-
+Headline: This Sony Bravia is one of the best-kept secrets in TVs - and it's on sale for Prime Day
+Description: I've seen the best TVs of 2024, and the Sony X90L from 2023 is the TV I'd most recommend. Get one for up to $3,000 off ahead of Amazon Prime Day.
+Link: https://www.zdnet.com/home-and-office/home-entertainment/this-sony-bravia-is-one-of-the-best-kept-secrets-in-tvs-and-its-on-sale-for-prime-day/#ftag=RSSbaffb68
+Headline: Samsung Galaxy Z Fold 6 vs Z Fold 5: Which premium model should you buy?
+Description: Samsung just took the wraps off of its latest foldable phone, the Galaxy Z Fold 6, but how does it compare to last year's model? I break down the details.
+Link: https://www.zdnet.com/article/samsung-galaxy-z-fold-6-vs-z-fold-5-which-premium-model-should-you-buy/#ftag=RSSbaffb68
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -299,6 +305,9 @@ Link: https://www.sciencedaily.com/releases/2024/07/240711132137.htm
 Headline: How risk-averse are humans when interacting with robots?
 Description: How do people like to interact with robots when navigating a crowded environment? And what algorithms should roboticists use to program robots to interact with humans? These are the questions that a t...
 Link: https://www.sciencedaily.com/releases/2024/07/240711111530.htm
+Headline: AI Chatbots have shown they have an 'empathy gap' that children are likely to miss
+Description: Artificial intelligence (AI) chatbots have frequently shown signs of an 'empathy gap' that puts young users at risk of distress or harm, raising the urgent need for 'child-safe AI', according to a new...
+Link: https://www.sciencedaily.com/releases/2024/07/240710195430.htm
 Headline: A new twist on artificial 'muscles' for safer, softer robots
 Description: Engineers have developed a new soft, flexible device that makes robots move by expanding and contracting -- just like a human muscle. To demonstrate their new device, called an actuator, the researche...
 Link: https://www.sciencedaily.com/releases/2024/07/240710135244.htm
@@ -320,9 +329,6 @@ Link: https://www.sciencedaily.com/releases/2024/06/240625205646.htm
 Headline: Robots face the future
 Description: Researchers have found a way to bind engineered skin tissue to the complex forms of humanoid robots. This brings with it potential benefits to robotic platforms such as increased mobility, self-healin...
 Link: https://www.sciencedaily.com/releases/2024/06/240625205041.htm
-Headline: Meet CARMEN, a robot that helps people with mild cognitive impairment
-Description: Meet CARMEN, short for Cognitively Assistive Robot for Motivation and Neurorehabilitation -- a small, tabletop robot designed to help people with mild cognitive impairment (MCI) learn skills to improv...
-Link: https://www.sciencedaily.com/releases/2024/06/240624125640.htm
 
 ---
 
@@ -369,25 +375,9 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: OpenAI just told employees at an all-hands meeting they're “on the cusp” of models capable of “problem-solving tasks as well as a human with a doctorate-level education.”
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e164js/openai_just_told_employees_at_an_allhands_meeting/"> <img alt="OpenAI just told employees at an all-hands meeting they're...
-Link: https://www.reddit.com/r/artificial/comments/1e164js/openai_just_told_employees_at_an_allhands_meeting/
-Headline: The EU AI Act - will this change the mistral' market share in EU.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e184or/the_eu_ai_act_will_this_change_the_mistral_market/"> <img alt="The EU AI Act - will this change the mistral' market share...
-Link: https://www.reddit.com/r/artificial/comments/1e184or/the_eu_ai_act_will_this_change_the_mistral_market/
-Headline: One-Minute Daily AI News 7/12/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Open AI</strong> has developed a scale to assess how close we are to AGI.[1]</li> <li>AI Music Companies <strong>Suno</strong> and <strong>Udio</strong>...
-Link: https://www.reddit.com/r/artificial/comments/1e1vp9u/oneminute_daily_ai_news_7122024/
-Headline: One-Minute Daily AI News 7/11/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Watch a robot navigate the <strong>Google DeepMind</strong> offices using <strong>Gemini</strong>.[1]</li> <li>The sperm whale ‘phonetic alphabet’ revealed by A...
-Link: https://www.reddit.com/r/artificial/comments/1e188d3/oneminute_daily_ai_news_7112024/
-Headline: How changing my data store is transforming my AI-Powered Finance Platform
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e1qcz2/how_changing_my_data_store_is_transforming_my/"> <img alt="How changing my data store is transforming my AI-Powered Finan...
-Link: https://www.reddit.com/r/artificial/comments/1e1qcz2/how_changing_my_data_store_is_transforming_my/
-Headline: Why do so many LLMs struggle with memory?
-Description: <!-- SC_OFF --><div class="md"><p>Hello! Hoping this is the right sub to ask. I like to play with AI models, mainly as chat bots. They're fun, they're very human-like, they are overall wayyyy beyond a...
-Link: https://www.reddit.com/r/artificial/comments/1e1im0l/why_do_so_many_llms_struggle_with_memory/
-
+Headline: Most ChatGPT users think AI models have 'conscious experiences', study finds | The more people use ChatGPT, the more likely they are to think they are conscious
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e1zbha/most_chatgpt_users_think_ai_models_have_conscious/"> <img alt="Most ChatGPT users think AI models have 'conscious experie...
+Link: https://www.reddit.com/r/artificial/comments/1e1zbha/most_chatgpt_users_think_ai_models_have_conscious/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
