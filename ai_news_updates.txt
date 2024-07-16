@@ -1,6 +1,22 @@
-AI News Updates - 2024-07-15 02:38:09
+AI News Updates - 2024-07-16 02:35:55
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Bird Buddy’s new AI feature lets people name and identify individual birds
+Description: <p>Name That Bird determines individual members of a species by identifying distinguishing characteristics that most humans would be hard-pressed to spot.</p>
+<p>© 2024 TechCrunch. All rights reserved...
+Link: https://techcrunch.com/2024/07/15/bird-buddys-new-ai-feature-lets-people-name-and-identify-individual-birds/
+Headline: YouTube Music is testing an AI-generated radio feature and adding a song recognition tool
+Description: <p>YouTube Music is introducing two new ways to boost song discovery on its platform. YouTube announced on Monday that it&#8217;s experimenting with an AI-generated conversational radio feature, and r...
+Link: https://techcrunch.com/2024/07/15/youtube-music-is-testing-an-ai-generated-radio-feature-and-adding-a-song-recognition-tool/
+Headline: Google’s talks to buy Wiz, and the gap between AI spending and AI revenue
+Description: <p>On today’s episode of Equity, Rebecca Bellan explored Google’s reported talks to acquire Wiz, a cloud security company, for around $23 billion. Wiz provides an “all-in-one approach to cloud securit...
+Link: https://techcrunch.com/podcast/googles-talks-to-buy-wiz-and-the-gap-between-ai-spending-and-ai-revenue/
+Headline: TechCrunch Minute: A Google robot shows off what Gemini can do
+Description: <p>Google found a new way to demonstrate what its Gemini AI model can do, with help from a robot. This was a robot from Google&#8217;s Everybody Robots Division, which was shut down last year. But app...
+Link: https://techcrunch.com/video/techcrunch-minute-a-google-robot-shows-off-what-gemini-can-do/
+Headline: Deezer chases Spotify and Amazon Music with its own AI playlist generator
+Description: <p>Deezer is the latest music streaming app to introduce an AI playlist feature. The company announced on Monday that a select number of paid users will be able to create custom playlists with a text ...
+Link: https://techcrunch.com/2024/07/15/deezer-chases-spotify-and-amazon-music-with-its-own-ai-playlist-generator/
 Headline: The AI financial results paradox
 Description: <p>There is a general consensus today that generative AI is going to transform business in a profound way, and companies and individuals who don’t get on board will be quickly left in the dustbin of h...
 Link: https://techcrunch.com/2024/07/14/the-ai-financial-results-paradox/
@@ -15,36 +31,33 @@ Headline: What exactly is an AI agent?
 Description: <p>Regardless of how they're defined, the agents are for helping complete tasks in an automated way with as little human interaction as possible.</p>
 <p>© 2024 TechCrunch. All rights reserved. For per...
 Link: https://techcrunch.com/2024/07/13/what-exactly-is-an-ai-agent/
-Headline: Experiment finds AI boosts creativity individually — but lowers it collectively
-Description: <p>A new study examines whether AI could be an automated helpmeet in creative tasks, with mixed results: It appeared to help less naturally creative people write more original short stories — but damp...
-Link: https://techcrunch.com/2024/07/12/experiment-finds-ai-boosts-creativity-individually-but-lowers-it-collectively/
-Headline: New Senate bill seeks to protect artists’ and journalists’ content from AI use
-Description: <p>A bipartisan group of senators has introduced a new bill that seeks to protect artists, songwriters and journalists from having their content used to train AI models or generate AI content without ...
-Link: https://techcrunch.com/2024/07/12/new-senate-bill-seeks-to-protect-artists-and-journalists-content-from-ai-use/
-Headline: There’s always something happening to OpenAI’s board
-Description: <p>Welcome back to another recap of Equity, TechCrunch’s flagship podcast about the business of startups. This episode is packed with deals, antitrust musings, AI and more.&#160; To kick things off, K...
-Link: https://techcrunch.com/podcast/theres-always-something-happening-to-openais-board/
-Headline: Amazon AI chatbot Rufus is now live for all US customers
-Description: <p>The AI chatbot has been trained on Amazon's product catalog, customer reviews, community Q&#038;As, and other public information found around the web.</p>
-<p>© 2024 TechCrunch. All rights reserved....
-Link: https://techcrunch.com/2024/07/12/amazon-ai-chatbot-rufus-is-now-live-for-all-u-s-customers/
-Headline: EU’s AI Act gets published in bloc’s Official Journal, starting clock on legal deadlines
-Description: <p>The full and final text of the EU AI Act, the European Union&#8217;s landmark risk-based regulation for applications of artificial intelligence, has been published in the bloc&#8217;s Official Jour...
-Link: https://techcrunch.com/2024/07/12/eus-ai-act-gets-published-in-blocs-official-journal-starting-clock-on-legal-deadlines/
-Headline: SoftBank acquires UK AI chipmaker Graphcore
-Description: <p>While the figure of $500 million has been bandied around in various reports for months, in a press briefing early Thursday morning, Graphcore co-founder and CEO Nigel Toon remained coy on the detai...
-Link: https://techcrunch.com/2024/07/11/softbank-acquires-uk-ai-chipmaker-graphcore/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: This HR company tried to treat AI bots like people — it didn’t go over well
+Description: <figure>
+      <img alt="A screenshot showing an AI worker as part of an org chart in Lattice." src="https://cdn.vox-cdn.com/thumbor/qD_7HjcNxJpEc7JQIdt-NIL6DNc=/159x0:1868x1139/1310x873/cdn.vox-cdn.c...
+Link: https://www.theverge.com/2024/7/15/24199054/lattice-digital-workers-ai
+Headline: Google tests out Gemini AI-created video presentations
+Description: <figure>
+      <img alt="A screenshot of the Google Vids UI." src="https://cdn.vox-cdn.com/thumbor/svTsA1u26aEDBL2IkNkt50m2dB0=/0x0:1479x986/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7346219...
+Link: https://www.theverge.com/2024/7/15/24199063/google-vids-gemini-ai-app-workspace-labs-available
+Headline: AMD’s new AI chips have a home in HP’s next Copilot Plus laptop
+Description: <figure>
+      <img alt="A user accessing the HP OmniBook Ultra laptop’s AI features." src="https://cdn.vox-cdn.com/thumbor/i6mRY6_do07Gr2OiIo4XUV3h91o=/38x0:2963x1950/1310x873/cdn.vox-cdn.com/uploads...
+Link: https://www.theverge.com/2024/7/15/24198859/hp-omnibook-ultra-ai-amd-ryzen-microsoft-windows-copilot-plus
+Headline: Biden’s top tech adviser says AI is a ‘today problem’
+Description: <figure>
+      <img alt="A portrait of OSTP Director Arati Prabhakar." src="https://cdn.vox-cdn.com/thumbor/-6SjAe_SOlyJbq6C5T4freYyB-c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/ima...
+Link: https://www.theverge.com/24197237/arati-prabhakar-ostp-director-tech-policy-science-ai-regulation-decoder-podcast
 Headline: Inside the AI memory machine
 Description: <figure>
       <img alt="Illustration of someone looking at a flashback of their past." src="https://cdn.vox-cdn.com/thumbor/v-E50tKTR_kFtou_XVUDf6V50ro=/0x2:2204x1471/1310x873/cdn.vox-cdn.com/uploads...
 Link: https://www.theverge.com/2024/7/14/24197107/ai-memory-recall-limitless-gemini-vergecast
 Headline: OpenAI is plagued by safety concerns
 Description: <figure>
-      <img alt="An illustration depicting a feature-less face against a pink, white, and blue background." src="https://cdn.vox-cdn.com/thumbor/wfdAJXySZW0XC8Zva193BkCoovM=/0x0:2040x1360/1310...
+      <img alt="An illustration depicting a featureless face against a pink, white, and blue background." src="https://cdn.vox-cdn.com/thumbor/wfdAJXySZW0XC8Zva193BkCoovM=/0x0:2040x1360/1310x...
 Link: https://www.theverge.com/2024/7/12/24197142/openai-safety-concerns-agi
 Headline: Amazon’s AI shopping assistant rolls out to all users in the US
 Description: <figure>
@@ -58,22 +71,6 @@ Headline: Samsung’s new folds, flips, and Apple clones
 Description: <figure>
       <img alt="South-Korean Samsung President &amp;amp; Head of Mobile Communications Business Roh Tae-moon speaks during the Samsung Galaxy Unpacked event" src="https://cdn.vox-cdn.com/thum...
 Link: https://www.theverge.com/2024/7/12/24197065/samsung-galaxy-fold-flip-airpods-vergecast
-Headline: Microsoft’s Copilot AI now understands your terrible handwriting
-Description: <figure>
-      <img alt="Vector illustration of the Microsoft Copilot logo." src="https://cdn.vox-cdn.com/thumbor/lc_EAFMUdUf8QR11sEh9Z1JnStQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_ima...
-Link: https://www.theverge.com/2024/7/12/24197009/microsoft-onenote-copilot-inked-notes-handwriting-recognition
-Headline: The AI-focused COPIED Act would make removing digital watermarks illegal
-Description: <figure>
-      <img alt="Digital photo collage of a judge with gavel whose hands has too many fingers." src="https://cdn.vox-cdn.com/thumbor/hoz7lodN4C8X92q5fXZBsqF7aF4=/0x0:2040x1360/1310x873/cdn.vox...
-Link: https://www.theverge.com/2024/7/11/24196769/copied-act-cantwell-blackburn-heinrich-ai-journalists-artists
-Headline: Here’s how OpenAI will determine how powerful its AI systems are
-Description: <figure>
-      <img alt="ChatGPT logo in mint green and black colors." src="https://cdn.vox-cdn.com/thumbor/ZqwBhj9aWQiLaWOvzMmq4yfGM9c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/ima...
-Link: https://www.theverge.com/2024/7/11/24196746/heres-how-openai-will-determine-how-powerful-its-ai-systems-are
-Headline: Why The Atlantic signed a deal with OpenAI
-Description: <figure>
-      <img alt="A portrait of The Atlantic CEO Nicholas Thompson. " src="https://cdn.vox-cdn.com/thumbor/rqXtNrNWjNcbY62aNI5nW1Qopng=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_ima...
-Link: https://www.theverge.com/2024/7/11/24196396/the-atlantic-openai-licensing-deal-ai-news-journalism-web-future-decoder-podcasts
 
 ---
 
@@ -106,6 +103,7 @@ Link: https://blogs.nvidia.com/blog/geforce-now-thursday-july-2024-games-list/
 Headline: Decoding How the Generative AI Revolution BeGAN
 Description: Generative models have completely transformed the AI landscape — headlined by popular apps such as ChatGPT and Stable Diffusion.
 Link: https://blogs.nvidia.com/blog/ai-decoded-gan-canvas-app/
+
 ---
 
 From source: https://openai.com/blog/rss.xml
@@ -190,6 +188,9 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: How Mixbook used generative AI to offer personalized photo book experiences
+Description: Years ago, Mixbook undertook a strategic initiative to transition their operational workloads to Amazon Web Services (AWS), a move that has continually yielded significant advantages. This pivotal dec...
+Link: https://aws.amazon.com/blogs/machine-learning/how-mixbook-used-generative-ai-to-offer-personalized-photo-book-experiences/
 Headline: How BRIA AI used distributed training in Amazon SageMaker to train latent diffusion foundation models for commercial use
 Description: This post is co-written with Bar Fingerman from BRIA AI. This post explains how BRIA AI trained BRIA AI 2.0, a high-resolution (1024×1024) text-to-image diffusion model, on a dataset comprising petaby...
 Link: https://aws.amazon.com/blogs/machine-learning/how-bria-ai-used-distributed-training-in-amazon-sagemaker-to-train-latent-diffusion-foundation-models-for-commercial-use/
@@ -202,56 +203,27 @@ Link: https://aws.amazon.com/blogs/machine-learning/streamline-generative-ai-dev
 Headline: Empowering everyone with GenAI to rapidly build, customize, and deploy apps securely: Highlights from the AWS New York Summit
 Description: Imagine this—all employees relying on generative artificial intelligence (AI) to get their work done faster, every task becoming less mundane and more innovative, and every application providing a mor...
 Link: https://aws.amazon.com/blogs/machine-learning/empowering-everyone-with-genai-to-rapidly-build-customize-and-deploy-apps-securely-highlights-from-the-aws-new-york-summit/
-Headline: A progress update on our commitment to safe, responsible generative AI
-Description: Responsible AI is a longstanding commitment at Amazon. From the outset, we have prioritized responsible AI innovation by embedding safety, fairness, robustness, security, and privacy into our developm...
-Link: https://aws.amazon.com/blogs/machine-learning/a-progress-update-on-our-commitment-to-safe-responsible-generative-ai/
-Headline: Fine-tune Anthropic’s Claude 3 Haiku in Amazon Bedrock to boost model accuracy and quality
-Description: Frontier large language models (LLMs) like Anthropic Claude on Amazon Bedrock are trained on vast amounts of data, allowing Anthropic Claude to understand and generate human-like text. Fine-tuning Ant...
-Link: https://aws.amazon.com/blogs/machine-learning/fine-tune-anthropics-claude-3-haiku-in-amazon-bedrock-to-boost-model-accuracy-and-quality/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
-Headline: Can we please stop talking about replacing employees with AI?
-Description: Here are 3 actions CEOs and organizational leaders should take instead of wantonly replacing employees with AI.
-Link: https://venturebeat.com/ai/can-we-please-stop-talking-about-replacing-employees-with-ai/
-Headline: Tech leaders offer support, well wishes for Trump following shock assassination attempt
-Description: The shocking news has galvanized leaders from some of the largest and most notable tech companies in the country to showing support.
-Link: https://venturebeat.com/ai/tech-leaders-offer-support-well-wishes-for-trump-following-shock-assassination-attempt/
-Headline: Psychological safety can be beneficial (to a point) — here’s where it gets dangerous
-Description: We must create environments where safety does not come through the transfer of risk, but where we can encounter risk in a supportive way.
-Link: https://venturebeat.com/ai/psychological-safety-can-be-beneficial-to-a-point-heres-where-it-gets-dangerous/
-Headline: Meta researchers distill System 2 thinking into LLMs, improving performance on complex reasoning
-Description: A technique by researchers at Meta FAIR distills System 2 thinking into LLMs so that they can perform reasoning tasks with less resources
-Link: https://venturebeat.com/ai/meta-researchers-distill-system-2-thinking-into-llms-improving-performance-on-complex-reasoning/
-Headline: DeepMind’s PEER scales language models with millions of tiny experts
-Description: Parameter-Efficient Expert Retrieval (PEER) is a technique that allows LLMs to scale to millions of experts and remain resource efficient.
-Link: https://venturebeat.com/ai/deepminds-peer-scales-language-models-with-millions-of-tiny-experts/
-Headline: Skillsoft: How to go from AI vision to AI reality
-Description: Every company's AI journey will be different, but they all must explore, experiment, skill and reskill until AI is in their DNA.
-Link: https://venturebeat.com/ai/skillsoft-how-to-go-from-ai-vision-to-ai-reality/
-Headline: Pinterest debuts Canvas AI at VB Transform, reshaping visual discovery
-Description: Pinterest unveils Canvas, an AI model for visual discovery, at VB Transform, showcasing its potential to revolutionize user experience and e-commerce while prioritizing responsible AI development.
-Link: https://venturebeat.com/ai/pinterest-debuts-canvas-ai-at-vb-transform-reshaping-visual-discovery/
-Headline: SambaNova Systems wins Coolest Technology Award at VentureBeat Transform 2024
-Description: This recognition underscores the company's innovative approach to AI computation and its potential to reshape the enterprise AI landscape.
-Link: https://venturebeat.com/ai/sambanova-systems-wins-coolest-technology-award-at-venturebeat-transform-2024/
-Headline: VentureBeat’s Transform 2024 Innovation Showcase: Instabase gets most likely to succeed
-Description: Instabase was voted most likely to succeed at the Innovation Showcase for VentureBeat's Transform 2024 event today.
-Link: https://venturebeat.com/ai/venturebeats-transform-2024-innovation-showcase-instabase-gets-most-likely-to-succeed/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: How to clear the cache on your TV (and why you should)
-Description: Clearing the cache on your TV can be a great way to improve its performance, fix bugs, and ensure you get the best viewing experience. Here's how to do it.
-Link: https://www.zdnet.com/home-and-office/home-entertainment/how-to-clear-the-cache-on-your-tv-and-why-you-should/#ftag=RSSbaffb68
-Headline: Amazon Prime Day 2024: Live updates on the 50+ hottest Prime Day deals so far
-Description: Prime Day is two days away. We found the best Prime Day deals available now on TVs, laptops, Apple products, and much more.
-Link: https://www.zdnet.com/article/best-amazon-prime-day-deals-live-2024-07-14/#ftag=RSSbaffb68
-Headline: The best early Prime Day 2024 deals so far
-Description: Amazon Prime Day is this week, and we found some of the best early deals on everything from big-ticket items like TVs and phones to useful gadgets like AirTags and Echo devices.
-Link: https://www.zdnet.com/article/best-amazon-prime-day-deals-07-14-24/#ftag=RSSbaffb68
+Headline: Buy a Samsung Frame TV for up to $1,000 off right now at Best Buy
+Description: Forget Prime Day -- Best Buy has Samsung's popular TV that doubles as a work of art on deep discount right now.
+Link: https://www.zdnet.com/home-and-office/home-entertainment/buy-a-samsung-frame-tv-for-up-to-1000-off-right-now-at-best-buy/#ftag=RSSbaffb68
+Headline: The 50+ best Prime Day 2024 deals we've found so far
+Description: Amazon Prime Day officially starts Tuesday, but you can already find some of the best deals on big-ticket items like TVs and phones and useful gadgets like AirTags and Echo devices.
+Link: https://www.zdnet.com/article/best-amazon-prime-day-deals-2024-07-15/#ftag=RSSbaffb68
+Headline: The 22 best Prime Day 2024 Fire TV deals
+Description: Prime Day is the best time to buy an Amazon Fire TV, with some of the biggest discounts available for the annual sale -- here are the best ones.
+Link: https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-fire-tv-deals-2024-07-15/#ftag=RSSbaffb68
+Headline: The 10 best Prime Day 2024 kitchen appliance deals
+Description: In the market for a new air fryer, coffee maker, or Ninja Creami? Prime Day kicks off tomorrow - refresh your kitchen with these appliance deals.
+Link: https://www.zdnet.com/home-and-office/kitchen-household/best-prime-day-kitchen-appliance-deals-2024-07-15/#ftag=RSSbaffb68
+
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -335,6 +307,9 @@ Link: https://www.sciencedaily.com/releases/2024/06/240625205041.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Planes are under attack from GPS jamming – can we find a fix?
+Description: GPS jamming and spoofing has begun to affect transatlantic flights. Now the race is on to develop alternative ways of navigating
+Link: https://www.newscientist.com/article/2439560-planes-are-under-attack-from-gps-jamming-can-we-find-a-fix/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Russia is building ground-based kamikaze robots out of old hoverboards
 Description: Hoverboards, or self-balancing scooters, are already used by hobbyists as a basis for robots, but now a group in Russia is putting them to use on the battlefields of Ukraine
 Link: https://www.newscientist.com/article/2439161-russia-is-building-ground-based-kamikaze-robots-out-of-old-hoverboards/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -362,9 +337,6 @@ Link: https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-wha
 Headline: Quantum computers may work better when they ignore causality
 Description: A quantum phenomenon that muddles the rules of cause and effect could make quantum computers better at performing certain operations
 Link: https://www.newscientist.com/article/2438152-quantum-computers-may-work-better-when-they-ignore-causality/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Google's claim of quantum supremacy has been completely smashed
-Description: Google's Sycamore quantum computer was the first to demonstrate quantum supremacy – solving calculations that would be unfeasible on a classical computer – but now ordinary machines have pulled ahead ...
-Link: https://www.newscientist.com/article/2437886-googles-claim-of-quantum-supremacy-has-been-completely-smashed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -377,25 +349,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: OpenAI illegally barred staff from airing safety risks, whistleblowers say
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e2tz16/openai_illegally_barred_staff_from_airing_safety/"> <img alt="OpenAI illegally barred staff from airing safety risks, whi...
-Link: https://www.reddit.com/r/artificial/comments/1e2tz16/openai_illegally_barred_staff_from_airing_safety/
-Headline: OpenAI working on new reasoning technology under code name ‘Strawberry’
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e3g3qc/openai_working_on_new_reasoning_technology_under/"> <img alt="OpenAI working on new reasoning technology under code name ...
-Link: https://www.reddit.com/r/artificial/comments/1e3g3qc/openai_working_on_new_reasoning_technology_under/
-Headline: One-Minute Daily AI News 7/13/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Whistleblowers accuse <strong>OpenAI</strong> of ‘illegally restrictive’ NDAs.[1]</li> <li><strong>Amazon</strong> Unveils AI-Powered <strong>AWS</strong> App S...
-Link: https://www.reddit.com/r/artificial/comments/1e2tlu4/oneminute_daily_ai_news_7132024/
-Headline: Is it possible to get to AGI with turn based AI systems?
-Description: <!-- SC_OFF --><div class="md"><p>Current AI systems are 'turn based' that is that the user give an input and then the Ai gives an output and so on back and forth. In between times the AI is not proce...
-Link: https://www.reddit.com/r/artificial/comments/1e3ekfq/is_it_possible_to_get_to_agi_with_turn_based_ai/
-Headline: On-device endless text RPG game
-Description: <!-- SC_OFF --><div class="md"><p>I played some AI dungeon and I found it amazing, I enjoyed it a lot, how I can modify the story however I want and create my own scenarios. The problem is that it all...
-Link: https://www.reddit.com/r/artificial/comments/1e3fd5r/ondevice_endless_text_rpg_game/
-Headline: One-Minute Daily AI News 7/14/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Sir <strong>Keir Starmer</strong> is expected to introduce a long-awaited artificial intelligence bill this week as he seeks to follow through on Labour’s manif...
-Link: https://www.reddit.com/r/artificial/comments/1e3adyd/oneminute_daily_ai_news_7142024/
-
+Headline: This week's AI headlines
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e3l18p/this_weeks_ai_headlines/"> <img alt="This week's AI headlines" src="https://preview.redd.it/z3p8clhmrlcd1.png?width=640&a...
+Link: https://www.reddit.com/r/artificial/comments/1e3l18p/this_weeks_ai_headlines/
+Headline: General Theory of Neural Networks
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e3wn49/general_theory_of_neural_networks/"> <img alt="General Theory of Neural Networks" src="https://external-preview.redd.it/l...
+Link: https://www.reddit.com/r/artificial/comments/1e3wn49/general_theory_of_neural_networks/
+Headline: Baidu Apollo operates these self-driving taxis in cities like Wuhan, Guangzhou, and Beijing. This new "carrot" ride-hailing platform has completed 3 million rides in just one month
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e46n8e/baidu_apollo_operates_these_selfdriving_taxis_in/"> <img alt="Baidu Apollo operates these self-driving taxis in cities li...
+Link: https://www.reddit.com/r/artificial/comments/1e46n8e/baidu_apollo_operates_these_selfdriving_taxis_in/
+Headline: AI Integration for Structural Engineering
+Description: <!-- SC_OFF --><div class="md"><p>I've been tasked by my supervisor to research AI platforms and how they might be useful or integrated into our workflow.</p> <p>We're a small structural engineering f...
+Link: https://www.reddit.com/r/artificial/comments/1e411ho/ai_integration_for_structural_engineering/
+Headline: One-Minute Daily AI News 7/15/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>MUSCLE</strong>: A Model Update Strategy for Compatible LLM Evolution.[1]</li> <li><strong>Apple</strong> at all-time high after Morgan Stanley calls st...
+Link: https://www.reddit.com/r/artificial/comments/1e4bix3/oneminute_daily_ai_news_7152024/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
