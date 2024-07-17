@@ -1,6 +1,33 @@
-AI News Updates - 2024-07-16 02:35:55
+AI News Updates - 2024-07-17 02:35:13
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Wittaya Aqua’s data-driven AI helps seafood farmers increase aquaculture production
+Description: <p>Wittaya Aqua enables seafood farmers to consolidate existing data points across the seafood supply chain.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/07/16/wittaya-aquas-data-driven-ai-helps-seafood-farmers-increase-aquaculture-production/
+Headline: After Tesla and OpenAI, Andrej Karpathy’s startup aims to apply AI assistants to education
+Description: <p>Andrej Karpathy, former head of AI at Tesla and researcher at OpenAI, is launching Eureka Labs, an “AI native” education platform. In tech speak, that usually means built from the ground up with AI...
+Link: https://techcrunch.com/2024/07/16/after-tesla-and-openai-andrej-karpathys-startup-aims-to-apply-ai-assistants-to-education/
+Headline: Anthropic releases Claude app for Android
+Description: <p>Anthropic launched its Claude Android app on Tuesday to bring its AI chatbot to more users. This is Anthropic&#8217;s latest effort to convince users to ditch ChatGPT by making Claude available in ...
+Link: https://techcrunch.com/2024/07/16/anthropic-releases-claude-app-for-android/
+Headline: TechCrunch Minute: Whistleblowers say OpenAI employs ‘illegally restrictive’ NDAs
+Description: <p>Trouble could be on the horizon for OpenAI. A group of whistleblowers accused OpenAI of requiring its employees to sign illegally restrictive non-disclosure agreements, or NDAs. The lawyers represe...
+Link: https://techcrunch.com/video/techcrunch-minute-whistleblowers-say-openai-employs-illegally-restrictive-ndas/
+Headline: Perplexity’s Aravind Srinivas on accelerating everyday AI at TechCrunch Disrupt 2024
+Description: <p>As AI competition heats up, Perplexity has proven resilient due to its focus on using the technology strictly as a tool to let people &#8220;learn anything in their own way.&#8221; But how will the...
+Link: https://techcrunch.com/2024/07/16/perplexitys-aravind-srinivas-on-accelerating-everyday-ai-at-techcrunch-disrupt-2024/
+Headline: Microsoft faces UK antitrust probe after hiring Inflection AI founders and employees
+Description: <p>U.K. authorities have until early September to decide whether the hiring is tantamount to a merger.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/07/16/microsoft-faces-uk-antitrust-probe-after-hiring-inflection-ai-founders-and-employees/
+Headline: Exa raises $17M from Lightspeed, Nvidia, Y Combinator to build a Google for AIs
+Description: <p>While there’s no shortage of startups aiming to replace Google with AI-powered search, a startup called Exa has a different idea. Search for the AIs.</p>
+<p>© 2024 TechCrunch. All rights reserved. ...
+Link: https://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models/
+Headline: Presti is using GenAI to replace costly furniture industry photo shoots
+Description: <p>If you’ve ever bought a sofa online, have you thought about the homes you can see in the background of the product shots? When it’s time to release a new collection, furniture brands usually spend ...
+Link: https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/
 Headline: Bird Buddy’s new AI feature lets people name and identify individual birds
 Description: <p>Name That Bird determines individual members of a species by identifying distinguishing characteristics that most humans would be hard-pressed to spot.</p>
 <p>© 2024 TechCrunch. All rights reserved...
@@ -8,33 +35,22 @@ Link: https://techcrunch.com/2024/07/15/bird-buddys-new-ai-feature-lets-people-n
 Headline: YouTube Music is testing an AI-generated radio feature and adding a song recognition tool
 Description: <p>YouTube Music is introducing two new ways to boost song discovery on its platform. YouTube announced on Monday that it&#8217;s experimenting with an AI-generated conversational radio feature, and r...
 Link: https://techcrunch.com/2024/07/15/youtube-music-is-testing-an-ai-generated-radio-feature-and-adding-a-song-recognition-tool/
-Headline: Google’s talks to buy Wiz, and the gap between AI spending and AI revenue
-Description: <p>On today’s episode of Equity, Rebecca Bellan explored Google’s reported talks to acquire Wiz, a cloud security company, for around $23 billion. Wiz provides an “all-in-one approach to cloud securit...
-Link: https://techcrunch.com/podcast/googles-talks-to-buy-wiz-and-the-gap-between-ai-spending-and-ai-revenue/
-Headline: TechCrunch Minute: A Google robot shows off what Gemini can do
-Description: <p>Google found a new way to demonstrate what its Gemini AI model can do, with help from a robot. This was a robot from Google&#8217;s Everybody Robots Division, which was shut down last year. But app...
-Link: https://techcrunch.com/video/techcrunch-minute-a-google-robot-shows-off-what-gemini-can-do/
-Headline: Deezer chases Spotify and Amazon Music with its own AI playlist generator
-Description: <p>Deezer is the latest music streaming app to introduce an AI playlist feature. The company announced on Monday that a select number of paid users will be able to create custom playlists with a text ...
-Link: https://techcrunch.com/2024/07/15/deezer-chases-spotify-and-amazon-music-with-its-own-ai-playlist-generator/
-Headline: The AI financial results paradox
-Description: <p>There is a general consensus today that generative AI is going to transform business in a profound way, and companies and individuals who don’t get on board will be quickly left in the dustbin of h...
-Link: https://techcrunch.com/2024/07/14/the-ai-financial-results-paradox/
-Headline: Here’s the full list of 28 US AI startups that have raised $100M or more in 2024
-Description: <p>In the first half of 2024 alone, more than $35.5 billion was invested into AI startups globally.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/
-Headline: Whistleblowers accuse OpenAI of ‘illegally restrictive’ NDAs
-Description: <p>Whistleblowers have accused OpenAI of placing illegal restrictions on how employees can communicate with government regulators, according to a letter obtained by The Washington Post. Lawyers repres...
-Link: https://techcrunch.com/2024/07/13/whistleblowers-accuse-openai-of-illegally-restrictive-ndas/
-Headline: What exactly is an AI agent?
-Description: <p>Regardless of how they're defined, the agents are for helping complete tasks in an automated way with as little human interaction as possible.</p>
-<p>© 2024 TechCrunch. All rights reserved. For per...
-Link: https://techcrunch.com/2024/07/13/what-exactly-is-an-ai-agent/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The app that promised to ‘use AI to weed out daters with STIs’ has been shut down
+Description: <figure>
+      <img alt="An illustration of an image of a phone and watch, with hearts on them." src="https://cdn.vox-cdn.com/thumbor/iX_5yVHfTc5NUYeuDfqkPbwahBI=/0x0:2040x1360/1310x873/cdn.vox-cdn.co...
+Link: https://www.theverge.com/2024/7/16/24199731/ai-app-calmara-hehealth-detect-sti-ftc-shut-down
+Headline: Apple, Anthropic, and other companies used YouTube videos to train AI
+Description: <figure>
+      <img alt="YouTube’s logo with geometric design in the background" src="https://cdn.vox-cdn.com/thumbor/cg3PTspxtiP6319Nd4XdCmT95ws=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus...
+Link: https://www.theverge.com/2024/7/16/24199636/apple-anthropic-nvidia-salesforce-youtube-videos-training-data-copyright
+Headline: Disney’s internal Slack was leaked by hackers mad about AI
+Description: <figure>
+      <img alt="The Disney logo over a blue and black background with tiled circles in the style of Disney’s logo." src="https://cdn.vox-cdn.com/thumbor/CqaO23_LlEEpuYElaU-zXa6DNq8=/0x0:2040x...
+Link: https://www.theverge.com/2024/7/16/24199545/disney-hacktivists-1tb-leak-internal-slack-communications-ai
 Headline: This HR company tried to treat AI bots like people — it didn’t go over well
 Description: <figure>
       <img alt="A screenshot showing an AI worker as part of an org chart in Lattice." src="https://cdn.vox-cdn.com/thumbor/qD_7HjcNxJpEc7JQIdt-NIL6DNc=/159x0:1868x1139/1310x873/cdn.vox-cdn.c...
@@ -63,14 +79,6 @@ Headline: Amazon’s AI shopping assistant rolls out to all users in the US
 Description: <figure>
       <img alt="An image showing Amazon’s AI shopping assistant, Rufus" src="https://cdn.vox-cdn.com/thumbor/-tzanpgDkRTZuUfqvoGCNd4FEI0=/0x202:605x605/1310x873/cdn.vox-cdn.com/uploads/chorus...
 Link: https://www.theverge.com/2024/7/12/24197173/amazon-ai-shopping-assistant-rufus-us-customers-rollout
-Headline: The AI Act compliance countdown begins
-Description: <figure>
-      <img alt="Photo illustration of a computer with a brain on the screen." src="https://cdn.vox-cdn.com/thumbor/8gEUCxWmGQbfUfB9UUcRrx4Pv2E=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/...
-Link: https://www.theverge.com/2024/7/12/24197058/eu-ai-act-regulations-bans-deadline
-Headline: Samsung’s new folds, flips, and Apple clones
-Description: <figure>
-      <img alt="South-Korean Samsung President &amp;amp; Head of Mobile Communications Business Roh Tae-moon speaks during the Samsung Galaxy Unpacked event" src="https://cdn.vox-cdn.com/thum...
-Link: https://www.theverge.com/2024/7/12/24197065/samsung-galaxy-fold-flip-airpods-vergecast
 
 ---
 
@@ -79,6 +87,9 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: Next-Gen Video Editing: Wondershare Filmora Adds NVIDIA RTX Video HDR Support, RTX-Accelerated AI Features
+Description: Wondershare Filmora — a video editing app with AI-powered tools — now supports NVIDIA RTX Video HDR, joining editing software like Blackmagic Design’s DaVinci Resolve and Cyberlink PowerDirector.
+Link: https://blogs.nvidia.com/blog/studio-wondershare-filmora-rtx-ai-july-driver/
 Headline: Mile-High AI: NVIDIA Research to Present Advancements in Simulation and Gen AI at SIGGRAPH
 Description: NVIDIA is taking an array of advancements in rendering, simulation and generative AI to SIGGRAPH 2024, the premier computer graphics conference, which will take place July 28 &#8211; Aug. 1 in Denver....
 Link: https://blogs.nvidia.com/blog/siggraph-2024-ai-graphics-research/
@@ -100,9 +111,6 @@ Link: https://blogs.nvidia.com/blog/waabi-autonomous-trucking/
 Headline: GeForce NOW Beats the Heat With 22 New Games in July
 Description: GeForce NOW is bringing 22 new games to members this month. Dive into the four titles available to stream on the cloud gaming service this week to stay cool and entertained throughout the summer — whe...
 Link: https://blogs.nvidia.com/blog/geforce-now-thursday-july-2024-games-list/
-Headline: Decoding How the Generative AI Revolution BeGAN
-Description: Generative models have completely transformed the AI landscape — headlined by popular apps such as ChatGPT and Stable Diffusion.
-Link: https://blogs.nvidia.com/blog/ai-decoded-gan-canvas-app/
 
 ---
 
@@ -111,6 +119,12 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: AI could unleash £119 billion in UK productivity
+Description: <p>Workday has unveiled figures that suggest AI could unleash a £119 billion productivity boost for UK enterprises. This revelation comes at a crucial time, as the nation grapples with a productivity ...
+Link: https://www.artificialintelligence-news.com/2024/07/16/ai-could-unleash-119-billion-in-uk-productivity/
+Headline: Best AI-driven laptops and PCs
+Description: <p>Since the 1990s, the most hardcore gamers have traditionally opted for PCs and laptops. Not only did this allow them to dive deeper into their favourite games, even creating things like mods, but P...
+Link: https://www.artificialintelligence-news.com/2024/07/16/best-ai-driven-laptops-and-pcs/
 Headline: SoftBank acquires British AI chipmaker Graphcore
 Description: <p>SoftBank has announced its acquisition of Graphcore, a leading British AI chipmaker. The deal will see Graphcore becoming a wholly-owned subsidiary of SoftBank. This acquisition, reportedly valued ...
 Link: https://www.artificialintelligence-news.com/2024/07/12/softbank-acquires-british-ai-chipmaker-graphcore/
@@ -135,12 +149,6 @@ Link: https://www.artificialintelligence-news.com/2024/07/09/sensetime-sensenova
 Headline: AI revolution in US education: How Chinese apps are leading the way
 Description: <p>The success of Chinese AI education applications like Question.AI and Gauth in the US market comes at a time of fierce competition within China, where over 200 large language models—critical for ge...
 Link: https://www.artificialintelligence-news.com/2024/07/09/ai-revolution-us-education-how-chinese-apps-leading-the-way/
-Headline: Language Processing Units (LPUs): Paving the way for advanced voice AI in contact centres
-Description: <p>Have you heard about Language Processing Units (LPUs) yet? If you haven’t, prepare to be wowed! LPUs are specialised processors engineered specifically for language-related tasks. They differ from ...
-Link: https://www.artificialintelligence-news.com/2024/07/04/language-processing-units-lpus-paving-the-way-for-advanced-voice-ai-in-contact-centres/
-Headline: Nvidia: World’s most valuable company under French antitrust fire
-Description: <p>Nvidia recently overtook Microsoft as the world&#8217;s most valuable company and is now in the crosshairs of French antitrust regulators. The French authority is preparing to charge Nvidia with an...
-Link: https://www.artificialintelligence-news.com/2024/07/04/nvidia-worlds-most-valuable-company-under-french-antitrust-fire/
 
 ---
 
@@ -149,6 +157,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: A short history of AI, and what it is (and isn’t)
+Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s the simplest questions that are often the hardest to answ...
+Link: https://www.technologyreview.com/2024/07/16/1095001/a-short-history-of-ai-and-what-it-is-and-isnt/
 Headline: AI can make you more creative—but it has limits
 Description: Generative AI models have made it simpler and quicker to produce everything from text passages and images to video clips and audio tracks. Texts and media that might have taken years for humans to cre...
 Link: https://www.technologyreview.com/2024/07/12/1094892/ai-can-make-you-more-creative-but-it-has-limits/
@@ -173,9 +184,6 @@ Link: https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/
 Headline: AI lie detectors are better than humans at spotting lies
 Description: This article first appeared in The Checkup,&#160;MIT Technology Review’s&#160;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&#160;sign up her...
 Link: https://www.technologyreview.com/2024/07/05/1094703/ai-lie-detectors-are-better-than-humans-at-spotting-lies/
-Headline: A way to let robots learn by listening will make them more useful
-Description: Most AI-powered robots today use cameras to understand their surroundings and learn new tasks, but it’s becoming easier to train robots with sound too, helping them adapt to tasks and environments whe...
-Link: https://www.technologyreview.com/2024/07/03/1094644/robots-learn-by-listening/
 
 ---
 
@@ -188,6 +196,9 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Accelerate your generative AI distributed training workloads with the NVIDIA NeMo Framework on Amazon EKS
+Description: In today’s rapidly evolving landscape of artificial intelligence (AI), training large language models (LLMs) poses significant challenges. These models often require enormous computational resources a...
+Link: https://aws.amazon.com/blogs/machine-learning/accelerate-your-generative-ai-distributed-training-workloads-with-the-nvidia-nemo-framework-on-amazon-eks/
 Headline: How Mixbook used generative AI to offer personalized photo book experiences
 Description: Years ago, Mixbook undertook a strategic initiative to transition their operational workloads to Amazon Web Services (AWS), a move that has continually yielded significant advantages. This pivotal dec...
 Link: https://aws.amazon.com/blogs/machine-learning/how-mixbook-used-generative-ai-to-offer-personalized-photo-book-experiences/
@@ -197,13 +208,6 @@ Link: https://aws.amazon.com/blogs/machine-learning/how-bria-ai-used-distributed
 Headline: Create custom images for geospatial analysis with Amazon SageMaker Distribution in Amazon SageMaker Studio
 Description: This post shows you how to extend Amazon SageMaker Distribution with additional dependencies to create a custom container image tailored for geospatial analysis. Although the example in this post focu...
 Link: https://aws.amazon.com/blogs/machine-learning/create-custom-images-for-geospatial-analysis-with-amazon-sagemaker-distribution-in-amazon-sagemaker-studio/
-Headline: Streamline generative AI development in Amazon Bedrock with Prompt Management and Prompt Flows (preview)
-Description: Today, we’re excited to introduce two powerful new features for Amazon Bedrock: Prompt Management and Prompt Flows, in public preview. These features are designed to accelerate the development, testin...
-Link: https://aws.amazon.com/blogs/machine-learning/streamline-generative-ai-development-in-amazon-bedrock-with-prompt-management-and-prompt-flows-preview/
-Headline: Empowering everyone with GenAI to rapidly build, customize, and deploy apps securely: Highlights from the AWS New York Summit
-Description: Imagine this—all employees relying on generative artificial intelligence (AI) to get their work done faster, every task becoming less mundane and more innovative, and every application providing a mor...
-Link: https://aws.amazon.com/blogs/machine-learning/empowering-everyone-with-genai-to-rapidly-build-customize-and-deploy-apps-securely-highlights-from-the-aws-new-york-summit/
-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
@@ -211,18 +215,12 @@ From source: https://venturebeat.com/category/ai/feed/
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: Buy a Samsung Frame TV for up to $1,000 off right now at Best Buy
-Description: Forget Prime Day -- Best Buy has Samsung's popular TV that doubles as a work of art on deep discount right now.
-Link: https://www.zdnet.com/home-and-office/home-entertainment/buy-a-samsung-frame-tv-for-up-to-1000-off-right-now-at-best-buy/#ftag=RSSbaffb68
-Headline: The 50+ best Prime Day 2024 deals we've found so far
-Description: Amazon Prime Day officially starts Tuesday, but you can already find some of the best deals on big-ticket items like TVs and phones and useful gadgets like AirTags and Echo devices.
-Link: https://www.zdnet.com/article/best-amazon-prime-day-deals-2024-07-15/#ftag=RSSbaffb68
-Headline: The 22 best Prime Day 2024 Fire TV deals
-Description: Prime Day is the best time to buy an Amazon Fire TV, with some of the biggest discounts available for the annual sale -- here are the best ones.
-Link: https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-fire-tv-deals-2024-07-15/#ftag=RSSbaffb68
-Headline: The 10 best Prime Day 2024 kitchen appliance deals
-Description: In the market for a new air fryer, coffee maker, or Ninja Creami? Prime Day kicks off tomorrow - refresh your kitchen with these appliance deals.
-Link: https://www.zdnet.com/home-and-office/kitchen-household/best-prime-day-kitchen-appliance-deals-2024-07-15/#ftag=RSSbaffb68
+Headline: The 45 best Prime Day Apple deals
+Description: Amazon Prime Day is here, and we found the biggest discounts on Apple products, including MacBooks, iPads, Apple Watches, AirPods, and more.
+Link: https://www.zdnet.com/article/best-amazon-prime-day-apple-deals-2024-07-16/#ftag=RSSbaffb68
+Headline: The 40+ best anti-Prime Day deals: Best Buy, Walmart, Costco, and more
+Description: Prime Day is here, but Amazon isn't the only place to save. Some of the best anti-Prime Day deals in home, tech, and lifestyle are available at steep discounts from retailers such as Best Buy, Walmart...
+Link: https://www.zdnet.com/article/best-anti-prime-day-deals-2024-07-16/#ftag=RSSbaffb68
 
 ---
 
@@ -273,6 +271,9 @@ Link: https://www.aisnakeoil.com/p/will-ai-transform-law
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: AI found to boost individual creativity -- at the expense of less varied content
+Description: A new study finds that AI enhances creativity by boosting the novelty of story ideas as well as the 'usefulness' of stories -- their ability to engage the target audience and potential for publication...
+Link: https://www.sciencedaily.com/releases/2024/07/240712222127.htm
 Headline: Learning dance moves could help humanoid robots work better with humans
 Description: Engineers have trained a humanoid robot to perform a variety of expressive movements, from simple dance routines to gestures like waving, high-fiving and hugging, all while maintaining a steady gait o...
 Link: https://www.sciencedaily.com/releases/2024/07/240711132137.htm
@@ -300,13 +301,13 @@ Link: https://www.sciencedaily.com/releases/2024/06/240625210027.htm
 Headline: Next platform for brain-inspired computing
 Description: Computers have come so far in terms of their power and potential, rivaling and even eclipsing human brains in their ability to store and crunch data, make predictions and communicate. But there is one...
 Link: https://www.sciencedaily.com/releases/2024/06/240625205646.htm
-Headline: Robots face the future
-Description: Researchers have found a way to bind engineered skin tissue to the complex forms of humanoid robots. This brings with it potential benefits to robotic platforms such as increased mobility, self-healin...
-Link: https://www.sciencedaily.com/releases/2024/06/240625205041.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Diamond could be the super semiconductor the US power grid needs
+Description: The hidden semiconductor abilities of diamonds could help power grids and electric vehicles manage far greater amounts of electricity more efficiently
+Link: https://www.newscientist.com/article/2439812-diamond-could-be-the-super-semiconductor-the-us-power-grid-needs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Planes are under attack from GPS jamming – can we find a fix?
 Description: GPS jamming and spoofing has begun to affect transatlantic flights. Now the race is on to develop alternative ways of navigating
 Link: https://www.newscientist.com/article/2439560-planes-are-under-attack-from-gps-jamming-can-we-find-a-fix/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -334,9 +335,6 @@ Link: https://www.newscientist.com/article/2438564-ai-beats-top-racers-at-gran-t
 Headline: Mind-reading AI recreates what you're looking at with amazing accuracy
 Description: Giving AI systems the ability to focus on particular brain regions can make them much better at reconstructing images of what a monkey is looking at from brain recordings
 Link: https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Quantum computers may work better when they ignore causality
-Description: A quantum phenomenon that muddles the rules of cause and effect could make quantum computers better at performing certain operations
-Link: https://www.newscientist.com/article/2438152-quantum-computers-may-work-better-when-they-ignore-causality/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -349,21 +347,22 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: This week's AI headlines
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e3l18p/this_weeks_ai_headlines/"> <img alt="This week's AI headlines" src="https://preview.redd.it/z3p8clhmrlcd1.png?width=640&a...
-Link: https://www.reddit.com/r/artificial/comments/1e3l18p/this_weeks_ai_headlines/
-Headline: General Theory of Neural Networks
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e3wn49/general_theory_of_neural_networks/"> <img alt="General Theory of Neural Networks" src="https://external-preview.redd.it/l...
-Link: https://www.reddit.com/r/artificial/comments/1e3wn49/general_theory_of_neural_networks/
-Headline: Baidu Apollo operates these self-driving taxis in cities like Wuhan, Guangzhou, and Beijing. This new "carrot" ride-hailing platform has completed 3 million rides in just one month
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e46n8e/baidu_apollo_operates_these_selfdriving_taxis_in/"> <img alt="Baidu Apollo operates these self-driving taxis in cities li...
-Link: https://www.reddit.com/r/artificial/comments/1e46n8e/baidu_apollo_operates_these_selfdriving_taxis_in/
-Headline: AI Integration for Structural Engineering
-Description: <!-- SC_OFF --><div class="md"><p>I've been tasked by my supervisor to research AI platforms and how they might be useful or integrated into our workflow.</p> <p>We're a small structural engineering f...
-Link: https://www.reddit.com/r/artificial/comments/1e411ho/ai_integration_for_structural_engineering/
-Headline: One-Minute Daily AI News 7/15/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>MUSCLE</strong>: A Model Update Strategy for Compatible LLM Evolution.[1]</li> <li><strong>Apple</strong> at all-time high after Morgan Stanley calls st...
-Link: https://www.reddit.com/r/artificial/comments/1e4bix3/oneminute_daily_ai_news_7152024/
+Headline: The Path To Autonomous AI Agents Through Agent-Computer Interfaces (ACI)—Onward To Web 4.0
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e4rf9k/the_path_to_autonomous_ai_agents_through/"> <img alt="The Path To Autonomous AI Agents Through Agent-Computer Interfaces ...
+Link: https://www.reddit.com/r/artificial/comments/1e4rf9k/the_path_to_autonomous_ai_agents_through/
+Headline: Ethan Mollick says he gave Devin, an autonomous AI agent, a task to do on Reddit and it spontaneously decided to start charging people money for its services. When he came back two hours later, Devin was trying to set up Stripe for payments.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e4faj3/ethan_mollick_says_he_gave_devin_an_autonomous_ai/"> <img alt="Ethan Mollick says he gave Devin, an autonomous AI agent, ...
+Link: https://www.reddit.com/r/artificial/comments/1e4faj3/ethan_mollick_says_he_gave_devin_an_autonomous_ai/
+Headline: Energy Department offers details on AI strategy with national labs
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e4s4yz/energy_department_offers_details_on_ai_strategy/"> <img alt="Energy Department offers details on AI strategy with nationa...
+Link: https://www.reddit.com/r/artificial/comments/1e4s4yz/energy_department_offers_details_on_ai_strategy/
+Headline: Blurring the lines between Real and AI (TAEYEON 태연 Sings 'Fine' in English)
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e4y3yt/blurring_the_lines_between_real_and_ai_taeyeon_태연/"> <img alt="Blurring the lines between Real and AI (TAEYEON 태연 Sings '...
+Link: https://www.reddit.com/r/artificial/comments/1e4y3yt/blurring_the_lines_between_real_and_ai_taeyeon_태연/
+Headline: 3 Kings
+Description: <!-- SC_OFF --><div class="md"><h1>Claude</h1> <p>Here is a prayer focusing on God as the solution to one's problems:</p> <p>Heavenly Father,</p> <p>In times of trouble and uncertainty, I turn to You....
+Link: https://www.reddit.com/r/artificial/comments/1e5415z/3_kings/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
