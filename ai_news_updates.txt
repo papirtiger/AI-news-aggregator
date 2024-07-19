@@ -1,38 +1,69 @@
-AI News Updates - 2024-07-18 02:34:30
+AI News Updates - 2024-07-19 02:35:20
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: TTT models might be the next frontier in generative AI
-Description: <p>TTT models, a new architecture, could effectively replace transformers if they scale up as their creators suggest they will.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p...
-Link: https://techcrunch.com/2024/07/17/ttt-models-might-be-the-next-frontier-in-generative-ai/
-Headline: Microsoft’s AI-powered, Canva-like Designer app lands on iOS and Android
-Description: <p>The Designer app features "prompt templates" that are designed to help jumpstart the creative process.</p>
+Headline: Meta puts a halt to training its generative AI tools in Brazil
+Description: <p>Meta has suspended the use of its AI assistant after Brazil’s National Data Protection Authority (ANPD) banned the company from training its AI models on personal data from Brazilians. The move put...
+Link: https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/
+Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
+Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to hyper-charge productivity through writing essays and code wit...
+Link: https://techcrunch.com/2024/07/18/chatgpt-everything-to-know-about-the-ai-chatbot/
+Headline: What is Apple Intelligence, when is it coming and who will get it?
+Description: <p>Apple Intelligence was designed to leverage things that generative AI already does well, like text and image generation, to improve upon existing features.</p>
+<p>© 2024 TechCrunch. All rights rese...
+Link: https://techcrunch.com/2024/07/18/what-is-apple-intelligence-when-is-coming-and-who-will-get-it/
+Headline: TechCrunch Minute: Over 100K YouTube videos have been scraped to train AI for Apple, Nvidia
+Description: <p>What do MrBeast, John Oliver and The Wall Street Journal have in common? The transcripts of their YouTube videos have been scraped to train the AI used by companies like Anthropic, Nvidia, Apple an...
+Link: https://techcrunch.com/video/techcrunch-minute-over-100k-youtube-videos-have-been-scraped-to-train-ai-for-apple-nvidia/
+Headline: OpenAI unveils GPT-4o mini, a smaller and cheaper AI model
+Description: <p>OpenAI introduced GPT-4o mini on Thursday, its latest small AI model. The company says GPT-4o mini, which is cheaper and faster than OpenAI&#8217;s current cutting-edge AI models, is being released...
+Link: https://techcrunch.com/2024/07/18/openai-unveils-gpt-4o-mini-a-small-ai-model-powering-chatgpt/
+Headline: Proton launches ‘privacy-first’ AI writing assistant for email that runs on-device
+Description: <p>Proton has launched a new AI-enabled writing assistant that helps users compose emails based on simple prompts.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/07/17/microsofts-ai-powered-canva-like-designer-app-lands-on-ios-and-android/
-Headline: Tribe AI raised venture capital to keep up with demand after six years of bootstrapping
-Description: <p>When Jaclyn Rice Nelson and Noah Gale launched AI talent and services company Tribe AI in 2019, they had to convince companies that having an AI strategy mattered. After the release of ChatGPT in 2...
-Link: https://techcrunch.com/2024/07/17/tribe-ai-raised-venture-capital-to-keep-up-with-demand-after-six-years-of-bootstrapping/
-Headline: Spotify adds a Spanish-speaking AI DJ, ‘Livi’
-Description: <p>Spotify's AI DJ, which first launched last year, is meant to serve as a smart audio guide that introduces music using a convincingly realistic voice. </p>
-<p>© 2024 TechCrunch. All rights reserved....
-Link: https://techcrunch.com/2024/07/17/spotify-adds-a-spanish-speaking-ai-dj-livi/
-Headline: On AI, new UK gov’t to work on ‘appropriate’ rules for ‘most powerful’ models and beef up product safety powers
-Description: <p>There had been rumors the U.K.&#8217;s shiny new-in-post Labour government would commit to introducing a dedicated artificial intelligence bill on Wednesday as it unveiled its full legislation prog...
-Link: https://techcrunch.com/2024/07/17/on-ai-new-uk-govt-to-work-on-appropriate-rules-for-most-powerful-models-and-beef-up-product-safety-powers/
-Headline: Didero is using AI to solve supply chain management at mid-market companies
-Description: <p>Supply chain management remains a stubborn problem for many mid-market companies that can’t afford SAP or lack sufficient IT resources to manage a complex program. Didero, an early-stage startup, d...
-Link: https://techcrunch.com/2024/07/17/didero-is-using-ai-to-solve-supply-chain-management-at-mid-market-companies/
-Headline: Menlo Ventures and Anthropic team up on a $100M AI fund
-Description: <p>Menlo Ventures and Anthropic are teaming up on a $100 million fund dubbed "the Anthology Fund" to invest in pre-seed and Series A AI startups.</p>
-<p>© 2024 TechCrunch. All rights reserved. For per...
-Link: https://techcrunch.com/2024/07/17/menlo-ventures-and-anthropic-team-up-on-a-100m-ai-fund/
-Headline: Local experience discovery startup, Bigfoot, adds GenAI to fast-track weekend planning
-Description: <p>Can generative AI substitute for having a social graph? California-based local experiences discovery startup Bigfoot is hoping the addition of a conversational interface to its weekend planner webs...
-Link: https://techcrunch.com/2024/07/17/local-experience-discovery-startup-bigfoot-adds-genai-to-fast-track-weekend-planning/
+Link: https://techcrunch.com/2024/07/18/proton-launches-privacy-first-ai-writing-assistant-for-email-that-runs-on-device/
+Headline: Samsung to acquire UK-based knowledge graph startup Oxford Semantic Technologies
+Description: <p>The Korean tech giant is acquiring Oxford Semantic Technologies, a U.K.-based knowledge graph startup that has built an AI reasoning engine.</p>
+<p>© 2024 TechCrunch. All rights reserved. For perso...
+Link: https://techcrunch.com/2024/07/18/samsung-to-acquire-uk-based-knowledge-graph-startup-oxford-semantic-technologies/
+Headline: Artificial Agency raises $16M to use AI to make NPCs feel more realistic in video games
+Description: <p>A team of former Google DeepMind researchers are betting that their unique behavior engine for NPCs will make games more fun and dynamic.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal...
+Link: https://techcrunch.com/2024/07/18/artificial-agency-raises-video-game-npcs-ai/
+Headline: Israel’s startup scene shows resilience despite nine months of war
+Description: <p>When the war between Israel and Hamas broke out last October, we examined its potential impact on the tech ecosystems in Israel and Palestine. Nine months later, the prevailing sentiment in Israel,...
+Link: https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Google’s Gemini AI will be all over the Paris Olympics broadcast
+Description: <figure>
+      <img alt="Photo collage of the Olympic rings over a photo of the Olympic rings illuminated on the Eiffel Tower." src="https://cdn.vox-cdn.com/thumbor/Qx2jfVYcsE8l5_pI0tdIb9RIWZQ=/0x0:20...
+Link: https://www.theverge.com/2024/7/18/24201440/google-paris-2024-olympic-games-ai-gemini-ads-sponsor
+Headline: Google reveals the Pixel 9 Pro Fold before it can leak again
+Description: <figure>
+      <img alt="An image showing the Pixel 9 Pro Fold" src="https://cdn.vox-cdn.com/thumbor/uVlQQvYo9_CnLXUC6KZ5XclPz4w=/289x0:2023x1156/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73...
+Link: https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai
+Headline: Figma explains how its AI tool ripped off Apple’s design
+Description: <figure>
+      <img alt="Vector illustration of the Figma logo." src="https://cdn.vox-cdn.com/thumbor/Y89pV7a0NYlPzeHMGUcdg9Eukc8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734...
+Link: https://www.theverge.com/2024/7/18/24201308/figma-make-designs-vet-apple
+Headline: The biggest names in AI have teamed up to promote AI security
+Description: <figure>
+      <img alt="An image showing a repeating pattern of brain illustrations" src="https://cdn.vox-cdn.com/thumbor/JSDScm4b5Dr9ZpYkSlIzjzcMHuw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/c...
+Link: https://www.theverge.com/2024/7/18/24201223/security-privacy-google-microsoft-openai-ai-cosai
+Headline: Google solves its Pixel 9 Pro leaks by just showing the phone early
+Description: <figure>
+      <img alt="An image showing the Pixel 9 Pro" src="https://cdn.vox-cdn.com/thumbor/W-z9IeeZXsrXbzUOlUzBe0DP_2w=/0x47:656x484/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73468493/p...
+Link: https://www.theverge.com/2024/7/18/24201254/google-pixel-9-pro-release-date-ai
+Headline: OpenAI is releasing a cheaper, smarter model
+Description: <figure>
+      <img alt="Vector illustration of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/r3UR2UqLFYLEr1jFZpd_xS5JNI4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/...
+Link: https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini
+Headline: Meta won’t release its multimodal Llama AI model in the EU
+Description: <figure>
+      <img alt="Image of Meta’s logo with a red and blue background." src="https://cdn.vox-cdn.com/thumbor/a86lcz7GoNeb6MFiLrppCaIZwqw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_i...
+Link: https://www.theverge.com/2024/7/18/24201041/meta-multimodal-llama-ai-model-launch-eu-regulations
 Headline: The ‘godmother of AI’ has a new startup already worth $1 billion
 Description: <figure>
       <img alt="WIRED Celebrates 30th Anniversary With LiveWIRED Event In San Francisco" src="https://cdn.vox-cdn.com/thumbor/WuSnAFCgaC1a6L5s4PNn77e3edY=/0x0:4176x2784/1310x873/cdn.vox-cdn.c...
@@ -45,34 +76,6 @@ Headline: OpenAI CEO Sam Altman’s $27 million mansion is a ‘lemon’ with a 
 Description: <figure>
       <img alt="Photo collage of Sam Altman." src="https://cdn.vox-cdn.com/thumbor/a-m3CEeF_m4ADuH0d69Fvv-9oTs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73465804/STK2...
 Link: https://www.theverge.com/2024/7/17/24200354/sam-altman-san-francisco-mansion-lawsuit-lemon-openai
-Headline: Samsung’s new image-generating AI tool is a little too good
-Description: <figure>
-      <img alt="A photo of an intersection with colorful mural on the ground and a large AI-generated orange cat lying down." src="https://cdn.vox-cdn.com/thumbor/MRmy807boxsVS7L8xZzh-XnDT0E=...
-Link: https://www.theverge.com/2024/7/17/24199005/samsung-galaxy-ai-z-fold-6-sketch-to-image
-Headline: Tinder can now pick your dating profile picture for you
-Description: <figure>
-      <img alt="Four examples of Tinder’s new Photo Selector feature." src="https://cdn.vox-cdn.com/thumbor/kT3cC1f2P9u5jKWvcfjmgd2oQ48=/2x0:2954x1968/1310x873/cdn.vox-cdn.com/uploads/chorus_...
-Link: https://www.theverge.com/2024/7/17/24200306/tinder-photo-selector-ai-dating-profile-feature-release
-Headline: The app that promised to ‘use AI to weed out daters with STIs’ has been shut down
-Description: <figure>
-      <img alt="An illustration of an image of a phone and watch, with hearts on them." src="https://cdn.vox-cdn.com/thumbor/iX_5yVHfTc5NUYeuDfqkPbwahBI=/0x0:2040x1360/1310x873/cdn.vox-cdn.co...
-Link: https://www.theverge.com/2024/7/16/24199731/ai-app-calmara-hehealth-detect-sti-ftc-shut-down
-Headline: Apple, Anthropic, and other companies used YouTube videos to train AI
-Description: <figure>
-      <img alt="YouTube’s logo with geometric design in the background" src="https://cdn.vox-cdn.com/thumbor/cg3PTspxtiP6319Nd4XdCmT95ws=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus...
-Link: https://www.theverge.com/2024/7/16/24199636/apple-anthropic-nvidia-salesforce-youtube-videos-training-data-copyright
-Headline: Disney’s internal Slack was leaked by hackers mad about AI
-Description: <figure>
-      <img alt="The Disney logo over a blue and black background with tiled circles in the style of Disney’s logo." src="https://cdn.vox-cdn.com/thumbor/CqaO23_LlEEpuYElaU-zXa6DNq8=/0x0:2040x...
-Link: https://www.theverge.com/2024/7/16/24199545/disney-hacktivists-1tb-leak-internal-slack-communications-ai
-Headline: This HR company tried to treat AI bots like people — it didn’t go over well
-Description: <figure>
-      <img alt="A screenshot showing an AI worker as part of an org chart in Lattice." src="https://cdn.vox-cdn.com/thumbor/qD_7HjcNxJpEc7JQIdt-NIL6DNc=/159x0:1868x1139/1310x873/cdn.vox-cdn.c...
-Link: https://www.theverge.com/2024/7/15/24199054/lattice-digital-workers-ai
-Headline: Google tests out Gemini AI-created video presentations
-Description: <figure>
-      <img alt="A screenshot of the Google Vids UI." src="https://cdn.vox-cdn.com/thumbor/svTsA1u26aEDBL2IkNkt50m2dB0=/0x0:1479x986/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7346219...
-Link: https://www.theverge.com/2024/7/15/24199063/google-vids-gemini-ai-app-workspace-labs-available
 
 ---
 
@@ -81,6 +84,9 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: Mistral AI and NVIDIA Unveil Mistral NeMo 12B, a Cutting-Edge Enterprise AI Model
+Description: Mistral AI and NVIDIA today released a new state-of-the-art language model, Mistral NeMo 12B, that developers can easily customize and deploy for enterprise applications supporting chatbots, multiling...
+Link: https://blogs.nvidia.com/blog/mistral-nvidia-ai-model/
 Headline: Decoding How AI-Powered Upscaling on NVIDIA RTX Improves Video Quality
 Description: Video is everywhere — nearly 80% of internet bandwidth today is used to stream video from content providers and social networks.
 Link: https://blogs.nvidia.com/blog/ai-decoded-upscaling/
@@ -99,12 +105,6 @@ Link: https://blogs.nvidia.com/blog/paige-thomas-fuchs/
 Headline: Mission NIMpossible: Decoding the Microservices That Accelerate Generative AI
 Description: In the rapidly evolving world of artificial intelligence, generative AI is captivating imaginations and transforming industries.
 Link: https://blogs.nvidia.com/blog/ai-decoded-nim/
-Headline: Widescreen Wonder: Las Vegas Sphere Delivers Dazzling Displays
-Description: Sphere, a new kind of entertainment medium in Las Vegas, is joining the ranks of legendary circular performance spaces such as the Roman Colosseum and Shakespeare’s Globe Theater — captivating audienc...
-Link: https://blogs.nvidia.com/blog/sphere-las-vegas/
-Headline: In It for the Long Haul: Waabi Pioneers Generative AI to Unleash Fully Driverless Autonomous Trucking
-Description: Artificial intelligence is transforming the transportation industry, helping drive advances in autonomous vehicle (AV) technology. Waabi, a Toronto-based startup, is embracing generative AI to deliver...
-Link: https://blogs.nvidia.com/blog/waabi-autonomous-trucking/
 
 ---
 
@@ -113,36 +113,36 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Meta joins Apple in withholding AI models from EU users
+Description: <p>Meta has announced it will not be launching its upcoming multimodal AI model in the European Union due to regulatory concerns. This decision from Meta comes on the heels of Apple&#8217;s similar mo...
+Link: https://www.artificialintelligence-news.com/news/meta-joins-apple-withholding-ai-models-eu-users/
 Headline: AI could unleash £119 billion in UK productivity
 Description: <p>Workday has unveiled figures that suggest AI could unleash a £119 billion productivity boost for UK enterprises. This revelation comes at a crucial time, as the nation grapples with a productivity ...
-Link: https://www.artificialintelligence-news.com/2024/07/16/ai-could-unleash-119-billion-in-uk-productivity/
+Link: https://www.artificialintelligence-news.com/news/ai-could-unleash-119-billion-in-uk-productivity/
 Headline: Best AI-driven laptops and PCs
 Description: <p>Since the 1990s, the most hardcore gamers have traditionally opted for PCs and laptops. Not only did this allow them to dive deeper into their favourite games, even creating things like mods, but P...
-Link: https://www.artificialintelligence-news.com/2024/07/16/best-ai-driven-laptops-and-pcs/
+Link: https://www.artificialintelligence-news.com/news/best-ai-driven-laptops-and-pcs/
 Headline: SoftBank acquires British AI chipmaker Graphcore
 Description: <p>SoftBank has announced its acquisition of Graphcore, a leading British AI chipmaker. The deal will see Graphcore becoming a wholly-owned subsidiary of SoftBank. This acquisition, reportedly valued ...
-Link: https://www.artificialintelligence-news.com/2024/07/12/softbank-acquires-british-ai-chipmaker-graphcore/
+Link: https://www.artificialintelligence-news.com/news/softbank-acquires-british-ai-chipmaker-graphcore/
 Headline: Samsung enhances AI features with latest foldables and wearables
 Description: <p>Samsung&#8217;s latest flagship smartphones and wearables have been made lighter and slimmer, while incorporating enhanced AI features to appeal to high-end consumers. Samsung, which pioneered the ...
-Link: https://www.artificialintelligence-news.com/2024/07/12/samsung-enhances-ai-features-latest-foldables-wearables/
+Link: https://www.artificialintelligence-news.com/news/samsung-enhances-ai-features-latest-foldables-wearables/
 Headline: Tech executives confident in AI skills, but adoption barriers persist
 Description: <p>While executives express high confidence in their organisations&#8217; AI capabilities, they simultaneously acknowledge significant barriers to further adoption. Research from Zartis found that 85%...
-Link: https://www.artificialintelligence-news.com/2024/07/11/tech-executives-confident-ai-skills-adoption-barriers-persist/
+Link: https://www.artificialintelligence-news.com/news/tech-executives-confident-ai-skills-adoption-barriers-persist/
 Headline: How AI is revolutionising game design and player experiences
 Description: <p>Artifiсiаl intelligenсe is trаnsforming numerous inԁustries, аnԁ the gаming inԁustry is no exсeрtion. From ԁeveloрing soрhistiсаteԁ gаme meсhаniсs to enhаnсing рlаyer exрerienсes, AI&#8217;s influe...
-Link: https://www.artificialintelligence-news.com/2024/07/11/how-ai-revolutionising-game-design-and-player-experiences/
+Link: https://www.artificialintelligence-news.com/news/how-ai-revolutionising-game-design-and-player-experiences/
 Headline: PC market finds new momentum amid AI interest
 Description: <p>The global PC market is showing solid signs of recovery, with Apple leading the charge among significant manufacturers. According to the latest data from International Data Corporation (IDC), the t...
-Link: https://www.artificialintelligence-news.com/2024/07/11/pc-market-finds-new-momentum-ai-interest/
+Link: https://www.artificialintelligence-news.com/news/pc-market-finds-new-momentum-ai-interest/
 Headline: Microsoft and Apple back away from OpenAI board
 Description: <p>Microsoft and Apple have decided against taking up board seats at OpenAI. The decision comes as regulatory bodies intensify their scrutiny of big tech&#8217;s involvement in AI development and depl...
-Link: https://www.artificialintelligence-news.com/2024/07/10/microsoft-apple-back-away-openai-board/
+Link: https://www.artificialintelligence-news.com/news/microsoft-apple-back-away-openai-board/
 Headline: SenseTime SenseNova 5.5: China’s first real-time multimodal AI model
 Description: <p>SenseTime has unveiled SenseNova 5.5, an enhanced version of its LLM that includes SenseNova 5o—touted as China&#8217;s first real-time multimodal model. SenseNova 5o represents a leap forward in A...
-Link: https://www.artificialintelligence-news.com/2024/07/09/sensetime-sensenova-china-real-time-multimodal-ai-model/
-Headline: AI revolution in US education: How Chinese apps are leading the way
-Description: <p>The success of Chinese AI education applications like Question.AI and Gauth in the US market comes at a time of fierce competition within China, where over 200 large language models—critical for ge...
-Link: https://www.artificialintelligence-news.com/2024/07/09/ai-revolution-us-education-how-chinese-apps-leading-the-way/
+Link: https://www.artificialintelligence-news.com/news/sensetime-sensenova-china-real-time-multimodal-ai-model/
 
 ---
 
@@ -151,6 +151,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: Building supply chain resilience with AI
+Description: If the last five years have taught businesses with complex supply chains anything, it is that resilience is crucial. In the first three months of the covid-19 pandemic, for example, supply-chain leade...
+Link: https://www.technologyreview.com/2024/07/18/1094899/building-supply-chain-resilience-with-ai/
 Headline: A short history of AI, and what it is (and isn’t)
 Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s the simplest questions that are often the hardest to answ...
 Link: https://www.technologyreview.com/2024/07/16/1095001/a-short-history-of-ai-and-what-it-is-and-isnt/
@@ -175,9 +178,6 @@ Link: https://www.technologyreview.com/2024/07/08/1094733/how-to-use-ai-to-plan-
 Headline: What are AI agents?
 Description: MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what&#8217;s coming next. You can read more from the series here. When ChatGPT wa...
 Link: https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/
-Headline: AI lie detectors are better than humans at spotting lies
-Description: This article first appeared in The Checkup,&#160;MIT Technology Review’s&#160;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&#160;sign up her...
-Link: https://www.technologyreview.com/2024/07/05/1094703/ai-lie-detectors-are-better-than-humans-at-spotting-lies/
 
 ---
 
@@ -190,6 +190,12 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Metadata filtering for tabular data with Knowledge Bases for Amazon Bedrock
+Description: Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading artificial intelligence (AI) companies like AI21 Labs, Anthropic, Cohere, Meta, M...
+Link: https://aws.amazon.com/blogs/machine-learning/metadata-filtering-for-tabular-data-with-knowledge-bases-for-amazon-bedrock/
+Headline: Secure AccountantAI Chatbot: Lili’s journey with Amazon Bedrock
+Description: This post was written in collaboration with Liran Zelkha and Eyal Solnik from Lili. Small business proprietors tend to prioritize the operational aspects of their enterprises over administrative tasks...
+Link: https://aws.amazon.com/blogs/machine-learning/secure-accountantai-chatbot-lilis-journey-with-amazon-bedrock/
 Headline: How Deloitte Italy built a digital payments fraud detection solution using quantum machine learning and Amazon Braket
 Description: As digital commerce expands, fraud detection has become critical in protecting businesses and consumers engaging in online transactions. Implementing machine learning (ML) algorithms enables real-time...
 Link: https://aws.amazon.com/blogs/machine-learning/how-deloitte-italy-built-a-digital-payments-fraud-detection-solution-using-quantum-machine-learning-and-amazon-braket/
@@ -202,29 +208,68 @@ Link: https://aws.amazon.com/blogs/machine-learning/derive-meaningful-and-action
 Headline: Accelerate your generative AI distributed training workloads with the NVIDIA NeMo Framework on Amazon EKS
 Description: In today’s rapidly evolving landscape of artificial intelligence (AI), training large language models (LLMs) poses significant challenges. These models often require enormous computational resources a...
 Link: https://aws.amazon.com/blogs/machine-learning/accelerate-your-generative-ai-distributed-training-workloads-with-the-nvidia-nemo-framework-on-amazon-eks/
-Headline: How Mixbook used generative AI to offer personalized photo book experiences
-Description: Years ago, Mixbook undertook a strategic initiative to transition their operational workloads to Amazon Web Services (AWS), a move that has continually yielded significant advantages. This pivotal dec...
-Link: https://aws.amazon.com/blogs/machine-learning/how-mixbook-used-generative-ai-to-offer-personalized-photo-book-experiences/
-Headline: How BRIA AI used distributed training in Amazon SageMaker to train latent diffusion foundation models for commercial use
-Description: This post is co-written with Bar Fingerman from BRIA AI. This post explains how BRIA AI trained BRIA AI 2.0, a high-resolution (1024×1024) text-to-image diffusion model, on a dataset comprising petaby...
-Link: https://aws.amazon.com/blogs/machine-learning/how-bria-ai-used-distributed-training-in-amazon-sagemaker-to-train-latent-diffusion-foundation-models-for-commercial-use/
-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: OpenAI gives more control over ChatGPT Enterprise
+Description: OpenAI grants more control over users, domains, and services that connect to ChatGPT Enterprise and creating a record of interactions.
+Link: https://venturebeat.com/ai/openai-gives-more-control-over-chatgpt-enterprise/
+Headline: Groq’s open-source Llama AI model tops leaderboard, outperforming GPT-4o and Claude in function calling
+Description: Groq releases open-source AI models outperforming tech giants in tool use, challenging industry norms with synthetic data training and democratizing access to advanced AI capabilities.
+Link: https://venturebeat.com/ai/groq-open-source-llama-ai-model-tops-leaderboard-outperforming-gpt-4o-and-claude-in-function-calling/
+Headline: How AI is closing identity and endpoint gaps that attackers exploit
+Description: The level of effort and intensity adversaries are putting into tradecraft aimed at breaking an AI companies' endpoints is growing.
+Link: https://venturebeat.com/ai/how-ai-is-closing-identity-and-endpoint-gaps-that-attackers-exploit/
+Headline: OpenAI unveils GPT-4o mini — a smaller, much cheaper multimodal AI model
+Description: To put that cost into perspective, that's 60% less than GPT-3.5 Turbo, previously the most affordable model among OpenAI's offerings.
+Link: https://venturebeat.com/ai/openai-unveils-gpt-4o-mini-a-smaller-much-cheaper-multimodal-ai-model/
+Headline: Nvidia and Mistral’s new model ‘Mistral-NeMo’ brings enterprise-grade AI to desktop computers
+Description: Nvidia and Mistral AI unveil Mistral-NeMo, a powerful 12B-parameter language model designed to run on desktop computers, potentially revolutionizing enterprise AI accessibility and deployment.
+Link: https://venturebeat.com/ai/nvidia-and-mistrals-new-model-mistral-nemo-brings-enterprise-grade-ai-to-desktop-computers/
+Headline: Arrcus raises $30M for hyperscale networking software
+Description: Arrcus, the hyperscale networking software and infrastructure company raised $30 million from Nvidia and others today.
+Link: https://venturebeat.com/ai/arrcus-raises-27m-for-hyperscale-networking-software/
+Headline: NTT Data unveils Ultralight Edge AI platform for internet of things and manufacturing
+Description: <p>NTT Data, the IT infrastructure and services company owned by Japan&#8217;s NTT, unveiled its newEdge AI platform to accelerate AI processing to the edge. By processing data when and where it is ge...
+Link: https://venturebeat.com/ai/ntt-data-unveils-ultralight-edge-ai-platform-for-internet-of-things-and-manufacturing/
+Headline: Artificial Agency raises $16M to bring AI-powered behavior to games
+Description: Artificial Agency, an AI startup pioneering generative behavior for gaming, emerged from stealth and announced $16 million in funding.
+Link: https://venturebeat.com/ai/artificial-agency-raises-16m-to-bring-ai-powered-behavior-to-games/
+Headline: From reality to fantasy: Live2Diff AI brings instant video stylization to life
+Description: Live2Diff, developed by an international team from Shanghai AI Lab, Max Planck Institute, and Nanyang Technological University, pioneers uni-directional attention in video diffusion models, enabling n...
+Link: https://venturebeat.com/ai/from-reality-to-fantasy-live2diff-ai-brings-instant-video-stylization-to-life/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: Save 37% with a free Xbox Game Pass: Don't miss this Fire TV Stick bundle Prime Day sale
-Description: Play Xbox and PC games anywhere with the Fire TV Stick 4K Max and its cloud gaming support via Xbox Game Pass. The Prime Day sale offers a free one-month membership and $46 off a Core wireless control...
-Link: https://www.zdnet.com/home-and-office/home-entertainment/xbox-amazon-fire-tv-stick-4k-max-bundle-deal-prime-day-2024-07-17/#ftag=RSSbaffb68
-Headline: The 15+ best Prime Day kitchen appliance deals that expire tonight
-Description: In the market for a new air fryer, coffee maker, or Instant Pot? Refresh your kitchen with these appliance deals while Amazon Prime Day is still live.
-Link: https://www.zdnet.com/home-and-office/kitchen-household/best-prime-day-kitchen-appliance-deals-2024-07-17/#ftag=RSSbaffb68
-Headline: The 40+ best Amazon Prime Day deals under $100 that are still available
-Description: These are the best Prime Day deals under $100 you can shop, but the savings won't last long, with Amazon's sales event ending tonight.
-Link: https://www.zdnet.com/home-and-office/the-best-amazon-prime-day-deals-under-100-2024-7-17/#ftag=RSSbaffb68
+Headline: The 45+ best Walmart anti-Prime day deals still available: Your final chance on sweet tech discounts
+Description: Missed Prime Day? No problem. These Walmart deals on tech, home, and more are just as enticing, and you don't need a pricey membership to shop.
+Link: https://www.zdnet.com/home-and-office/the-45-best-walmart-anti-prime-day-deals-still-available/#ftag=RSSbaffb68
+Headline: The 55+ best Prime Day robot vacuum deals you can still get now
+Description: Amazon Prime Day may be over, but some of the best robot vacuum deals we've ever seen are still live on brands like Roborock, Roomba, Eufy, Shark, and more.
+Link: https://www.zdnet.com/article/best-prime-day-robot-vacuum-deals-still-available/#ftag=RSSbaffb68
+Headline: The 18 best Prime Day laptop deals still available: HP, Apple, Razer, and more
+Description: Amazon Prime Day 2024 has come and gone, but if you missed out, don't fret: there are still deals to be had. We've been watching the sales meticulously, and these 18 laptops are still great deals.
+Link: https://www.zdnet.com/article/best-prime-day-18-deals-still-available/#ftag=RSSbaffb68
+Headline: Prime Day is over: These are the best 100+ deals still available
+Description: Prime Day may have ended, but you can find great deals on Apple products, TVs, laptops, and robot vacuums still live.
+Link: https://www.zdnet.com/article/best-amazon-prime-day-deals-still-available-2024/#ftag=RSSbaffb68
+Headline: Prime Day over but Amazon keeps adding Fire TV deals - Here are the best ones
+Description: Amazon Prime Day wrapped up, but many of the best Amazon Fire TV deals are still live. The annual sale offers some of the biggest discounts - here are our favorites.
+Link: https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-fire-tv-deals-still-available/#ftag=RSSbaffb68
+Headline: The 30+ best Prime Day phone deals you can still shop today
+Description: Amazon Prime Day is over, but these post-event deals will still save you hundreds on the latest phones from Apple, Samsung, and more.
+Link: https://www.zdnet.com/article/best-prime-day-phone-deals-still-available/#ftag=RSSbaffb68
+Headline: Save $600 on this robot vacuum and mop to keep your floors sparkling
+Description: The Ecovacs Deebot X2 Omni is a jack-of-all-trades robot vacuum mop with a unique square form that sets it apart from the competition - and it's 40% off even after Amazon Prime Day.
+Link: https://www.zdnet.com/home-and-office/kitchen-household/the-ecovacs-deebot-x2-omni-robot-vacuum-and-mop-prime-day-deal-still-available/#ftag=RSSbaffb68
+Headline: You can still get this smart cordless vacuum with dual batteries at 25% off
+Description: The Tineco Pure One S15 Pet Ex, with a no-installation charging dock and dual battery setup, is $150 off after Prime Day.
+Link: https://www.zdnet.com/home-and-office/kitchen-household/you-can-still-get-this-smart-cordless-vacuum-with-dual-batteries-at-25-off-prime-day-deal-still-available/#ftag=RSSbaffb68
+Headline: The 45 best Prime Day 2024 deals under $25 still live
+Description: Shop smarter with the best deals under $25 still live after Amazon Prime Day -- including tech gadgets and devices from Govee, Philips, Logitech, and more.
+Link: https://www.zdnet.com/home-and-office/best-amazon-prime-day-deals-under-still-available/#ftag=RSSbaffb68
+
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -308,6 +353,15 @@ Link: https://www.sciencedaily.com/releases/2024/07/240701162221.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Planes are under attack from GPS jamming – can we find a fix?
+Description: GPS jamming and spoofing has begun to affect transatlantic flights. Now the race is on to develop alternative ways of navigating
+Link: https://www.newscientist.com/article/2439560-planes-are-under-attack-from-gps-jamming-can-we-find-a-fix/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Is sharing your smartphone PIN part of a healthy relationship?
+Description: Smartphones contain some of our most intimate data, but are you willing to share it with your most intimate partner? A survey has revealed that 51 per cent of people are happy to give their PIN to the...
+Link: https://www.newscientist.com/article/2438951-is-sharing-your-smartphone-pin-part-of-a-healthy-relationship/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Many people think AI is already sentient - and that's a big problem
+Description: A survey of people in the US has revealed the widespread belief that artificial intelligence models are already self-aware, which is very far from the truth
+Link: https://www.newscientist.com/article/2439884-many-people-think-ai-is-already-sentient-and-thats-a-big-problem/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Tiny jellyfish robots made of ferrofluid can be controlled with light
 Description: Researchers combined hydrogel with magnetic ferrofluid to make small jellyfish robots that can complete an obstacle course when directed with light
 Link: https://www.newscientist.com/article/2439830-tiny-jellyfish-robots-made-of-ferrofluid-can-be-controlled-with-light/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -317,9 +371,6 @@ Link: https://www.newscientist.com/article/2439277-tiny-solar-powered-drones-cou
 Headline: Diamond could be the super semiconductor the US power grid needs
 Description: The hidden semiconductor abilities of diamonds could help power grids and electric vehicles manage far greater amounts of electricity more efficiently
 Link: https://www.newscientist.com/article/2439812-diamond-could-be-the-super-semiconductor-the-us-power-grid-needs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Planes are under attack from GPS jamming – can we find a fix?
-Description: GPS jamming and spoofing has begun to affect transatlantic flights. Now the race is on to develop alternative ways of navigating
-Link: https://www.newscientist.com/article/2439560-planes-are-under-attack-from-gps-jamming-can-we-find-a-fix/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Russia is building ground-based kamikaze robots out of old hoverboards
 Description: Hoverboards, or self-balancing scooters, are already used by hobbyists as a basis for robots, but now a group in Russia is putting them to use on the battlefields of Ukraine
 Link: https://www.newscientist.com/article/2439161-russia-is-building-ground-based-kamikaze-robots-out-of-old-hoverboards/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -332,12 +383,6 @@ Link: https://www.newscientist.com/article/2438900-artificial-flavours-released-
 Headline: Google creates self-replicating life from digital 'primordial soup'
 Description: A digital "primordial soup" with no rules or direction can lead to the emergence of self-replicating artificial life forms, in an experiment that may hint at how biological life began on Earth
 Link: https://www.newscientist.com/article/2438117-google-creates-self-replicating-life-from-digital-primordial-soup/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Cosmic rays can help synchronise the global financial system
-Description: Particles generated by cosmic rays can penetrate indoor and underground environments with ease, and could provide a more secure alternative to GPS for synchronising financial transactions worldwide
-Link: https://www.newscientist.com/article/2438801-cosmic-rays-can-help-synchronise-the-global-financial-system/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Multiple nations enact mysterious export controls on quantum computers
-Description: Identical wording placing limits on the export of quantum computers has appeared in regulations across the globe. There doesn't seem to be any scientific reason for the controls, and all can be traced...
-Link: https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -350,25 +395,27 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: A Meta-funded dark money group has been flooding Facebook with anti-AI regulation ads
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e59c6b/a_metafunded_dark_money_group_has_been_flooding/"> <img alt="A Meta-funded dark money group has been flooding Facebook wi...
-Link: https://www.reddit.com/r/artificial/comments/1e59c6b/a_metafunded_dark_money_group_has_been_flooding/
-Headline: Dan Cane: AI Loves Forever. (I spent some weeks on this AI movie, hope you enjoy)
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e5elzb/dan_cane_ai_loves_forever_i_spent_some_weeks_on/"> <img alt="Dan Cane: AI Loves Forever. (I spent some weeks on this AI m...
-Link: https://www.reddit.com/r/artificial/comments/1e5elzb/dan_cane_ai_loves_forever_i_spent_some_weeks_on/
-Headline: Verses AI recognized by G42, Accenture, and now, Gartner.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e5hwf9/verses_ai_recognized_by_g42_accenture_and_now/"> <img alt="Verses AI recognized by G42, Accenture, and now, Gartner." src...
-Link: https://www.reddit.com/r/artificial/comments/1e5hwf9/verses_ai_recognized_by_g42_accenture_and_now/
-Headline: One-Minute Daily AI News 7/16/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Former <strong>OpenAI</strong>, Tesla engineer Andrej Karpathy starts AI education platform.[1]</li> <li><strong>Apple</strong>, <strong>Nvidia</strong>, <stron...
-Link: https://www.reddit.com/r/artificial/comments/1e58srj/oneminute_daily_ai_news_7162024/
-Headline: Gartner reprint of “Hype Cycle for Artificial Intelligence, 2024” made public
-Description: <!-- SC_OFF --><div class="md"><p>Which one are you most excited for? </p> <p>For me it is Verses Ai integrating with LLM, iota/drones/robots/computing/people in real-time (free energy principal, acti...
-Link: https://www.reddit.com/r/artificial/comments/1e5zg7r/gartner_reprint_of_hype_cycle_for_artificial/
-Headline: Do I really need a bachelors to work in AI?
-Description: <!-- SC_OFF --><div class="md"><p>Currently 2/3 in my bachelors and I don’t know if I’m just unlucky with the recent teachers I’ve been getting, I just have ADD or I’ve enrolled with a scammy universi...
-Link: https://www.reddit.com/r/artificial/comments/1e5y6qq/do_i_really_need_a_bachelors_to_work_in_ai/
-
+Headline: Stuart Russell says AIs will develop a self-preservation instinct by default, because if you ask a robot to fetch a coffee, it needs to survive to achieve its goal
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e63trq/stuart_russell_says_ais_will_develop_a/"> <img alt="Stuart Russell says AIs will develop a self-preservation instinct by ...
+Link: https://www.reddit.com/r/artificial/comments/1e63trq/stuart_russell_says_ais_will_develop_a/
+Headline: AI Manhattan project to eliminate "unnecessary and burdensome regulations"
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e6gi3v/ai_manhattan_project_to_eliminate_unnecessary_and/"> <img alt="AI Manhattan project to eliminate &quot;unnecessary and bu...
+Link: https://www.reddit.com/r/artificial/comments/1e6gi3v/ai_manhattan_project_to_eliminate_unnecessary_and/
+Headline: One-Minute Daily AI News 7/17/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Hugging Face</strong> Introduces <strong>SmolLM</strong>: Transforming On-Device AI with High-Performance Small Language Models from 135M to 1.7B Parame...
+Link: https://www.reddit.com/r/artificial/comments/1e62uvg/oneminute_daily_ai_news_7172024/
+Headline: Finally - AI Videos with Multiple Voices!
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e65x93/finally_ai_videos_with_multiple_voices/"> <img alt="Finally - AI Videos with Multiple Voices!" src="https://external-prev...
+Link: https://www.reddit.com/r/artificial/comments/1e65x93/finally_ai_videos_with_multiple_voices/
+Headline: The biggest names in AI have teamed up to promote AI security
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e6qf9v/the_biggest_names_in_ai_have_teamed_up_to_promote/"> <img alt="The biggest names in AI have teamed up to promote AI secur...
+Link: https://www.reddit.com/r/artificial/comments/1e6qf9v/the_biggest_names_in_ai_have_teamed_up_to_promote/
+Headline: Are there any AI Music Generators that allow you to put in your own samples?
+Description: <!-- SC_OFF --><div class="md"><p>I would prefer something free and easy to use. I am trying to generate a certain music style that is very obscure that most generators wont make. </p> </div><!-- SC_O...
+Link: https://www.reddit.com/r/artificial/comments/1e6pz3w/are_there_any_ai_music_generators_that_allow_you/
+Headline: The AI-Powered Future of Coding Is Near
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e6g5u9/the_aipowered_future_of_coding_is_near/"> <img alt="The AI-Powered Future of Coding Is Near" src="https://external-previe...
+Link: https://www.reddit.com/r/artificial/comments/1e6g5u9/the_aipowered_future_of_coding_is_near/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
