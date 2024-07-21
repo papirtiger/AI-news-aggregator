@@ -1,6 +1,9 @@
-AI News Updates - 2024-07-20 02:32:24
+AI News Updates - 2024-07-21 02:35:56
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long
+Description: <p>TechCrunch sat down with Strava's new CEO in London for a wide-ranging interview, delving into what the company is prioritizing, and what we can expect in the future as the company embarks on its "...
+Link: https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/
 Headline: TechCrunch Minute: OpenAI shrinks its flagship model
 Description: <p>OpenAI is launching a mini version of its latest AI model. These small AI models are meant to be faster and more affordable than the full version — making them particularly useful for simple, high-...
 Link: https://techcrunch.com/video/techcrunch-minute-openai-shrinks-its-flagship-model/
@@ -27,10 +30,6 @@ Headline: Proton launches ‘privacy-first’ AI writing assistant for email tha
 Description: <p>Proton has launched a new AI-enabled writing assistant that helps users compose emails based on simple prompts.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 Link: https://techcrunch.com/2024/07/18/proton-launches-privacy-first-ai-writing-assistant-for-email-that-runs-on-device/
-Headline: Samsung to acquire UK-based knowledge graph startup Oxford Semantic Technologies
-Description: <p>The Korean tech giant is acquiring Oxford Semantic Technologies, a U.K.-based knowledge graph startup that has built an AI reasoning engine.</p>
-<p>© 2024 TechCrunch. All rights reserved. For perso...
-Link: https://techcrunch.com/2024/07/18/samsung-to-acquire-uk-based-knowledge-graph-startup-oxford-semantic-technologies/
 
 ---
 
@@ -109,6 +108,36 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Mistral AI and NVIDIA unveil 12B NeMo model
+Description: <p>Mistral AI has announced NeMo, a 12B model created in partnership with NVIDIA. This new model boasts an impressive context window of up to 128,000 tokens and claims state-of-the-art performance in ...
+Link: https://www.artificialintelligence-news.com/news/mistral-ai-and-nvidia-unveil-12b-nemo-model/
+Headline: TSMC forecasts record growth, rejects US joint venture amid AI surge
+Description: <p>Taiwan Semiconductor Manufacturing Company (TSMC) has raised its revenue forecast for 2024, citing strong demand for chips in AI applications. The world&#8217;s largest contract chipmaker anticipat...
+Link: https://www.artificialintelligence-news.com/news/tsmc-forecasts-record-growth-rejects-us-joint-venture-amid-ai-surge/
+Headline: Over 40% of Japanese firms lack AI adoption plans
+Description: <p>A Reuters survey released recently laid bare a nuanced picture of Japanese corporate acceptance and social attitudes toward technology. The survey, conducted by Nikkei Research, anonymously polled ...
+Link: https://www.artificialintelligence-news.com/news/over-40-percent-of-japanese-firms-lack-ai-adoption-plans/
+Headline: Meta joins Apple in withholding AI models from EU users
+Description: <p>Meta has announced it will not be launching its upcoming multimodal AI model in the European Union due to regulatory concerns. This decision from Meta comes on the heels of Apple&#8217;s similar mo...
+Link: https://www.artificialintelligence-news.com/news/meta-joins-apple-withholding-ai-models-eu-users/
+Headline: AI could unleash £119 billion in UK productivity
+Description: <p>Workday has unveiled figures that suggest AI could unleash a £119 billion productivity boost for UK enterprises. This revelation comes at a crucial time, as the nation grapples with a productivity ...
+Link: https://www.artificialintelligence-news.com/news/ai-could-unleash-119-billion-in-uk-productivity/
+Headline: Best AI-driven laptops and PCs
+Description: <p>Since the 1990s, the most hardcore gamers have traditionally opted for PCs and laptops. Not only did this allow them to dive deeper into their favourite games, even creating things like mods, but P...
+Link: https://www.artificialintelligence-news.com/news/best-ai-driven-laptops-and-pcs/
+Headline: SoftBank acquires British AI chipmaker Graphcore
+Description: <p>SoftBank has announced its acquisition of Graphcore, a leading British AI chipmaker. The deal will see Graphcore becoming a wholly-owned subsidiary of SoftBank. This acquisition, reportedly valued ...
+Link: https://www.artificialintelligence-news.com/news/softbank-acquires-british-ai-chipmaker-graphcore/
+Headline: Samsung enhances AI features with latest foldables and wearables
+Description: <p>Samsung&#8217;s latest flagship smartphones and wearables have been made lighter and slimmer, while incorporating enhanced AI features to appeal to high-end consumers. Samsung, which pioneered the ...
+Link: https://www.artificialintelligence-news.com/news/samsung-enhances-ai-features-latest-foldables-wearables/
+Headline: Tech executives confident in AI skills, but adoption barriers persist
+Description: <p>While executives express high confidence in their organisations&#8217; AI capabilities, they simultaneously acknowledge significant barriers to further adoption. Research from Zartis found that 85%...
+Link: https://www.artificialintelligence-news.com/news/tech-executives-confident-ai-skills-adoption-barriers-persist/
+Headline: How AI is revolutionising game design and player experiences
+Description: <p>Artifiсiаl intelligenсe is trаnsforming numerous inԁustries, аnԁ the gаming inԁustry is no exсeрtion. From ԁeveloрing soрhistiсаteԁ gаme meсhаniсs to enhаnсing рlаyer exрerienсes, AI&#8217;s influe...
+Link: https://www.artificialintelligence-news.com/news/how-ai-revolutionising-game-design-and-player-experiences/
 
 ---
 
@@ -177,65 +206,19 @@ Link: https://aws.amazon.com/blogs/machine-learning/accelerate-your-generative-a
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
-Headline: CrowdStrike’s IT outage makes it clear why cyber resilience matters
-Description: The more cyber resilient a business is, the greater the ability to anticipate, withstand, and recover from a variety of adverse conditions.
-Link: https://venturebeat.com/ai/crowdstrikes-it-outage-makes-it-clear-why-cyber-resilience-matters/
-Headline: Tabnine wins AI Innovation Award for Best Presentation at VB Transform 2024
-Description: A "Coaching” capability can constrain the output of Tabnine to match explicit corporate standards and guidelines within the IDE.
-Link: https://venturebeat.com/ai/tabnine-wins-ai-innovation-award-for-best-presentation-at-vb-transform-2024/
-Headline: OpenAI, Nvidia, and Hugging Face unveil small AI models: GPT-4o Mini, Mistral-Nemo, and SmolLM lead industry shift
-Description: OpenAI, Nvidia, and Hugging Face unveil compact AI models GPT-4o Mini, Mistral-Nemo, and SmolLM, revolutionizing the industry with efficient, accessible, and cost-effective language processing solutio...
-Link: https://venturebeat.com/ai/openai-nvidia-and-hugging-face-unveil-small-ai-models-gpt-4o-mini-mistral-nemo-and-smollm-lead-industry-shift/
-Headline: What’s going on with your tech stack? Catio’s AI copilot knows
-Description: Catio creates a “canonical view” of architecture requirements with dashboard-level analytics. The product is AI for CTOs.
-Link: https://venturebeat.com/data-infrastructure/whats-going-on-with-your-tech-stack-catios-ai-copilot-knows/
-Headline: Researchers develop technique to give robots “embodied reasoning” abilities
-Description: Embodied Chain-of-Thought Reasoning is a technique that enables robots to accomplish complex and novel tasks in new environments.
-Link: https://venturebeat.com/ai/researchers-develop-technique-to-give-robots-embodied-reasoning-abilities/
-Headline: Apple shows off open AI prowess: new models outperform Mistral and Hugging Face offerings
-Description: New Apple model delivers nearly similar performance to leading open models, including Mistral-7B, Llama3 8B and Google’s Gemma
-Link: https://venturebeat.com/ai/apple-shows-off-open-ai-prowess-new-models-outperform-mistral-and-hugging-face-offerings/
-Headline: Survey: Women are eager to use gen AI tools, even as they are ‘vastly underrepresented’ in AI
-Description: 68% of women have used at least one gen AI tool and 61% said they wanted to learn more about AI tools and applications.
-Link: https://venturebeat.com/ai/survey-women-are-eager-to-use-gen-ai-tools-even-as-they-are-vastly-underrepresented-in-ai/
-Headline: OpenAI gives more control over ChatGPT Enterprise
-Description: OpenAI grants more control over users, domains, and services that connect to ChatGPT Enterprise and creating a record of interactions.
-Link: https://venturebeat.com/ai/openai-gives-more-control-over-chatgpt-enterprise/
-Headline: Groq’s open-source Llama AI model tops leaderboard, outperforming GPT-4o and Claude in function calling
-Description: Groq releases open-source AI models outperforming tech giants in tool use, challenging industry norms with synthetic data training and democratizing access to advanced AI capabilities.
-Link: https://venturebeat.com/ai/groq-open-source-llama-ai-model-tops-leaderboard-outperforming-gpt-4o-and-claude-in-function-calling/
-Headline: How AI is closing identity and endpoint gaps that attackers exploit
-Description: The level of effort and intensity adversaries are putting into tradecraft aimed at breaking an AI companies' endpoints is growing.
-Link: https://venturebeat.com/ai/how-ai-is-closing-identity-and-endpoint-gaps-that-attackers-exploit/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: The 40+ best Walmart anti-Prime day deals still available: Your final chance on sweet tech discounts
-Description: Missed Amazon Prime Day? No problem. These Walmart deals on tech, home, and more are just as enticing, and you don't need a pricey membership to shop.
-Link: https://www.zdnet.com/home-and-office/the-40-best-walmart-anti-prime-day-deals-still-available/#ftag=RSSbaffb68
-Headline: The 15+ best Prime Day kitchen appliance deals still live: KitchenAid, Ninja, Cosori, and more
-Description: Final hours: Upgrade your kitchen with a new air fryer, ice cream maker, or other shiny new toys post-Amazon Prime Day. We found deals on all your cooking essentials.
-Link: https://www.zdnet.com/home-and-office/kitchen-household/best-prime-day-kitchen-appliance-deals-still-around/#ftag=RSSbaffb68
-Headline: Top 29 deals from Best Buy's Black Friday in July sale to compete with Prime Day
-Description: Best Buy's Black Friday in July sale gave Amazon Prime Day a run for its money. Now, Best Buy is continuing its sale on certain items. While some discounts have expired or were updated overnight, seve...
-Link: https://www.zdnet.com/article/best-buy-black-friday-in-july-2024-still-around/#ftag=RSSbaffb68
-Headline: The 40+ best Prime Day 2024 deals under $25 still live
-Description: Shop smarter with the best deals under $25 still available after Amazon Prime Day - including tech gadgets and devices from Govee, Philips, Logitech, and more.
-Link: https://www.zdnet.com/home-and-office/best-amazon-prime-day-deals-under-still-around/#ftag=RSSbaffb68
-Headline: The 35+ best Prime Day 2024 tablet deals still live
-Description: Even though Amazon Prime Day is over, you can still save on select tablets with these remaining deals.
-Link: https://www.zdnet.com/article/best-prime-day-tablet-deals-still-around/#ftag=RSSbaffb68
-Headline: The 36 best Prime Day Apple deals still available
-Description: Amazon Prime Day may be over, but some of the best Apple deals we've seen this year are still live, including rare discounts on new MacBooks, AirPods, Apple Watches, AirTags, and more.
-Link: https://www.zdnet.com/article/best-prime-day-apple-deals-still-around-2024/#ftag=RSSbaffb68
-Headline: Prime Day is over: These are the best 100+ deals still available
-Description: Prime Day may have ended, but you can still find great deals on Apple products, TVs, laptops, and robot vacuums.
-Link: https://www.zdnet.com/article/best-amazon-prime-day-deals-still-around-2024/#ftag=RSSbaffb68
-Headline: How iOS 18 changes the way you charge your iPhone
-Description: Apple is once again tweaking battery wear algorithms to offer more flexibility. Will the iPhone 15 be the only handset to benefit?
-Link: https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/#ftag=RSSbaffb68
-
+Headline: I tested the world's smallest projector with Google TV, and it blew me away
+Description: The latest Nebula Capsule Projector by Anker lets you bring the cinema experience wherever you go.
+Link: https://www.zdnet.com/home-and-office/home-entertainment/i-tested-the-worlds-smallest-projector-with-google-tv-and-it-blew-me-away/#ftag=RSSbaffb68
+Headline: Why this versatile air pump is my new must-have for traveling (and it's only $42)
+Description: The AstroAI Dual Motor's tire inflator can continuously operate for up to 15 minutes, inflating a flat tire from 0 to 36 PSI in around five minutes.
+Link: https://www.zdnet.com/home-and-office/why-this-versatile-air-pump-is-my-new-must-have-for-traveling-and-its-only-42/#ftag=RSSbaffb68
+Headline: This gadget can help you drive safer and save money, and it's still 20% off
+Description: Maintaining the correct tire pressure on your vehicle not only helps you save on gas, but also makes driving safer. Stay properly inflated with the Syncwire Tire Inflator.
+Link: https://www.zdnet.com/home-and-office/this-gadget-can-help-you-drive-safer-and-save-money/#ftag=RSSbaffb68
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -361,24 +344,10 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Twilight Trails - 1950s A.I. Commercial
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e7asen/twilight_trails_1950s_ai_commercial/"> <img alt="Twilight Trails - 1950s A.I. Commercial " src="https://external-preview....
-Link: https://www.reddit.com/r/artificial/comments/1e7asen/twilight_trails_1950s_ai_commercial/
-Headline: Loving Ai mockup tools lately
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e72axy/loving_ai_mockup_tools_lately/"> <img alt="Loving Ai mockup tools lately " src="https://b.thumbs.redditmedia.com/JwXJQNq3...
-Link: https://www.reddit.com/r/artificial/comments/1e72axy/loving_ai_mockup_tools_lately/
-Headline: OpenAI co-founder says self-modifying AIs may spread like cancer - due to natural selection, the AIs that want to maximally spread will be the ones that exist
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e6u4j5/openai_cofounder_says_selfmodifying_ais_may/"> <img alt="OpenAI co-founder says self-modifying AIs may spread like cancer...
-Link: https://www.reddit.com/r/artificial/comments/1e6u4j5/openai_cofounder_says_selfmodifying_ais_may/
-Headline: One-Minute Daily AI News 7/18/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> announced it will launch a new AI model, “<strong>GPT-4o mini,</strong>” the artificial intelligence startup’s latest effort to expand u...
-Link: https://www.reddit.com/r/artificial/comments/1e6vgb0/oneminute_daily_ai_news_7182024/
-Headline: We just open sourced Verbis: A privacy-first fully local assistant for MacOS with SaaS connectors
-Description: <!-- SC_OFF --><div class="md"><p>We're excited to announce the launch of <a href="http://verbis.ai/">Verbis</a>, an open-source MacOS app designed to give you the power of LLMs over your sensitive da...
-Link: https://www.reddit.com/r/artificial/comments/1e76h9r/we_just_open_sourced_verbis_a_privacyfirst_fully/
-Headline: What do people do to create those AI voice things?
-Description: <!-- SC_OFF --><div class="md"><p>I am trying to do that thing where you put people's voices (including mine) and make it say what I want, just for innocent comedic purposes.</p> <p>What apps or websi...
-Link: https://www.reddit.com/r/artificial/comments/1e7ghio/what_do_people_do_to_create_those_ai_voice_things/
+Headline: One-Minute Daily AI News 7/19/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Anthropic</strong> launches $100 million AI fund with Menlo Ventures, ramping up competition with OpenAI.[1]</li> <li>Tribe AI raised venture capital to...
+Link: https://www.reddit.com/r/artificial/comments/1e7ng01/oneminute_daily_ai_news_7192024/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
