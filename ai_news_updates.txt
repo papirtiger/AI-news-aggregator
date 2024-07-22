@@ -1,6 +1,10 @@
-AI News Updates - 2024-07-21 02:35:56
+AI News Updates - 2024-07-22 02:37:40
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader
+Description: <p>Subject to shareholder approval, Yandex N.V. is adopting the name of one of its few remaining assets, an AI cloud platform called Nebius AI which it birthed last year.</p>
+<p>© 2024 TechCrunch. All...
+Link: https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/
 Headline: Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long
 Description: <p>TechCrunch sat down with Strava's new CEO in London for a wide-ranging interview, delving into what the company is prioritizing, and what we can expect in the future as the company embarks on its "...
 Link: https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/
@@ -23,17 +27,14 @@ Link: https://techcrunch.com/2024/07/18/what-is-apple-intelligence-when-is-comin
 Headline: TechCrunch Minute: Over 100K YouTube videos have been scraped to train AI for Apple, Nvidia
 Description: <p>What do MrBeast, John Oliver and The Wall Street Journal have in common? The transcripts of their YouTube videos have been scraped to train the AI used by companies like Anthropic, Nvidia, Apple an...
 Link: https://techcrunch.com/video/techcrunch-minute-over-100k-youtube-videos-have-been-scraped-to-train-ai-for-apple-nvidia/
-Headline: OpenAI unveils GPT-4o mini, a smaller and cheaper AI model
-Description: <p>OpenAI introduced GPT-4o mini on Thursday, its latest small AI model. The company says GPT-4o mini, which is cheaper and faster than OpenAI&#8217;s current cutting-edge AI models, is being released...
-Link: https://techcrunch.com/2024/07/18/openai-unveils-gpt-4o-mini-a-small-ai-model-powering-chatgpt/
-Headline: Proton launches ‘privacy-first’ AI writing assistant for email that runs on-device
-Description: <p>Proton has launched a new AI-enabled writing assistant that helps users compose emails based on simple prompts.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/07/18/proton-launches-privacy-first-ai-writing-assistant-for-email-that-runs-on-device/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The all-seeing AI webcam
+Description: <figure>
+      <img alt="An illustration of artist Dries Depoorter, and depictions of the works described in the article" src="https://cdn.vox-cdn.com/thumbor/Zcd_aPDti2D9-OLhSbCIJwi7UMw=/0x0:2040x136...
+Link: https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai
 Headline: OpenAI’s latest model will block the ‘ignore all previous instructions’ loophole
 Description: <figure>
       <img alt="Photo illustration of a helpful chatbot." src="https://cdn.vox-cdn.com/thumbor/upZzQZp9T7GY_etRO_8IyOu5GSk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
@@ -70,10 +71,6 @@ Headline: The ‘godmother of AI’ has a new startup already worth $1 billion
 Description: <figure>
       <img alt="WIRED Celebrates 30th Anniversary With LiveWIRED Event In San Francisco" src="https://cdn.vox-cdn.com/thumbor/WuSnAFCgaC1a6L5s4PNn77e3edY=/0x0:4176x2784/1310x873/cdn.vox-cdn.c...
 Link: https://www.theverge.com/2024/7/17/24200496/ai-fei-fei-li-world-labs-andreessen-horowitz-radical-ventures
-Headline: Microsoft’s Designer app arrives on iOS and Android with AI editing and creation
-Description: <figure>
-      <img alt="The Microsoft Designer app" src="https://cdn.vox-cdn.com/thumbor/r1Yzc7MheTzOb1iEXmCdm0IgnYc=/148x0:1653x1003/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73465901/Desi...
-Link: https://www.theverge.com/2024/7/17/24200294/microsoft-designer-app-launch-windows-ios-android-features
 
 ---
 
@@ -206,6 +203,36 @@ Link: https://aws.amazon.com/blogs/machine-learning/accelerate-your-generative-a
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Betting on AI? You must first consider product-market fit
+Description: We're using hammers to cook pancakes. To get real value from AI, we must start by refocusing on the problems we’re trying to solve.
+Link: https://venturebeat.com/ai/betting-on-ai-you-must-first-consider-product-market-fit/
+Headline: AI regulation in peril: Navigating uncertain times
+Description: Unified efforts are essential to ensure that AI development remains ethical, safe and beneficial for society.
+Link: https://venturebeat.com/ai/ai-regulation-in-peril-navigating-uncertain-times/
+Headline: There’s a shockingly simple answer to the AI bias conundrum: More diversity
+Description: How can we proactively mitigate AI bias and create less harmful models if the data we train them on is inherently biased?
+Link: https://venturebeat.com/ai/theres-a-simple-answer-to-address-the-conundrum-of-ai-bias-more-diversity/
+Headline: CrowdStrike’s IT outage makes it clear why cyber resilience matters
+Description: The more cyber resilient a business is, the greater the ability to anticipate, withstand, and recover from a variety of adverse conditions.
+Link: https://venturebeat.com/ai/crowdstrikes-it-outage-makes-it-clear-why-cyber-resilience-matters/
+Headline: Tabnine wins AI Innovation Award for Best Presentation at VB Transform 2024
+Description: A "Coaching” capability can constrain the output of Tabnine to match explicit corporate standards and guidelines within the IDE.
+Link: https://venturebeat.com/ai/tabnine-wins-ai-innovation-award-for-best-presentation-at-vb-transform-2024/
+Headline: AI’s new frontier: Hugging Face, Nvidia, and OpenAI lead charge in small language models
+Description: OpenAI, Nvidia, and Hugging Face unveil compact AI models GPT-4o Mini, Mistral-Nemo, and SmolLM, revolutionizing the industry with efficient, accessible, and cost-effective language processing solutio...
+Link: https://venturebeat.com/ai/ais-new-frontier-hugging-face-nvidia-and-openai-lead-charge-in-small-language-models/
+Headline: What’s going on with your tech stack? Catio’s AI copilot knows
+Description: Catio creates a “canonical view” of architecture requirements with dashboard-level analytics. The product is AI for CTOs.
+Link: https://venturebeat.com/data-infrastructure/whats-going-on-with-your-tech-stack-catios-ai-copilot-knows/
+Headline: Researchers develop technique to give robots “embodied reasoning” abilities
+Description: Embodied Chain-of-Thought Reasoning is a technique that enables robots to accomplish complex and novel tasks in new environments.
+Link: https://venturebeat.com/ai/researchers-develop-technique-to-give-robots-embodied-reasoning-abilities/
+Headline: Apple shows off open AI prowess: new models outperform Mistral and Hugging Face offerings
+Description: New Apple model delivers nearly similar performance to leading open models, including Mistral-7B, Llama3 8B and Google’s Gemma
+Link: https://venturebeat.com/ai/apple-shows-off-open-ai-prowess-new-models-outperform-mistral-and-hugging-face-offerings/
+Headline: Survey: Women are eager to use gen AI tools, even as they are ‘vastly underrepresented’ in AI
+Description: 68% of women have used at least one gen AI tool and 61% said they wanted to learn more about AI tools and applications.
+Link: https://venturebeat.com/ai/survey-women-are-eager-to-use-gen-ai-tools-even-as-they-are-vastly-underrepresented-in-ai/
 
 ---
 
@@ -213,12 +240,6 @@ From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
 Headline: I tested the world's smallest projector with Google TV, and it blew me away
 Description: The latest Nebula Capsule Projector by Anker lets you bring the cinema experience wherever you go.
 Link: https://www.zdnet.com/home-and-office/home-entertainment/i-tested-the-worlds-smallest-projector-with-google-tv-and-it-blew-me-away/#ftag=RSSbaffb68
-Headline: Why this versatile air pump is my new must-have for traveling (and it's only $42)
-Description: The AstroAI Dual Motor's tire inflator can continuously operate for up to 15 minutes, inflating a flat tire from 0 to 36 PSI in around five minutes.
-Link: https://www.zdnet.com/home-and-office/why-this-versatile-air-pump-is-my-new-must-have-for-traveling-and-its-only-42/#ftag=RSSbaffb68
-Headline: This gadget can help you drive safer and save money, and it's still 20% off
-Description: Maintaining the correct tire pressure on your vehicle not only helps you save on gas, but also makes driving safer. Stay properly inflated with the Syncwire Tire Inflator.
-Link: https://www.zdnet.com/home-and-office/this-gadget-can-help-you-drive-safer-and-save-money/#ftag=RSSbaffb68
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -344,10 +365,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: One-Minute Daily AI News 7/19/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Anthropic</strong> launches $100 million AI fund with Menlo Ventures, ramping up competition with OpenAI.[1]</li> <li>Tribe AI raised venture capital to...
-Link: https://www.reddit.com/r/artificial/comments/1e7ng01/oneminute_daily_ai_news_7192024/
-
+Headline: Harry Potter 2077 | AI Trailer
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e8qo7l/harry_potter_2077_ai_trailer/"> <img alt="Harry Potter 2077 | AI Trailer" src="https://external-preview.redd.it/aWc5dG5xb...
+Link: https://www.reddit.com/r/artificial/comments/1e8qo7l/harry_potter_2077_ai_trailer/
+Headline: "Humanism will be considered Racism" - Geoffrey Hinton (The Godfather of AI)
+Description: <!-- SC_OFF --><div class="md"><p>Hello everybody! Firstly, I apologize for my English as it is not my mother language. Still, I preferred narrating in my own voice rather than using AI-generated voic...
+Link: https://www.reddit.com/r/artificial/comments/1e8mrjp/humanism_will_be_considered_racism_geoffrey/
+Headline: Generative AI Hype Cycle Is Hitting ‘Trough of Disillusionment’
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e8btlu/generative_ai_hype_cycle_is_hitting_trough_of/"> <img alt="Generative AI Hype Cycle Is Hitting ‘Trough of Disillusionment...
+Link: https://www.reddit.com/r/artificial/comments/1e8btlu/generative_ai_hype_cycle_is_hitting_trough_of/
+Headline: One-Minute Daily AI News 7/20/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>AMD</strong> says its best <strong>Ryzen AI</strong> chip will beat <strong>Apple, Intel, and Qualcomm</strong>.[1]</li> <li><strong>OpenAI</strong> is ...
+Link: https://www.reddit.com/r/artificial/comments/1e8ebmc/oneminute_daily_ai_news_7202024/
+Headline: Is NBC News using AI to report news?
+Description: <!-- SC_OFF --><div class="md"><p><a href="https://youtu.be/pblnxRTmqH0?t=544">https://youtu.be/pblnxRTmqH0?t=544</a><br /> Start listening from this point in time</p> </div><!-- SC_ON --> &#32; submi...
+Link: https://www.reddit.com/r/artificial/comments/1e8l69b/is_nbc_news_using_ai_to_report_news/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
