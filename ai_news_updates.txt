@@ -1,40 +1,51 @@
-AI News Updates - 2024-07-23 02:35:03
+AI News Updates - 2024-07-24 02:35:26
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: Cohere raises $500M to beat back generative AI rivals
-Description: <p>Unlike OpenAI, Anthropic, Mistral and many of its generative AI startup rivals, Cohere doesn't have a big consumer focus.</p>
+Headline: Mark Zuckerberg imagines content creators making AI clones of themselves
+Description: <p>Content creators are busy people. Most spend more than 20 hours a week creating new content for their respective corners of the web. That doesn&#8217;t leave much time for audience engagement. But ...
+Link: https://techcrunch.com/2024/07/23/mark-zuckerberg-imagines-content-creators-making-ai-clones-of-themselves/
+Headline: OpenAI-backed legal tech startup Harvey raises $100M
+Description: <p>Harvey, a startup building what it describes as an AI-powered &#8220;copilot&#8221; for lawyers, has raised $100 million in a Series C round led by GV, Google&#8217;s corporate venture arm. The tra...
+Link: https://techcrunch.com/2024/07/23/openai-backed-legaltech-startup-harvey-raises-100m/
+Headline: FTC is investigating how companies are using AI to base pricing on consumer behavior
+Description: <p>The Federal Trade Commission announced on Tuesday that it’s ordering eight companies that offer AI-powered &#8220;surveillance service pricing&#8221; to turn over information about the potential im...
+Link: https://techcrunch.com/2024/07/23/ftc-is-investigating-how-companies-are-using-ai-to-base-pricing-on-consumer-behavior/
+Headline: Meta releases its biggest ‘open’ AI model yet
+Description: <p>Meta&#8217;s latest open source AI model is its biggest yet. Today, Meta said it is releasing Llama 3.1 405B, a model containing 405 billion parameters. Parameters roughly correspond to a model&#82...
+Link: https://techcrunch.com/2024/07/23/meta-releases-its-biggest-open-ai-model-yet/
+Headline: Meta AI gets new ‘Imagine me’ selfie feature
+Description: <p>Meta AI, Meta&#8217;s AI-powered assistant across Facebook, Instagram, Messenger and the web, can now speak in more languages and create stylized selfies. And, starting today, Meta AI users can rou...
+Link: https://techcrunch.com/2024/07/23/meta-ai-gets-new-selfie-features-quest-support/
+Headline: Level AI applies algorithms to contact center pain points
+Description: <p>Level AI offers a suite of AI-powered tools to automate various customer service tasks. </p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/
-Headline: CIA AI director Lakshmi Raman claims the agency is taking a ‘thoughtful approach’ to AI
-Description: <p>As a part of TechCrunch&#8217;s ongoing Women in AI series, which seeks to give AI-focused women academics and others their well-deserved — and overdue — time in the spotlight, TechCrunch interview...
-Link: https://techcrunch.com/2024/07/21/cia-ai-director-lakshmi-raman-claims-the-agency-is-taking-a-thoughtful-approach-to-ai/
-Headline: From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader
-Description: <p>Subject to shareholder approval, Yandex N.V. is adopting the name of one of its few remaining assets, an AI cloud platform called Nebius AI which it birthed last year.</p>
-<p>© 2024 TechCrunch. All...
-Link: https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/
-Headline: Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long
-Description: <p>TechCrunch sat down with Strava's new CEO in London for a wide-ranging interview, delving into what the company is prioritizing, and what we can expect in the future as the company embarks on its "...
-Link: https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/
-Headline: TechCrunch Minute: OpenAI shrinks its flagship model
-Description: <p>OpenAI is launching a mini version of its latest AI model. These small AI models are meant to be faster and more affordable than the full version — making them particularly useful for simple, high-...
-Link: https://techcrunch.com/video/techcrunch-minute-openai-shrinks-its-flagship-model/
-Headline: Silicon Valley’s impact on the election and an acquisition making our HeadSpin
-Description: <p>Welcome back to another recap of Equity, TechCrunch’s flagship podcast about the business of startups. This episode is packed with deals, antitrust musings, AI and more.&#160; To kick things off, K...
-Link: https://techcrunch.com/podcast/silicon-valleys-impact-on-the-election-and-an-acquisition-making-our-headspin/
-Headline: Meta puts a halt to training its generative AI tools in Brazil
-Description: <p>Meta has suspended the use of its AI assistant after Brazil’s National Data Protection Authority (ANPD) banned the company from training its AI models on personal data from Brazilians. The move put...
-Link: https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/
-Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
-Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to hyper-charge productivity through writing essays and code wit...
-Link: https://techcrunch.com/2024/07/18/chatgpt-everything-to-know-about-the-ai-chatbot/
-Headline: What is Apple Intelligence, when is it coming and who will get it?
-Description: <p>Apple Intelligence was designed to leverage things that generative AI already does well, like text and image generation, to improve upon existing features.</p>
-<p>© 2024 TechCrunch. All rights rese...
-Link: https://techcrunch.com/2024/07/18/what-is-apple-intelligence-when-is-coming-and-who-will-get-it/
-
+Link: https://techcrunch.com/2024/07/23/level-ai-applies-algorithms-to-contact-center-pain-points/
+Headline: Adobe releases new Firefly AI tools for Illustrator and Photoshop
+Description: <p>Adobe released new Firefly tools for Photoshop and Illustrator on Tuesday, offering graphic designers more ways to use the company&#8217;s in-house AI models. Adobe&#8217;s new features let creativ...
+Link: https://techcrunch.com/2024/07/23/adobe-releases-new-firefly-ai-tools-for-illustrator-and-photoshop/
+Headline: Former Tesla humanoid head launches a robotics startup
+Description: <p>In spite of maintaining stealth until now, Mytra has already drummed up interest with big names. The startup has a pilot with grocery giant Albertsons, among others. </p>
+<p>© 2024 TechCrunch. All ...
+Link: https://techcrunch.com/2024/07/23/former-tesla-humanoid-head-launches-a-robotics-startup/
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Meta releases the biggest and best open-source AI model yet
+Description: <figure>
+      <img alt="Meta logo on a blue background" src="https://cdn.vox-cdn.com/thumbor/kuq-B37Rd2jkZNXdQZDUjjPWc3g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73476794/ST...
+Link: https://www.theverge.com/2024/7/23/24204055/meta-ai-llama-3-1-open-source-assistant-openai-chatgpt
+Headline: Tandem drifting Toyotas show how AI might help drivers on slippery roads
+Description: <figure>
+      <img alt="Two red and white Supras" src="https://cdn.vox-cdn.com/thumbor/Opo0-dokaybZJrpswYIYZCOfv0Y=/105x0:1995x1260/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73476788/TRI_Ta...
+Link: https://www.theverge.com/2024/7/23/24204309/stanford-toyota-supra-ai-self-driving-autonomous-drifting
+Headline: Are you being exploited by AI-powered surveillance pricing?
+Description: <figure>
+      <img alt="An illustration of two hands emerging from phones, one holding a credit card and one holding cash." src="https://cdn.vox-cdn.com/thumbor/73iDBXaxYLEPptXouSynalwE3d8=/0x0:2040x...
+Link: https://www.theverge.com/2024/7/23/24204011/ftc-surveillance-pricing-investigation-mckinsey-mastercard-chase
+Headline: Adobe rolls out more generative AI features to Illustrator and Photoshop
+Description: <figure>
+      <img alt="An example of Adobe Illustrator’s new Generative Shape Fill&amp;nbsp;feature." src="https://cdn.vox-cdn.com/thumbor/ye0mCYXJaPGTefCYhtVuOv5_14Q=/0x0:1620x1080/1310x873/cdn.vox...
+Link: https://www.theverge.com/2024/7/23/24204231/adobe-photoshop-illustrator-generative-ai-firefly-vector-features
 Headline: AI is confusing — here’s your cheat sheet
 Description: <figure>
       <img alt="Illustration of a computer teaching other computers how to learn." src="https://cdn.vox-cdn.com/thumbor/Vmw3SbUq5JAkCwhiOjDtyXo4FPM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/upl...
@@ -59,22 +70,6 @@ Headline: Figma explains how its AI tool ripped off Apple’s design
 Description: <figure>
       <img alt="Vector illustration of the Figma logo." src="https://cdn.vox-cdn.com/thumbor/Y89pV7a0NYlPzeHMGUcdg9Eukc8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734...
 Link: https://www.theverge.com/2024/7/18/24201308/figma-make-designs-vet-apple
-Headline: The biggest names in AI have teamed up to promote AI security
-Description: <figure>
-      <img alt="An image showing a repeating pattern of brain illustrations" src="https://cdn.vox-cdn.com/thumbor/JSDScm4b5Dr9ZpYkSlIzjzcMHuw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/c...
-Link: https://www.theverge.com/2024/7/18/24201223/security-privacy-google-microsoft-openai-ai-cosai
-Headline: Google solves its Pixel 9 Pro leaks by just showing the phone early
-Description: <figure>
-      <img alt="An image showing the Pixel 9 Pro" src="https://cdn.vox-cdn.com/thumbor/W-z9IeeZXsrXbzUOlUzBe0DP_2w=/0x47:656x484/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73468493/p...
-Link: https://www.theverge.com/2024/7/18/24201254/google-pixel-9-pro-release-date-ai
-Headline: OpenAI is releasing a cheaper, smarter model
-Description: <figure>
-      <img alt="Vector illustration of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/r3UR2UqLFYLEr1jFZpd_xS5JNI4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/...
-Link: https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini
-Headline: Meta won’t release its multimodal Llama AI model in the EU
-Description: <figure>
-      <img alt="Image of Meta’s logo with a red and blue background." src="https://cdn.vox-cdn.com/thumbor/a86lcz7GoNeb6MFiLrppCaIZwqw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_i...
-Link: https://www.theverge.com/2024/7/18/24201041/meta-multimodal-llama-ai-model-launch-eu-regulations
 
 ---
 
@@ -83,6 +78,12 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: How NVIDIA AI Foundry Lets Enterprises Forge Custom Generative AI Models
+Description: Businesses seeking to harness the power of AI need customized models tailored to their specific industry needs. NVIDIA AI Foundry is a service that enables enterprises to use data, accelerated computi...
+Link: https://blogs.nvidia.com/blog/ai-foundry-enterprise-generative-ai/
+Headline: AI, Go Fetch! New NVIDIA NeMo Retriever Microservices Boost LLM Accuracy and Throughput
+Description: Generative AI applications have little, or sometimes negative, value without accuracy — and accuracy is rooted in data. To help developers efficiently fetch the best proprietary data to generate knowl...
+Link: https://blogs.nvidia.com/blog/nemo-retriever-microservices/
 Headline: NVIDIA’s AI Masters Sweep KDD Cup 2024 Data Science Competition
 Description: Team NVIDIA has triumphed at the Amazon KDD Cup 2024, securing first place Friday across all five competition tracks. The team — consisting of NVIDIANs Ahmet Erdem, Benedikt Schifferer, Chris Deotte, ...
 Link: https://blogs.nvidia.com/blog/nvidia-ai-masters-kdd-cup-2024/
@@ -101,9 +102,6 @@ Link: https://blogs.nvidia.com/blog/ai-decoded-upscaling/
 Headline: Next-Gen Video Editing: Wondershare Filmora Adds NVIDIA RTX Video HDR Support, RTX-Accelerated AI Features
 Description: Wondershare Filmora — a video editing app with AI-powered tools — now supports NVIDIA RTX Video HDR, joining editing software like Blackmagic Design’s DaVinci Resolve and Cyberlink PowerDirector.
 Link: https://blogs.nvidia.com/blog/studio-wondershare-filmora-rtx-ai-july-driver/
-Headline: Mile-High AI: NVIDIA Research to Present Advancements in Simulation and Gen AI at SIGGRAPH
-Description: NVIDIA is taking an array of advancements in rendering, simulation and generative AI to SIGGRAPH 2024, the premier computer graphics conference, which will take place July 28 &#8211; Aug. 1 in Denver....
-Link: https://blogs.nvidia.com/blog/siggraph-2024-ai-graphics-research/
 
 ---
 
@@ -112,6 +110,12 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Senators probe OpenAI on safety and employment practices
+Description: <p>Five prominent Senate Democrats have sent a letter to OpenAI CEO Sam Altman, seeking clarity on the company&#8217;s safety and employment practices. The letter – signed by Senators Brian Schatz, Be...
+Link: https://www.artificialintelligence-news.com/news/senators-probe-openai-safety-employment-practices/
+Headline: OpenResearch reveals potential impacts of universal basic income
+Description: <p>A study conducted by OpenResearch has shed light on the transformative potential of universal basic income (UBI). The research aimed to &#8220;learn from participants&#8217; experiences and better ...
+Link: https://www.artificialintelligence-news.com/news/openresearch-reveals-potential-impacts-universal-basic-income/
 Headline: How AI is transforming sports betting for better odds
 Description: <p>In the high-stakes world of sports betting, success hinges on the ability to predict outcomes with precision. Enter AI, which is revolutionising the industry by providing bettors with sophisticated...
 Link: https://www.artificialintelligence-news.com/news/how-ai-is-transforming-sports-betting-for-better-odds/
@@ -136,12 +140,6 @@ Link: https://www.artificialintelligence-news.com/news/ai-could-unleash-119-bill
 Headline: Best AI-driven laptops and PCs
 Description: <p>Since the 1990s, the most hardcore gamers have traditionally opted for PCs and laptops. Not only did this allow them to dive deeper into their favourite games, even creating things like mods, but P...
 Link: https://www.artificialintelligence-news.com/news/best-ai-driven-laptops-and-pcs/
-Headline: SoftBank acquires British AI chipmaker Graphcore
-Description: <p>SoftBank has announced its acquisition of Graphcore, a leading British AI chipmaker. The deal will see Graphcore becoming a wholly-owned subsidiary of SoftBank. This acquisition, reportedly valued ...
-Link: https://www.artificialintelligence-news.com/news/softbank-acquires-british-ai-chipmaker-graphcore/
-Headline: Samsung enhances AI features with latest foldables and wearables
-Description: <p>Samsung&#8217;s latest flagship smartphones and wearables have been made lighter and slimmer, while incorporating enhanced AI features to appeal to high-end consumers. Samsung, which pioneered the ...
-Link: https://www.artificialintelligence-news.com/news/samsung-enhances-ai-features-latest-foldables-wearables/
 
 ---
 
@@ -150,6 +148,12 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: How’s AI self-regulation going?
+Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Yesterday, on July 21, President Joe Biden announced he is ste...
+Link: https://www.technologyreview.com/2024/07/23/1095218/hows-ai-self-regulation-going/
+Headline: How to access Chinese LLM chatbots across the world
+Description: MIT Technology Review&#8217;s How To series helps you get things done. Hundreds of Chinese large language models have been released since the government started permitting AI companies to open up thei...
+Link: https://www.technologyreview.com/2024/07/23/1095211/how-to-access-chinese-llm-chatbots/
 Headline: AI companies promised to self-regulate one year ago. What’s changed?
 Description: One year ago, on July 21, 2023, seven leading AI companies—Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI—committed with the White House to a set of eight voluntary commitments on ...
 Link: https://www.technologyreview.com/2024/07/22/1095193/ai-companies-promised-the-white-house-to-self-regulate-one-year-ago-whats-changed/
@@ -171,13 +175,6 @@ Link: https://www.technologyreview.com/2024/07/11/1094850/robot-packed-meals-are
 Headline: AI is poised to automate today’s most mundane manual warehouse task
 Description: Before almost any item reaches your door, it traverses the global supply chain on a pallet. More than 2 billion pallets are in circulation in the United States alone, and $400 billion worth of goods a...
 Link: https://www.technologyreview.com/2024/07/11/1094829/ai-is-poised-to-automate-todays-most-mundane-manual-warehouse-task/
-Headline: What is AI?
-Description: Internet nastiness, name-calling, and other not-so-petty, world-altering disagreements AI is sexy, AI is cool. AI is entrenching inequality, upending the job market, and wrecking education. AI is a th...
-Link: https://www.technologyreview.com/2024/07/10/1094475/what-is-artificial-intelligence-ai-definitive-guide/
-Headline: Can AI help me plan my honeymoon?
-Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I’m getting married later this summer and am feverishly planni...
-Link: https://www.technologyreview.com/2024/07/09/1094774/can-ai-help-me-plan-my-honeymoon/
-
 ---
 
 From source: https://ai.googleblog.com/feeds/posts/default
@@ -189,6 +186,15 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: AWS AI chips deliver high performance and low cost for Llama 3.1 models on AWS
+Description: Today, we are excited to announce AWS Trainium and AWS Inferentia support for fine-tuning and inference of the Llama 3.1 models. The Llama 3.1 family of multilingual large language models (LLMs) is a ...
+Link: https://aws.amazon.com/blogs/machine-learning/aws-ai-chips-deliver-high-performance-and-low-cost-for-meta-llama-3-1-models-on-aws/
+Headline: Use Llama 3.1 405B for synthetic data generation and distillation to fine-tune smaller models
+Description: Today, we are excited to announce the availability of the Llama 3.1 405B model on Amazon SageMaker JumpStart, and Amazon Bedrock in preview. The Llama 3.1 models are a collection of state-of-the-art p...
+Link: https://aws.amazon.com/blogs/machine-learning/use-llama-3-1-405b-to-generate-synthetic-data-for-fine-tuning-tasks/
+Headline: Llama 3.1 models are now available in Amazon SageMaker JumpStart
+Description: Today, we are excited to announce that the state-of-the-art Llama 3.1 collection of multilingual large language models (LLMs), which includes pre-trained and instruction tuned generative AI models in ...
+Link: https://aws.amazon.com/blogs/machine-learning/meta-llama-3-1-models-are-now-available-in-amazon-sagemaker-jumpstart/
 Headline: Metadata filtering for tabular data with Knowledge Bases for Amazon Bedrock
 Description: Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading artificial intelligence (AI) companies like AI21 Labs, Anthropic, Cohere, Meta, M...
 Link: https://aws.amazon.com/blogs/machine-learning/metadata-filtering-for-tabular-data-with-knowledge-bases-for-amazon-bedrock/
@@ -201,31 +207,56 @@ Link: https://aws.amazon.com/blogs/machine-learning/how-deloitte-italy-built-a-d
 Headline: Amazon SageMaker unveils the Cohere Command R fine-tuning model
 Description: AWS announced the availability of the Cohere Command R fine-tuning model on Amazon SageMaker. This latest addition to the SageMaker suite of machine learning (ML) capabilities empowers enterprises to ...
 Link: https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-unveils-the-cohere-command-r-fine-tuning-model/
-Headline: Derive meaningful and actionable operational insights from AWS Using Amazon Q Business
-Description: As a customer, you rely on Amazon Web Services (AWS) expertise to be available and understand your specific environment and operations. Today, you might implement manual processes to summarize lessons...
-Link: https://aws.amazon.com/blogs/machine-learning/derive-meaningful-and-actionable-operational-insights-from-aws-using-amazon-q-business/
-Headline: Accelerate your generative AI distributed training workloads with the NVIDIA NeMo Framework on Amazon EKS
-Description: In today’s rapidly evolving landscape of artificial intelligence (AI), training large language models (LLMs) poses significant challenges. These models often require enormous computational resources a...
-Link: https://aws.amazon.com/blogs/machine-learning/accelerate-your-generative-ai-distributed-training-workloads-with-the-nvidia-nemo-framework-on-amazon-eks/
+
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: How Chevron is using gen AI to strike oil
+Description: How Chevron is using gen AI, digital twins and robots to analyze massive datasets, make predictions and protect workers and the planet.
+Link: https://venturebeat.com/ai/how-chevron-is-using-gen-ai-to-strike-oil/
+Headline: AI arms race escalates: OpenAI offers free GPT-4o Mini fine-tuning to counter Meta’s Llama 3.1 release
+Description: OpenAI challenges Meta's Llama 3.1 with free GPT-4o mini fine-tuning, reshaping the AI landscape and intensifying competition in the rapidly evolving artificial intelligence market.
+Link: https://venturebeat.com/ai/ai-arms-race-escalates-openai-offers-free-gpt-4o-mini-fine-tuning-to-counter-metas-llama-3-1-release/
+Headline: Yann LeCun says Meta AI ‘quickly becoming most used’ assistant, challenging OpenAI’s dominance
+Description: Meta challenges OpenAI with Llama 3.1, an open-source AI model rivaling GPT-4o, as Yann LeCun claims Meta AI is becoming the most widely used AI assistant.
+Link: https://venturebeat.com/ai/yann-lecun-says-meta-ai-quickly-becoming-most-used-assistant-challenging-openais-dominance/
+Headline: Exclusive: Resquared nabs $5M to take on leading CRMs with B2B local sales platform
+Description: Already, Resquared claims to have collected data on more than 11 million SMBs throughout the U.S. and Canada.
+Link: https://venturebeat.com/ai/exclusive-resquared-nabs-5m-to-take-on-leading-crms-with-b2b-local-sales-platform/
+Headline: Gen AI boosts individual creativity at the cost of collective diversity, study finds
+Description: A new study shows that AI can help writers become more creative, but they result in stories that are too similar.
+Link: https://venturebeat.com/ai/gen-ai-boosts-individual-creativity-at-the-cost-of-collective-diversity-study-finds/
+Headline: Ex-Apple car engineers’ startup Vayu offers autonomous delivery robots sans Lidar sensors
+Description: Vayu is already witnessing significant traction, with as many as 20 enterprises piloting it's novel technology and over 100 on a waitlist.
+Link: https://venturebeat.com/ai/ex-apple-car-engineers-startup-vayu-offers-autonomous-delivery-robots-sans-lidar-sensors/
+Headline: Former Tesla lead unveils warehouse robot that can lift 3000 lbs
+Description: The robotics startup provides a modular cell-based matrix structure through which an AI-powered bot navigates to move materials.
+Link: https://venturebeat.com/ai/former-tesla-lead-unveils-warehouse-robot-that-can-lift-3000-lbs/
+Headline: By embracing liquid cooling, AI powerhouse Supermicro enables 30% more computing power —  with the same power budget
+Description: To meet AI demands, Supermicro's goal is to make liquid cooling at least 20% to 30% of the whole data center deployment in next 12 months.
+Link: https://venturebeat.com/ai/by-embracing-liquid-cooling-ai-powerhouse-supermicro-enables-30-more-computing-power-with-the-same-power-budget/
+Headline: Nauto aims to protect distracted drivers with in-vehicle AI cameras pointing inside
+Description: Nauto has created AI cameras for commercial fleet operators to capture problems with distracted or sleepy drivers and warn them in real time.
+Link: https://venturebeat.com/ai/nauto-aims-to-protect-distracted-drivers-with-in-vehicle-ai-cameras-pointing-inside/
+Headline: Meta unleashes its most powerful AI model, Llama 3.1, with 405B parameters
+Description: Llama 3.1 is the latest version of Meta's large language models, with a new model weight, 405 billion parameters, the biggest model it's trained.
+Link: https://venturebeat.com/ai/meta-unleashes-its-most-powerful-ai-model-llama-3-1-with-405b-parameters/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: Fight for global AI lead may boil down to governance
-Description: Companies looking to gain a foothold in AI must focus on business demands, regulatory requirements, and market conditions.
-Link: https://www.zdnet.com/article/fight-for-global-ai-lead-may-boil-down-to-governance/#ftag=RSSbaffb68
-Headline: I changed these 5 TV settings to lower my electric bill. Here's why they work
-Description: The latest television models are more energy-efficient than ever. Here's how to prevent your TV from using more power than it needs to.
-Link: https://www.zdnet.com/home-and-office/home-entertainment/i-changed-these-5-tv-settings-and-lowered-my-electric-bill-heres-why-they-work/#ftag=RSSbaffb68
-Headline: Apple accelerates AI efforts: Here's what its new models can do
-Description: Meta, Google, and Mistral, watch out - you've got 7 billion parameters of competition and counting.
-Link: https://www.zdnet.com/article/apple-accelerates-ai-efforts-heres-what-its-new-models-can-do/#ftag=RSSbaffb68
-Headline: Can't hear TV dialogue? 3 fixes to dramatically improve your television's audio - and 2 are free
-Description: A few simple adjustments can significantly impact how those important talk scenes sound.
-Link: https://www.zdnet.com/home-and-office/home-entertainment/cant-hear-tv-dialogue-3-fixes-to-dramatically-improve-your-televisions-audio-and-2-are-free/#ftag=RSSbaffb68
+Headline: How Pearson's AI assistant can help teachers save time
+Description: As students embrace generative AI for homework help, teachers need support implementing it for their own workflows.
+Link: https://www.zdnet.com/article/how-pearsons-ai-assistant-can-help-teachers-save-time/#ftag=RSSbaffb68
+Headline: The best 50-inch TVs of 2024: Expert recommended
+Description: Have a smaller home theater or looking for a second TV for your bedroom? We tested some of the best 50-inch TVs from Samsung, LG, and more to help you find the best fit for your budget and entertainme...
+Link: https://www.zdnet.com/home-and-office/home-entertainment/best-50-inch-tv/#ftag=RSSbaffb68
+Headline: Microsoft Copilot vs. Copilot Pro: Is the subscription fee worth it?
+Description: Offering priority access and AI smarts across Microsoft 365, Copilot Pro runs $20 per month. Is the extra bang worth the buck? That depends on your needs. Here's what to consider.
+Link: https://www.zdnet.com/article/microsoft-copilot-vs-copilot-pro-is-the-subscription-fee-worth-it/#ftag=RSSbaffb68
+Headline: The Ninja Creami Ice Cream Maker is still $32 off after Prime Day
+Description: Craving a summer treat? The Ninja Creami can make all your frozen desserts and smoothies, comes with two pint-sized containers, and is still $32 off after Amazon Prime Day.
+Link: https://www.zdnet.com/home-and-office/ninja-creami-amazon-prime-day-deal-still-around/#ftag=RSSbaffb68
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -275,6 +306,9 @@ Link: https://www.aisnakeoil.com/p/will-ai-transform-law
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: New video test for Parkinson's uses AI to track how the disease is progressing
+Description: An automated assessment technique that uses artificial intelligence could revolutionize the management of Parkinson's disease.
+Link: https://www.sciencedaily.com/releases/2024/07/240723123521.htm
 Headline: Can consciousness exist in a computer simulation?
 Description: A new essay explores which conditions must be met for consciousness to exist. At least one of them can't be found in a computer.
 Link: https://www.sciencedaily.com/releases/2024/07/240719123825.htm
@@ -302,13 +336,16 @@ Link: https://www.sciencedaily.com/releases/2024/07/240710195430.htm
 Headline: A new twist on artificial 'muscles' for safer, softer robots
 Description: Engineers have developed a new soft, flexible device that makes robots move by expanding and contracting -- just like a human muscle. To demonstrate their new device, called an actuator, the researche...
 Link: https://www.sciencedaily.com/releases/2024/07/240710135244.htm
-Headline: A genetic algorithm for phononic crystals
-Description: Researchers tested phononic nanomaterials designed with an automated genetic algorithm that responded to light pulses with controlled vibrations. This work may help in the development of next-generati...
-Link: https://www.sciencedaily.com/releases/2024/07/240703131750.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Robot dog can stifle weeds by blasting them with a flamethrower
+Description: A Spot robot armed with a flamethrower can locate weeds on farms and precisely heat them up to stop them growing, offering a possible alternative to herbicides
+Link: https://www.newscientist.com/article/2439917-robot-dog-can-stifle-weeds-by-blasting-them-with-a-flamethrower/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Hydrogen off-road race car tested to limits in former coal mine
+Description: At a decommissioned coal mine in Scotland, the world’s first hydrogen-powered off-road racing car is being tested ahead of next year’s hydrogen racing series, Extreme H
+Link: https://www.newscientist.com/video/2440569-hydrogen-off-road-race-car-tested-to-limits-in-former-coal-mine/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Google AI slashes computer power needed for weather forecasts
 Description: A weather and climate model that fuses artificial intelligence and physics simulations can match state-of-the-art performance while slashing the required computer power, say Google researchers
 Link: https://www.newscientist.com/article/2439849-google-ai-slashes-computer-power-needed-for-weather-forecasts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -333,12 +370,6 @@ Link: https://www.newscientist.com/article/2439830-tiny-jellyfish-robots-made-of
 Headline: Tiny solar-powered drones could stay in the air forever
 Description: An aerial robot weighing 4 grams is powered by tiny solar panels that produce extremely high voltages – an approach that could enable drones to fly indefinitely
 Link: https://www.newscientist.com/article/2439277-tiny-solar-powered-drones-could-stay-in-the-air-forever/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Diamond could be the super semiconductor the US power grid needs
-Description: The hidden semiconductor abilities of diamonds could help power grids and electric vehicles manage far greater amounts of electricity more efficiently
-Link: https://www.newscientist.com/article/2439812-diamond-could-be-the-super-semiconductor-the-us-power-grid-needs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Russia is building ground-based kamikaze robots out of old hoverboards
-Description: Hoverboards, or self-balancing scooters, are already used by hobbyists as a basis for robots, but now a group in Russia is putting them to use on the battlefields of Ukraine
-Link: https://www.newscientist.com/article/2439161-russia-is-building-ground-based-kamikaze-robots-out-of-old-hoverboards/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -351,22 +382,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: I asked ChatGPT "If you were a candidate for president of the united states, what would be your platform?"
-Description: <!-- SC_OFF --><div class="md"><p>...and this was it's answer. It has my vote. Would you vote for an AI running on this platform?</p> <p>&quot;If I were to hypothetically outline a platform based on d...
-Link: https://www.reddit.com/r/artificial/comments/1e97xpq/i_asked_chatgpt_if_you_were_a_candidate_for/
-Headline: Seeking Mini-Project Ideas for 3rd Year Engineering in AI, Data Warehousing, and Deep Learning
-Description: <!-- SC_OFF --><div class="md"><p>I'm currently a 3rd-year engineering student specializing in Computer Science and Engineering, and I'm in need of some inspiration for my mini-project. The project do...
-Link: https://www.reddit.com/r/artificial/comments/1e9gj4w/seeking_miniproject_ideas_for_3rd_year/
-Headline: One-Minute Daily AI News 7/21/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>The <strong>Neo4j</strong> LLM Knowledge Graph Builder: An AI Tool that Creates Knowledge Graphs from Unstructured Data.[1]</li> <li>Chinese companies offer to ...
-Link: https://www.reddit.com/r/artificial/comments/1e95lih/oneminute_daily_ai_news_7212024/
-Headline: Tony Blair, Prophet of the Inevitable, Embraces AI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e9nmcb/tony_blair_prophet_of_the_inevitable_embraces_ai/"> <img alt="Tony Blair, Prophet of the Inevitable, Embraces AI" src="ht...
-Link: https://www.reddit.com/r/artificial/comments/1e9nmcb/tony_blair_prophet_of_the_inevitable_embraces_ai/
-Headline: what are the pros of doing something like an ai server or workstation build versus a normal ai build?
-Description: <!-- SC_OFF --><div class="md"><p>I was looking around on some PC part buying and building sites, and the thought occurred to me to consider looking into an ai server type build, which seems really ex...
-Link: https://www.reddit.com/r/artificial/comments/1e9n0a9/what_are_the_pros_of_doing_something_like_an_ai/
-
+Headline: Nick Bostrom says shortly after AI can do all the things the human brain can do, it will learn to do them much better and faster, and human intelligence will become obsolete
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e9zw3v/nick_bostrom_says_shortly_after_ai_can_do_all_the/"> <img alt="Nick Bostrom says shortly after AI can do all the things t...
+Link: https://www.reddit.com/r/artificial/comments/1e9zw3v/nick_bostrom_says_shortly_after_ai_can_do_all_the/
+Headline: I am a prolific writer and fed all my writing to AI then asked it what it thought I looked like
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e9ygr0/i_am_a_prolific_writer_and_fed_all_my_writing_to/"> <img alt="I am a prolific writer and fed all my writing to AI then as...
+Link: https://www.reddit.com/r/artificial/comments/1e9ygr0/i_am_a_prolific_writer_and_fed_all_my_writing_to/
+Headline: ModelClash: Dynamic LLM Evaluation Through AI Duels
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ea3smo/modelclash_dynamic_llm_evaluation_through_ai_duels/"> <img alt="ModelClash: Dynamic LLM Evaluation Through AI Duels" src=...
+Link: https://www.reddit.com/r/artificial/comments/1ea3smo/modelclash_dynamic_llm_evaluation_through_ai_duels/
+Headline: One-Minute Daily AI News 7/22/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Exclusive: <strong>Nvidia</strong> preparing version of new flagship AI chip for Chinese market.[1]</li> <li><strong>Wiz</strong> Rejects <strong>Alphabet’s</st...
+Link: https://www.reddit.com/r/artificial/comments/1e9z72q/oneminute_daily_ai_news_7222024/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
