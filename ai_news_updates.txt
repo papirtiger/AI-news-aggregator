@@ -1,35 +1,56 @@
-AI News Updates - 2024-07-24 02:35:26
+AI News Updates - 2024-07-25 02:35:31
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: Mark Zuckerberg imagines content creators making AI clones of themselves
-Description: <p>Content creators are busy people. Most spend more than 20 hours a week creating new content for their respective corners of the web. That doesn&#8217;t leave much time for audience engagement. But ...
-Link: https://techcrunch.com/2024/07/23/mark-zuckerberg-imagines-content-creators-making-ai-clones-of-themselves/
-Headline: OpenAI-backed legal tech startup Harvey raises $100M
-Description: <p>Harvey, a startup building what it describes as an AI-powered &#8220;copilot&#8221; for lawyers, has raised $100 million in a Series C round led by GV, Google&#8217;s corporate venture arm. The tra...
-Link: https://techcrunch.com/2024/07/23/openai-backed-legaltech-startup-harvey-raises-100m/
-Headline: FTC is investigating how companies are using AI to base pricing on consumer behavior
-Description: <p>The Federal Trade Commission announced on Tuesday that it’s ordering eight companies that offer AI-powered &#8220;surveillance service pricing&#8221; to turn over information about the potential im...
-Link: https://techcrunch.com/2024/07/23/ftc-is-investigating-how-companies-are-using-ai-to-base-pricing-on-consumer-behavior/
-Headline: Meta releases its biggest ‘open’ AI model yet
-Description: <p>Meta&#8217;s latest open source AI model is its biggest yet. Today, Meta said it is releasing Llama 3.1 405B, a model containing 405 billion parameters. Parameters roughly correspond to a model&#82...
-Link: https://techcrunch.com/2024/07/23/meta-releases-its-biggest-open-ai-model-yet/
-Headline: Meta AI gets new ‘Imagine me’ selfie feature
-Description: <p>Meta AI, Meta&#8217;s AI-powered assistant across Facebook, Instagram, Messenger and the web, can now speak in more languages and create stylized selfies. And, starting today, Meta AI users can rou...
-Link: https://techcrunch.com/2024/07/23/meta-ai-gets-new-selfie-features-quest-support/
-Headline: Level AI applies algorithms to contact center pain points
-Description: <p>Level AI offers a suite of AI-powered tools to automate various customer service tasks. </p>
+Headline: A new Chinese video-generating model appears to be censoring politically sensitive topics
+Description: <p>A powerful new video-generating AI model became widely available today — but there&#8217;s a catch: The model appears to be censoring topics deemed too politically sensitive by the government in it...
+Link: https://techcrunch.com/2024/07/24/a-new-chinese-video-generating-model-appears-to-be-censoring-politically-sensitive-topics/
+Headline: Mistral’s Large 2 is its answer to Meta and OpenAI’s latest models
+Description: <p>For frontier AI models, when it rains, it pours. Mistral released a fresh new flagship model on Wednesday, Large 2, which it claims to be on par with the latest cutting edge models from OpenAI and ...
+Link: https://techcrunch.com/2024/07/24/mistral-releases-large-2-meta-openai-ai-models/
+Headline: Researchers are training home robots in simulations based on iPhone scans
+Description: <p>Researchers at MIT CSAIL this week are showcasing a new method for training home robots in simulation. </p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/07/23/level-ai-applies-algorithms-to-contact-center-pain-points/
-Headline: Adobe releases new Firefly AI tools for Illustrator and Photoshop
-Description: <p>Adobe released new Firefly tools for Photoshop and Illustrator on Tuesday, offering graphic designers more ways to use the company&#8217;s in-house AI models. Adobe&#8217;s new features let creativ...
-Link: https://techcrunch.com/2024/07/23/adobe-releases-new-firefly-ai-tools-for-illustrator-and-photoshop/
-Headline: Former Tesla humanoid head launches a robotics startup
-Description: <p>In spite of maintaining stealth until now, Mytra has already drummed up interest with big names. The startup has a pilot with grocery giant Albertsons, among others. </p>
-<p>© 2024 TechCrunch. All ...
-Link: https://techcrunch.com/2024/07/23/former-tesla-humanoid-head-launches-a-robotics-startup/
+Link: https://techcrunch.com/2024/07/24/researchers-are-training-home-robots-in-simulations-based-on-iphone-scans/
+Headline: Bing previews its answer to Google’s AI Overviews
+Description: <p>Microsoft this afternoon previewed its answer to Google&#8217;s AI-powered search experiences: Bing generative search. Available for only a &#8220;small percentage&#8221; of users at the moment, Bi...
+Link: https://techcrunch.com/2024/07/24/bing-previews-its-answer-to-googles-ai-overviews/
+Headline: This Week in AI: How Kamala Harris might regulate AI
+Description: <p>Hiya, folks, welcome to TechCrunch’s regular AI newsletter. Last Sunday, President Joe Biden announced that he no longer plans to seek reelection, instead offering his “full endorsement” of VP Kama...
+Link: https://techcrunch.com/2024/07/24/this-week-in-ai-how-kamala-harris-might-regulate-ai/
+Headline: VCs are still pouring billions into generative AI startups
+Description: <p>But the fate of many generative AI businesses — even the best-funded ones — looks murky.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/07/24/vcs-are-still-pouring-billions-into-generative-ai-startups/
+Headline: Colin Kaepernick lost control of his story. Now he wants to help creators own theirs
+Description: <p>Thousands of stories have been written about former NFL quarterback and civil rights activist Colin Kaepernick. If anyone knows a thing or two about losing control of your own narrative, it&#8217;s...
+Link: https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/
+Headline: ‘Model collapse’: Scientists warn against letting AI eat its own tail
+Description: <p>If the models continue eating each other's data, perhaps without even knowing it, they'll progressively get weirder and dumber until they collapse.</p>
+<p>© 2024 TechCrunch. All rights reserved. Fo...
+Link: https://techcrunch.com/2024/07/24/model-collapse-scientists-warn-against-letting-ai-eat-its-own-tail/
+Headline: Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024
+Description: <p>We’re so excited to announce that we’ve added a dedicated AI Stage presented by Google Cloud to TechCrunch Disrupt 2024. It joins Fintech, SaaS and Space as the other industry-focused stages — all ...
+Link: https://techcrunch.com/2024/07/24/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/
+
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Bing’s AI redesign shoves the usual list of search results to the side
+Description: <figure>
+      <img alt="Bing logo" src="https://cdn.vox-cdn.com/thumbor/f0k3-2o-kx8dDxXucpY2h1UAbNc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73480469/STK150_Bing_AI_Chatbot_...
+Link: https://www.theverge.com/2024/7/24/24205404/bing-ai-search-redesign
+Headline: Kamala Harris hasn’t said a lot about tech policy, but here’s what we know
+Description: <figure>
+      <img alt="Graphic photo collage of Vice President Kamala Harris." src="https://cdn.vox-cdn.com/thumbor/YopBT8GiNKD7irI5e4vsnwSGtjA=/20x0:2021x1334/1310x873/cdn.vox-cdn.com/uploads/choru...
+Link: https://www.theverge.com/24205360/kamala-harris-tech-policy-explainer-democratic-presidential-election
+Headline: The Senate passed a bill cracking down on sexually explicit deepfakes
+Description: <figure>
+      <img alt="Capitol Hill" src="https://cdn.vox-cdn.com/thumbor/l2M_NAKm0rcrVjT3XTKWjyNh5KM=/0x1:4500x3001/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73479975/2162439650.0.jpg" />...
+Link: https://www.theverge.com/2024/7/24/24205275/senate-passes-defiance-act-non-consensual-intimate-ai-deepfakes
+Headline: Reddit is now blocking major search engines and AI bots — except the ones that pay
+Description: <figure>
+      <img alt="An image showing the Reddit logo on a red and white background" src="https://cdn.vox-cdn.com/thumbor/3cZl6BS2FjKc24mi4oFMLGtjmyo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/upload...
+Link: https://www.theverge.com/2024/7/24/24205244/reddit-blocking-search-engine-crawlers-ai-bot-google
 Headline: Meta releases the biggest and best open-source AI model yet
 Description: <figure>
       <img alt="Meta logo on a blue background" src="https://cdn.vox-cdn.com/thumbor/kuq-B37Rd2jkZNXdQZDUjjPWc3g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73476794/ST...
@@ -54,22 +75,6 @@ Headline: The all-seeing AI webcam
 Description: <figure>
       <img alt="An illustration of artist Dries Depoorter, and depictions of the works described in the article" src="https://cdn.vox-cdn.com/thumbor/Zcd_aPDti2D9-OLhSbCIJwi7UMw=/0x0:2040x136...
 Link: https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai
-Headline: OpenAI’s latest model will block the ‘ignore all previous instructions’ loophole
-Description: <figure>
-      <img alt="Photo illustration of a helpful chatbot." src="https://cdn.vox-cdn.com/thumbor/upZzQZp9T7GY_etRO_8IyOu5GSk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
-Link: https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy
-Headline: Google’s Gemini AI will be all over the Paris Olympics broadcast
-Description: <figure>
-      <img alt="Photo collage of the Olympic rings over a photo of the Olympic rings illuminated on the Eiffel Tower." src="https://cdn.vox-cdn.com/thumbor/Qx2jfVYcsE8l5_pI0tdIb9RIWZQ=/0x0:20...
-Link: https://www.theverge.com/2024/7/18/24201440/google-paris-2024-olympic-games-ai-gemini-ads-sponsor
-Headline: Google reveals the Pixel 9 Pro Fold before it can leak again
-Description: <figure>
-      <img alt="An image showing the Pixel 9 Pro Fold" src="https://cdn.vox-cdn.com/thumbor/uVlQQvYo9_CnLXUC6KZ5XclPz4w=/289x0:2023x1156/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73...
-Link: https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai
-Headline: Figma explains how its AI tool ripped off Apple’s design
-Description: <figure>
-      <img alt="Vector illustration of the Figma logo." src="https://cdn.vox-cdn.com/thumbor/Y89pV7a0NYlPzeHMGUcdg9Eukc8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734...
-Link: https://www.theverge.com/2024/7/18/24201308/figma-make-designs-vet-apple
 
 ---
 
@@ -78,6 +83,12 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: Demystifying AI-Assisted Artistry With Adobe Apps Using NVIDIA RTX
+Description: Adobe Creative Cloud applications, which tap NVIDIA RTX GPUs, are designed to enhance the creativity of users, empowering them to work faster and focus on their craft.
+Link: https://blogs.nvidia.com/blog/ai-decoded-adobe-firefly-creative-cloud-rtx/
+Headline: How Georgia Tech’s AI Makerspace Is Preparing the Future Workforce for AI
+Description: AI is set to transform the workforce — and the Georgia Institute of Technology’s new AI Makerspace is helping tens of thousands of students get ahead of the curve. In this episode of NVIDIA’s AI Podca...
+Link: https://blogs.nvidia.com/blog/georgia-tech-ai-makerspace-supercomputer/
 Headline: How NVIDIA AI Foundry Lets Enterprises Forge Custom Generative AI Models
 Description: Businesses seeking to harness the power of AI need customized models tailored to their specific industry needs. NVIDIA AI Foundry is a service that enables enterprises to use data, accelerated computi...
 Link: https://blogs.nvidia.com/blog/ai-foundry-enterprise-generative-ai/
@@ -96,13 +107,6 @@ Link: https://blogs.nvidia.com/blog/ai-data-science-career-development/
 Headline: Mistral AI and NVIDIA Unveil Mistral NeMo 12B, a Cutting-Edge Enterprise AI Model
 Description: Mistral AI and NVIDIA today released a new state-of-the-art language model, Mistral NeMo 12B, that developers can easily customize and deploy for enterprise applications supporting chatbots, multiling...
 Link: https://blogs.nvidia.com/blog/mistral-nvidia-ai-model/
-Headline: Decoding How AI-Powered Upscaling on NVIDIA RTX Improves Video Quality
-Description: Video is everywhere — nearly 80% of internet bandwidth today is used to stream video from content providers and social networks.
-Link: https://blogs.nvidia.com/blog/ai-decoded-upscaling/
-Headline: Next-Gen Video Editing: Wondershare Filmora Adds NVIDIA RTX Video HDR Support, RTX-Accelerated AI Features
-Description: Wondershare Filmora — a video editing app with AI-powered tools — now supports NVIDIA RTX Video HDR, joining editing software like Blackmagic Design’s DaVinci Resolve and Cyberlink PowerDirector.
-Link: https://blogs.nvidia.com/blog/studio-wondershare-filmora-rtx-ai-july-driver/
-
 ---
 
 From source: https://openai.com/blog/rss.xml
@@ -110,6 +114,15 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Meta advances open source AI with ‘frontier-level’ Llama 3.1
+Description: <p>Meta has unveiled Llama 3.1, marking a significant milestone in the company&#8217;s commitment to open source AI. This release, which Meta CEO Mark Zuckerberg calls &#8220;the first frontier-level ...
+Link: https://www.artificialintelligence-news.com/news/meta-advances-open-source-ai-frontier-level-llama-3-1/
+Headline: AI-powered WAFs vs traditional firewalls: Protecting your web applications
+Description: <p>If your business relies on web applications, you&#8217;re probably familiar with traditional network firewalls. And for good reason – they play an invaluable role filtering external threats looking...
+Link: https://www.artificialintelligence-news.com/news/ai-powered-wafs-vs-traditional-firewalls-protecting-your-web-applications/
+Headline: Top 5 AI tool directories: Discover and showcase AI innovations
+Description: <p>Hey there, AI enthusiasts! If you&#8217;re anything like me, you&#8217;re always on the lookout for the best resources to discover the latest and greatest in artificial intelligence. Whether you&#8...
+Link: https://www.artificialintelligence-news.com/news/top-5-ai-tool-directories-discover-and-showcase-ai-innovations/
 Headline: Senators probe OpenAI on safety and employment practices
 Description: <p>Five prominent Senate Democrats have sent a letter to OpenAI CEO Sam Altman, seeking clarity on the company&#8217;s safety and employment practices. The letter – signed by Senators Brian Schatz, Be...
 Link: https://www.artificialintelligence-news.com/news/senators-probe-openai-safety-employment-practices/
@@ -131,15 +144,6 @@ Link: https://www.artificialintelligence-news.com/news/tsmc-forecasts-record-gro
 Headline: Over 40% of Japanese firms lack AI adoption plans
 Description: <p>A Reuters survey released recently laid bare a nuanced picture of Japanese corporate acceptance and social attitudes toward technology. The survey, conducted by Nikkei Research, anonymously polled ...
 Link: https://www.artificialintelligence-news.com/news/over-40-percent-of-japanese-firms-lack-ai-adoption-plans/
-Headline: Meta joins Apple in withholding AI models from EU users
-Description: <p>Meta has announced it will not be launching its upcoming multimodal AI model in the European Union due to regulatory concerns. This decision from Meta comes on the heels of Apple&#8217;s similar mo...
-Link: https://www.artificialintelligence-news.com/news/meta-joins-apple-withholding-ai-models-eu-users/
-Headline: AI could unleash £119 billion in UK productivity
-Description: <p>Workday has unveiled figures that suggest AI could unleash a £119 billion productivity boost for UK enterprises. This revelation comes at a crucial time, as the nation grapples with a productivity ...
-Link: https://www.artificialintelligence-news.com/news/ai-could-unleash-119-billion-in-uk-productivity/
-Headline: Best AI-driven laptops and PCs
-Description: <p>Since the 1990s, the most hardcore gamers have traditionally opted for PCs and laptops. Not only did this allow them to dive deeper into their favourite games, even creating things like mods, but P...
-Link: https://www.artificialintelligence-news.com/news/best-ai-driven-laptops-and-pcs/
 
 ---
 
@@ -148,6 +152,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: AI trained on AI garbage spits out AI garbage
+Description: AI models work by training on huge swaths of data from the internet. But as AI is increasingly being used to pump out web pages filled with junk content, that process is in danger of being undermined....
+Link: https://www.technologyreview.com/2024/07/24/1095263/ai-that-feeds-on-a-diet-of-ai-garbage-ends-up-spitting-out-nonsense/
 Headline: How’s AI self-regulation going?
 Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Yesterday, on July 21, President Joe Biden announced he is ste...
 Link: https://www.technologyreview.com/2024/07/23/1095218/hows-ai-self-regulation-going/
@@ -175,6 +182,7 @@ Link: https://www.technologyreview.com/2024/07/11/1094850/robot-packed-meals-are
 Headline: AI is poised to automate today’s most mundane manual warehouse task
 Description: Before almost any item reaches your door, it traverses the global supply chain on a pallet. More than 2 billion pallets are in circulation in the United States alone, and $400 billion worth of goods a...
 Link: https://www.technologyreview.com/2024/07/11/1094829/ai-is-poised-to-automate-todays-most-mundane-manual-warehouse-task/
+
 ---
 
 From source: https://ai.googleblog.com/feeds/posts/default
@@ -186,6 +194,18 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Mistral Large 2 is now available in Amazon Bedrock
+Description: Mistral AI’s Mistral Large 2 (24.07) foundation model (FM) is now generally available in Amazon Bedrock. Mistral Large 2 is the newest version of Mistral Large, and according to Mistral AI offers sign...
+Link: https://aws.amazon.com/blogs/machine-learning/mistral-large-2-is-now-available-in-amazon-bedrock/
+Headline: LLM experimentation at scale using Amazon SageMaker Pipelines and MLflow
+Description: Large language models (LLMs) have achieved remarkable success in various natural language processing (NLP) tasks, but they may not always generalize well to specific domains or tasks. You may need to ...
+Link: https://aws.amazon.com/blogs/machine-learning/llm-experimentation-at-scale-using-amazon-sagemaker-pipelines-and-mlflow/
+Headline: Discover insights from Amazon S3 with Amazon Q S3 connector
+Description: Amazon Q is a fully managed, generative artificial intelligence (AI) powered assistant that you can configure to answer questions, provide summaries, generate content, gain insights, and complete task...
+Link: https://aws.amazon.com/blogs/machine-learning/discover-insights-from-amazon-s3-with-amazon-q-s3-connector/
+Headline: Boosting Salesforce Einstein’s code generating model performance with Amazon SageMaker
+Description: This post is a joint collaboration between Salesforce and AWS and is being cross-published on both the Salesforce Engineering Blog and the AWS Machine Learning Blog. Salesforce, Inc. is an American cl...
+Link: https://aws.amazon.com/blogs/machine-learning/boosting-salesforce-einsteins-code-generating-model-performance-with-amazon-sagemaker/
 Headline: AWS AI chips deliver high performance and low cost for Llama 3.1 models on AWS
 Description: Today, we are excited to announce AWS Trainium and AWS Inferentia support for fine-tuning and inference of the Llama 3.1 models. The Llama 3.1 family of multilingual large language models (LLMs) is a ...
 Link: https://aws.amazon.com/blogs/machine-learning/aws-ai-chips-deliver-high-performance-and-low-cost-for-meta-llama-3-1-models-on-aws/
@@ -198,65 +218,60 @@ Link: https://aws.amazon.com/blogs/machine-learning/meta-llama-3-1-models-are-no
 Headline: Metadata filtering for tabular data with Knowledge Bases for Amazon Bedrock
 Description: Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading artificial intelligence (AI) companies like AI21 Labs, Anthropic, Cohere, Meta, M...
 Link: https://aws.amazon.com/blogs/machine-learning/metadata-filtering-for-tabular-data-with-knowledge-bases-for-amazon-bedrock/
-Headline: Secure AccountantAI Chatbot: Lili’s journey with Amazon Bedrock
-Description: This post was written in collaboration with Liran Zelkha and Eyal Solnik from Lili. Small business proprietors tend to prioritize the operational aspects of their enterprises over administrative tasks...
-Link: https://aws.amazon.com/blogs/machine-learning/secure-accountantai-chatbot-lilis-journey-with-amazon-bedrock/
-Headline: How Deloitte Italy built a digital payments fraud detection solution using quantum machine learning and Amazon Braket
-Description: As digital commerce expands, fraud detection has become critical in protecting businesses and consumers engaging in online transactions. Implementing machine learning (ML) algorithms enables real-time...
-Link: https://aws.amazon.com/blogs/machine-learning/how-deloitte-italy-built-a-digital-payments-fraud-detection-solution-using-quantum-machine-learning-and-amazon-braket/
-Headline: Amazon SageMaker unveils the Cohere Command R fine-tuning model
-Description: AWS announced the availability of the Cohere Command R fine-tuning model on Amazon SageMaker. This latest addition to the SageMaker suite of machine learning (ML) capabilities empowers enterprises to ...
-Link: https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-unveils-the-cohere-command-r-fine-tuning-model/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
-Headline: How Chevron is using gen AI to strike oil
-Description: How Chevron is using gen AI, digital twins and robots to analyze massive datasets, make predictions and protect workers and the planet.
-Link: https://venturebeat.com/ai/how-chevron-is-using-gen-ai-to-strike-oil/
-Headline: AI arms race escalates: OpenAI offers free GPT-4o Mini fine-tuning to counter Meta’s Llama 3.1 release
-Description: OpenAI challenges Meta's Llama 3.1 with free GPT-4o mini fine-tuning, reshaping the AI landscape and intensifying competition in the rapidly evolving artificial intelligence market.
-Link: https://venturebeat.com/ai/ai-arms-race-escalates-openai-offers-free-gpt-4o-mini-fine-tuning-to-counter-metas-llama-3-1-release/
-Headline: Yann LeCun says Meta AI ‘quickly becoming most used’ assistant, challenging OpenAI’s dominance
-Description: Meta challenges OpenAI with Llama 3.1, an open-source AI model rivaling GPT-4o, as Yann LeCun claims Meta AI is becoming the most widely used AI assistant.
-Link: https://venturebeat.com/ai/yann-lecun-says-meta-ai-quickly-becoming-most-used-assistant-challenging-openais-dominance/
-Headline: Exclusive: Resquared nabs $5M to take on leading CRMs with B2B local sales platform
-Description: Already, Resquared claims to have collected data on more than 11 million SMBs throughout the U.S. and Canada.
-Link: https://venturebeat.com/ai/exclusive-resquared-nabs-5m-to-take-on-leading-crms-with-b2b-local-sales-platform/
-Headline: Gen AI boosts individual creativity at the cost of collective diversity, study finds
-Description: A new study shows that AI can help writers become more creative, but they result in stories that are too similar.
-Link: https://venturebeat.com/ai/gen-ai-boosts-individual-creativity-at-the-cost-of-collective-diversity-study-finds/
-Headline: Ex-Apple car engineers’ startup Vayu offers autonomous delivery robots sans Lidar sensors
-Description: Vayu is already witnessing significant traction, with as many as 20 enterprises piloting it's novel technology and over 100 on a waitlist.
-Link: https://venturebeat.com/ai/ex-apple-car-engineers-startup-vayu-offers-autonomous-delivery-robots-sans-lidar-sensors/
-Headline: Former Tesla lead unveils warehouse robot that can lift 3000 lbs
-Description: The robotics startup provides a modular cell-based matrix structure through which an AI-powered bot navigates to move materials.
-Link: https://venturebeat.com/ai/former-tesla-lead-unveils-warehouse-robot-that-can-lift-3000-lbs/
-Headline: By embracing liquid cooling, AI powerhouse Supermicro enables 30% more computing power —  with the same power budget
-Description: To meet AI demands, Supermicro's goal is to make liquid cooling at least 20% to 30% of the whole data center deployment in next 12 months.
-Link: https://venturebeat.com/ai/by-embracing-liquid-cooling-ai-powerhouse-supermicro-enables-30-more-computing-power-with-the-same-power-budget/
-Headline: Nauto aims to protect distracted drivers with in-vehicle AI cameras pointing inside
-Description: Nauto has created AI cameras for commercial fleet operators to capture problems with distracted or sleepy drivers and warn them in real time.
-Link: https://venturebeat.com/ai/nauto-aims-to-protect-distracted-drivers-with-in-vehicle-ai-cameras-pointing-inside/
-Headline: Meta unleashes its most powerful AI model, Llama 3.1, with 405B parameters
-Description: Llama 3.1 is the latest version of Meta's large language models, with a new model weight, 405 billion parameters, the biggest model it's trained.
-Link: https://venturebeat.com/ai/meta-unleashes-its-most-powerful-ai-model-llama-3-1-with-405b-parameters/
+Headline: The 5 questions Google couldn’t answer on it’s earnings call about its AI future
+Description: Google faces tough questions on AI strategy in tense earnings call. Analysts probe 5 key concerns as Google Cloud results hint at strong quarters for AWS and Azure.
+Link: https://venturebeat.com/ai/the-5-questions-google-couldnt-answer-on-its-earnings-call-about-its-ai-future/
+Headline: Nvidia’s latest AI offering could spark a custom model gold rush
+Description: Nvidia launches AI Foundry service, enabling businesses to create custom AI models with increased accuracy and control, potentially revolutionizing enterprise AI adoption.
+Link: https://venturebeat.com/ai/nvidias-latest-ai-offering-could-spark-a-custom-model-gold-rush/
+Headline: The future of work: How Salesforce and Workday’s AI alliance will transform your office
+Description: Salesforce and Workday forge a groundbreaking AI partnership, revolutionizing enterprise software with unified data integration and an AI-powered employee service agent, reshaping the future of work a...
+Link: https://venturebeat.com/ai/the-future-of-work-how-salesforce-and-workdays-ai-alliance-will-transform-your-office/
+Headline: Mistral shocks with new open model Mistral Large 2, taking on Llama 3.1
+Description: On the Multilingual MMLU tasks, Mistral Large 2 performed on par with Meta’s Llama 3.1-405B while delivering significant cost benefits.
+Link: https://venturebeat.com/ai/mistral-shocks-with-new-open-model-mistral-large-2-taking-on-llama-3-1/
+Headline: AI models rank their own safety in OpenAI’s new alignment research
+Description: Rules-based Rewards, a method from OpenAI that automates safety scoring, lets developers create clear-cut safety instructions for AI model fine-tuning.
+Link: https://venturebeat.com/ai/ai-models-rank-their-own-safety-in-openais-new-alignment-research/
+Headline: Stability AI steps into a new gen AI dimension with Stable Video 4D
+Description: Stability AI is adding the dimension of time to gen AI video with new 4D model.
+Link: https://venturebeat.com/ai/stability-ai-steps-into-a-new-gen-ai-dimension-with-stable-video-4d/
+Headline: Berkeley SkyDeck widens eligibility for startup accelerator applicants
+Description: The Berkeley SkyDeck accelerator is opening its application eligibility beyond startup founders affiliated with UC Berkeley.
+Link: https://venturebeat.com/ai/berkeley-skydeck-widens-eligibility-for-startup-accelerator-applicants/
+Headline: Developers aren’t worried that gen AI will steal their jobs, Stack Overflow survey reveals
+Description: Developers aren’t afraid gen AI will take their jobs, but they don’t fully trust the technology yet either.
+Link: https://venturebeat.com/ai/stack-overflow-survey-reveals-growing-gen-ai-usage-among-developers-but-trust-lags-behind/
+Headline: Nvidia’s coveted H100 GPUs will be available on-demand through Lambda’s clusters
+Description: Customers of Lambda can reserve access to Nvidia H100 and InfiniBand GPUs "on-demand," and for shorter periods without years long contracts.
+Link: https://venturebeat.com/ai/nvidias-coveted-h100-gpus-will-be-available-on-demand-through-lambda/
+Headline: Vanta secures $150 million as AI reshapes tech compliance landscape
+Description: Vanta raises $150M in Series C funding, reaching $2.45B valuation, as it expands AI-powered trust management and compliance automation globally.
+Link: https://venturebeat.com/ai/vanta-secures-150-million-as-ai-reshapes-tech-compliance-landscape/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: How Pearson's AI assistant can help teachers save time
-Description: As students embrace generative AI for homework help, teachers need support implementing it for their own workflows.
-Link: https://www.zdnet.com/article/how-pearsons-ai-assistant-can-help-teachers-save-time/#ftag=RSSbaffb68
-Headline: The best 50-inch TVs of 2024: Expert recommended
-Description: Have a smaller home theater or looking for a second TV for your bedroom? We tested some of the best 50-inch TVs from Samsung, LG, and more to help you find the best fit for your budget and entertainme...
-Link: https://www.zdnet.com/home-and-office/home-entertainment/best-50-inch-tv/#ftag=RSSbaffb68
-Headline: Microsoft Copilot vs. Copilot Pro: Is the subscription fee worth it?
-Description: Offering priority access and AI smarts across Microsoft 365, Copilot Pro runs $20 per month. Is the extra bang worth the buck? That depends on your needs. Here's what to consider.
-Link: https://www.zdnet.com/article/microsoft-copilot-vs-copilot-pro-is-the-subscription-fee-worth-it/#ftag=RSSbaffb68
-Headline: The Ninja Creami Ice Cream Maker is still $32 off after Prime Day
-Description: Craving a summer treat? The Ninja Creami can make all your frozen desserts and smoothies, comes with two pint-sized containers, and is still $32 off after Amazon Prime Day.
-Link: https://www.zdnet.com/home-and-office/ninja-creami-amazon-prime-day-deal-still-around/#ftag=RSSbaffb68
+Headline: How my 4 favorite AI tools help me get more done at work
+Description: I've tested a lot of AI tools. These are the four I use almost daily to enhance my productivity.
+Link: https://www.zdnet.com/article/how-my-4-favorite-ai-tools-help-me-get-more-done-at-work/#ftag=RSSbaffb68
+Headline: The best external hard drives of 2024: Expert tested
+Description: I've rigorously evaluated the top external hard drives available today, to help you find the most reliable and cost-effective backup storage solution.
+Link: https://www.zdnet.com/article/best-external-hard-drive/#ftag=RSSbaffb68
+Headline: Meta Quest 3 is getting AI before Apple's Vision Pro does - here's how to enable it
+Description: Beyond answering basic questions, Meta AI on the Quest 3 headset will be able to analyze your outfit, find things to do, and more.
+Link: https://www.zdnet.com/article/meta-quest-3-is-getting-ai-before-apples-vision-pro-does-heres-how-to-enable-it/#ftag=RSSbaffb68
+Headline: Meet Stability AI's Stable Video 4D, a nuanced take on AI video generation
+Description: With its first video-to-video AI model, Stability AI pushes the boundaries for AI video generation even further.
+Link: https://www.zdnet.com/article/meet-stability-ais-stable-video-4d-a-nuanced-take-on-ai-video-generation/#ftag=RSSbaffb68
+Headline: How to watch the 2024 Summer Olympics: Every streaming option
+Description: The Summer Olympics start this Friday. Here's how to watch the opening ceremony and the games, in some cases for free.
+Link: https://www.zdnet.com/home-and-office/home-entertainment/how-to-watch-the-2024-olympics/#ftag=RSSbaffb68
+
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -306,6 +321,9 @@ Link: https://www.aisnakeoil.com/p/will-ai-transform-law
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Researchers leveraging AI to train (robotic) dogs to respond to their masters
+Description: An international collaboration seeks to innovate the future of how a mechanical man's best friend interacts with its owner, using a combination of AI and edge computing called edge intelligence. The o...
+Link: https://www.sciencedaily.com/releases/2024/07/240723204753.htm
 Headline: New video test for Parkinson's uses AI to track how the disease is progressing
 Description: An automated assessment technique that uses artificial intelligence could revolutionize the management of Parkinson's disease.
 Link: https://www.sciencedaily.com/releases/2024/07/240723123521.htm
@@ -333,16 +351,16 @@ Link: https://www.sciencedaily.com/releases/2024/07/240711111530.htm
 Headline: AI Chatbots have shown they have an 'empathy gap' that children are likely to miss
 Description: Artificial intelligence (AI) chatbots have frequently shown signs of an 'empathy gap' that puts young users at risk of distress or harm, raising the urgent need for 'child-safe AI', according to a new...
 Link: https://www.sciencedaily.com/releases/2024/07/240710195430.htm
-Headline: A new twist on artificial 'muscles' for safer, softer robots
-Description: Engineers have developed a new soft, flexible device that makes robots move by expanding and contracting -- just like a human muscle. To demonstrate their new device, called an actuator, the researche...
-Link: https://www.sciencedaily.com/releases/2024/07/240710135244.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
-Headline: Robot dog can stifle weeds by blasting them with a flamethrower
-Description: A Spot robot armed with a flamethrower can locate weeds on farms and precisely heat them up to stop them growing, offering a possible alternative to herbicides
-Link: https://www.newscientist.com/article/2439917-robot-dog-can-stifle-weeds-by-blasting-them-with-a-flamethrower/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: AI can predict tipping points for systems from forests to power grids
+Description: Combining two neural networks has helped researchers predict potentially disastrous collapses in complex systems, such as financial crashes or power blackouts
+Link: https://www.newscientist.com/article/2440314-ai-can-predict-tipping-points-for-systems-from-forests-to-power-grids/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Robot dog can stifle weeds by blasting them with a blowtorch
+Description: A Spot robot equipped with a blowtorch can locate weeds on farms and precisely heat them up to stop them growing, offering a possible alternative to herbicides
+Link: https://www.newscientist.com/article/2439917-robot-dog-can-stifle-weeds-by-blasting-them-with-a-blowtorch/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Hydrogen off-road race car tested to limits in former coal mine
 Description: At a decommissioned coal mine in Scotland, the world’s first hydrogen-powered off-road racing car is being tested ahead of next year’s hydrogen racing series, Extreme H
 Link: https://www.newscientist.com/video/2440569-hydrogen-off-road-race-car-tested-to-limits-in-former-coal-mine/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -364,12 +382,9 @@ Link: https://www.newscientist.com/article/2438951-is-sharing-your-smartphone-pi
 Headline: Many people think AI is already sentient - and that's a big problem
 Description: A survey of people in the US has revealed the widespread belief that artificial intelligence models are already self-aware, which is very far from the truth
 Link: https://www.newscientist.com/article/2439884-many-people-think-ai-is-already-sentient-and-thats-a-big-problem/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Tiny jellyfish robots made of ferrofluid can be controlled with light
-Description: Researchers combined hydrogel with magnetic ferrofluid to make small jellyfish robots that can complete an obstacle course when directed with light
-Link: https://www.newscientist.com/article/2439830-tiny-jellyfish-robots-made-of-ferrofluid-can-be-controlled-with-light/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Tiny solar-powered drones could stay in the air forever
-Description: An aerial robot weighing 4 grams is powered by tiny solar panels that produce extremely high voltages – an approach that could enable drones to fly indefinitely
-Link: https://www.newscientist.com/article/2439277-tiny-solar-powered-drones-could-stay-in-the-air-forever/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Naomi Klein on the rise of misinformation and conspiracy influencers
+Description: Writer Naomi Klein unpacks her book Doppelganger about the "mirror world" of misinformation, conspiracy influencers and strange alt-right alliances
+Link: https://www.newscientist.com/article/mg26335004-000-naomi-klein-on-the-rise-of-misinformation-and-conspiracy-influencers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -382,18 +397,19 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Nick Bostrom says shortly after AI can do all the things the human brain can do, it will learn to do them much better and faster, and human intelligence will become obsolete
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e9zw3v/nick_bostrom_says_shortly_after_ai_can_do_all_the/"> <img alt="Nick Bostrom says shortly after AI can do all the things t...
-Link: https://www.reddit.com/r/artificial/comments/1e9zw3v/nick_bostrom_says_shortly_after_ai_can_do_all_the/
-Headline: I am a prolific writer and fed all my writing to AI then asked it what it thought I looked like
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1e9ygr0/i_am_a_prolific_writer_and_fed_all_my_writing_to/"> <img alt="I am a prolific writer and fed all my writing to AI then as...
-Link: https://www.reddit.com/r/artificial/comments/1e9ygr0/i_am_a_prolific_writer_and_fed_all_my_writing_to/
-Headline: ModelClash: Dynamic LLM Evaluation Through AI Duels
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ea3smo/modelclash_dynamic_llm_evaluation_through_ai_duels/"> <img alt="ModelClash: Dynamic LLM Evaluation Through AI Duels" src=...
-Link: https://www.reddit.com/r/artificial/comments/1ea3smo/modelclash_dynamic_llm_evaluation_through_ai_duels/
-Headline: One-Minute Daily AI News 7/22/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Exclusive: <strong>Nvidia</strong> preparing version of new flagship AI chip for Chinese market.[1]</li> <li><strong>Wiz</strong> Rejects <strong>Alphabet’s</st...
-Link: https://www.reddit.com/r/artificial/comments/1e9z72q/oneminute_daily_ai_news_7222024/
+Headline: Senators press OpenAI over safety concerns after whistleblower complaint
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1eat5b1/senators_press_openai_over_safety_concerns_after/"> <img alt="Senators press OpenAI over safety concerns after whistleblo...
+Link: https://www.reddit.com/r/artificial/comments/1eat5b1/senators_press_openai_over_safety_concerns_after/
+Headline: One-Minute Daily AI News 7/23/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Meta</strong> releases the biggest and best open-source AI model <strong>Llama 3.1</strong> yet.[1]</li> <li><strong>Snowflake</strong>-Arctic-Embed-m-v...
+Link: https://www.reddit.com/r/artificial/comments/1easm6f/oneminute_daily_ai_news_7232024/
+Headline: OPENAI REMOVES AI SAFETY LEADER MĄDRY
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chocomaaa"> /u/Chocomaaa </a> <br /> <span><a href="https://www.theinformation.com/articles/openai-removes-ai-safety-leader-m-dry-a-onetim...
+Link: https://www.reddit.com/r/artificial/comments/1eaqnx9/openai_removes_ai_safety_leader_mądry/
+Headline: AI + human, what do you think?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ebdj97/ai_human_what_do_you_think/"> <img alt="AI + human, what do you think?" src="https://external-preview.redd.it/MGd0cXplZzh...
+Link: https://www.reddit.com/r/artificial/comments/1ebdj97/ai_human_what_do_you_think/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
