@@ -1,6 +1,21 @@
-AI News Updates - 2024-07-26 02:35:28
+AI News Updates - 2024-07-27 02:33:18
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Apple signs the White House’s commitment to AI safety
+Description: <p>Apple joins 15 other tech companies — including Google, Meta, Microsoft and OpenAI — that committed to the White House's rules for developing generative AI.</p>
+<p>© 2024 TechCrunch. All rights res...
+Link: https://techcrunch.com/2024/07/26/apple-signs-the-white-houses-commitment-to-ai-safety/
+Headline: Privacy watchdog says it’s ‘surprised’ by Elon Musk opting user data into Grok AI training
+Description: <p>The language is ambiguous, so it's not clear whether X is helping itself to all user data for training Grok or whether this processing refers only to user interactions with the chatbot.</p>
+<p>© 20...
+Link: https://techcrunch.com/2024/07/26/privacy-watchdog-says-its-surprised-by-elon-musk-opting-user-data-into-grok-ai-training/
+Headline: TechCrunch Minute: Microsoft brings more generative AI to Bing
+Description: <p>Bing is the latest search engine to introduce generative AI into its results, with Microsoft announcing that it’s making Bing generative search available to a small percentage of users. The goal is...
+Link: https://techcrunch.com/video/techcrunch-minute-microsoft-brings-more-generative-ai-to-bing/
+Headline: Here’s how to disable X (Twitter) from using your data to train its Grok AI
+Description: <p>The good news is that you can switch off the new data-sharing setting and also delete your conversation history with the AI. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</...
+Link: https://techcrunch.com/2024/07/26/heres-how-to-disable-x-twitter-from-using-your-data-to-train-its-grok-ai/
 Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
 Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to hyper-charge productivity through writing essays and code wit...
 Link: https://techcrunch.com/2024/07/25/chatgpt-everything-to-know-about-the-ai-chatbot/
@@ -19,24 +34,14 @@ Link: https://techcrunch.com/2024/07/25/zoominfo-alum-raises-15m-for-startup-tha
 Headline: Intron Health gets backing for its speech-recognition tool that recognizes African accents
 Description: <p>Voice recognition is getting integrated in nearly all facets of modern living, but there remains a big gap: Speakers of minority languages and those with thick accents or speech disorders like stut...
 Link: https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/
-Headline: Oversight Board wants Meta to refine its policies around AI-generated explicit images
-Description: <p>The Board wants Meta to change the terminology it uses for labeling explicit, AI-generated images from "derogatory" to "non-consensual."</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal ...
-Link: https://techcrunch.com/2024/07/25/oversight-board-wants-meta-to-refine-its-policies-around-ai-generated-explicit-images/
-Headline: A new Chinese video-generating model appears to be censoring politically sensitive topics
-Description: <p>A powerful new video-generating AI model became widely available today — but there&#8217;s a catch: The model appears to be censoring topics deemed too politically sensitive by the government in it...
-Link: https://techcrunch.com/2024/07/24/a-new-chinese-video-generating-model-appears-to-be-censoring-politically-sensitive-topics/
-Headline: Mistral’s Large 2 is its answer to Meta and OpenAI’s latest models
-Description: <p>For frontier AI models, when it rains, it pours. Mistral released a fresh new flagship model on Wednesday, Large 2, which it claims to be on par with the latest cutting-edge models from OpenAI and ...
-Link: https://techcrunch.com/2024/07/24/mistral-releases-large-2-meta-openai-ai-models/
-Headline: Researchers are training home robots in simulations based on iPhone scans
-Description: <p>Researchers at MIT CSAIL this week are showcasing a new method for training home robots in simulation. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/07/24/researchers-are-training-home-robots-in-simulations-based-on-iphone-scans/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Search as we know it is officially over
+Description: <figure>
+      <img alt="An image of OpenAI’s logo over a Vergecast illustration." src="https://cdn.vox-cdn.com/thumbor/0aPMKxBdbsJmxyS_Tmo2wh9T6hU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chor...
+Link: https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast
 Headline: Runway’s AI video generator trained on thousands of scraped YouTube videos
 Description: <figure>
       <img alt="Vox Media’s 2023 Code Conference - Day 1" src="https://cdn.vox-cdn.com/thumbor/yvjb03U7SCTFDiZLsQDp5ExKly4=/0x0:4000x2667/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
@@ -69,14 +74,6 @@ Headline: Reddit is now blocking major search engines and AI bots — except the
 Description: <figure>
       <img alt="An image showing the Reddit logo on a red and white background" src="https://cdn.vox-cdn.com/thumbor/3cZl6BS2FjKc24mi4oFMLGtjmyo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/upload...
 Link: https://www.theverge.com/2024/7/24/24205244/reddit-blocking-search-engine-crawlers-ai-bot-google
-Headline: Meta releases the biggest and best open-source AI model yet
-Description: <figure>
-      <img alt="Vector illustration of the Meta logo." src="https://cdn.vox-cdn.com/thumbor/OrJ8OMebrKlmepoZyR1tXUaXBeo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7347...
-Link: https://www.theverge.com/2024/7/23/24204055/meta-ai-llama-3-1-open-source-assistant-openai-chatgpt
-Headline: Tandem drifting Toyotas show how AI might help drivers on slippery roads
-Description: <figure>
-      <img alt="Two red and white Supras" src="https://cdn.vox-cdn.com/thumbor/Opo0-dokaybZJrpswYIYZCOfv0Y=/105x0:1995x1260/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73476788/TRI_Ta...
-Link: https://www.theverge.com/2024/7/23/24204309/stanford-toyota-supra-ai-self-driving-autonomous-drifting
 
 ---
 
@@ -151,10 +148,10 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
-Headline: A new tool for copyright holders can show if their work is in AI training data
+Headline: “Copyright traps” could tell writers if an AI has scraped their work
 Description: Since the beginning of the generative AI boom, content creators have argued that their work has been scraped into AI models without their consent. But until now, it has been difficult to know whether ...
 Link: https://www.technologyreview.com/2024/07/25/1095347/a-new-tool-for-copyright-holders-can-show-if-their-work-is-in-ai-training-data/
-Headline: Google DeepMind’s AI systems can now solve complex math problems
+Headline: Google DeepMind’s new AI systems can now solve complex math problems
 Description: AI models can easily generate essays and other types of text. However, they’re nowhere near as good at solving math problems, which tend to involve logical reasoning—something that’s beyond the capabi...
 Link: https://www.technologyreview.com/2024/07/25/1095315/google-deepminds-ai-systems-can-now-solve-complex-math-problems/
 Headline: AI trained on AI garbage spits out AI garbage
@@ -224,6 +221,18 @@ Link: https://aws.amazon.com/blogs/machine-learning/aws-ai-chips-deliver-high-pe
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Silicon Valley shaken as open-source AI models Llama 3.1 and Mistral Large 2 match industry leaders
+Description: Meta's Llama 3.1 and Mistral Large 2 open-source AI models challenge industry leaders, reshaping the AI landscape and democratizing access to cutting-edge technology.
+Link: https://venturebeat.com/ai/silicon-valley-shaken-as-open-source-ai-models-llama-3-1-and-mistral-large-2-match-industry-leaders/
+Headline: How Salesforce’s MINT-1T dataset could disrupt the AI industry
+Description: Salesforce's MINT-1T, a trillion-token dataset, revolutionizes AI research by democratizing access and raising crucial ethical questions about the future of machine learning.
+Link: https://venturebeat.com/ai/how-salesforces-mint-1t-dataset-could-disrupt-the-ai-industry/
+Headline: DeepMind makes big jump toward interpreting LLMs with sparse autoencoders
+Description: A new research by Google DeepMind shows how sparse autoencoders (SAEs) with special JumpReLU activation can help interpret LLMs.
+Link: https://venturebeat.com/ai/deepmind-makes-big-jump-toward-interpreting-llms-with-sparse-autoencoders/
+Headline: How Microsoft is turning AI skeptics into AI power users
+Description: 75% of knowledge workers are already using AI at work, and that usage has doubled in the past six months.
+Link: https://venturebeat.com/ai/how-microsoft-is-turning-ai-skeptics-into-ai-power-users/
 Headline: Microsoft unveils serverless fine-tuning for its Phi-3 small language model
 Description: While it's a clear win for developers looking to stay in the Microsoft ecosystem, it's also a notable competitor to Microsoft's own ally.
 Link: https://venturebeat.com/ai/microsoft-unveils-serverless-fine-tuning-for-its-phi-3-small-language-model/
@@ -242,40 +251,22 @@ Link: https://venturebeat.com/ai/forget-coding-bootcamps-airtables-ai-can-build-
 Headline: Snowflake ropes in AI21’s Jamba-Instruct to help enterprises decode long documents
 Description: The hybrid nature of Jamba-Instruct makes it more economically accessible than other models of the same class on Snowflake.
 Link: https://venturebeat.com/data-infrastructure/exclusive-snowflake-ropes-in-ai21s-jamba-instruct-to-help-enterprises-decode-long-documents/
-Headline: Free Gemini users can finally chat in a flash
-Description: Google is making Gemini 1.5 Flash available for free users of the Gemini chatbot. The company is also adding related links to responses.
-Link: https://venturebeat.com/ai/free-gemini-users-can-finally-chat-in-a-flash/
-Headline: U.S. consumer tech spending will grow slightly in 2024 and hit 4.4% growth in 2025 | CTA
-Description: The CTA projects that overall retail revenues for the U.S. consumer technology industry will finally grow 1% in 2024 to $505 billion.
-Link: https://venturebeat.com/ai/u-s-consumer-tech-spending-will-grow-slightly-in-2024-and-hit-4-4-growth-in-2025-cta/
-Headline: Nvidia’s latest AI offering could spark a custom model gold rush
-Description: Nvidia launches AI Foundry service, enabling businesses to create custom AI models with increased accuracy and control, potentially revolutionizing enterprise AI adoption.
-Link: https://venturebeat.com/ai/nvidias-latest-ai-offering-could-spark-a-custom-model-gold-rush/
-Headline: The future of work: How Salesforce and Workday’s AI alliance will transform your office
-Description: Salesforce and Workday forge a groundbreaking AI partnership, revolutionizing enterprise software with unified data integration and an AI-powered employee service agent, reshaping the future of work a...
-Link: https://venturebeat.com/ai/the-future-of-work-how-salesforce-and-workdays-ai-alliance-will-transform-your-office/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: Microsoft's generative search engine weds something new, something old
-Description: The new experience combines AI-powered conversational responses with traditional search results pages. Bing users may find it a bit familiar.
-Link: https://www.zdnet.com/article/microsofts-generative-search-engine-weds-something-new-something-old/#ftag=RSSbaffb68
-Headline: Google's DeepMind AI takes home silver medal in complex math competition
-Description: The achievement is noteworthy because AI systems don't usually fare well with complex math challenges.
-Link: https://www.zdnet.com/article/googles-deepmind-ai-takes-home-silver-medal-in-complex-math-competition/#ftag=RSSbaffb68
-Headline: OpenAI's newly released GPT-4o mini dominates the Chatbot Arena. Here's why.
-Description: Despite being a more compact - and much cheaper - version of GPT-4o, the week-old model is blowing competitors out of the water.
-Link: https://www.zdnet.com/article/openais-newly-released-gpt-4o-mini-dominates-the-chatbot-arena-heres-why/#ftag=RSSbaffb68
-Headline: OpenAI launches SearchGPT - here's what it can do and how to access it
-Description: Google, it looks like you've got some competition.
-Link: https://www.zdnet.com/article/openai-launches-searchgpt-heres-what-it-can-do-and-how-to-access-it/#ftag=RSSbaffb68
-Headline: The Disney+, Hulu, and Max streaming bundle is now available for almost 40% off
-Description: Three major streaming services have joined forces. Here's what you'll pay for the ad-supported and ad-free plans.
-Link: https://www.zdnet.com/home-and-office/home-entertainment/disney-hulu-and-max-streaming-bundle-is-now-available-for-almost-40-off/#ftag=RSSbaffb68
-Headline: 5 reasons to work with the competition, according to business leaders
-Description: Professionals are rightly wary of rival firms gaining a first-mover advantage. But in some instances, talking about challenges and opportunities with potential competitors can be beneficial.
-Link: https://www.zdnet.com/article/5-reasons-to-work-with-the-competition-according-to-business-leaders/#ftag=RSSbaffb68
+Headline: These transparent earbuds by Nothing made my AirPods look and sound boring
+Description: Priced to compete, the Nothing Ear (a) are a delightful addition to a market that desperately needs some color.
+Link: https://www.zdnet.com/article/these-transparent-earbuds-by-nothing-made-my-airpods-look-and-sound-boring/#ftag=RSSbaffb68
+Headline: How to calibrate your TV for the best picture quality - 2 easy and simple methods
+Description: You might not be aware of it, but your TV may not be performing at its potential. A proper calibration could be just what you need.
+Link: https://www.zdnet.com/home-and-office/home-entertainment/how-to-calibrate-your-tv-for-the-best-picture-quality-2-easy-and-simple-methods/#ftag=RSSbaffb68
+Headline: Switzerland's open-source rules and Google's privacy plans lead the Index
+Description: Transparency and privacy are top of mind with this week's innovations. Meanwhile, Apple and Meta raise the bar for LLMs.
+Link: https://www.zdnet.com/article/innovation-index-july-26-2024/#ftag=RSSbaffb68
+Headline: How to watch the 2024 Summer Olympics: Every streaming option (including free ones)
+Description: The Summer Olympics in Paris start today. Here's how to watch the opening ceremony and the games, in some cases for free.
+Link: https://www.zdnet.com/home-and-office/home-entertainment/how-to-watch-the-2024-olympics/#ftag=RSSbaffb68
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -291,6 +282,9 @@ From source: https://garymarcus.substack.com/feed
 ---
 
 From source: https://www.aisnakeoil.com/feed
+Headline: AI existential risk probabilities are too unreliable to inform policy
+Description: How speculation gets laundered through pseudo-quantification
+Link: https://www.aisnakeoil.com/p/ai-existential-risk-probabilities
 Headline: New paper: AI agents that matter
 Description: Rethinking AI agent benchmarking and evaluation
 Link: https://www.aisnakeoil.com/p/new-paper-ai-agents-that-matter
@@ -318,9 +312,6 @@ Link: https://www.aisnakeoil.com/p/a-safe-harbor-for-independent-ai
 Headline: On the Societal Impact of Open Foundation Models
 Description: Adding precision to the debate on openness in AI
 Link: https://www.aisnakeoil.com/p/on-the-societal-impact-of-open-foundation
-Headline: Will AI transform law?
-Description: The hype is not supported by current evidence
-Link: https://www.aisnakeoil.com/p/will-ai-transform-law
 
 ---
 
@@ -359,6 +350,15 @@ Link: https://www.sciencedaily.com/releases/2024/07/240711111530.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Social media companies change their policies in the wake of bad press
+Description: Between 2005 and 2021, Facebook, Twitter and YouTube were more likely to make policy changes in the weeks after negative stories in the media
+Link: https://www.newscientist.com/article/2441547-social-media-companies-change-their-policies-in-the-wake-of-bad-press/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: AI can reveal what’s on your screen via signals leaking from cables
+Description: Electromagnetic radiation leaking from the cable between your computer and monitor can be intercepted and decoded by AI to reveal what you are looking at
+Link: https://www.newscientist.com/article/2439853-ai-can-reveal-whats-on-your-screen-via-signals-leaking-from-cables/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Watch a robot peel a squash with human-like dexterity
+Description: A robot can hold a squash, pumpkin or melon in one hand, while it is peeled by the other
+Link: https://www.newscientist.com/article/2440687-watch-a-robot-peel-a-squash-with-human-like-dexterity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Chinese nuclear reactor is completely meltdown-proof
 Description: The first ever full-scale demonstration of a nuclear reactor designed to passively cool itself in an emergency was a success, showing that it should be possible to build nuclear plants without the ris...
 Link: https://www.newscientist.com/article/2440388-chinese-nuclear-reactor-is-completely-meltdown-proof/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -380,15 +380,6 @@ Link: https://www.newscientist.com/video/2440569-hydrogen-off-road-race-car-test
 Headline: Google AI slashes computer power needed for weather forecasts
 Description: A weather and climate model that fuses artificial intelligence and physics simulations can match state-of-the-art performance while slashing the required computer power, say Google researchers
 Link: https://www.newscientist.com/article/2439849-google-ai-slashes-computer-power-needed-for-weather-forecasts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Windows computers around the world are failing in a major outage
-Description: An update to a piece of software called CrowdStrike Falcon Sensor appears to be negatively affecting Windows computers worldwide, with banks, airports, broadcasters and more finding that devices displ...
-Link: https://www.newscientist.com/article/2440319-windows-computers-around-the-world-are-failing-in-a-major-outage/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Planes are under attack from GPS jamming – can we find a fix?
-Description: GPS jamming and spoofing has begun to affect transatlantic flights. Now the race is on to develop alternative ways of navigating
-Link: https://www.newscientist.com/article/2439560-planes-are-under-attack-from-gps-jamming-can-we-find-a-fix/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Is sharing your smartphone PIN part of a healthy relationship?
-Description: Smartphones contain some of our most intimate data, but are you willing to share it with your most intimate partner? A survey has revealed that 51 per cent of people are happy to give their PIN to the...
-Link: https://www.newscientist.com/article/2438951-is-sharing-your-smartphone-pin-part-of-a-healthy-relationship/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -401,25 +392,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Researchers removed Llama 3's safety guardrails in just 3 minutes
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/Maxie445"> /u/Maxie445 </a> <br /> <span><a href="https://arxiv.org/abs/2407.01376">[link]</a></span> &#32; <span><a href="https://www.red...
-Link: https://www.reddit.com/r/artificial/comments/1ebmvpo/researchers_removed_llama_3s_safety_guardrails_in/
-Headline: Rob Thomas defines the concept of an "AI year": what previously took a year now happens in a week because the technology is moving so fast
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ebmy26/rob_thomas_defines_the_concept_of_an_ai_year_what/"> <img alt="Rob Thomas defines the concept of an &quot;AI year&quot;: ...
-Link: https://www.reddit.com/r/artificial/comments/1ebmy26/rob_thomas_defines_the_concept_of_an_ai_year_what/
-Headline: Harris likely to combine Biden AI policies with Silicon Valley-informed approach
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ebm43p/harris_likely_to_combine_biden_ai_policies_with/"> <img alt="Harris likely to combine Biden AI policies with Silicon Vall...
-Link: https://www.reddit.com/r/artificial/comments/1ebm43p/harris_likely_to_combine_biden_ai_policies_with/
-Headline: KLING AI Now Open For Worldwide Users
-Description: <!-- SC_OFF --><div class="md"><p>Kuaishou's Kling AI <a href="https://klingai.com/">has gone worldwide</a>, ditching its China-only restrictions with the global launch of Kling AI version 1.0. The AI...
-Link: https://www.reddit.com/r/artificial/comments/1ebl18o/kling_ai_now_open_for_worldwide_users/
-Headline: [Discussion] Are AI models are becoming more capable of handling multi-step tasks independently, without needing pre-defined frameworks or extensive human guidance?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ebodk6/discussion_are_ai_models_are_becoming_more/"> <img alt="[Discussion] Are AI models are becoming more capable of handling ...
-Link: https://www.reddit.com/r/artificial/comments/1ebodk6/discussion_are_ai_models_are_becoming_more/
-Headline: One-Minute Daily AI News 7/24/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Alphabet</strong> Reports 29% Jump in Profit as A.I. Efforts Begin to Pay Off.[1]</li> <li><strong>Tesla’s</strong> profit margin is getting hammered by...
-Link: https://www.reddit.com/r/artificial/comments/1ebm874/oneminute_daily_ai_news_7242024/
-
+Headline: Luma Vs Kling: which image-to-video AI tool do you think is better?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ed1nes/luma_vs_kling_which_imagetovideo_ai_tool_do_you/"> <img alt="Luma Vs Kling: which image-to-video AI tool do you think is ...
+Link: https://www.reddit.com/r/artificial/comments/1ed1nes/luma_vs_kling_which_imagetovideo_ai_tool_do_you/
+Headline: One-Minute Daily AI News 7/25/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> announces <strong>SearchGPT</strong>, its AI-powered search engine.[1]</li> <li>Lawmaker uses AI voice clone to address Congress.[2]</li...
+Link: https://www.reddit.com/r/artificial/comments/1ece10k/oneminute_daily_ai_news_7252024/
+Headline: Against the Advice of My Superintelligence
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/surprisetalk"> /u/surprisetalk </a> <br /> <span><a href="https://taylor.town/my-superintelligence">[link]</a></span> &#32; <span><a href=...
+Link: https://www.reddit.com/r/artificial/comments/1ecot1i/against_the_advice_of_my_superintelligence/
+Headline: Can we nail down what is and isn't AGI? Like finally make some yes/no rules
+Description: <!-- SC_OFF --><div class="md"><p>So since ChatGPT came out AGI has been talked about more and more. And the definition of AGI keeps changing.</p> <ul> <li>Based on some, AGI is human like. We passed ...
+Link: https://www.reddit.com/r/artificial/comments/1ecujbj/can_we_nail_down_what_is_and_isnt_agi_like/
+Headline: Was Penrose Right? NEW EVIDENCE For Quantum Effects In The Brain | AGI is not a likely outcome anytime soon
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ecpold/was_penrose_right_new_evidence_for_quantum/"> <img alt="Was Penrose Right? NEW EVIDENCE For Quantum Effects In The Brain ...
+Link: https://www.reddit.com/r/artificial/comments/1ecpold/was_penrose_right_new_evidence_for_quantum/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
