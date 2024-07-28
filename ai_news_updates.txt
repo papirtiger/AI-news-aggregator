@@ -1,6 +1,9 @@
-AI News Updates - 2024-07-27 02:33:18
+AI News Updates - 2024-07-28 02:37:28
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: NIST releases a tool for testing AI model risk
+Description: <p>The National Institute of Standards and Technology (NIST), the U.S. Commerce Department agency that develops and tests tech for the U.S. government, companies and the broader public, has re-release...
+Link: https://techcrunch.com/2024/07/27/nist-releases-a-tool-for-testing-ai-model-risk/
 Headline: Apple signs the White House’s commitment to AI safety
 Description: <p>Apple joins 15 other tech companies — including Google, Meta, Microsoft and OpenAI — that committed to the White House's rules for developing generative AI.</p>
 <p>© 2024 TechCrunch. All rights res...
@@ -31,9 +34,6 @@ Link: https://techcrunch.com/video/techcrunch-minute-metas-new-imagine-me-featur
 Headline: ZoomInfo alum raises $15M for startup that builds AI sales engineers
 Description: <p>Until a year ago, Arjun Pillai had the comfortable yet important role of chief data officer at ZoomInfo, a B2B database company. But the serial entrepreneur was getting antsy. He had already founde...
 Link: https://techcrunch.com/2024/07/25/zoominfo-alum-raises-15m-for-startup-that-builds-ai-sales-engineers/
-Headline: Intron Health gets backing for its speech-recognition tool that recognizes African accents
-Description: <p>Voice recognition is getting integrated in nearly all facets of modern living, but there remains a big gap: Speakers of minority languages and those with thick accents or speech disorders like stut...
-Link: https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/
 
 ---
 
@@ -221,6 +221,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/aws-ai-chips-deliver-high-pe
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Unifying gen X, Y, Z and boomers: The overlooked secret to AI success
+Description: One critical (but overlooked) facet to gen AI success is the people behind the technology and the dynamics between them.
+Link: https://venturebeat.com/ai/unifying-gen-x-y-z-and-boomers-the-overlooked-secret-to-ai-success/
 Headline: Silicon Valley shaken as open-source AI models Llama 3.1 and Mistral Large 2 match industry leaders
 Description: Meta's Llama 3.1 and Mistral Large 2 open-source AI models challenge industry leaders, reshaping the AI landscape and democratizing access to cutting-edge technology.
 Link: https://venturebeat.com/ai/silicon-valley-shaken-as-open-source-ai-models-llama-3-1-and-mistral-large-2-match-industry-leaders/
@@ -248,25 +251,26 @@ Link: https://venturebeat.com/ai/runway-faces-backlash-after-report-of-copying-a
 Headline: Forget coding bootcamps: Airtable’s AI can build your app in seconds
 Description: Airtable's Cobuilder transform app development with AI, allowing non-coders to create custom applications in seconds using natural language prompts.
 Link: https://venturebeat.com/ai/forget-coding-bootcamps-airtables-ai-can-build-your-app-in-seconds/
-Headline: Snowflake ropes in AI21’s Jamba-Instruct to help enterprises decode long documents
-Description: The hybrid nature of Jamba-Instruct makes it more economically accessible than other models of the same class on Snowflake.
-Link: https://venturebeat.com/data-infrastructure/exclusive-snowflake-ropes-in-ai21s-jamba-instruct-to-help-enterprises-decode-long-documents/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: These transparent earbuds by Nothing made my AirPods look and sound boring
-Description: Priced to compete, the Nothing Ear (a) are a delightful addition to a market that desperately needs some color.
-Link: https://www.zdnet.com/article/these-transparent-earbuds-by-nothing-made-my-airpods-look-and-sound-boring/#ftag=RSSbaffb68
-Headline: How to calibrate your TV for the best picture quality - 2 easy and simple methods
-Description: You might not be aware of it, but your TV may not be performing at its potential. A proper calibration could be just what you need.
-Link: https://www.zdnet.com/home-and-office/home-entertainment/how-to-calibrate-your-tv-for-the-best-picture-quality-2-easy-and-simple-methods/#ftag=RSSbaffb68
-Headline: Switzerland's open-source rules and Google's privacy plans lead the Index
-Description: Transparency and privacy are top of mind with this week's innovations. Meanwhile, Apple and Meta raise the bar for LLMs.
-Link: https://www.zdnet.com/article/innovation-index-july-26-2024/#ftag=RSSbaffb68
-Headline: How to watch the 2024 Summer Olympics: Every streaming option (including free ones)
-Description: The Summer Olympics in Paris start today. Here's how to watch the opening ceremony and the games, in some cases for free.
-Link: https://www.zdnet.com/home-and-office/home-entertainment/how-to-watch-the-2024-olympics/#ftag=RSSbaffb68
+Headline: The best cheap gaming PCs of 2024: Expert recommended
+Description: I found some of the best cheap gaming PCs to help you find the right rig for your budget, so you don't have to sacrifice quality for price.
+Link: https://www.zdnet.com/home-and-office/home-entertainment/best-cheap-gaming-pc/#ftag=RSSbaffb68
+Headline: This 3-in-1 MagSafe charger is my new favorite travel accessory, it supports Qi2
+Description: The new ESR 3-in-1 wireless travel charger can simultaneously power your iPhone, AirPods, and Apple Watch.
+Link: https://www.zdnet.com/article/this-3-in-1-magsafe-charger-is-my-new-favorite-travel-accessory-and-it-supports-qi2/#ftag=RSSbaffb68
+Headline: Get this top-rated 12-in-1 electric screwdriver for $60!
+Description: This is my go-to electric screwdriver, and you can pick one up at a bargain price.
+Link: https://www.zdnet.com/home-and-office/get-this-top-rated-12-in-1-electric-screwdriver-for-60/#ftag=RSSbaffb68
+Headline: This gadget can help you drive safer and save money
+Description: Maintaining the correct tire pressure on your vehicle not only helps you save on gas, but also makes driving safer. Stay properly inflated with the Syncwire Tire Inflator.
+Link: https://www.zdnet.com/home-and-office/this-gadget-can-help-you-drive-safer-and-save-money/#ftag=RSSbaffb68
+Headline: Why this versatile air pump is my new must-have for traveling (and it's only $42)
+Description: The AstroAI Dual Motor's tire inflator can continuously operate for up to 15 minutes, inflating a flat tire from 0 to 36 PSI in around five minutes.
+Link: https://www.zdnet.com/home-and-office/why-this-versatile-air-pump-is-my-new-must-have-for-traveling-and-its-only-42/#ftag=RSSbaffb68
+
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -350,6 +354,9 @@ Link: https://www.sciencedaily.com/releases/2024/07/240711111530.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Period atmosphere is best part of game set on turbulent oil rig
+Description: In Still Wakes the Deep, you play as a Glaswegian electrician on a 1970s oil rig. The well-crafted setting gives way to horror, but I wish I could linger in mundanity for longer, says Jacob Aron
+Link: https://www.newscientist.com/article/mg26335010-600-period-atmosphere-is-best-part-of-game-set-on-turbulent-oil-rig/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Social media companies change their policies in the wake of bad press
 Description: Between 2005 and 2021, Facebook, Twitter and YouTube were more likely to make policy changes in the weeks after negative stories in the media
 Link: https://www.newscientist.com/article/2441547-social-media-companies-change-their-policies-in-the-wake-of-bad-press/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -377,9 +384,6 @@ Link: https://www.newscientist.com/article/2439917-robot-dog-can-stifle-weeds-by
 Headline: Hydrogen off-road race car tested to limits in former coal mine
 Description: At a decommissioned coal mine in Scotland, the world’s first hydrogen-powered off-road racing car is being tested ahead of next year’s hydrogen racing series, Extreme H
 Link: https://www.newscientist.com/video/2440569-hydrogen-off-road-race-car-tested-to-limits-in-former-coal-mine/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Google AI slashes computer power needed for weather forecasts
-Description: A weather and climate model that fuses artificial intelligence and physics simulations can match state-of-the-art performance while slashing the required computer power, say Google researchers
-Link: https://www.newscientist.com/article/2439849-google-ai-slashes-computer-power-needed-for-weather-forecasts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -392,21 +396,31 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Luma Vs Kling: which image-to-video AI tool do you think is better?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ed1nes/luma_vs_kling_which_imagetovideo_ai_tool_do_you/"> <img alt="Luma Vs Kling: which image-to-video AI tool do you think is ...
-Link: https://www.reddit.com/r/artificial/comments/1ed1nes/luma_vs_kling_which_imagetovideo_ai_tool_do_you/
-Headline: One-Minute Daily AI News 7/25/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> announces <strong>SearchGPT</strong>, its AI-powered search engine.[1]</li> <li>Lawmaker uses AI voice clone to address Congress.[2]</li...
-Link: https://www.reddit.com/r/artificial/comments/1ece10k/oneminute_daily_ai_news_7252024/
-Headline: Against the Advice of My Superintelligence
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/surprisetalk"> /u/surprisetalk </a> <br /> <span><a href="https://taylor.town/my-superintelligence">[link]</a></span> &#32; <span><a href=...
-Link: https://www.reddit.com/r/artificial/comments/1ecot1i/against_the_advice_of_my_superintelligence/
-Headline: Can we nail down what is and isn't AGI? Like finally make some yes/no rules
-Description: <!-- SC_OFF --><div class="md"><p>So since ChatGPT came out AGI has been talked about more and more. And the definition of AGI keeps changing.</p> <ul> <li>Based on some, AGI is human like. We passed ...
-Link: https://www.reddit.com/r/artificial/comments/1ecujbj/can_we_nail_down_what_is_and_isnt_agi_like/
-Headline: Was Penrose Right? NEW EVIDENCE For Quantum Effects In The Brain | AGI is not a likely outcome anytime soon
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ecpold/was_penrose_right_new_evidence_for_quantum/"> <img alt="Was Penrose Right? NEW EVIDENCE For Quantum Effects In The Brain ...
-Link: https://www.reddit.com/r/artificial/comments/1ecpold/was_penrose_right_new_evidence_for_quantum/
+Headline: AI meets Spanish Artists - KLING img-2-video
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1edo436/ai_meets_spanish_artists_kling_img2video/"> <img alt="AI meets Spanish Artists - KLING img-2-video" src="https://external...
+Link: https://www.reddit.com/r/artificial/comments/1edo436/ai_meets_spanish_artists_kling_img2video/
+Headline: "Geoff Hinton, one of the major developers of deep learning, is in the process of tidying up his affairs... he believes that we maybe have 4 years left."
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1edbgc4/geoff_hinton_one_of_the_major_developers_of_deep/"> <img alt="&quot;Geoff Hinton, one of the major developers of deep lea...
+Link: https://www.reddit.com/r/artificial/comments/1edbgc4/geoff_hinton_one_of_the_major_developers_of_deep/
+Headline: One-Minute Daily AI News 7/26/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Tech giant <strong>Apple</strong> on Friday signed on to the Biden administration’s voluntary artificial intelligence guidelines, which were first outlined in a...
+Link: https://www.reddit.com/r/artificial/comments/1ed7vet/oneminute_daily_ai_news_7262024/
+Headline: The Future seems so Uncertain
+Description: <!-- SC_OFF --><div class="md"><p>I've been having mixed feelings about AI since gpt-4 and I've watched a lot of interviews with AI experts during that time . While I know we're living in one of the m...
+Link: https://www.reddit.com/r/artificial/comments/1edsej6/the_future_seems_so_uncertain/
+Headline: One-Minute Daily AI News 7/27/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Major video game makers – like <strong>Activision, Warner Bros and Walt Disney</strong> – are facing a strike by Hollywood performers over the use of artificial...
+Link: https://www.reddit.com/r/artificial/comments/1edofbp/oneminute_daily_ai_news_7272024/
+Headline: Free up to date cybersecurity ai assistants
+Description: <!-- SC_OFF --><div class="md"><p>Are there any free from charge up to date (2024) cybersecurity assistant that can assist you in any related questions or penetration testing?</p> </div><!-- SC_ON -->...
+Link: https://www.reddit.com/r/artificial/comments/1ed6zg0/free_up_to_date_cybersecurity_ai_assistants/
+Headline: 2 (decent) AI remixes of the same song; which do you prefer?
+Description: <!-- SC_OFF --><div class="md"><p>2 remixes of an unfinished project. It's not a fair A/B comparison due to different prompts: <a href="https://youtu.be/W56rF_QxbJU?si=cBeXebrNlS4pxxoI">https://youtu....
+Link: https://www.reddit.com/r/artificial/comments/1ed6pww/2_decent_ai_remixes_of_the_same_song_which_do_you/
+Headline: What level of sentience would A.I. have to reach for you to give it human rights?
+Description: <!-- SC_OFF --><div class="md"><p>As someone who has abnormally weak emotions, I don't think the ability to suffer is subjective. Everything can experience decay, so everything can suffer. Instead, I ...
+Link: https://www.reddit.com/r/artificial/comments/1edgldx/what_level_of_sentience_would_ai_have_to_reach/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
