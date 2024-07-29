@@ -1,6 +1,9 @@
-AI News Updates - 2024-07-28 02:37:28
+AI News Updates - 2024-07-29 02:37:55
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Dear Google, who wants an AI-written fan letter?
+Description: <p>The first time I saw Google&#8217;s latest commercial, I wondered, “Is it just me, or is this kind of bad?” By the fourth or fifth time I saw it, I’d stopped wondering. It starts innocuously enough...
+Link: https://techcrunch.com/2024/07/28/dear-google-who-wants-an-ai-written-fan-letter/
 Headline: NIST releases a tool for testing AI model risk
 Description: <p>The National Institute of Standards and Technology (NIST), the U.S. Commerce Department agency that develops and tests tech for the U.S. government, companies and the broader public, has re-release...
 Link: https://techcrunch.com/2024/07/27/nist-releases-a-tool-for-testing-ai-model-risk/
@@ -31,13 +34,14 @@ Link: https://techcrunch.com/2024/07/25/google-speeds-up-its-gemini-chatbot-and-
 Headline: TechCrunch Minute: Meta’s new ‘Imagine me’ feature lets you generate AI selfies
 Description: <p>Meta’s AI integrations into apps like Instagram and Facebook have felt pretty useless so far. If I’m just trying to find my friend’s Instagram, why do I have to navigate around a Meta AI interface ...
 Link: https://techcrunch.com/video/techcrunch-minute-metas-new-imagine-me-feature-lets-you-generate-ai-selfies/
-Headline: ZoomInfo alum raises $15M for startup that builds AI sales engineers
-Description: <p>Until a year ago, Arjun Pillai had the comfortable yet important role of chief data officer at ZoomInfo, a B2B database company. But the serial entrepreneur was getting antsy. He had already founde...
-Link: https://techcrunch.com/2024/07/25/zoominfo-alum-raises-15m-for-startup-that-builds-ai-sales-engineers/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: In search of the perfect movie recommendation
+Description: <figure>
+      <img alt="Vector illustration of a person choosing movies in a digital space." src="https://cdn.vox-cdn.com/thumbor/hFJnsrpEF0u_hZOs82M04gA60EI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/u...
+Link: https://www.theverge.com/2024/7/28/24206171/ai-movie-recommendations-chatgpt-vergecast
 Headline: Search as we know it is officially over
 Description: <figure>
       <img alt="An image of OpenAI’s logo over a Vergecast illustration." src="https://cdn.vox-cdn.com/thumbor/0aPMKxBdbsJmxyS_Tmo2wh9T6hU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chor...
@@ -70,10 +74,6 @@ Headline: The Senate passed a bill cracking down on sexually explicit deepfakes
 Description: <figure>
       <img alt="Capitol Hill" src="https://cdn.vox-cdn.com/thumbor/l2M_NAKm0rcrVjT3XTKWjyNh5KM=/0x1:4500x3001/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73479975/2162439650.0.jpg" />...
 Link: https://www.theverge.com/2024/7/24/24205275/senate-passes-defiance-act-non-consensual-intimate-ai-deepfakes
-Headline: Reddit is now blocking major search engines and AI bots — except the ones that pay
-Description: <figure>
-      <img alt="An image showing the Reddit logo on a red and white background" src="https://cdn.vox-cdn.com/thumbor/3cZl6BS2FjKc24mi4oFMLGtjmyo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/upload...
-Link: https://www.theverge.com/2024/7/24/24205244/reddit-blocking-search-engine-crawlers-ai-bot-google
 
 ---
 
@@ -221,6 +221,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/aws-ai-chips-deliver-high-pe
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Addressing the conundrum of imposter syndrome and LLMs
+Description: By using LLMs as aids rather than crutches, we can harness their potential without falling into the trap of imposter syndrome.
+Link: https://venturebeat.com/ai/addressing-the-conundrum-of-imposter-syndrome-and-llms/
 Headline: Unifying gen X, Y, Z and boomers: The overlooked secret to AI success
 Description: One critical (but overlooked) facet to gen AI success is the people behind the technology and the dynamics between them.
 Link: https://venturebeat.com/ai/unifying-gen-x-y-z-and-boomers-the-overlooked-secret-to-ai-success/
@@ -248,9 +251,6 @@ Link: https://venturebeat.com/ai/ai-wars-heat-up-openais-searchgpt-takes-on-goog
 Headline: Runway faces backlash after report of copying AI video training data from YouTube
 Description: Runway revealed Gen-3 Alpha, an early version of the software, to acclaim for its realism, last month, and began allowing the public...
 Link: https://venturebeat.com/ai/runway-faces-backlash-after-report-of-copying-ai-video-training-data-from-youtube/
-Headline: Forget coding bootcamps: Airtable’s AI can build your app in seconds
-Description: Airtable's Cobuilder transform app development with AI, allowing non-coders to create custom applications in seconds using natural language prompts.
-Link: https://venturebeat.com/ai/forget-coding-bootcamps-airtables-ai-can-build-your-app-in-seconds/
 
 ---
 
@@ -264,12 +264,6 @@ Link: https://www.zdnet.com/article/this-3-in-1-magsafe-charger-is-my-new-favori
 Headline: Get this top-rated 12-in-1 electric screwdriver for $60!
 Description: This is my go-to electric screwdriver, and you can pick one up at a bargain price.
 Link: https://www.zdnet.com/home-and-office/get-this-top-rated-12-in-1-electric-screwdriver-for-60/#ftag=RSSbaffb68
-Headline: This gadget can help you drive safer and save money
-Description: Maintaining the correct tire pressure on your vehicle not only helps you save on gas, but also makes driving safer. Stay properly inflated with the Syncwire Tire Inflator.
-Link: https://www.zdnet.com/home-and-office/this-gadget-can-help-you-drive-safer-and-save-money/#ftag=RSSbaffb68
-Headline: Why this versatile air pump is my new must-have for traveling (and it's only $42)
-Description: The AstroAI Dual Motor's tire inflator can continuously operate for up to 15 minutes, inflating a flat tire from 0 to 36 PSI in around five minutes.
-Link: https://www.zdnet.com/home-and-office/why-this-versatile-air-pump-is-my-new-must-have-for-traveling-and-its-only-42/#ftag=RSSbaffb68
 
 ---
 
@@ -320,6 +314,9 @@ Link: https://www.aisnakeoil.com/p/on-the-societal-impact-of-open-foundation
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Generative AI pioneers the future of child language learning
+Description: Researchers create a storybook generation system for personalized vocabulary learning.
+Link: https://www.sciencedaily.com/releases/2024/07/240726113406.htm
 Headline: Researchers leveraging AI to train (robotic) dogs to respond to their masters
 Description: An international collaboration seeks to innovate the future of how a mechanical man's best friend interacts with its owner, using a combination of AI and edge computing called edge intelligence. The o...
 Link: https://www.sciencedaily.com/releases/2024/07/240723204753.htm
@@ -347,9 +344,6 @@ Link: https://www.sciencedaily.com/releases/2024/07/240712222127.htm
 Headline: Learning dance moves could help humanoid robots work better with humans
 Description: Engineers have trained a humanoid robot to perform a variety of expressive movements, from simple dance routines to gestures like waving, high-fiving and hugging, all while maintaining a steady gait o...
 Link: https://www.sciencedaily.com/releases/2024/07/240711132137.htm
-Headline: How risk-averse are humans when interacting with robots?
-Description: How do people like to interact with robots when navigating a crowded environment? And what algorithms should roboticists use to program robots to interact with humans? These are the questions that a t...
-Link: https://www.sciencedaily.com/releases/2024/07/240711111530.htm
 
 ---
 
@@ -396,30 +390,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: AI meets Spanish Artists - KLING img-2-video
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1edo436/ai_meets_spanish_artists_kling_img2video/"> <img alt="AI meets Spanish Artists - KLING img-2-video" src="https://external...
-Link: https://www.reddit.com/r/artificial/comments/1edo436/ai_meets_spanish_artists_kling_img2video/
-Headline: "Geoff Hinton, one of the major developers of deep learning, is in the process of tidying up his affairs... he believes that we maybe have 4 years left."
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1edbgc4/geoff_hinton_one_of_the_major_developers_of_deep/"> <img alt="&quot;Geoff Hinton, one of the major developers of deep lea...
-Link: https://www.reddit.com/r/artificial/comments/1edbgc4/geoff_hinton_one_of_the_major_developers_of_deep/
-Headline: One-Minute Daily AI News 7/26/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Tech giant <strong>Apple</strong> on Friday signed on to the Biden administration’s voluntary artificial intelligence guidelines, which were first outlined in a...
-Link: https://www.reddit.com/r/artificial/comments/1ed7vet/oneminute_daily_ai_news_7262024/
-Headline: The Future seems so Uncertain
-Description: <!-- SC_OFF --><div class="md"><p>I've been having mixed feelings about AI since gpt-4 and I've watched a lot of interviews with AI experts during that time . While I know we're living in one of the m...
-Link: https://www.reddit.com/r/artificial/comments/1edsej6/the_future_seems_so_uncertain/
-Headline: One-Minute Daily AI News 7/27/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Major video game makers – like <strong>Activision, Warner Bros and Walt Disney</strong> – are facing a strike by Hollywood performers over the use of artificial...
-Link: https://www.reddit.com/r/artificial/comments/1edofbp/oneminute_daily_ai_news_7272024/
-Headline: Free up to date cybersecurity ai assistants
-Description: <!-- SC_OFF --><div class="md"><p>Are there any free from charge up to date (2024) cybersecurity assistant that can assist you in any related questions or penetration testing?</p> </div><!-- SC_ON -->...
-Link: https://www.reddit.com/r/artificial/comments/1ed6zg0/free_up_to_date_cybersecurity_ai_assistants/
-Headline: 2 (decent) AI remixes of the same song; which do you prefer?
-Description: <!-- SC_OFF --><div class="md"><p>2 remixes of an unfinished project. It's not a fair A/B comparison due to different prompts: <a href="https://youtu.be/W56rF_QxbJU?si=cBeXebrNlS4pxxoI">https://youtu....
-Link: https://www.reddit.com/r/artificial/comments/1ed6pww/2_decent_ai_remixes_of_the_same_song_which_do_you/
-Headline: What level of sentience would A.I. have to reach for you to give it human rights?
-Description: <!-- SC_OFF --><div class="md"><p>As someone who has abnormally weak emotions, I don't think the ability to suffer is subjective. Everything can experience decay, so everything can suffer. Instead, I ...
-Link: https://www.reddit.com/r/artificial/comments/1edgldx/what_level_of_sentience_would_ai_have_to_reach/
+Headline: Wild, AI is predicting breast cancer 5 YEARS before it develops!
+Description: <!-- SC_OFF --><div class="md"><p>Game changer. This means that doctors can catch it early and save so many lives. The system looks for super subtle signs in the mammograms that could indicate the pot...
+Link: https://www.reddit.com/r/artificial/comments/1eec3rw/wild_ai_is_predicting_breast_cancer_5_years/
+Headline: Ex-OpenAI researcher explains why open weight models may trigger an unexpected fast takeoff in 2025
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ee1g0d/exopenai_researcher_explains_why_open_weight/"> <img alt="Ex-OpenAI researcher explains why open weight models may trigge...
+Link: https://www.reddit.com/r/artificial/comments/1ee1g0d/exopenai_researcher_explains_why_open_weight/
+Headline: Posit: In the future, generative A.I. will be thought of as the unconscious part of a general A.I.'s mind.
+Description: <!-- SC_OFF --><div class="md"><table><thead> <tr> <th>Attribute</th> <th>Unconscious Mind</th> <th>Generative AI</th> </tr> </thead><tbody> <tr> <td><strong>Information Processing</strong></td> <td>P...
+Link: https://www.reddit.com/r/artificial/comments/1eeg8i3/posit_in_the_future_generative_ai_will_be_thought/
+Headline: What are your thoughts about this Neurosymbolic AI collab between IBM and universities which began 4 years ago?
+Description: <!-- SC_OFF --><div class="md"><p>my question comes from an article from 4 years ago which i came across, &quot;Neurosymbolic AI to Give Us Machines With True Common Sense&quot;: <a href="https://medi...
+Link: https://www.reddit.com/r/artificial/comments/1ee74fl/what_are_your_thoughts_about_this_neurosymbolic/
 
 ---
 
