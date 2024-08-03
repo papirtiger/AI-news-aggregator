@@ -1,6 +1,15 @@
-AI News Updates - 2024-08-02 02:35:34
+AI News Updates - 2024-08-03 02:33:49
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Character.AI CEO Noam Shazeer returns to Google
+Description: <p>In a big move, Character.AI co-founder and CEO Noam Shazeer is returning to Google after leaving the company in October 2021 to found the a16z-backed startup. In his previous stint, Shazeer spearhe...
+Link: https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/
+Headline: Cloud infrastructure revenue approached $80 billion this quarter
+Description: <p>The cloud infrastructure market has put the doldrums of 2023 firmly behind it with another big quarter. Revenue continues to grow at a brisk pace, fueled by interest in AI. Synergy Research reports...
+Link: https://techcrunch.com/2024/08/02/cloud-infrastructure-revenue-approached-80-billion-this-quarter/
+Headline: AI friends, deepfake foes and which Tiger Global partner is leaving now
+Description: <p>AI hardware has taken on a new shape with Friend’s $99 necklace — a pendant that gives you an AI friend to talk to and … that’s about it. Friend’s pitch is that its wearable can help combat lonelin...
+Link: https://techcrunch.com/podcast/ai-friends-deepfake-foes-and-which-tiger-global-partner-is-leaving-now/
 Headline: AI music startup Suno claims training model on copyrighted music is ‘fair use’
 Description: <p>Following the recent lawsuit filed by the Recording Industry Association of America (RIAA) against music generation startups Udio and Suno, Suno admitted in a court filing on Thursday that it did, ...
 Link: https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/
@@ -24,20 +33,22 @@ Link: https://techcrunch.com/2024/08/01/google-cloud-expands-its-database-portfo
 Headline: Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups
 Description: <p>Google Cloud is giving Y Combinator startups access to a dedicated, subsidized cluster of Nvidia graphics processing units and Google tensor processing units to build AI models. It&#8217;s part of ...
 Link: https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/
-Headline: The EU’s AI Act is now in force
-Description: <p>The European Union's risk-based regulation for applications of artificial intelligence has come into force starting from today.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only....
-Link: https://techcrunch.com/2024/08/01/the-eus-ai-act-is-now-in-force/
-Headline: Zuckerberg says Meta will need 10x more computing power to train Llama 4 than Llama 3
-Description: <p>Meta, which develops one of the biggest foundational open source large language models, Llama, believes it will need significantly more computing power to train models in the future. Mark Zuckerber...
-Link: https://techcrunch.com/2024/08/01/zuckerberg-says-meta-will-need-10x-more-computing-power-to-train-llama-4-than-llama-3/
-Headline: OpenAI pledges to give U.S. AI Safety Institute early access to its next model
-Description: <p>OpenAI CEO Sam Altman says that OpenAI is working with the U.S. AI Safety Institute, a federal government body that aims to assess and address risks in AI platforms, on an agreement to provide earl...
-Link: https://techcrunch.com/2024/07/31/openai-pledges-to-give-u-s-ai-safety-institute-early-access-to-its-next-model/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Google pulls Gemini AI ad from Olympics after backlash
+Description: <figure>
+      <img alt="Screenshot of the “Dear Sydney” ad showing the Gemini prompt" src="https://cdn.vox-cdn.com/thumbor/wDvH33PiBOJvr6o5G-Cf2X96VDw=/229x0:1630x934/1310x873/cdn.vox-cdn.com/uploads...
+Link: https://www.theverge.com/2024/8/2/24212078/google-gemini-olympics-ad-backlash
+Headline: AI music startups say copyright violation is just rock and roll
+Description: <figure>
+      <img alt="An image showing a slightly off-kilter grid of happy-looking robot faces with speech bubbles containing music notes." src="https://cdn.vox-cdn.com/thumbor/_2M4HUGJ7a0y_sAF9fFz...
+Link: https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use
+Headline: Nvidia faces two DOJ antitrust probes over market dominance
+Description: <figure>
+      <img alt="Vector collage of the Ndivia logo." src="https://cdn.vox-cdn.com/thumbor/y15z23OY3TnwZZwnl7fRY7CSQRM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7349731...
+Link: https://www.theverge.com/2024/8/2/24211810/nvidia-doj-antitrust-probes-ai-market-dominance
 Headline: Desktop Chrome is getting a feature that’s a lot like Circle to Search
 Description: <figure>
       <img alt="The Google Chrome logo surrounded by blue rings" src="https://cdn.vox-cdn.com/thumbor/IajlSHpQ46TBS9S5LPItBTBQmhA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/...
@@ -62,14 +73,6 @@ Headline: Reddit CEO says Microsoft needs to pay to search the site
 Description: <figure>
       <img alt="The Reddit logo over an orange and black background" src="https://cdn.vox-cdn.com/thumbor/wDcPaoWwoV0gv_UZuBSWgtobe4o=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_im...
 Link: https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search
-Headline: Taco Bell’s drive-thru AI might take your next order
-Description: <figure>
-      <img alt="An image of a Taco Bell restaurant." src="https://cdn.vox-cdn.com/thumbor/v169WUkKzIKGYZVJ3Yr2b3OmT-Q=/81x0:1730x1099/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73493...
-Link: https://www.theverge.com/2024/7/31/24210506/taco-bell-drive-thru-ai-order-expansion
-Headline: Wix’s AI will now write whole blog posts for you
-Description: <figure>
-      <img alt="Hands with additional fingers typing on a keyboard." src="https://cdn.vox-cdn.com/thumbor/X5X5qNberB9oruqyUeS9V4OzRjE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_im...
-Link: https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -115,6 +118,15 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Google’s Gemini 1.5 Pro dethrones GPT-4o
+Description: <p>Google’s experimental Gemini 1.5 Pro model has surpassed OpenAI&#8217;s GPT-4o in generative AI benchmarks. For the past year, OpenAI&#8217;s GPT-4o and Anthropic&#8217;s Claude-3 have dominated th...
+Link: https://www.artificialintelligence-news.com/news/googles-gemini-1-5-pro-dethrones-gpt-4o/
+Headline: The hidden climate cost of AI: How tech giants are struggling to go green
+Description: <p>As AI takes centre stage in Silicon Valley, an inconvenient truth is emerging behind the scenes: AI has a massive carbon footprint. Tech giants like Microsoft, Google and Amazon have made bold comm...
+Link: https://www.artificialintelligence-news.com/news/the-hidden-climate-cost-ai-how-tech-giants-struggling-go-green/
+Headline: Microsoft gains major AI client as TikTok spends $20 million monthly
+Description: <p>Where many have struggled to turn their cloud services into a profitable endeavour, Microsoft has stood out by integrating OpenAI&#8217;s successful AI technology. For instance, take TikTok. Accord...
+Link: https://www.artificialintelligence-news.com/news/microsoft-major-ai-client-tiktok-spends-20-million-monthly/
 Headline: Meta’s AI strategy: Building for tomorrow, not immediate profits
 Description: <p>Meta has signalled a long-term AI strategy that prioritises substantial investments over immediate revenue generation. During the company&#8217;s Q2 earnings call, CEO and founder Mark Zuckerberg o...
 Link: https://www.artificialintelligence-news.com/news/metas-ai-strategy-building-for-tomorrow-not-immediate-profits/
@@ -136,15 +148,6 @@ Link: https://www.artificialintelligence-news.com/news/nvidia-and-meta-ceo-every
 Headline: JPMorgan introduces in-house AI chatbot for research analysis
 Description: <p>In a move that underscores the growing influence of AI in the financial industry, JPMorgan Chase has unveiled a cutting-edge generative AI product. This new tool, LLM Suite, is being hailed as a ga...
 Link: https://www.artificialintelligence-news.com/news/jpmorgan-introduces-in-house-ai-chatbot-for-research-analysis/
-Headline: Anthropic to Google: Who’s winning against AI hallucinations?
-Description: <p>Galileo, a leading developer of generative AI for enterprise applications, has released its latest Hallucination Index. The evaluation framework – which focuses on Retrieval Augmented Generation (R...
-Link: https://www.artificialintelligence-news.com/news/anthropic-to-google-who-winning-ai-hallucinations/
-Headline: Amazon strives to outpace Nvidia with cheaper, faster AI chips
-Description: <p>Amazon&#8217;s chip lab is churning out a constant stream of innovation in Austin, Texas. A new server design was put through its paces by a group of devoted engineers on July 26th. During a visit ...
-Link: https://www.artificialintelligence-news.com/news/amazon-strives-outpace-nvidia-cheaper-faster-ai-chips/
-Headline: The exponential expenses of AI development
-Description: <p>Tech giants like Microsoft, Alphabet, and Meta are riding high on a wave of revenue from AI-driven cloud services, yet simultaneously drowning in the substantial costs of pushing AI&#8217;s boundar...
-Link: https://www.artificialintelligence-news.com/news/the-exponential-expenses-of-ai-development/
 
 ---
 
@@ -195,6 +198,15 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Cepsa Química improves the efficiency and accuracy of product stewardship using Amazon Bedrock
+Description: In this post, we explain how Cepsa Química and partner Keepler have implemented a generative AI assistant to increase the efficiency of the product stewardship team when answering compliance queries r...
+Link: https://aws.amazon.com/blogs/machine-learning/cepsa-quimica-improves-the-efficiency-and-accuracy-of-product-stewardship-using-amazon-bedrock/
+Headline: GraphStorm 0.3: Scalable, multi-task learning on graphs with user-friendly APIs
+Description: GraphStorm is a low-code enterprise graph machine learning (GML) framework to build, train, and deploy graph ML solutions on complex enterprise-scale graphs in days instead of months. With GraphStorm,...
+Link: https://aws.amazon.com/blogs/machine-learning/graphstorm-0-3-scalable-multi-task-learning-on-graphs-with-user-friendly-apis/
+Headline: Few-shot prompt engineering and fine-tuning for LLMs in Amazon Bedrock
+Description: This blog is part of the series, Generative AI and AI/ML in Capital Markets and Financial Services. Company earnings calls are crucial events that provide transparency into a company’s financial healt...
+Link: https://aws.amazon.com/blogs/machine-learning/few-shot-prompt-engineering-and-fine-tuning-for-llms-in-amazon-bedrock/
 Headline: Streamline insurance underwriting with generative AI using Amazon Bedrock – Part 1
 Description: Underwriting is a fundamental function within the insurance industry, serving as the foundation for risk assessment and management. Underwriters are responsible for evaluating insurance applications, ...
 Link: https://aws.amazon.com/blogs/machine-learning/streamline-insurance-underwriting-with-generative-ai-using-amazon-bedrock-part-1/
@@ -210,19 +222,22 @@ Link: https://aws.amazon.com/blogs/machine-learning/configuring-amazon-q-busines
 Headline: Monks boosts processing speed by four times for real-time diffusion AI image generation using Amazon SageMaker and AWS Inferentia2
 Description: This post is co-written with Benjamin Moody from Monks. Monks is the global, purely digital, unitary operating brand of S4Capital plc. With a legacy of innovation and specialized expertise, Monks comb...
 Link: https://aws.amazon.com/blogs/machine-learning/monks-boosts-processing-speed-by-four-times-for-real-time-diffusion-ai-image-generation-using-amazon-sagemaker-and-aws-inferentia2/
-Headline: Implement web crawling in Knowledge Bases for Amazon Bedrock
-Description: Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading artificial intelligence (AI) companies like AI21 Labs, Anthropic, Cohere, Meta, S...
-Link: https://aws.amazon.com/blogs/machine-learning/implement-web-crawling-in-knowledge-bases-for-amazon-bedrock/
-Headline: Intuit uses Amazon Bedrock and Anthropic’s Claude to explain taxes in TurboTax to millions of consumer tax filers
-Description: Intuit is committed to providing its customers innovative solutions that simplify complex financial processes.&nbsp;Tax filing can be a challenge, with its ever-changing regulations and intricate nuan...
-Link: https://aws.amazon.com/blogs/machine-learning/intuit-uses-amazon-bedrock-and-anthropic-claude-to-explain-taxes-in-turbotax-to-millions-of-consumer-tax-filers/
-Headline: Build generative AI–powered Salesforce applications with Amazon Bedrock
-Description: In this post, we show how native integrations between Salesforce and Amazon Web Services (AWS) enable you to Bring Your Own Large Language Models (BYO LLMs) from your AWS account to power generative a...
-Link: https://aws.amazon.com/blogs/machine-learning/build-generative-ai-powered-salesforce-applications-with-amazon-bedrock/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: OpenAI-backed startup Figure teases new humanoid robot ‘Figure 02’
+Description: Figure is backed by OpenAI among others to the tune of $675 million in its last round in February, but is teasing a new update today.
+Link: https://venturebeat.com/ai/openai-backed-startup-figure-teases-new-humanoid-robot-figure-02/
+Headline: Google’s AI comeback: New Gemini models dethrone OpenAI in shocking upset
+Description: Google's AI comeback: Gemini 1.5 Pro and Gemma 2B outperform rivals, reshaping Silicon Valley's AI landscape and offering new possibilities for enterprise technology.
+Link: https://venturebeat.com/ai/googles-ai-comeback-new-gemini-models-dethrone-openai-in-shocking-upset/
+Headline: Google strikes licensing deal with Character AI and poaches top executives for DeepMind
+Description: Character AI’s founding team, Noam Shazeer and Daniel De Freitas, along with some members of its research team, will join Google.
+Link: https://venturebeat.com/ai/google-strikes-licensing-deal-with-character-ai-and-poaches-top-executives-for-deepmind/
+Headline: DeepMind’s Gemma Scope peers under the hood of large language models
+Description: Google DeepMind has released Gemma Scope, a series of sparse autoencoders (SAEs) that help interpret Gemma 2 models.
+Link: https://venturebeat.com/ai/deepminds-gemma-scope-peers-under-the-hood-of-large-language-models/
 Headline: Hedra releases video-focused foundation model Character-1
 Description: Hedra released its AI video model Character-1 after raising cash from Index Ventures, A16Z Speedrun and Abstract.
 Link: https://venturebeat.com/ai/hedra-a-new-ai-video-platform-raises-10-million-in-seed-funding/
@@ -241,52 +256,37 @@ Link: https://venturebeat.com/ai/intel-plans-to-lay-off-15-of-workforce/
 Headline: Stability AI speeds up 3D image generation with Stable Fast 3D
 Description: How fast is fast? It now takes only half a second to generate a 3D image with the power gen AI.
 Link: https://venturebeat.com/ai/stability-ai-speeds-up-3d-image-generation-with-stable-fast-3d/
-Headline: Google Gemini 1.5 Pro leaps ahead in AI race, challenging GPT-4o
-Description: Google's Gemini 1.5 Pro revolutionizes AI with top LMSYS scores, outperforming GPT-4 and Claude-3.5, promising transformative impact across industries while raising ethical questions.
-Link: https://venturebeat.com/ai/googles-gemini-1-5-pro-leaps-ahead-in-ai-race-challenging-gpt-4o/
-Headline: Sam Altman: Next OpenAI model will first undergo safety checks by U.S. Government
-Description: The CEO also noted that OpenAI remains committed to allocating at least 20% of its computing resources to safety research.
-Link: https://venturebeat.com/ai/sam-altman-next-openai-model-will-first-undergo-safety-checks-by-u-s-government/
-Headline: GitHub Models gives developers new power to experiment with Gen AI
-Description: GitHub is making it easier for developers to try out and build applications with a series of leading gen AI models in a bid to help accelerate enterprise deployments.
-Link: https://venturebeat.com/ai/github-models-gives-developers-new-power-to-experiment-with-gen-ai/
-Headline: Google Cloud expands gen AI power for database and data analytics tools
-Description: Google is bringing Gemini to BigQuery and Looker while expanding the power of the Spanner database for gen AI.
-Link: https://venturebeat.com/ai/google-cloud-expands-gen-ai-power-for-database-and-data-analytics-tools/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Intel sees AI in enterprise on a 'three to five-year path'
+Description: The chip giant is collaborating with open-source software developers and partners to make AI more 'turnkey.'
+Link: https://www.zdnet.com/article/intel-sees-ai-in-enterprise-on-a-three-to-five-year-path/#ftag=RSSbaffb68
+Headline: Adobe Illustrator's new generative vector fill is game-changing (even if you can't draw)
+Description: Illustrator's AI features can generate vector creations from basic prompts, making complex art effortlessly accessible. This could be the future of design, but there are limitations and potential lega...
+Link: https://www.zdnet.com/article/adobe-illustrator-new-generative-vector-fill-is-game-changing-even-if-you-cant-draw/#ftag=RSSbaffb68
+Headline: Photoshop vs. Midjourney vs. DALL-E 3: Only one AI image generator passed my 5 tests
+Description: How does Photoshop's AI hold up against DALL-E and Midjourney? I test their skills in a creative clash involving giant robots and futuristic scenarios.
+Link: https://www.zdnet.com/article/is-photoshops-new-text-to-image-as-good-as-midjourney-and-dall-e-we-test-it-and-see/#ftag=RSSbaffb68
+Headline: AI can help businesses design for positive externalities
+Description: By leveraging AI's predictive and analytical capabilities, companies can make more informed decisions that benefit not only their bottom line but also society and the environment.
+Link: https://www.zdnet.com/article/ai-can-help-businesses-design-for-positive-externalities/#ftag=RSSbaffb68
+Headline: Synchron's mind-controlled Apple Vision Pro and ChatGPT Voice Mode lead the Index
+Description: This week, medical tech gets its moment in the spotlight, and OpenAI breadcrumbs a sneak peek of the much-anticipated Voice Mode.
+Link: https://www.zdnet.com/article/innovation-index-august-2-2024/#ftag=RSSbaffb68
+Headline: How to subscribe to ChatGPT Plus (and 4 reasons why you should)
+Description: OpenAI keeps unveiling new features and rolling them out to its Plus plan subscribers. Here's what you get with a subscription.
+Link: https://www.zdnet.com/article/how-to-subscribe-to-chatgpt-plus-and-why/#ftag=RSSbaffb68
+Headline: Uber One subscribers get a free year of Perplexity Pro. Here's how to claim it (and why you should)
+Description: You might be eligible to get a free year of access to an AI-powered search tool, but there are a few things to know.
+Link: https://www.zdnet.com/article/uber-one-subscribers-get-a-free-year-of-perplexity-pro-heres-how-to-claim-it/#ftag=RSSbaffb68
+Headline: AI can mean big business benefits. But these obstacles must be cleared first
+Description: IT leaders are relatively optimistic about their AI plans but recognize that AI can't be scaled up from the cloud at the touch of a key.
+Link: https://www.zdnet.com/article/ai-can-mean-big-business-benefits-but-these-obstacles-must-be-cleared-first/#ftag=RSSbaffb68
 Headline: Echo Pop vs Echo Dot: Which Alexa smart speaker should you choose?
 Description: Amazon's most affordable smart speakers share many similarities, including the Alexa virtual assistant, but what are the biggest differences between these two models?
 Link: https://www.zdnet.com/home-and-office/home-entertainment/echo-pop-vs-echo-dot-which-alexa-smart-speaker-should-you-choose/#ftag=RSSbaffb68
-Headline: Taco Bell is rolling out AI ordering in hundreds of drive-thrus. Here's how it works
-Description: AI technology is coming to Taco Bell, hopefully freeing up employees to lessen your wait time and provide better service.
-Link: https://www.zdnet.com/article/taco-bell-is-rolling-out-ai-ordering-in-hundreds-of-drive-thrus-heres-how-it-works/#ftag=RSSbaffb68
-Headline: 3 ways Google just supercharged your Chrome browser with AI - and they're surprisingly useful
-Description: The Circle to Search experience is no longer limited to Android phones. And that's only the beginning.
-Link: https://www.zdnet.com/article/3-ways-google-just-supercharged-your-chrome-browser-with-ai-and-theyre-surprisingly-useful/#ftag=RSSbaffb68
-Headline: The best smart bird feeders of 2024
-Description: Whether you've been birdwatching for years or are just starting out, the top smart bird feeders offer insight into what birds are visiting your feeder with AI features, high-quality cameras, and more.
-Link: https://www.zdnet.com/home-and-office/yard-outdoors/best-smart-bird-feeders/#ftag=RSSbaffb68
-Headline: OpenAI and Microsoft - partners, competitors, or both?
-Description: Although Microsoft has shelled out lots of money toward OpenAI's AI research, the two companies compete in a few core areas, blurring the lines between what it means to be a rival or ally in the tech ...
-Link: https://www.zdnet.com/article/openai-and-microsoft-partners-competitors-or-both/#ftag=RSSbaffb68
-Headline: Google introduces Bigtable SQL access and Spanner's new AI-ready features
-Description: Google's latest updates bring SQL to Bigtable and powerful new data features to Spanner, simplifying the integration of AI and enhancing the capabilities of global, scalable databases for enterprises.
-Link: https://www.zdnet.com/article/google-introduces-bigtable-sql-access-and-spanners-new-ai-ready-features/#ftag=RSSbaffb68
-Headline: Workday's new AI tools make finding talent (and getting hired) easier
-Description: The job search can be daunting. Workday is offering Hiredscore AI integrations to help.
-Link: https://www.zdnet.com/article/workday-launches-ai-tools-to-make-finding-talent-and-getting-hired-easier/#ftag=RSSbaffb68
-Headline: Why geographical diversity is critical to build effective and safe AI tools
-Description: Leading AI players should invest in diversified partnerships to harness everything AI tools can offer.
-Link: https://www.zdnet.com/article/why-geographical-diversity-is-critical-to-build-effective-and-safe-ai-tools/#ftag=RSSbaffb68
-Headline: 16 incredibly useful things Alexa can do on Amazon Echo
-Description: Alexa has grown into a pervasive personal assistant. We were curious about what features the Alexa team loves that many of us haven't noticed. Here are 16 slick features you may have missed.
-Link: https://www.zdnet.com/home-and-office/home-entertainment/useful-things-alexa-can-do-on-amazon-echo/#ftag=RSSbaffb68
-Headline: A new White House report embraces open-source AI
-Description: The National Telecommunications and Information Administration supports open-data models - but acknowledges the risks. Here's how it plans to navigate the technology's pros and cons.
-Link: https://www.zdnet.com/article/a-new-white-house-report-embraces-open-source-ai/#ftag=RSSbaffb68
 
 ---
 
@@ -377,9 +377,6 @@ Link: https://www.newscientist.com/article/2442233-using-an-ai-chatbot-or-voice-
 Headline: AI put in charge of setting variable speed limits on US freeway
 Description: Roads with variable speed limits, designed to manage traffic flow, are normally adjusted according to simple rules, but a 27-kilometre section of the I-24 freeway near Nashville, Tennessee, is now ove...
 Link: https://www.newscientist.com/article/2440325-ai-put-in-charge-of-setting-variable-speed-limits-on-us-freeway/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Will implants that meld minds with machines enhance human abilities?
-Description: Devices that let people with paralysis walk and talk are rapidly improving. Some see a future in which we alter memories and download skills – but major challenges remain
-Link: https://www.newscientist.com/article/mg26335023-100-will-implants-that-meld-minds-with-machines-enhance-human-abilities/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Period atmosphere is best part of game set on turbulent oil rig
 Description: In Still Wakes the Deep, you play as a Glaswegian electrician on a 1970s oil rig. The well-crafted setting gives way to horror, but I wish I could linger in mundanity for longer, says Jacob Aron
 Link: https://www.newscientist.com/article/mg26335010-600-period-atmosphere-is-best-part-of-game-set-on-turbulent-oil-rig/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -401,6 +398,9 @@ Link: https://www.newscientist.com/article/2441450-deepmind-ai-gets-silver-medal
 Headline: A skilful primer makes sense of the mathematics beneath AI's hood
 Description: Anil Ananthaswamy's Why Machines Learn: The elegant maths behind modern AI explores the mechanics of the AI revolution, but doesn't examine its ethics
 Link: https://www.newscientist.com/article/mg26335010-300-a-skilful-primer-makes-sense-of-the-mathematics-beneath-ais-hood/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: AI can predict tipping points for systems from forests to power grids
+Description: Combining two neural networks has helped researchers predict potentially disastrous collapses in complex systems, such as financial crashes or power blackouts
+Link: https://www.newscientist.com/article/2440314-ai-can-predict-tipping-points-for-systems-from-forests-to-power-grids/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -413,18 +413,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: World's First-Ever AI Law Now Enforced in Europe, Targeting US Tech Giants
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ehgnuk/worlds_firstever_ai_law_now_enforced_in_europe/"> <img alt="World's First-Ever AI Law Now Enforced in Europe, Targeting U...
-Link: https://www.reddit.com/r/artificial/comments/1ehgnuk/worlds_firstever_ai_law_now_enforced_in_europe/
-Headline: Microsoft vs. Reddit vs. AI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ehki6j/microsoft_vs_reddit_vs_ai/"> <img alt="Microsoft vs. Reddit vs. AI" src="https://external-preview.redd.it/dmZ8mwuMqqSBB3o...
-Link: https://www.reddit.com/r/artificial/comments/1ehki6j/microsoft_vs_reddit_vs_ai/
-Headline: How Google uses AI to reduce stop-and-go traffic on your route — and fight fuel emissions
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ehldqo/how_google_uses_ai_to_reduce_stopandgo_traffic_on/"> <img alt="How Google uses AI to reduce stop-and-go traffic on your r...
-Link: https://www.reddit.com/r/artificial/comments/1ehldqo/how_google_uses_ai_to_reduce_stopandgo_traffic_on/
-Headline: One-Minute Daily AI News 7/31/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Meta’s</strong> advertising growth is proof that hefty AI spending is already paying off.[1]</li> <li><strong>Google</strong> releases new ‘open’ AI mod...
-Link: https://www.reddit.com/r/artificial/comments/1eh6xz9/oneminute_daily_ai_news_7312024/
+Headline: Reddit Acquires Generative AI Startup Memorable AI
+Description: <!-- SC_OFF --><div class="md"><p>Reddit Acquires Generative AI Startup Memorable AI</p> <p><a href="https://www.bloomberg.com/news/articles/2024-08-01/reddit-acquires-generative-ai-startup-memorable-...
+Link: https://www.reddit.com/r/artificial/comments/1eij774/reddit_acquires_generative_ai_startup_memorable_ai/
+Headline: One-Minute Daily AI News 8/1/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> pledges to give U.S. AI Safety Institute early access to its next model.[1]</li> <li>The new Labour government has shelved £1.3bn of fun...
+Link: https://www.reddit.com/r/artificial/comments/1ei06u2/oneminute_daily_ai_news_812024/
+Headline: Is AI About to Run Out of Data? The History of Oil Says No
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1eidaaa/is_ai_about_to_run_out_of_data_the_history_of_oil/"> <img alt="Is AI About to Run Out of Data? The History of Oil Says No...
+Link: https://www.reddit.com/r/artificial/comments/1eidaaa/is_ai_about_to_run_out_of_data_the_history_of_oil/
+Headline: A Detailed Explanation of Common Text Generation Strategies
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1eiebx5/a_detailed_explanation_of_common_text_generation/"> <img alt="A Detailed Explanation of Common Text Generation Strategies...
+Link: https://www.reddit.com/r/artificial/comments/1eiebx5/a_detailed_explanation_of_common_text_generation/
+Headline: Perplexity sign up code
+Description: <!-- SC_OFF --><div class="md"><p><a href="https://perplexity.ai/pro?referral_code=DKHS4TBZ">https://perplexity.ai/pro?referral_code=DKHS4TBZ</a></p> <p>Figured I would share , 10 dollars off </p> </d...
+Link: https://www.reddit.com/r/artificial/comments/1eir7hx/perplexity_sign_up_code/
 
 ---
 
