@@ -1,8 +1,12 @@
-AI News Updates - 2024-08-03 02:33:49
+AI News Updates - 2024-08-04 02:37:49
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Tesla Dojo: Elon Musk’s big plan to build an AI supercomputer, explained
+Description: <p>Dojo is Tesla’s custom-built supercomputer that’s designed to train its “Full Self-Driving” neural networks.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/08/03/tesla-dojo-elon-musks-big-plan-to-build-an-ai-supercomputer-explained/
 Headline: Character.AI CEO Noam Shazeer returns to Google
-Description: <p>In a big move, Character.AI co-founder and CEO Noam Shazeer is returning to Google after leaving the company in October 2021 to found the a16z-backed startup. In his previous stint, Shazeer spearhe...
+Description: <p>In a big move, Character.AI co-founder and CEO Noam Shazeer is returning to Google after leaving the company in October 2021 to found the a16z-backed chatbot startup. In his previous stint, Shazeer...
 Link: https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/
 Headline: Cloud infrastructure revenue approached $80 billion this quarter
 Description: <p>The cloud infrastructure market has put the doldrums of 2023 firmly behind it with another big quarter. Revenue continues to grow at a brisk pace, fueled by interest in AI. Synergy Research reports...
@@ -30,13 +34,18 @@ Headline: Google Cloud expands its database portfolio with new AI capabilities
 Description: <p>Google's new features include Gemini in BigQuery and Looker to help users with data engineering and analysis.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 Link: https://techcrunch.com/2024/08/01/google-cloud-expands-its-database-portfolio-with-new-ai-capabilities/
-Headline: Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups
-Description: <p>Google Cloud is giving Y Combinator startups access to a dedicated, subsidized cluster of Nvidia graphics processing units and Google tensor processing units to build AI models. It&#8217;s part of ...
-Link: https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Meta courts celebs like Awkwafina to voice AI assistants ahead of Meta Connect
+Description: <figure>
+      <img alt="Meta logo on a red background with repeating black icons, giving a squiggly effect." src="https://cdn.vox-cdn.com/thumbor/uFzBBeNtdV2vAYrJcxDEXTs9OGI=/0x0:2040x1360/1310x873/c...
+Link: https://www.theverge.com/2024/8/3/24212580/meta-ai-voice-assistant-celebrity-voices-judi-dench-awkwafina-keegan-michael-key
+Headline: Nvidia reportedly delays its next AI chip due to a design flaw
+Description: <figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/9pXjH8CG0JWeKR2UDIlHZOaQHM0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73499557/acastro_180529_1777_nvidia_0002....
+Link: https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence
 Headline: Google pulls Gemini AI ad from Olympics after backlash
 Description: <figure>
       <img alt="Screenshot of the “Dear Sydney” ad showing the Gemini prompt" src="https://cdn.vox-cdn.com/thumbor/wDvH33PiBOJvr6o5G-Cf2X96VDw=/229x0:1630x934/1310x873/cdn.vox-cdn.com/uploads...
@@ -69,10 +78,7 @@ Headline: TikTok is one of Microsoft’s biggest AI cloud computing customers
 Description: <figure>
       <img alt="A TikTok logo surrounded by jazzy lines and colorful accents" src="https://cdn.vox-cdn.com/thumbor/mShAFZoQvx3EPV4-0MifopZwvfU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/...
 Link: https://www.theverge.com/2024/7/31/24210667/microsoft-tiktok-ai-openai-customer
-Headline: Reddit CEO says Microsoft needs to pay to search the site
-Description: <figure>
-      <img alt="The Reddit logo over an orange and black background" src="https://cdn.vox-cdn.com/thumbor/wDcPaoWwoV0gv_UZuBSWgtobe4o=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_im...
-Link: https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search
+
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -226,36 +232,6 @@ Link: https://aws.amazon.com/blogs/machine-learning/monks-boosts-processing-spee
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
-Headline: OpenAI-backed startup Figure teases new humanoid robot ‘Figure 02’
-Description: Figure is backed by OpenAI among others to the tune of $675 million in its last round in February, but is teasing a new update today.
-Link: https://venturebeat.com/ai/openai-backed-startup-figure-teases-new-humanoid-robot-figure-02/
-Headline: Google’s AI comeback: New Gemini models dethrone OpenAI in shocking upset
-Description: Google's AI comeback: Gemini 1.5 Pro and Gemma 2B outperform rivals, reshaping Silicon Valley's AI landscape and offering new possibilities for enterprise technology.
-Link: https://venturebeat.com/ai/googles-ai-comeback-new-gemini-models-dethrone-openai-in-shocking-upset/
-Headline: Google strikes licensing deal with Character AI and poaches top executives for DeepMind
-Description: Character AI’s founding team, Noam Shazeer and Daniel De Freitas, along with some members of its research team, will join Google.
-Link: https://venturebeat.com/ai/google-strikes-licensing-deal-with-character-ai-and-poaches-top-executives-for-deepmind/
-Headline: DeepMind’s Gemma Scope peers under the hood of large language models
-Description: Google DeepMind has released Gemma Scope, a series of sparse autoencoders (SAEs) that help interpret Gemma 2 models.
-Link: https://venturebeat.com/ai/deepminds-gemma-scope-peers-under-the-hood-of-large-language-models/
-Headline: Hedra releases video-focused foundation model Character-1
-Description: Hedra released its AI video model Character-1 after raising cash from Index Ventures, A16Z Speedrun and Abstract.
-Link: https://venturebeat.com/ai/hedra-a-new-ai-video-platform-raises-10-million-in-seed-funding/
-Headline: ‘Uncanny’: ChatGPT’s Advanced Voice Mode is blowing minds
-Description: Beyond fun and interesting demos and experiments, will it make ChatGPT more useful or appealing to a wider audience?
-Link: https://venturebeat.com/ai/uncanny-chatgpts-advanced-voice-mode-is-blowing-minds/
-Headline: aiOla drops ultra-fast ‘multi-head’ speech recognition model, beats OpenAI Whisper
-Description: To develop Whisper-Medusa speech recognition model, aiOla modified Whisper’s architecture to add a multi-head attention mechanism.
-Link: https://venturebeat.com/ai/aiola-drops-ultra-fast-multi-head-speech-recognition-model-beats-openai-whisper/
-Headline: Stable Diffusion creators launch Black Forest Labs, secure $31M for FLUX.1 AI image generator
-Description: Black Forest Labs launches FLUX.1, an open-source AI image generation model, securing $31M in funding and challenging industry giants with its innovative approach to accessible, high-quality visual AI...
-Link: https://venturebeat.com/ai/stable-diffusion-creators-launch-black-forest-labs-secure-31m-for-flux-1-ai-image-generator/
-Headline: Intel plans to lay off 15% of workforce — at least 15,000 people
-Description: Intel announced that it will lay off 15% of its workforce as part of a broad cost-reduction program.
-Link: https://venturebeat.com/ai/intel-plans-to-lay-off-15-of-workforce/
-Headline: Stability AI speeds up 3D image generation with Stable Fast 3D
-Description: How fast is fast? It now takes only half a second to generate a 3D image with the power gen AI.
-Link: https://venturebeat.com/ai/stability-ai-speeds-up-3d-image-generation-with-stable-fast-3d/
 
 ---
 
@@ -371,6 +347,9 @@ Link: https://www.sciencedaily.com/releases/2024/07/240716165140.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Will implants that meld minds with machines enhance human abilities?
+Description: Devices that let people with paralysis walk and talk are rapidly improving. Some see a future in which we alter memories and download skills – but major challenges remain
+Link: https://www.newscientist.com/article/mg26335023-100-will-implants-that-meld-minds-with-machines-enhance-human-abilities/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Using an AI chatbot or voice assistant makes it harder to spot errors
 Description: Many people enjoy the experience of using AIs like ChatGPT or voice assistants like Alexa to find out information, but it turns out doing so makes it less likely you will spot inaccurate information
 Link: https://www.newscientist.com/article/2442233-using-an-ai-chatbot-or-voice-assistant-makes-it-harder-to-spot-errors/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -398,9 +377,6 @@ Link: https://www.newscientist.com/article/2441450-deepmind-ai-gets-silver-medal
 Headline: A skilful primer makes sense of the mathematics beneath AI's hood
 Description: Anil Ananthaswamy's Why Machines Learn: The elegant maths behind modern AI explores the mechanics of the AI revolution, but doesn't examine its ethics
 Link: https://www.newscientist.com/article/mg26335010-300-a-skilful-primer-makes-sense-of-the-mathematics-beneath-ais-hood/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: AI can predict tipping points for systems from forests to power grids
-Description: Combining two neural networks has helped researchers predict potentially disastrous collapses in complex systems, such as financial crashes or power blackouts
-Link: https://www.newscientist.com/article/2440314-ai-can-predict-tipping-points-for-systems-from-forests-to-power-grids/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -413,22 +389,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Reddit Acquires Generative AI Startup Memorable AI
-Description: <!-- SC_OFF --><div class="md"><p>Reddit Acquires Generative AI Startup Memorable AI</p> <p><a href="https://www.bloomberg.com/news/articles/2024-08-01/reddit-acquires-generative-ai-startup-memorable-...
-Link: https://www.reddit.com/r/artificial/comments/1eij774/reddit_acquires_generative_ai_startup_memorable_ai/
-Headline: One-Minute Daily AI News 8/1/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> pledges to give U.S. AI Safety Institute early access to its next model.[1]</li> <li>The new Labour government has shelved £1.3bn of fun...
-Link: https://www.reddit.com/r/artificial/comments/1ei06u2/oneminute_daily_ai_news_812024/
-Headline: Is AI About to Run Out of Data? The History of Oil Says No
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1eidaaa/is_ai_about_to_run_out_of_data_the_history_of_oil/"> <img alt="Is AI About to Run Out of Data? The History of Oil Says No...
-Link: https://www.reddit.com/r/artificial/comments/1eidaaa/is_ai_about_to_run_out_of_data_the_history_of_oil/
-Headline: A Detailed Explanation of Common Text Generation Strategies
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1eiebx5/a_detailed_explanation_of_common_text_generation/"> <img alt="A Detailed Explanation of Common Text Generation Strategies...
-Link: https://www.reddit.com/r/artificial/comments/1eiebx5/a_detailed_explanation_of_common_text_generation/
-Headline: Perplexity sign up code
-Description: <!-- SC_OFF --><div class="md"><p><a href="https://perplexity.ai/pro?referral_code=DKHS4TBZ">https://perplexity.ai/pro?referral_code=DKHS4TBZ</a></p> <p>Figured I would share , 10 dollars off </p> </d...
-Link: https://www.reddit.com/r/artificial/comments/1eir7hx/perplexity_sign_up_code/
-
+Headline: What would it take for ai to replace human relationships
+Description: <!-- SC_OFF --><div class="md"><p>So I know many at first are creeped out by this thought. But personally, I think based on studies AI will end up being used heavily by lonely people. And the good sid...
+Link: https://www.reddit.com/r/artificial/comments/1ej8usk/what_would_it_take_for_ai_to_replace_human/
+Headline: One-Minute Daily AI News 8/2/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google</strong> pulls AI ad for Olympics following backlash.[1]</li> <li><a href="http://Character.AI"><strong>Character.AI</strong></a> CEO Noam Shazee...
+Link: https://www.reddit.com/r/artificial/comments/1eiu7k8/oneminute_daily_ai_news_822024/
+Headline: AI-to-AI Communication/Language Whitepaper
+Description: <!-- SC_OFF --><div class="md"><p><strong>AI-to-AI Communication/Language Whitepaper</strong></p> <p>Synapse, a new language designed specifically for AI-to-AI communication. Here's why it's notable:<...
+Link: https://www.reddit.com/r/artificial/comments/1ej1cpa/aitoai_communicationlanguage_whitepaper/
+Headline: One-Minute Daily AI News 8/3/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Nvidia</strong> reportedly delays its next AI chip due to a design flaw.[1]</li> <li>Chip index collapses 7% as <strong>Arm</strong> punctures AI optimi...
+Link: https://www.reddit.com/r/artificial/comments/1ejecxn/oneminute_daily_ai_news_832024/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
