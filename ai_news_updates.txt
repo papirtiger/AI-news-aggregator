@@ -1,6 +1,16 @@
-AI News Updates - 2024-08-04 02:37:49
+AI News Updates - 2024-08-05 02:37:25
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Many safety evaluations for AI models have significant limitations
+Description: <p>Despite increasing demand for AI safety and accountability, today&#8217;s tests and benchmarks may fall short, according to a new report. Generative AI models &#8212; models that can analyze and ou...
+Link: https://techcrunch.com/2024/08/04/many-safety-evaluations-for-ai-models-have-significant-limitations/
+Headline: OpenAI says it’s taking a ‘deliberate approach’ to releasing tools that can detect writing from ChatGPT
+Description: <p>OpenAI has built a tool that could potentially catch students who cheat by asking ChatGPT to write their assignments — but according to The Wall Street Journal, the company is debating whether to a...
+Link: https://techcrunch.com/2024/08/04/openai-says-its-taking-a-deliberate-approach-to-releasing-tools-that-can-detect-writing-from-chatgpt/
+Headline: Yelp’s chief product officer talks AI and authenticity
+Description: <p>Chief Product Officer Craig Saldanha says AI is already transforming the Yelp experience.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/08/04/yelps-chief-product-officer-talks-ai-and-authenticity/
 Headline: Tesla Dojo: Elon Musk’s big plan to build an AI supercomputer, explained
 Description: <p>Dojo is Tesla’s custom-built supercomputer that’s designed to train its “Full Self-Driving” neural networks.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
@@ -24,20 +34,14 @@ Link: https://techcrunch.com/2024/08/01/ipad-sales-help-bail-out-apple-amid-a-co
 Headline: Microsoft now lists OpenAI as a competitor in AI and search
 Description: <p>Microsoft has a long and tangled history with OpenAI, having invested a reported $13 billion in the ChatGPT maker as part of a long-term partnership. As part of the deal, Microsoft runs OpenAI&#821...
 Link: https://techcrunch.com/2024/08/01/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search/
-Headline: Google brings Gemini-powered search history and Lens to Chrome desktop
-Description: <p>Google Thursday said that it is introducing new Gemini-powered features for Chrome&#8217;s desktop version, including Lens for desktop, tab compare for shopping assistance, and natural language int...
-Link: https://techcrunch.com/2024/08/01/google-brings-gemini-powered-search-history-and-lens-to-chrome-desktop/
-Headline: Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend
-Description: <p>When Xiaoyin Qu was growing up in China, she was obsessed with learning how to build paper airplanes that could do flips in the air. Her parents, though, didn’t have the aerodynamic expertise to su...
-Link: https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/
-Headline: Google Cloud expands its database portfolio with new AI capabilities
-Description: <p>Google's new features include Gemini in BigQuery and Looker to help users with data engineering and analysis.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/08/01/google-cloud-expands-its-database-portfolio-with-new-ai-capabilities/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: OpenAI won’t watermark ChatGPT text because its users could get caught
+Description: <figure>
+      <img alt="Vector illustration of the ChatGPT logo." src="https://cdn.vox-cdn.com/thumbor/nilLDeYow5Roh4LkAVsb-ryA98U=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
+Link: https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool
 Headline: Meta courts celebs like Awkwafina to voice AI assistants ahead of Meta Connect
 Description: <figure>
       <img alt="Meta logo on a red background with repeating black icons, giving a squiggly effect." src="https://cdn.vox-cdn.com/thumbor/uFzBBeNtdV2vAYrJcxDEXTs9OGI=/0x0:2040x1360/1310x873/c...
@@ -74,10 +78,6 @@ Headline: Meta’s future is AI, AI, and more AI
 Description: <figure>
       <img alt="Graphic collage of Mark Zuckerberg." src="https://cdn.vox-cdn.com/thumbor/O9xRo46hJkJ5e87WehDs9b1GSJk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/734945...
 Link: https://www.theverge.com/2024/7/31/24210786/meta-earnings-q2-2024-ai-llama-zuckerberg
-Headline: TikTok is one of Microsoft’s biggest AI cloud computing customers
-Description: <figure>
-      <img alt="A TikTok logo surrounded by jazzy lines and colorful accents" src="https://cdn.vox-cdn.com/thumbor/mShAFZoQvx3EPV4-0MifopZwvfU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/...
-Link: https://www.theverge.com/2024/7/31/24210667/microsoft-tiktok-ai-openai-customer
 
 ---
 
@@ -232,6 +232,36 @@ Link: https://aws.amazon.com/blogs/machine-learning/monks-boosts-processing-spee
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Gen AI’s awkward adolescence: The rocky path to maturity
+Description: People thought the internet would fail. So could we be underestimating gen AI's long-term potential as we focus on short-term challenges?
+Link: https://venturebeat.com/ai/gen-ais-awkward-adolescence-the-rocky-path-to-maturity/
+Headline: In the age of gen AI upskilling, learn and let learn
+Description: Effective, sustainable use of gen AI requires a flexible training program within a culture that values collective, continuous learning.
+Link: https://venturebeat.com/ai/in-the-age-of-gen-ai-upskilling-learn-and-let-learn/
+Headline: Are we prepared for ‘Act 2’ of gen AI?
+Description: To be sure, the path from gen AI Act 1 to Act 2 will not be a straight one. It will require effort we've never seen before.
+Link: https://venturebeat.com/ai/act-2-in-gen-ai-lets-get-ready-now/
+Headline: OpenAI-backed startup Figure teases new humanoid robot ‘Figure 02’
+Description: Figure is backed by OpenAI among others to the tune of $675 million in its last round in February, but is teasing a new update today.
+Link: https://venturebeat.com/ai/openai-backed-startup-figure-teases-new-humanoid-robot-figure-02/
+Headline: Google’s AI comeback: New Gemini models dethrone OpenAI in shocking upset
+Description: Google's AI comeback: Gemini 1.5 Pro and Gemma 2B outperform rivals, reshaping Silicon Valley's AI landscape and offering new possibilities for enterprise technology.
+Link: https://venturebeat.com/ai/googles-ai-comeback-new-gemini-models-dethrone-openai-in-shocking-upset/
+Headline: Google strikes licensing deal with Character AI and poaches top executives for DeepMind
+Description: Character AI’s founding team, Noam Shazeer and Daniel De Freitas, along with some members of its research team, will join Google.
+Link: https://venturebeat.com/ai/google-strikes-licensing-deal-with-character-ai-and-poaches-top-executives-for-deepmind/
+Headline: DeepMind’s Gemma Scope peers under the hood of large language models
+Description: Google DeepMind has released Gemma Scope, a series of sparse autoencoders (SAEs) that help interpret Gemma 2 models.
+Link: https://venturebeat.com/ai/deepminds-gemma-scope-peers-under-the-hood-of-large-language-models/
+Headline: Hedra releases video-focused foundation model Character-1
+Description: Hedra released its AI video model Character-1 after raising cash from Index Ventures, A16Z Speedrun and Abstract.
+Link: https://venturebeat.com/ai/hedra-a-new-ai-video-platform-raises-10-million-in-seed-funding/
+Headline: ‘Uncanny’: ChatGPT’s Advanced Voice Mode is blowing minds
+Description: Beyond fun and interesting demos and experiments, will it make ChatGPT more useful or appealing to a wider audience?
+Link: https://venturebeat.com/ai/uncanny-chatgpts-advanced-voice-mode-is-blowing-minds/
+Headline: aiOla drops ultra-fast ‘multi-head’ speech recognition model, beats OpenAI Whisper
+Description: To develop Whisper-Medusa speech recognition model, aiOla modified Whisper’s architecture to add a multi-head attention mechanism.
+Link: https://venturebeat.com/ai/aiola-drops-ultra-fast-multi-head-speech-recognition-model-beats-openai-whisper/
 
 ---
 
@@ -389,18 +419,19 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: What would it take for ai to replace human relationships
-Description: <!-- SC_OFF --><div class="md"><p>So I know many at first are creeped out by this thought. But personally, I think based on studies AI will end up being used heavily by lonely people. And the good sid...
-Link: https://www.reddit.com/r/artificial/comments/1ej8usk/what_would_it_take_for_ai_to_replace_human/
-Headline: One-Minute Daily AI News 8/2/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google</strong> pulls AI ad for Olympics following backlash.[1]</li> <li><a href="http://Character.AI"><strong>Character.AI</strong></a> CEO Noam Shazee...
-Link: https://www.reddit.com/r/artificial/comments/1eiu7k8/oneminute_daily_ai_news_822024/
-Headline: AI-to-AI Communication/Language Whitepaper
-Description: <!-- SC_OFF --><div class="md"><p><strong>AI-to-AI Communication/Language Whitepaper</strong></p> <p>Synapse, a new language designed specifically for AI-to-AI communication. Here's why it's notable:<...
-Link: https://www.reddit.com/r/artificial/comments/1ej1cpa/aitoai_communicationlanguage_whitepaper/
-Headline: One-Minute Daily AI News 8/3/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Nvidia</strong> reportedly delays its next AI chip due to a design flaw.[1]</li> <li>Chip index collapses 7% as <strong>Arm</strong> punctures AI optimi...
-Link: https://www.reddit.com/r/artificial/comments/1ejecxn/oneminute_daily_ai_news_832024/
+Headline: So if I didn't tell you that I made this with Ai, would you think it was real ? Be honest. Let's say you're at a restaurant or something like that and you hear this, would you consider this being fake ? Would it even go through your head that it could be fake just by hearing it ?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ejqqxv/so_if_i_didnt_tell_you_that_i_made_this_with_ai/"> <img alt="So if I didn't tell you that I made this with Ai, would you ...
+Link: https://www.reddit.com/r/artificial/comments/1ejqqxv/so_if_i_didnt_tell_you_that_i_made_this_with_ai/
+Headline: AI video generator to just mess around with?
+Description: <!-- SC_OFF --><div class="md"><p>I find AI video generation fascinating and entertaining. I have no plans on using it for business, selling stuff, promotion, nsfw, fakes, etc. I just want to use funn...
+Link: https://www.reddit.com/r/artificial/comments/1ejmknm/ai_video_generator_to_just_mess_around_with/
+Headline: Ai Arena - Who pays for the usage?
+Description: <!-- SC_OFF --><div class="md"><p>On AI Arena or LMSYS Chatbot Arena, you can use whatever model you want without paying for it. This seems dodgy to me. You can choose to use Claude 3.5 sonnet for exa...
+Link: https://www.reddit.com/r/artificial/comments/1ek0k2w/ai_arena_who_pays_for_the_usage/
+Headline: OpenAI’s Sam Altman is becoming one of the most powerful people on Earth. We should be very afraid
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ek78hq/openais_sam_altman_is_becoming_one_of_the_most/"> <img alt="OpenAI’s Sam Altman is becoming one of the most powerful peop...
+Link: https://www.reddit.com/r/artificial/comments/1ek78hq/openais_sam_altman_is_becoming_one_of_the_most/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
