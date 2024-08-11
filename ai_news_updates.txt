@@ -1,6 +1,13 @@
-AI News Updates - 2024-08-10 02:36:32
+AI News Updates - 2024-08-11 02:39:53
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: As Alexa turns 10, Amazon looks to generative AI
+Description: <p>While Amazon has continued releasing Echo devices, including an upgraded Spot announced last month, the company has taken its foot off the gas.</p>
+<p>© 2024 TechCrunch. All rights reserved. For pe...
+Link: https://techcrunch.com/2024/08/10/as-alexa-turns-10-amazon-looks-to-generative-ai/
+Headline: Tesla’s Dojo, a timeline
+Description: <p>Elon Musk doesn’t want Tesla to be just an automaker. He wants Tesla to be an AI company, one that’s figured out how to make cars drive themselves.&#160; Crucial to that mission is Dojo, Tesla’s cu...
+Link: https://techcrunch.com/2024/08/10/teslas-dojo-a-timeline/
 Headline: Anysphere, a GitHub Copilot rival, has raised $60M Series A at  $400M valuation from a16z, Thrive, sources say
 Description: <p>Anysphere, a two-year-old startup that’s developed an AI-powered coding assistant called Cursor, has raised over $60 million in a Series A financing at a $400 million post-money valuation, two sour...
 Link: https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/
@@ -27,16 +34,14 @@ Link: https://techcrunch.com/2024/08/08/elon-musks-x-agrees-to-pause-eu-data-pro
 Headline: SoundHound acquires Amelia AI for $80M after it raised $189M+
 Description: <p>SoundHound, an AI company that makes voice interface tech used by car companies, restaurants and tech firms, is doubling down on enterprise services by playing consolidator in a crowded market. The...
 Link: https://techcrunch.com/2024/08/08/soundhound-acquires-amelia-ai-for-80m-after-it-raised-189m/
-Headline: Feeling Great’s new therapy app translates its psychiatrist co-founder’s experience into AI
-Description: <p>Seeking mental health support is a complex process, but some founders believe that using AI to formalize techniques like cognitive behavioral therapy (CBT) can help folks who might not have access ...
-Link: https://techcrunch.com/2024/08/08/feeling-greats-new-therapy-app-translates-its-psychologist-co-founders-experience-into-ai/
-Headline: UK launches formal probe into Amazon’s ties with AI startup Anthropic
-Description: <p>The U.K.’s antitrust regulator has confirmed that it&#8217;s carrying out a formal antitrust investigation into Amazon&#8217;s ties with Anthropic, after Amazon recently completed a $4 billion inve...
-Link: https://techcrunch.com/2024/08/08/uk-launches-formal-probe-into-amazons-ties-with-ai-startup-anthropic/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The FCC proposes requiring robocallers to disclose when they’re using AI
+Description: <figure>
+      <img alt="Illustration of a phone with yellow caution tape running over it." src="https://cdn.vox-cdn.com/thumbor/vsOOdrBFVM0_ZXwiZiraTJeTUNs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/upl...
+Link: https://www.theverge.com/2024/8/10/24217435/fcc-ai-robocall-disclosure-proposed-rules-artificial-intelligence-hearing-speech-disability-exempt
 Headline: OpenAI says its latest GPT-4o model is ‘medium’ risk
 Description: <figure>
       <img alt="An image of OpenAI’s logo, which looks like a stylized and symmetrical braid." src="https://cdn.vox-cdn.com/thumbor/EArqTqnQ1nuQNkVANx0-Wae6Pws=/0x0:1820x1213/1310x873/cdn.vox...
@@ -65,11 +70,6 @@ Headline: ‘You are a helpful mail assistant,’ and other Apple Intelligence i
 Description: <figure>
       <img alt="An illustration of the Apple logo." src="https://cdn.vox-cdn.com/thumbor/w4M1QWGdTq9ssTZ3ZDqi6Ebkw-8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7350350...
 Link: https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta
-Headline: Elon Musk is suing OpenAI and Sam Altman again
-Description: <figure>
-      <img alt="Vector illustration of the ChatGPT logo." src="https://cdn.vox-cdn.com/thumbor/z4oIVDvb-Vfq9PpY4WynGLEbfi8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
-Link: https://www.theverge.com/2024/8/5/24213557/elon-musk-openai-lawsuit-sam-altman-greg-brockman-revived
-
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -223,6 +223,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/inference-audiocraft-musicge
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: LLM progress is slowing — what will it mean for AI?
+Description: It’s easy to forget how much has happened since the launch of ChatGPT. Now, for the first time, there are signs that pace might be slowing.
+Link: https://venturebeat.com/ai/llm-progress-is-slowing-what-will-it-mean-for-ai/
 Headline: Meta’s VFusion3D: A leap forward in AI-powered 3D content creation
 Description: Meta's VFusion3D AI breakthrough transforms 2D images into high-quality 3D models, revolutionizing content creation for VR, gaming, and design industries.
 Link: https://venturebeat.com/ai/meta-vfusion3d-a-leap-forward-in-ai-powered-3d-content-creation/
@@ -250,13 +253,16 @@ Link: https://venturebeat.com/ai/lg-unleashes-south-koreas-first-open-source-ai-
 Headline: Hugging Face acquires XetHub from ex-Apple researchers for large AI model hosting
 Description: The HF team plans to integrate XetHub and upgrade its storage backend, enabling developers to host more large models and datasets.
 Link: https://venturebeat.com/ai/hugging-face-acquires-xethub-from-ex-apple-researchers-for-large-ai-model-hosting/
-Headline: Anthropic offers $15,000 bounties to hackers in push for AI safety
-Description: Anthropic launches expanded AI bug bounty program, offering up to $15,000 for critical vulnerabilities in its AI systems, setting new standards for AI safety and transparency.
-Link: https://venturebeat.com/ai/anthropic-offers-15000-bounties-to-hackers-in-push-for-ai-safety/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Wendy's AI-powered drive-thrus will be bilingual in these states
+Description: Spanish-speaking customers in two states can now utilize AI ordering at select Wendy's locations.
+Link: https://www.zdnet.com/article/wendys-ai-powered-drive-thrus-will-be-bilingual-in-these-states/#ftag=RSSbaffb68
+Headline: The AI scams infiltrating the knitting and crochet world - and why it matters for everyone
+Description: AI can create unexpected problems for makers. Here's what to watch out for, and why all creators, hobbyists, crafters, and bakers should pay attention.
+Link: https://www.zdnet.com/article/how-ai-scams-are-infiltrating-the-knitting-and-crochet-world/#ftag=RSSbaffb68
 Headline: How safe is OpenAI's GPT-4o? Here are the scores for privacy, copyright infringement, and more
 Description: The AI giant's latest System Card tracks performance across key categories like cybersecurity, model autonomy, and more.
 Link: https://www.zdnet.com/article/how-safe-is-openais-gpt-4o-here-are-the-scores-for-privacy-copyright-infringement-and-more/#ftag=RSSbaffb68
@@ -272,9 +278,6 @@ Link: https://www.zdnet.com/article/innovation-index-august-9-2024/#ftag=RSSbaff
 Headline: Verizon is using AI to prevent accidental internet outages - here's how
 Description: Artificial intelligence is helping Verizon stop third-party cable cuts before they happen. Here's how it can help you, and what you should do before digging.
 Link: https://www.zdnet.com/article/verizon-is-using-ai-to-prevent-accidental-internet-outages-heres-how/#ftag=RSSbaffb68
-Headline: Habla Español? Wendy's AI-powered drive-thrus will be bilingual in these states
-Description: Spanish-speaking customers in two states can now utilize AI ordering at select Wendy's locations.
-Link: https://www.zdnet.com/article/habla-espanol-wendys-ai-powered-drive-thrus-will-be-bilingual-in-these-states/#ftag=RSSbaffb68
 Headline: Perplexity Pro's AI absolutely aced my coding tests - but there's a catch
 Description: Is Perplexity Pro worth the subscription fee? That may depend on what you use it for, but it should do a good job of helping you program. Here's why.
 Link: https://www.zdnet.com/article/perplexity-pros-ai-absolutely-aced-my-coding-tests-but-theres-a-catch/#ftag=RSSbaffb68
@@ -284,6 +287,7 @@ Link: https://www.zdnet.com/article/will-you-pay-for-apple-intelligence-up-to-20
 Headline: What is Project Strawberry? OpenAI's mystery AI tool explained
 Description: An LLM with the most advanced reasoning capabilities yet may be in your future.
 Link: https://www.zdnet.com/article/what-is-project-strawberry-openais-mystery-ai-tool-explained/#ftag=RSSbaffb68
+
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -409,15 +413,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Andrew Ng says he is 100% confident that AI is not hitting a wall and there are new advances that are just about to break because capabilities exceed what has been deployed so far
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1eo06ok/andrew_ng_says_he_is_100_confident_that_ai_is_not/"> <img alt="Andrew Ng says he is 100% confident that AI is not hitting...
-Link: https://www.reddit.com/r/artificial/comments/1eo06ok/andrew_ng_says_he_is_100_confident_that_ai_is_not/
-Headline: Realistically, what real applications of LLMs do you think we'll have? I am in strategy consulting and just got a bit "WOWed"
-Description: <!-- SC_OFF --><div class="md"><p>I had the idea of trying to create a &quot;business consultant moved by AI&quot;. </p> <p>My hyposthesis is that most of the business probles we encounter are &quot;d...
-Link: https://www.reddit.com/r/artificial/comments/1eoh68t/realistically_what_real_applications_of_llms_do/
-Headline: OpenAI worries people may become emotionally reliant on its new ChatGPT voice mode
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ensnvl/openai_worries_people_may_become_emotionally/"> <img alt="OpenAI worries people may become emotionally reliant on its new...
-Link: https://www.reddit.com/r/artificial/comments/1ensnvl/openai_worries_people_may_become_emotionally/
+Headline: This cookware company used AI to create fake customer pictures as well as fake customer reviews. They even forgot to remove the AI's "revision" summaries! (company names hidden)
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1eoql7n/this_cookware_company_used_ai_to_create_fake/"> <img alt="This cookware company used AI to create fake customer pictures ...
+Link: https://www.reddit.com/r/artificial/comments/1eoql7n/this_cookware_company_used_ai_to_create_fake/
+Headline: One-Minute Daily AI News 8/9/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><p>DeepMind develops a robot that can play amateur level ping-pong.[1]</p></li> <li><p>IncarnaMind: An AI Tool that Enables You to Chat with Your Personal Docum...
+Link: https://www.reddit.com/r/artificial/comments/1eoi79o/oneminute_daily_ai_news_892024/
+Headline: AI being used to analyze post history to auto moderate users
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ep42t7/ai_being_used_to_analyze_post_history_to_auto/"> <img alt="AI being used to analyze post history to auto moderate users" ...
+Link: https://www.reddit.com/r/artificial/comments/1ep42t7/ai_being_used_to_analyze_post_history_to_auto/
+Headline: Guide for a medical doctor
+Description: <!-- SC_OFF --><div class="md"><p>Hi guys, I am a practising medical doctor. Recently there are lots of applications seen in AI in healthcare care. To bring out the maximum potential obviously doctors...
+Link: https://www.reddit.com/r/artificial/comments/1ep1utc/guide_for_a_medical_doctor/
 
 ---
 
