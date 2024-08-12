@@ -1,4 +1,4 @@
-AI News Updates - 2024-08-11 02:39:53
+AI News Updates - 2024-08-12 02:38:43
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
 Headline: As Alexa turns 10, Amazon looks to generative AI
@@ -38,6 +38,10 @@ Link: https://techcrunch.com/2024/08/08/soundhound-acquires-amelia-ai-for-80m-af
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The next iPhone SE could have Apple Intelligence, which says a lot
+Description: <figure>
+      <img alt="A picture of the iPhone 14 laying on a glass surface." src="https://cdn.vox-cdn.com/thumbor/0G45h2E_R8D_T00sOVUskhMnf0Y=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_...
+Link: https://www.theverge.com/2024/8/11/24217924/iphone-se-apple-intelligence-support-generative-ai-rumor
 Headline: The FCC proposes requiring robocallers to disclose when they’re using AI
 Description: <figure>
       <img alt="Illustration of a phone with yellow caution tape running over it." src="https://cdn.vox-cdn.com/thumbor/vsOOdrBFVM0_ZXwiZiraTJeTUNs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/upl...
@@ -70,6 +74,7 @@ Headline: ‘You are a helpful mail assistant,’ and other Apple Intelligence i
 Description: <figure>
       <img alt="An illustration of the Apple logo." src="https://cdn.vox-cdn.com/thumbor/w4M1QWGdTq9ssTZ3ZDqi6Ebkw-8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7350350...
 Link: https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta
+
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -223,6 +228,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/inference-audiocraft-musicge
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: From data to insight to action: The very human challenges of AI transformation
+Description: The more AI plays a central role in our lives, the more we need to understand how we interact with and process the world.
+Link: https://venturebeat.com/ai/from-data-to-insight-to-action-the-very-human-challenges-of-ai-transformation/
 Headline: LLM progress is slowing — what will it mean for AI?
 Description: It’s easy to forget how much has happened since the launch of ChatGPT. Now, for the first time, there are signs that pace might be slowing.
 Link: https://venturebeat.com/ai/llm-progress-is-slowing-what-will-it-mean-for-ai/
@@ -250,9 +258,6 @@ Link: https://venturebeat.com/ai/alibaba-claims-no-1-spot-in-ai-math-models-with
 Headline: LG unleashes South Korea’s first open-source AI, challenging global tech giants
 Description: LG launches Exaone 3.0, South Korea's first open-source AI model, challenging global tech giants and reshaping the AI landscape with improved efficiency and multilingual capabilities.
 Link: https://venturebeat.com/ai/lg-unleashes-south-koreas-first-open-source-ai-challenging-global-tech-giants/
-Headline: Hugging Face acquires XetHub from ex-Apple researchers for large AI model hosting
-Description: The HF team plans to integrate XetHub and upgrade its storage backend, enabling developers to host more large models and datasets.
-Link: https://venturebeat.com/ai/hugging-face-acquires-xethub-from-ex-apple-researchers-for-large-ai-model-hosting/
 
 ---
 
@@ -337,6 +342,12 @@ Link: https://www.aisnakeoil.com/p/on-the-societal-impact-of-open-foundation
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Artificial compound eye to revolutionize robotic vision at lower cost but higher sensitivity
+Description: A research team has recently developed a novel artificial compound eye system that is not only more cost-effective, but demonstrates a sensitivity at least twice that of existing market products in sm...
+Link: https://www.sciencedaily.com/releases/2024/08/240808115243.htm
+Headline: Using photos or videos, these AI systems can conjure simulations that train robots to function in physical spaces
+Description: Two new studies introduce AI systems that use either video or photos to create simulations that can train robots to function in the real world. This could significantly lower the costs of training rob...
+Link: https://www.sciencedaily.com/releases/2024/08/240807225711.htm
 Headline: AI for mental health screening may carry biases based on gender, race
 Description: A growing body of AI tools screen how people talk, searching for subtle changes that could indicate mental health concerns like depression or anxiety. A study finds that these tools don't perform cons...
 Link: https://www.sciencedaily.com/releases/2024/08/240805134143.htm
@@ -361,12 +372,6 @@ Link: https://www.sciencedaily.com/releases/2024/07/240722175902.htm
 Headline: Can consciousness exist in a computer simulation?
 Description: A new essay explores which conditions must be met for consciousness to exist. At least one of them can't be found in a computer.
 Link: https://www.sciencedaily.com/releases/2024/07/240719123825.htm
-Headline: Ant insights lead to robot navigation breakthrough
-Description: Have you ever wondered how insects are able to go so far beyond their home and still find their way? The answer to this question is not only relevant to biology but also to making the AI for tiny, aut...
-Link: https://www.sciencedaily.com/releases/2024/07/240717162408.htm
-Headline: Chatbot Iris offers students individual support
-Description: Researchers have developed the chatbot Iris, which offers informatics students personalized assistance with programming assignments. A study has now confirmed the chatbot's success: Iris improves the ...
-Link: https://www.sciencedaily.com/releases/2024/07/240717120057.htm
 
 ---
 
@@ -413,18 +418,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: This cookware company used AI to create fake customer pictures as well as fake customer reviews. They even forgot to remove the AI's "revision" summaries! (company names hidden)
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1eoql7n/this_cookware_company_used_ai_to_create_fake/"> <img alt="This cookware company used AI to create fake customer pictures ...
-Link: https://www.reddit.com/r/artificial/comments/1eoql7n/this_cookware_company_used_ai_to_create_fake/
-Headline: One-Minute Daily AI News 8/9/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><p>DeepMind develops a robot that can play amateur level ping-pong.[1]</p></li> <li><p>IncarnaMind: An AI Tool that Enables You to Chat with Your Personal Docum...
-Link: https://www.reddit.com/r/artificial/comments/1eoi79o/oneminute_daily_ai_news_892024/
-Headline: AI being used to analyze post history to auto moderate users
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ep42t7/ai_being_used_to_analyze_post_history_to_auto/"> <img alt="AI being used to analyze post history to auto moderate users" ...
-Link: https://www.reddit.com/r/artificial/comments/1ep42t7/ai_being_used_to_analyze_post_history_to_auto/
-Headline: Guide for a medical doctor
-Description: <!-- SC_OFF --><div class="md"><p>Hi guys, I am a practising medical doctor. Recently there are lots of applications seen in AI in healthcare care. To bring out the maximum potential obviously doctors...
-Link: https://www.reddit.com/r/artificial/comments/1ep1utc/guide_for_a_medical_doctor/
+Headline: AI scientist Stuart Russell says AI companies are playing Russian Roulette with humanity: "So you’re going to come into my house with a revolver and you’re going to line up all my children and everyone's children in a long line…”
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1epe9z1/ai_scientist_stuart_russell_says_ai_companies_are/"> <img alt="AI scientist Stuart Russell says AI companies are playing ...
+Link: https://www.reddit.com/r/artificial/comments/1epe9z1/ai_scientist_stuart_russell_says_ai_companies_are/
+Headline: Microsoft and Palantir team up on AI for US defense and intelligence sector
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1epyen0/microsoft_and_palantir_team_up_on_ai_for_us/"> <img alt="Microsoft and Palantir team up on AI for US defense and intellig...
+Link: https://www.reddit.com/r/artificial/comments/1epyen0/microsoft_and_palantir_team_up_on_ai_for_us/
+Headline: Auto-Analyst 2.0 — The AI data analytics system
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1epkq0w/autoanalyst_20_the_ai_data_analytics_system/"> <img alt="Auto-Analyst 2.0 — The AI data analytics system" src="https://ex...
+Link: https://www.reddit.com/r/artificial/comments/1epkq0w/autoanalyst_20_the_ai_data_analytics_system/
+Headline: One-Minute Daily AI News 8/11/2024
+Description: <!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="https://www.reddit.com/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by ...
+Link: https://www.reddit.com/r/artificial/comments/1epczxx/oneminute_daily_ai_news_8112024/
+Headline: Didn't there used to be a thing called Watson that old people thought was AI?
+Description: <!-- SC_OFF --><div class="md"><p>The title is part snark. I got an ad for IBM Watson in my feed a few months ago. It seems it was just 18 months ago or so Watson was all you heard about for AI. I don...
+Link: https://www.reddit.com/r/artificial/comments/1epm07f/didnt_there_used_to_be_a_thing_called_watson_that/
 
 ---
 
