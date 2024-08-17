@@ -1,6 +1,18 @@
-AI News Updates - 2024-08-16 02:36:45
+AI News Updates - 2024-08-17 02:34:25
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI shuts down election influence operation that used ChatGPT
+Description: <p>OpenAI has banned a cluster of ChatGPT accounts linked to an Iranian influence operation that was generating content about the U.S. presidential election, according to a blog post on Friday. The co...
+Link: https://techcrunch.com/2024/08/16/openai-shuts-down-election-influence-operation-using-chatgpt/
+Headline: A hellish new AI threat: ‘Undressing’ sites targeted by SF authorities
+Description: <p>While the ethics of AI-generated porn are still under debate, using the technology to create nonconsensual sexual imagery of people is, I think we can all agree, reprehensible. One such method is &...
+Link: https://techcrunch.com/2024/08/16/a-hellish-new-ai-threat-undressing-sites-targeted-by-sf-authorities/
+Headline: AI for landlords, Grok-2 unleashed and the latest attempt at AI regulation
+Description: <p>There was lots going on in startup land, as always, and the Equity crew had a blast breaking it all down. Kirsten Korosec, Mary Ann Azevedo and Devin Coldewey kicked off this Friday’s episode of Te...
+Link: https://techcrunch.com/podcast/ai-for-landlords-grok-2-unleashed-and-the-latest-attempt-at-ai-regulation/
+Headline: Google is bringing AI overviews to India, Brazil, Japan, UK, Indonesia and Mexico
+Description: <p>After bringing AI overviews to the U.S., Google is expanding the AI-powered search summaries to six more countries: India, Brazil, Japan, the U.K., Indonesia and Mexico. These markets will also get...
+Link: https://techcrunch.com/2024/08/16/google-is-bringing-ai-overviews-to-india-brazil-japan-uk-indonesia-and-mexico/
 Headline: California AI bill SB 1047 aims to prevent AI disasters, but Silicon Valley warns it will cause one
 Description: <p>SB 1047 has drawn the ire of Silicon Valley players large and small, including venture capitalists, big tech trade groups, researchers and startup founders.</p>
 <p>© 2024 TechCrunch. All rights res...
@@ -22,24 +34,18 @@ Link: https://techcrunch.com/2024/08/14/filmmakers-say-ai-will-change-the-art-pe
 Headline: NEA led a $100M round into Fei-Fei Li’s new AI startup, now valued at over $1B
 Description: <p>World Labs, a stealthy startup founded by renowned Stanford University AI professor Fei-Fei Li, has raised two rounds of financing&#160;two months apart, according to multiple reports. The latest f...
 Link: https://techcrunch.com/2024/08/14/nea-led-a-100m-round-into-fei-fei-lis-new-ai-startup-now-valued-at-over-1b/
-Headline: Study suggests that even the best AI models hallucinate a bunch
-Description: <p>The research suggest that models aren't hallucinating much less, despite claims to the contrary from OpenAI, Anthropic and the other big AI players.</p>
-<p>© 2024 TechCrunch. All rights reserved. F...
-Link: https://techcrunch.com/2024/08/14/study-suggests-that-even-the-best-ai-models-hallucinate-a-bunch/
-Headline: This Week in AI: AI isn’t world-ending — but it’s still plenty harmful
-Description: <p>Hiya, folks, welcome to TechCrunch’s regular AI newsletter. This week in AI, a new study shows that generative AI really isn&#8217;t all that harmful — at least not in the apocalyptic sense. In a p...
-Link: https://techcrunch.com/2024/08/14/this-week-in-ai-ai-isnt-world-ending-but-its-still-plenty-harmful/
-Headline: TechCrunch Minute: OpenAI’s latest GPT-4o model gets weird
-Description: <p>OpenAI’s newest GPT-4o model can behave pretty strangely, for example by copying your voice, or by shouting or moaning erotically during a conversation. The reason we know this is not because some ...
-Link: https://techcrunch.com/video/techcrunch-minute-openais-latest-gpt4-o-model-gets-weird/
-Headline: MIT researchers release a repository of AI risks
-Description: <p>In crafting laws to regulate AI, like the EU AI Act or California's SB 1047, policymakers have struggled to come to a consensus on which risks the laws should cover.</p>
-<p>© 2024 TechCrunch. All r...
-Link: https://techcrunch.com/2024/08/14/mit-researchers-release-a-repository-of-ai-risks/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: OpenAI says Iran tried to influence US elections with ChatGPT
+Description: <figure>
+      <img alt="Graphic photo illustration of “I Voted” stickers." src="https://cdn.vox-cdn.com/thumbor/97pLEjoDdvjF_dXIfVLEtXXxYuU=/20x0:2021x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_ima...
+Link: https://www.theverge.com/2024/8/16/24221982/openai-iranian-chatgpt-accounts-banned-chatgpt-us-election
+Headline: AI-powered ‘undressing’ websites are getting sued
+Description: <figure>
+      <img alt="Photo illustration to show a person’s face being stolen for deep-fake porn." src="https://cdn.vox-cdn.com/thumbor/rnMLWWgh31JlF0ftcEsB5Fzj67Y=/0x0:2040x1360/1310x873/cdn.vox-c...
+Link: https://www.theverge.com/2024/8/16/24221651/ai-deepfake-nude-undressing-websites-lawsuit-sanfrancisco
 Headline: Geekbench has an AI benchmark now
 Description: <figure>
       <img alt="A photo showing an Nvidia GeForce RTX 4090" src="https://cdn.vox-cdn.com/thumbor/BdfQYzWpe1jXnT23BvAu1dwnbmY=/7x0:2034x1351/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image...
@@ -68,18 +74,6 @@ Headline: X’s new AI image generator will make anything from Taylor Swift in l
 Description: <figure>
       <img alt="An AI-generated image of Mickey Mouse holding a beer and cigarette wearing a MAGA hat." src="https://cdn.vox-cdn.com/thumbor/U6Gm4ceNYOgjyN_op_FxE9uUGPE=/0x0:2250x1500/1310x87...
 Link: https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges
-Headline: AI overshadowed Pixel at the Pixel event
-Description: <figure>
-      <img alt="A hands-on photo of Google’s Pixel 9 / 9 Pro 9 / 9 Pro XL." src="https://cdn.vox-cdn.com/thumbor/Wm6QY23IZpE8X_A4fNlHIf5c3Bk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/ch...
-Link: https://www.theverge.com/2024/8/14/24220021/google-pixel-9-event-ai-overshadowed
-Headline: xAI’s new Grok-2 chatbots bring AI image generation to X
-Description: <figure>
-      <img alt="Gray pillars that say “Grok” against a black background." src="https://cdn.vox-cdn.com/thumbor/NU56Xa4xW2ur64hGwZziFsDuBe4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chor...
-Link: https://www.theverge.com/2024/8/14/24220127/grok-ai-chatbot-beta-image-generation-x-xai-update
-Headline: Artists’ lawsuit against Stability AI and Midjourney gets more punch
-Description: <figure>
-      <img alt="Digital photo collage of a statue of justice with too many arms." src="https://cdn.vox-cdn.com/thumbor/c7GQGBQfsdfvCVFlr7jSNnNQ3X8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uplo...
-Link: https://www.theverge.com/2024/8/13/24219520/stability-midjourney-artist-lawsuit-copyright-trademark-claims-approved
 
 ---
 
@@ -120,6 +114,12 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Primate Labs launches Geekbench AI benchmarking tool
+Description: <p>Primate Labs has officially launched Geekbench AI, a benchmarking tool designed specifically for machine learning and AI-centric workloads. The release of Geekbench AI 1.0 marks the culmination of ...
+Link: https://www.artificialintelligence-news.com/news/primate-labs-launches-geekbench-ai-benchmarking-tool/
+Headline: How AI is shaping how we game
+Description: <p>AI is everywhere, the chances are if you&#8217;re on our site then you&#8217;ve noticed! One of the places that we maybe don&#8217;t think so much about AI and its implications is when we&#8217;re ...
+Link: https://www.artificialintelligence-news.com/news/how-ai-is-shaping-how-we-game/
 Headline: Google advances mobile AI in Pixel 9 smartphones
 Description: <p>Google has unveiled its new range of Pixel 9 smartphones, emphasising their enhanced AI capabilities. The company released the devices much earlier than usual, as Google typically presents new Pixe...
 Link: https://www.artificialintelligence-news.com/news/google-advances-mobile-ai-pixel-9-smartphones/
@@ -141,12 +141,6 @@ Link: https://www.artificialintelligence-news.com/news/intels-ai-fumble-how-the-
 Headline: Palantir and Microsoft partner to provide federal AI services
 Description: <p>Palantir, a data analytics company known for its work in the defence and intelligence sectors, has announced a significant partnership with Microsoft. The collaboration aims to deliver advanced ser...
 Link: https://www.artificialintelligence-news.com/news/palantir-and-microsoft-partner-federal-ai-services/
-Headline: Qwen2-Math: A new era for AI maths whizzes
-Description: <p>Alibaba Cloud&#8217;s Qwen team has unveiled Qwen2-Math, a series of large language models specifically designed to tackle complex mathematical problems. These new models – built upon the existing ...
-Link: https://www.artificialintelligence-news.com/news/qwen2-math-new-era-ai-maths-whizzes/
-Headline: Paige and Microsoft unveil next-gen AI models for cancer diagnosis
-Description: <p>Paige and Microsoft have unveiled the next big breakthrough in clinical AI for cancer diagnosis and treatment: Virchow2 and Virchow2G, enhanced versions of its revolutionary AI models for cancer pa...
-Link: https://www.artificialintelligence-news.com/news/paige-and-microsoft-unveil-next-gen-ai-models-cancer-diagnosis/
 
 ---
 
@@ -155,6 +149,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: What’s next for drones
+Description: MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Drones have been a mainsta...
+Link: https://www.technologyreview.com/2024/08/16/1096517/whats-next-for-drones/
 Headline: A new public database lists all the ways AI could go wrong
 Description: Adopting AI can be fraught with danger. Systems could be biased, or parrot falsehoods, or even become addictive. And that’s before you consider the possibility AI could be used to create new biologica...
 Link: https://www.technologyreview.com/2024/08/14/1096455/new-database-lists-ways-ai-go-wrong/
@@ -179,9 +176,6 @@ Link: https://www.technologyreview.com/2024/08/05/1095600/we-need-to-prepare-for
 Headline: Reimagining cloud strategy for AI-first enterprises
 Description: The rise of generative artificial intelligence (AI), natural language processing, and computer vision has sparked lofty predictions: AI will revolutionize business operations, transform the nature of ...
 Link: https://www.technologyreview.com/2024/07/31/1094228/reimagining-cloud-strategy-for-ai-first-enterprises/
-Headline: OpenAI has released a new ChatGPT bot that you can talk to
-Description: OpenAI is rolling out an advanced AI chatbot that you can talk to. It’s available today—at least for some.&#160; The new chatbot represents OpenAI’s push into a new generation of AI-powered voice assi...
-Link: https://www.technologyreview.com/2024/07/30/1095489/openai-has-released-a-new-chatgpt-bot-that-you-can-talk-to/
 
 ---
 
@@ -194,6 +188,9 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Perform generative AI-powered data prep and no-code ML over any size of data using Amazon SageMaker Canvas
+Description: Amazon SageMaker Canvas now empowers enterprises to harness the full potential of their data by enabling support of petabyte-scale datasets. Starting today, you can interactively prepare large dataset...
+Link: https://aws.amazon.com/blogs/machine-learning/perform-generative-ai-powered-data-prep-and-no-code-ml-over-any-size-of-data-using-amazon-sagemaker-canvas/
 Headline: Delight your customers with great conversational experiences via QnABot, a generative AI chatbot
 Description: QnABot on AWS (an AWS Solution) now provides access to Amazon Bedrock foundational models (FMs) and Knowledge Bases for Amazon Bedrock, a fully managed end-to-end Retrieval Augmented Generation (RAG) ...
 Link: https://aws.amazon.com/blogs/machine-learning/delight-your-customers-with-great-conversational-experiences-via-qnabot-a-generative-ai-chatbot/
@@ -212,17 +209,62 @@ Link: https://aws.amazon.com/blogs/machine-learning/how-cisco-accelerated-the-us
 Headline: How Twilio generated SQL using Looker Modeling Language data with Amazon Bedrock
 Description: As one of the largest AWS customers, Twilio engages with data, artificial intelligence (AI), and machine learning (ML) services to run their daily workloads. This post highlights how Twilio enabled na...
 Link: https://aws.amazon.com/blogs/machine-learning/how-twilio-generated-sql-using-looker-modeling-language-data-with-amazon-bedrock/
-Headline: Improve AI assistant response accuracy using Knowledge Bases for Amazon Bedrock and a reranking model
-Description: AI chatbots and virtual assistants have become increasingly popular in recent years thanks the breakthroughs of large language models (LLMs). Trained on a large volume of datasets, these models incorp...
-Link: https://aws.amazon.com/blogs/machine-learning/improve-ai-assistant-response-accuracy-using-knowledge-bases-for-amazon-bedrock-and-a-reranking-model/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Amazon’s RAGChecker could change AI as we know it—but you can’t use it yet
+Description: Amazon unveils RAGChecker, a new AI tool designed to enhance accuracy in Retrieval-Augmented Generation systems, but its public availability remains uncertain.
+Link: https://venturebeat.com/ai/amazon-ragchecker-change-ai-but-you-cant-use-it-yet/
+Headline: Midjourney releases new unified AI image editor on the web
+Description: The update comes amid intensifying competition in the AI image generation space from the likes of Elon Musk's permissive Grok-2.
+Link: https://venturebeat.com/ai/midjourney-releases-new-unified-ai-image-editor-on-the-web/
+Headline: Meet Hermes 3, the powerful new open source AI model that has existential crises
+Description: The model excels in scenarios requiring advanced reasoning, strategic planning, and decision-making, making it valuable for professionals.
+Link: https://venturebeat.com/ai/meet-hermes-3-the-powerful-new-open-source-ai-model-that-has-existential-crises/
+Headline: 73% of organizations are embracing gen AI, but far fewer are assessing risks
+Description: A new survey from PwC showed a little more than half of 1,001 respondents said they've started early forays into responsible AI strategies.
+Link: https://venturebeat.com/ai/73-of-organizations-are-embracing-gen-ai-but-far-fewer-are-assessing-risks/
+Headline: LLMs excel at inductive reasoning but struggle with deductive tasks, new research shows
+Description: LLMs are known for reasoning powers. But new research from MIT and UCLA shows LLMs differ widely between inductive and deductive reasoning.
+Link: https://venturebeat.com/ai/llms-excel-at-inductive-reasoning-but-struggle-with-deductive-tasks-new-research-shows/
+Headline: Apache Airflow 2.10 arrives to usher in a new era of AI data orchestration
+Description: The open source Apache Airflow data orchestration technology is adding new features to help enterprises build better data pipelines and understand where data is coming from.
+Link: https://venturebeat.com/data-infrastructure/do-you-know-where-your-data-comes-from-apache-airflow-does-and-its-getting-updated-to-advance-data-orchestration/
+Headline: Exists launches GenAI platform to create 3D games from text prompts
+Description: AI startup Exists unveiled its generative AI platform platform to enable anyone to create 3D games from text prompts.
+Link: https://venturebeat.com/games/exists-launches-genai-platform-to-create-3d-games-from-text-prompts/
+Headline: Google quietly opens Imagen 3 access to all U.S. users
+Description: Google quietly releases Imagen 3, its advanced AI image generator, to all U.S. users, sparking debates on AI ethics and creativity as it competes with xAI's unrestricted Grok-2.
+Link: https://venturebeat.com/ai/google-quietly-opens-imagen-3-access-to-all-u-s-users/
+Headline: Runway’s Gen-3 Alpha Turbo is here and can make AI videos faster than you can type
+Description: Gen-3 Alpha Turbo should be priced at 5 credits per 1 second of video per Runway's statement that it is 50% less.
+Link: https://venturebeat.com/ai/runways-gen-3-alpha-turbo-is-here-and-can-make-ai-videos-faster-than-you-can-type/
+Headline: Goodfire raises $7M for its ‘brain surgery’-like AI observability platform
+Description: The company aims to support the largest state-of-the-art open weight models available, refine its model editing functionality.
+Link: https://venturebeat.com/ai/goodfire-raises-7m-for-its-brain-surgery-like-ai-observability-platform/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: So long, point-and-click: How generative AI will redefine the user interface
+Description: Will 'GenAI-first UX' help transition enterprise applications from rigid, linear user flows to flexible, intuitive experiences? Here's why excitement is brewing.
+Link: https://www.zdnet.com/article/so-long-point-and-click-how-generative-ai-will-redefine-the-user-interface/#ftag=RSSbaffb68
+Headline: Gemini Live is finally available. Here's how you can access it (and why you'll want to)
+Description: Want to have an open-ended, complex conversation with your device? Gemini Live can help, and many Pixel and Samsung users can even get started today.
+Link: https://www.zdnet.com/article/gemini-live-is-finally-available-heres-how-you-can-access-it-and-why-youll-want-to/#ftag=RSSbaffb68
+Headline: Google tops the Index with Gemini Live and Pixel's AI features
+Description: Made by Google had plenty to offer in terms of innovations, but divided ZDNET's experts and editors. Here's what stood out this week.
+Link: https://www.zdnet.com/article/innovation-index-august-16-2024/#ftag=RSSbaffb68
+Headline: IBM to set up 'full stack' AI facility at university
+Description: Located at the National University of Singapore, the AI research and development center will focus on sustainability and safety.
+Link: https://www.zdnet.com/article/ibm-to-set-up-full-stack-ai-facility-at-university/#ftag=RSSbaffb68
+Headline: Google says its Imagen 3 AI image generator beats DALL-E 3. How to try it for yourself
+Description: If you want free and realistic image renditions, ImageFX - powered by the Imagen 3 text-to-image model - is a great option.
+Link: https://www.zdnet.com/article/google-says-its-imagen-3-ai-image-generator-beats-dall-e-3-how-to-try-it-for-yourself/#ftag=RSSbaffb68
+Headline: AI governance and clear roadmap lacking across enterprise adoption
+Description: Organizations are rushing to adopt AI applications as more hit the market, but lack metrics to measure the returns on their investment.
+Link: https://www.zdnet.com/article/ai-governance-and-clear-roadmap-lacking-in-enterprise-adoption/#ftag=RSSbaffb68
 Headline: Grammarly to roll out a new AI content detector tool. Here's how it works
 Description: Grammarly Authorship will attempt to detect whether AI, a human, or a combination of the two created content. Though it will be available to any user, the new tool is targeted to the education market ...
 Link: https://www.zdnet.com/article/grammarly-to-roll-out-a-new-ai-content-detector-tool-heres-how-it-works/#ftag=RSSbaffb68
@@ -235,24 +277,6 @@ Link: https://www.zdnet.com/article/my-3-favorite-ai-chatbot-apps-for-ios-and-wh
 Headline: How to try Google's new Gemini Live AI assistant for free
 Description: With this cutting-edge AI, you can have free-flowing conversations like you would with a human friend. Don't believe me? Try it for yourself.
 Link: https://www.zdnet.com/article/how-to-try-googles-new-gemini-live-ai-assistant-for-free/#ftag=RSSbaffb68
-Headline: Grok gets an impressive upgrade - and unchecked AI image generation apparently
-Description: Along with more advanced coding, math, and writing performance, image generation arrives on the platform (for better or worse).
-Link: https://www.zdnet.com/article/grok-gets-an-impressive-upgrade-and-unchecked-ai-image-generation-apparently/#ftag=RSSbaffb68
-Headline: OpenAI reveals an updated GPT-4o model - but can't quite explain how it's better
-Description: After much speculation, OpenAI finally served up some information on the new model, though we still have questions.
-Link: https://www.zdnet.com/article/openai-reveals-an-updated-gpt-4o-model-but-cant-quite-explain-how-its-better/#ftag=RSSbaffb68
-Headline: AI risks are everywhere - and now MIT is adding them all to one database
-Description: Researchers created the AI Risk Repository to consolidate data. One of their findings? Misinformation is the least-addressed AI threat.
-Link: https://www.zdnet.com/article/ai-risks-are-everywhere-and-now-mit-is-adding-them-all-to-one-database/#ftag=RSSbaffb68
-Headline: Google's new Pixel Screenshots may be the feature that finally converts me to use AI
-Description: It won't turn my boring office background into a field of flowers, but being able to parse through hundreds of screenshots with a few clicks feels like a major win.
-Link: https://www.zdnet.com/article/googles-new-pixel-screenshots-may-be-the-feature-that-finally-converts-me-to-use-ai/#ftag=RSSbaffb68
-Headline: Google Pixel 9's new AI photo-editing features can fix just about any poorly-captured image
-Description: From improved zooming to AI-powered group photos, here are the Pixel 9's greatest hits.
-Link: https://www.zdnet.com/article/google-pixel-9s-new-ai-photo-editing-features-can-fix-just-about-any-poorly-captured-image/#ftag=RSSbaffb68
-Headline: 6 AI features Google thinks will sell you on its latest Pixel phones (including the Fold)
-Description: New tools including Call Notes and Pixel Screenshots take the Pixel 9 series' AI capabilities to the next level.
-Link: https://www.zdnet.com/article/6-ai-features-google-thinks-will-sell-you-on-its-latest-pixel-phones-including-the-fold/#ftag=RSSbaffb68
 
 ---
 
@@ -303,6 +327,9 @@ Link: https://www.aisnakeoil.com/p/on-the-societal-impact-of-open-foundation
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Engineers design tiny batteries for powering cell-sized robots
+Description: A zinc-air microbattery could enable the deployment of cell-sized, autonomous robots for drug delivery within in the human body, as well as other applications such as locating leaks in gas pipelines.
+Link: https://www.sciencedaily.com/releases/2024/08/240816121453.htm
 Headline: Robot planning tool accounts for human carelessness
 Description: A new algorithm may make robots safer by making them more aware of human inattentiveness. In computerized simulations of packaging and assembly lines where humans and robots work together, the algorit...
 Link: https://www.sciencedaily.com/releases/2024/08/240815124151.htm
@@ -330,16 +357,10 @@ Link: https://www.sciencedaily.com/releases/2024/08/240805134143.htm
 Headline: Shape-shifting 'transformer bots' inspired by origami
 Description: Inspired by the paper-folding art of origami, engineers have discovered a way to make a single plastic cubed structure transform into more than 1,000 configurations using only three active motors.
 Link: https://www.sciencedaily.com/releases/2024/07/240729173403.htm
-Headline: Robotics: Self-powered 'bugs' can skim across water to detect environmental data
-Description: Researchers have developed a self-powered 'bug' that can skim across the water, and they hope it will revolutionize aquatic robotics.
-Link: https://www.sciencedaily.com/releases/2024/07/240729173341.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
-Headline: Why the T in ChatGPT is AI's biggest breakthrough - and greatest risk
-Description: AI companies hope that feeding ever more data to their models will continue to boost performance, eventually leading to human-level intelligence. Behind this hope is the "transformer", a key breakthro...
-Link: https://www.newscientist.com/article/2444078-why-the-t-in-chatgpt-is-ais-biggest-breakthrough-and-greatest-risk/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Don't disrespect Alan Turing by reanimating him with AI
 Description: Plans to create an interactive AI model of the legendary code breaker Alan Turing are reckless and problematic, says Matthew Sparkes
 Link: https://www.newscientist.com/article/mg26335040-500-dont-disrespect-alan-turing-by-reanimating-him-with-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -367,6 +388,9 @@ Link: https://www.newscientist.com/article/mg26335010-600-period-atmosphere-is-b
 Headline: Social media companies change their policies in the wake of bad press
 Description: Between 2005 and 2021, Facebook, Twitter and YouTube were more likely to make policy changes in the weeks after negative stories in the media
 Link: https://www.newscientist.com/article/2441547-social-media-companies-change-their-policies-in-the-wake-of-bad-press/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: AI can reveal what’s on your screen via signals leaking from cables
+Description: Electromagnetic radiation leaking from the cable between your computer and monitor can be intercepted and decoded by AI to reveal what you are looking at
+Link: https://www.newscientist.com/article/2439853-ai-can-reveal-whats-on-your-screen-via-signals-leaking-from-cables/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -379,18 +403,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: One-Minute Daily AI News 8/14/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>MIT</strong> researchers release a repository of AI risks.[1]</li> <li><strong>Venezuelan</strong> Journalists Use AI to Report Quality News Without Get...
-Link: https://www.reddit.com/r/artificial/comments/1esmjfo/oneminute_daily_ai_news_8142024/
-Headline: Do LLMs trained of a different language have an advantage over another?
-Description: <!-- SC_OFF --><div class="md"><p>Words encode meaning and to some extent, how eloquently a being can convey meaning - a precursor to efficient and effective decision making - signals intelligence. </...
-Link: https://www.reddit.com/r/artificial/comments/1essmsy/do_llms_trained_of_a_different_language_have_an/
-Headline: I broke Chronos-hermes13b by asking it about resting. Anyone else experienceing MH episodes from their bots?
-Description: <!-- SC_OFF --><div class="md"><p>[8] user: please tell me about yourself</p> <p>[9] assistant: As an AI assistant, my primary purpose is to provide helpful information and assistance to users. I am d...
-Link: https://www.reddit.com/r/artificial/comments/1esz6tv/i_broke_chronoshermes13b_by_asking_it_about/
-Headline: Pen testing
-Description: <!-- SC_OFF --><div class="md"><p>What are your go to pen testing AI apps? Secondary question do you think they can bypass human overlooks vs an AI app are they to that point?</p> </div><!-- SC_ON -->...
-Link: https://www.reddit.com/r/artificial/comments/1eso961/pen_testing/
+Headline: California’s AI Safety Bill Is a Mask-Off Moment for the Industry | AI’s top industrialists say they want regulation—until someone tries to regulate them.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1etdeul/californias_ai_safety_bill_is_a_maskoff_moment/"> <img alt="California’s AI Safety Bill Is a Mask-Off Moment for the Indu...
+Link: https://www.reddit.com/r/artificial/comments/1etdeul/californias_ai_safety_bill_is_a_maskoff_moment/
+Headline: Filmmakers say AI will change the art — perhaps beyond recognition
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1etiadu/filmmakers_say_ai_will_change_the_art_perhaps/"> <img alt="Filmmakers say AI will change the art — perhaps beyond recogni...
+Link: https://www.reddit.com/r/artificial/comments/1etiadu/filmmakers_say_ai_will_change_the_art_perhaps/
+Headline: AI virtual assistant for GMail
+Description: <!-- SC_OFF --><div class="md"><p>Are there any ai programs or apps that work well as a virtual assistant? I use gmail if that helps.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/...
+Link: https://www.reddit.com/r/artificial/comments/1etuac9/ai_virtual_assistant_for_gmail/
+Headline: Reddit’s Focus on Partnerships, Dynamic Product Ads Drive Surge in Ad Revenue, Daily Users
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1etdsnt/reddits_focus_on_partnerships_dynamic_product_ads/"> <img alt="Reddit’s Focus on Partnerships, Dynamic Product Ads Drive ...
+Link: https://www.reddit.com/r/artificial/comments/1etdsnt/reddits_focus_on_partnerships_dynamic_product_ads/
+Headline: Do you think AI can be a triggering force to evolve our economic system and rethink the concept of money?
+Description: <!-- SC_OFF --><div class="md"><p>In a recent interview regarding herself and her experimental art, Margaret Jahrmann is asked how Ai serves the interest of capitalism, and how might we use it to the ...
+Link: https://www.reddit.com/r/artificial/comments/1ettrnf/do_you_think_ai_can_be_a_triggering_force_to/
+Headline: Future of Content Creation with AI
+Description: <!-- SC_OFF --><div class="md"><p>A paper has been published to address these issues which uses auto regressive models to solve these problems. </p> <p>The key components of the model: - Autoregressiv...
+Link: https://www.reddit.com/r/artificial/comments/1eu5dgn/future_of_content_creation_with_ai/
+Headline: quora's AI is not very intelligent. (the letter is S)
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1etnzki/quoras_ai_is_not_very_intelligent_the_letter_is_s/"> <img alt="quora's AI is not very intelligent. (the letter is S)" src...
+Link: https://www.reddit.com/r/artificial/comments/1etnzki/quoras_ai_is_not_very_intelligent_the_letter_is_s/
+Headline: How are people growing their reddit accs with AI ?
+Description: <!-- SC_OFF --><div class="md"><p>I have seen many bot accs with default usernames that are commenting on on many popular posts and gaining high karmas. Is there a public program to do it ?</p> </div>...
+Link: https://www.reddit.com/r/artificial/comments/1etifhp/how_are_people_growing_their_reddit_accs_with_ai/
 
 ---
 
