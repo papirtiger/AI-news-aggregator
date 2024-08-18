@@ -1,6 +1,16 @@
-AI News Updates - 2024-08-17 02:34:25
+AI News Updates - 2024-08-18 02:37:33
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Nancy Pelosi criticizes California AI bill as ‘ill-informed’
+Description: <p>Congresswoman Nancy Pelosi issued a statement late yesterday laying out her opposition to SB 1047, a California bill that seeks to regulate AI. “The view of many of us in Congress is that SB 1047 i...
+Link: https://techcrunch.com/2024/08/17/nancy-pelosi-criticizes-california-ai-bill-as-ill-informed/
+Headline: OpenAI’s new voice mode let me talk with my phone, not to it
+Description: <p>I&#8217;ve been playing around with OpenAI&#8217;s Advanced Voice Mode for the last week, and it&#8217;s the most convincing taste I&#8217;ve had of an AI-powered future yet. This week, my phone la...
+Link: https://techcrunch.com/2024/08/17/openais-new-voice-mode-let-me-talk-with-my-phone-not-to-it/
+Headline: Microsoft Copilot: Everything you need to know about Microsoft’s AI
+Description: <p>In this post, we explain the many Microsoft Copilots available and what they do, and highlight the key differences between each.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only...
+Link: https://techcrunch.com/2024/08/17/microsoft-copilot-everything-you-need-to-know-about-microsofts-ai/
 Headline: OpenAI shuts down election influence operation that used ChatGPT
 Description: <p>OpenAI has banned a cluster of ChatGPT accounts linked to an Iranian influence operation that was generating content about the U.S. presidential election, according to a blog post on Friday. The co...
 Link: https://techcrunch.com/2024/08/16/openai-shuts-down-election-influence-operation-using-chatgpt/
@@ -24,16 +34,6 @@ Link: https://techcrunch.com/2024/08/15/geekbench-releases-ai-benchmarking-app/
 Headline: CodeRabbit raises $16M to bring AI to code reviews
 Description: <p>Code reviews &#8212; peer reviews of code that help devs improve code quality &#8212; are time-consuming. According to one source, 50% of companies spend two to five hours a week on them. Without e...
 Link: https://techcrunch.com/2024/08/15/coderabbit-raises-16m-to-bring-ai-to-code-reviews/
-Headline: Meet Black Forest Labs, the startup powering Elon Musk’s unhinged AI image generator
-Description: <p>Elon Musk&#8217;s Grok released a new AI image-generation feature on Tuesday night that, just like the AI chatbot, has very few safeguards. That means you can generate fake images of Donald Trump s...
-Link: https://techcrunch.com/2024/08/14/meet-black-forest-labs-the-startup-powering-elon-musks-unhinged-ai-image-generator/
-Headline: Filmmakers say AI will change the art — perhaps beyond recognition
-Description: <p>One of the first topics tackled was the impractical nature of today's video generators.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/08/14/filmmakers-say-ai-will-change-the-art-perhaps-beyond-recognition/
-Headline: NEA led a $100M round into Fei-Fei Li’s new AI startup, now valued at over $1B
-Description: <p>World Labs, a stealthy startup founded by renowned Stanford University AI professor Fei-Fei Li, has raised two rounds of financing&#160;two months apart, according to multiple reports. The latest f...
-Link: https://techcrunch.com/2024/08/14/nea-led-a-100m-round-into-fei-fei-lis-new-ai-startup-now-valued-at-over-1b/
 
 ---
 
@@ -70,10 +70,6 @@ Headline: iPhones will help decide offside violations in English soccer this sea
 Description: <figure>
       <img alt="Players gathered together with their hands in the air." src="https://cdn.vox-cdn.com/thumbor/n4SHlbhctXa0nK-Pq5JKtnfYmQI=/0x0:4255x2837/1310x873/cdn.vox-cdn.com/uploads/chorus...
 Link: https://www.theverge.com/2024/8/14/24220197/iphone-offside-violation-ai-detection-soccer-video-assistant-referee-english-premier-league
-Headline: X’s new AI image generator will make anything from Taylor Swift in lingerie to Kamala Harris with a gun
-Description: <figure>
-      <img alt="An AI-generated image of Mickey Mouse holding a beer and cigarette wearing a MAGA hat." src="https://cdn.vox-cdn.com/thumbor/U6Gm4ceNYOgjyN_op_FxE9uUGPE=/0x0:2250x1500/1310x87...
-Link: https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges
 
 ---
 
@@ -213,6 +209,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/how-twilio-generated-sql-usi
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: The economics of GPUs: How to train your AI model without going broke
+Description: AI won't replace you, but someone using AI will — so it’s time to embrace AI, and it’s possible to do so even on a low budget.
+Link: https://venturebeat.com/ai/the-economics-of-gpus-how-to-train-your-ai-model-without-going-broke/
 Headline: Amazon’s RAGChecker could change AI as we know it—but you can’t use it yet
 Description: Amazon unveils RAGChecker, a new AI tool designed to enhance accuracy in Retrieval-Augmented Generation systems, but its public availability remains uncertain.
 Link: https://venturebeat.com/ai/amazon-ragchecker-change-ai-but-you-cant-use-it-yet/
@@ -240,13 +239,13 @@ Link: https://venturebeat.com/ai/google-quietly-opens-imagen-3-access-to-all-u-s
 Headline: Runway’s Gen-3 Alpha Turbo is here and can make AI videos faster than you can type
 Description: Gen-3 Alpha Turbo should be priced at 5 credits per 1 second of video per Runway's statement that it is 50% less.
 Link: https://venturebeat.com/ai/runways-gen-3-alpha-turbo-is-here-and-can-make-ai-videos-faster-than-you-can-type/
-Headline: Goodfire raises $7M for its ‘brain surgery’-like AI observability platform
-Description: The company aims to support the largest state-of-the-art open weight models available, refine its model editing functionality.
-Link: https://venturebeat.com/ai/goodfire-raises-7m-for-its-brain-surgery-like-ai-observability-platform/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: I tried Google's Pixel Screenshots and it's everything I'd want an AI feature to be
+Description: It won't turn my boring office background into a field of flowers, but being able to easily parse through hundreds of screenshots feels like a major win.
+Link: https://www.zdnet.com/article/i-tried-googles-pixel-screenshots-and-its-everything-id-want-an-ai-feature-to-be/#ftag=RSSbaffb68
 Headline: So long, point-and-click: How generative AI will redefine the user interface
 Description: Will 'GenAI-first UX' help transition enterprise applications from rigid, linear user flows to flexible, intuitive experiences? Here's why excitement is brewing.
 Link: https://www.zdnet.com/article/so-long-point-and-click-how-generative-ai-will-redefine-the-user-interface/#ftag=RSSbaffb68
@@ -274,9 +273,6 @@ Link: https://www.zdnet.com/article/googles-ai-overviews-get-three-useful-update
 Headline: My 3 favorite AI chatbot apps for iOS - and what you can do with them
 Description: Generative AI offers incredible possibilities. These apps let you tap into that potential by chatting with your iPhone. Here's how.
 Link: https://www.zdnet.com/article/my-3-favorite-ai-chatbot-apps-for-ios-and-what-you-can-do-with-them/#ftag=RSSbaffb68
-Headline: How to try Google's new Gemini Live AI assistant for free
-Description: With this cutting-edge AI, you can have free-flowing conversations like you would with a human friend. Don't believe me? Try it for yourself.
-Link: https://www.zdnet.com/article/how-to-try-googles-new-gemini-live-ai-assistant-for-free/#ftag=RSSbaffb68
 
 ---
 
@@ -403,30 +399,15 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: California’s AI Safety Bill Is a Mask-Off Moment for the Industry | AI’s top industrialists say they want regulation—until someone tries to regulate them.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1etdeul/californias_ai_safety_bill_is_a_maskoff_moment/"> <img alt="California’s AI Safety Bill Is a Mask-Off Moment for the Indu...
-Link: https://www.reddit.com/r/artificial/comments/1etdeul/californias_ai_safety_bill_is_a_maskoff_moment/
-Headline: Filmmakers say AI will change the art — perhaps beyond recognition
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1etiadu/filmmakers_say_ai_will_change_the_art_perhaps/"> <img alt="Filmmakers say AI will change the art — perhaps beyond recogni...
-Link: https://www.reddit.com/r/artificial/comments/1etiadu/filmmakers_say_ai_will_change_the_art_perhaps/
-Headline: AI virtual assistant for GMail
-Description: <!-- SC_OFF --><div class="md"><p>Are there any ai programs or apps that work well as a virtual assistant? I use gmail if that helps.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/...
-Link: https://www.reddit.com/r/artificial/comments/1etuac9/ai_virtual_assistant_for_gmail/
-Headline: Reddit’s Focus on Partnerships, Dynamic Product Ads Drive Surge in Ad Revenue, Daily Users
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1etdsnt/reddits_focus_on_partnerships_dynamic_product_ads/"> <img alt="Reddit’s Focus on Partnerships, Dynamic Product Ads Drive ...
-Link: https://www.reddit.com/r/artificial/comments/1etdsnt/reddits_focus_on_partnerships_dynamic_product_ads/
-Headline: Do you think AI can be a triggering force to evolve our economic system and rethink the concept of money?
-Description: <!-- SC_OFF --><div class="md"><p>In a recent interview regarding herself and her experimental art, Margaret Jahrmann is asked how Ai serves the interest of capitalism, and how might we use it to the ...
-Link: https://www.reddit.com/r/artificial/comments/1ettrnf/do_you_think_ai_can_be_a_triggering_force_to/
-Headline: Future of Content Creation with AI
-Description: <!-- SC_OFF --><div class="md"><p>A paper has been published to address these issues which uses auto regressive models to solve these problems. </p> <p>The key components of the model: - Autoregressiv...
-Link: https://www.reddit.com/r/artificial/comments/1eu5dgn/future_of_content_creation_with_ai/
-Headline: quora's AI is not very intelligent. (the letter is S)
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1etnzki/quoras_ai_is_not_very_intelligent_the_letter_is_s/"> <img alt="quora's AI is not very intelligent. (the letter is S)" src...
-Link: https://www.reddit.com/r/artificial/comments/1etnzki/quoras_ai_is_not_very_intelligent_the_letter_is_s/
-Headline: How are people growing their reddit accs with AI ?
-Description: <!-- SC_OFF --><div class="md"><p>I have seen many bot accs with default usernames that are commenting on on many popular posts and gaining high karmas. Is there a public program to do it ?</p> </div>...
-Link: https://www.reddit.com/r/artificial/comments/1etifhp/how_are_people_growing_their_reddit_accs_with_ai/
+Headline: Cybercriminals are impersonating celebrities using AI with audio-video clips to extract money from old people and other vulnerable fans.
+Description: <!-- SC_OFF --><div class="md"><p>Found <a href="https://youtu.be/T0UXXf0i8CE?t=70">this</a>... seems like it's already a new form of fraud... The fraudsters are using AI to send video and voice messa...
+Link: https://www.reddit.com/r/artificial/comments/1euep5h/cybercriminals_are_impersonating_celebrities/
+Headline: One-Minute Daily AI News 8/16/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google</strong> is bringing AI overviews to India, Brazil, Japan, UK, Indonesia and Mexico.[1]</li> <li>AI-powered ‘undressing’ websites are getting sue...
+Link: https://www.reddit.com/r/artificial/comments/1eu9i6v/oneminute_daily_ai_news_8162024/
+Headline: Do you know any institutions/nonprofits/companies/governments/etc. trying to apply deep learning and other ML/AI/GenAI techniques to implement universal basic income (UBI) or something similar to UBI like universal basic services?
+Description: <!-- SC_OFF --><div class="md"><p>Do you know any institutions/nonprofits/companies/governments/etc. trying to apply deep learning and other ML/AI/GenAI techniques to implement universal basic income ...
+Link: https://www.reddit.com/r/artificial/comments/1eusuj6/do_you_know_any/
 
 ---
 
