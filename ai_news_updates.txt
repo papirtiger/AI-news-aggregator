@@ -1,6 +1,9 @@
-AI News Updates - 2024-08-18 02:37:33
+AI News Updates - 2024-08-19 02:38:14
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: South Korea’s AI textbook program faces skepticism from parents
+Description: <p>Some parents have reservations about the South Korean government’s plans to bring tablets with AI-powered textbooks into classrooms, according to a report in The Financial Times. The tablets are sc...
+Link: https://techcrunch.com/2024/08/18/south-koreas-ai-textbook-program-faces-skepticism-from-parents/
 Headline: Nancy Pelosi criticizes California AI bill as ‘ill-informed’
 Description: <p>Congresswoman Nancy Pelosi issued a statement late yesterday laying out her opposition to SB 1047, a California bill that seeks to regulate AI. “The view of many of us in Congress is that SB 1047 i...
 Link: https://techcrunch.com/2024/08/17/nancy-pelosi-criticizes-california-ai-bill-as-ill-informed/
@@ -31,13 +34,14 @@ Headline: Geekbench releases AI benchmarking app
 Description: <p>It’s a successor to Geekbench ML.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 Link: https://techcrunch.com/2024/08/15/geekbench-releases-ai-benchmarking-app/
-Headline: CodeRabbit raises $16M to bring AI to code reviews
-Description: <p>Code reviews &#8212; peer reviews of code that help devs improve code quality &#8212; are time-consuming. According to one source, 50% of companies spend two to five hours a week on them. Without e...
-Link: https://techcrunch.com/2024/08/15/coderabbit-raises-16m-to-bring-ai-to-code-reviews/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The app for taking better photos — with no AI
+Description: <figure>
+      <img alt="An illustration of Gemini, Alien: Romulus, the Meta Quest 3, and Halide, on an Installer background." src="https://cdn.vox-cdn.com/thumbor/tN0U0V0RZy95RVyltFoMWeuXyOo=/0x1:222...
+Link: https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer
 Headline: OpenAI says Iran tried to influence US elections with ChatGPT
 Description: <figure>
       <img alt="Graphic photo illustration of “I Voted” stickers." src="https://cdn.vox-cdn.com/thumbor/97pLEjoDdvjF_dXIfVLEtXXxYuU=/20x0:2021x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_ima...
@@ -66,10 +70,6 @@ Headline: Ex-Google CEO says successful AI startups can steal IP and hire lawyer
 Description: <figure>
       <img alt="Collision 2022 - Day Two" src="https://cdn.vox-cdn.com/thumbor/DJwCd3rqbdpOUuoqhZzvdEd_t8I=/0x0:7496x4997/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73521800/12414607...
 Link: https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai
-Headline: iPhones will help decide offside violations in English soccer this season
-Description: <figure>
-      <img alt="Players gathered together with their hands in the air." src="https://cdn.vox-cdn.com/thumbor/n4SHlbhctXa0nK-Pq5JKtnfYmQI=/0x0:4255x2837/1310x873/cdn.vox-cdn.com/uploads/chorus...
-Link: https://www.theverge.com/2024/8/14/24220197/iphone-offside-violation-ai-detection-soccer-video-assistant-referee-english-premier-league
 
 ---
 
@@ -209,6 +209,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/how-twilio-generated-sql-usi
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Is the next frontier in generative AI transforming transformers?
+Description: Are transformers the architecture that will lead to better reasoning? And what might come next after transformers?
+Link: https://venturebeat.com/ai/is-the-next-frontier-in-generative-ai-transforming-transformers/
 Headline: The economics of GPUs: How to train your AI model without going broke
 Description: AI won't replace you, but someone using AI will — so it’s time to embrace AI, and it’s possible to do so even on a low budget.
 Link: https://venturebeat.com/ai/the-economics-of-gpus-how-to-train-your-ai-model-without-going-broke/
@@ -236,13 +239,13 @@ Link: https://venturebeat.com/games/exists-launches-genai-platform-to-create-3d-
 Headline: Google quietly opens Imagen 3 access to all U.S. users
 Description: Google quietly releases Imagen 3, its advanced AI image generator, to all U.S. users, sparking debates on AI ethics and creativity as it competes with xAI's unrestricted Grok-2.
 Link: https://venturebeat.com/ai/google-quietly-opens-imagen-3-access-to-all-u-s-users/
-Headline: Runway’s Gen-3 Alpha Turbo is here and can make AI videos faster than you can type
-Description: Gen-3 Alpha Turbo should be priced at 5 credits per 1 second of video per Runway's statement that it is 50% less.
-Link: https://venturebeat.com/ai/runways-gen-3-alpha-turbo-is-here-and-can-make-ai-videos-faster-than-you-can-type/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: You can access Google's Gemini Live for free right now. Here's how (and why you'll want to)
+Description: With the latest AI model, you can have free-flowing conversations like you would with a human friend. Here's how to try it for yourself.
+Link: https://www.zdnet.com/article/you-can-access-googles-gemini-live-for-free-right-now-heres-how-and-why-youll-want-to/#ftag=RSSbaffb68
 Headline: I tried Google's Pixel Screenshots and it's everything I'd want an AI feature to be
 Description: It won't turn my boring office background into a field of flowers, but being able to easily parse through hundreds of screenshots feels like a major win.
 Link: https://www.zdnet.com/article/i-tried-googles-pixel-screenshots-and-its-everything-id-want-an-ai-feature-to-be/#ftag=RSSbaffb68
@@ -270,9 +273,6 @@ Link: https://www.zdnet.com/article/grammarly-to-roll-out-a-new-ai-content-detec
 Headline: Google's AI Overviews get three useful updates. Here's what's new
 Description: These updates may just convert you to being an AI Overviews fan.
 Link: https://www.zdnet.com/article/googles-ai-overviews-get-three-useful-updates-heres-whats-new/#ftag=RSSbaffb68
-Headline: My 3 favorite AI chatbot apps for iOS - and what you can do with them
-Description: Generative AI offers incredible possibilities. These apps let you tap into that potential by chatting with your iPhone. Here's how.
-Link: https://www.zdnet.com/article/my-3-favorite-ai-chatbot-apps-for-ios-and-what-you-can-do-with-them/#ftag=RSSbaffb68
 
 ---
 
@@ -357,6 +357,9 @@ Link: https://www.sciencedaily.com/releases/2024/07/240729173403.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Why the T in ChatGPT is AI's biggest breakthrough - and greatest risk
+Description: AI companies hope that feeding ever more data to their models will continue to boost performance, eventually leading to human-level intelligence. Behind this hope is the "transformer", a key breakthro...
+Link: https://www.newscientist.com/article/2444078-why-the-t-in-chatgpt-is-ais-biggest-breakthrough-and-greatest-risk/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Don't disrespect Alan Turing by reanimating him with AI
 Description: Plans to create an interactive AI model of the legendary code breaker Alan Turing are reckless and problematic, says Matthew Sparkes
 Link: https://www.newscientist.com/article/mg26335040-500-dont-disrespect-alan-turing-by-reanimating-him-with-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -384,9 +387,6 @@ Link: https://www.newscientist.com/article/mg26335010-600-period-atmosphere-is-b
 Headline: Social media companies change their policies in the wake of bad press
 Description: Between 2005 and 2021, Facebook, Twitter and YouTube were more likely to make policy changes in the weeks after negative stories in the media
 Link: https://www.newscientist.com/article/2441547-social-media-companies-change-their-policies-in-the-wake-of-bad-press/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: AI can reveal what’s on your screen via signals leaking from cables
-Description: Electromagnetic radiation leaking from the cable between your computer and monitor can be intercepted and decoded by AI to reveal what you are looking at
-Link: https://www.newscientist.com/article/2439853-ai-can-reveal-whats-on-your-screen-via-signals-leaking-from-cables/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -399,15 +399,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Cybercriminals are impersonating celebrities using AI with audio-video clips to extract money from old people and other vulnerable fans.
-Description: <!-- SC_OFF --><div class="md"><p>Found <a href="https://youtu.be/T0UXXf0i8CE?t=70">this</a>... seems like it's already a new form of fraud... The fraudsters are using AI to send video and voice messa...
-Link: https://www.reddit.com/r/artificial/comments/1euep5h/cybercriminals_are_impersonating_celebrities/
-Headline: One-Minute Daily AI News 8/16/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google</strong> is bringing AI overviews to India, Brazil, Japan, UK, Indonesia and Mexico.[1]</li> <li>AI-powered ‘undressing’ websites are getting sue...
-Link: https://www.reddit.com/r/artificial/comments/1eu9i6v/oneminute_daily_ai_news_8162024/
-Headline: Do you know any institutions/nonprofits/companies/governments/etc. trying to apply deep learning and other ML/AI/GenAI techniques to implement universal basic income (UBI) or something similar to UBI like universal basic services?
-Description: <!-- SC_OFF --><div class="md"><p>Do you know any institutions/nonprofits/companies/governments/etc. trying to apply deep learning and other ML/AI/GenAI techniques to implement universal basic income ...
-Link: https://www.reddit.com/r/artificial/comments/1eusuj6/do_you_know_any/
+Headline: Google DeepMind CEO says the most important capability to test for is deception, because once your AI is deceptive you can't rely on any of the other tests
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ev1jua/google_deepmind_ceo_says_the_most_important/"> <img alt="Google DeepMind CEO says the most important capability to test f...
+Link: https://www.reddit.com/r/artificial/comments/1ev1jua/google_deepmind_ceo_says_the_most_important/
+Headline: Inferentialism and AI -- a talk on how LLMs could be *sapient* without being *sentient* (starts at 2:39:20)
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1evd8n8/inferentialism_and_ai_a_talk_on_how_llms_could_be/"> <img alt="Inferentialism and AI -- a talk on how LLMs could be *sapi...
+Link: https://www.reddit.com/r/artificial/comments/1evd8n8/inferentialism_and_ai_a_talk_on_how_llms_could_be/
+Headline: One-Minute Daily AI News 8/17/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Nancy Pelosi</strong> criticizes California AI bill as ‘ill-informed’.[1]</li> <li><strong>Google</strong> takes on <strong>OpenAI</strong> with Gemini ...
+Link: https://www.reddit.com/r/artificial/comments/1euzw1y/oneminute_daily_ai_news_8172024/
+Headline: AI Scientist
+Description: <!-- SC_OFF --><div class="md"><p>Anyone who wasn’t paying attention last week a paper was introduced called AI Scientist. This AI can generate research, ideas, code and execute experiments and even s...
+Link: https://www.reddit.com/r/artificial/comments/1evojg0/ai_scientist/
 
 ---
 
