@@ -1,6 +1,10 @@
-AI News Updates - 2024-08-25 02:40:20
+AI News Updates - 2024-08-26 02:37:52
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Stephen Wolfram thinks we need philosophers working on big questions around AI
+Description: <p>As AI developers and others start to think more deeply about how computers and people intersect, Stephan Wolfram says it is becoming a much more of a philosophical exercise</p>
+<p>© 2024 TechCrunch...
+Link: https://techcrunch.com/2024/08/25/stephen-wolfram-thinks-we-need-philosophers-working-on-big-questions-around-ai/
 Headline: VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices
 Description: <p>VCs are increasingly buying shares of late-stage startups on the secondary market as they try to get pieces of the hottest ones — especially AI companies. But they are also increasingly doing so th...
 Link: https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/
@@ -26,9 +30,14 @@ Link: https://techcrunch.com/podcast/ai-talent-managers-technocapitalist-college
 Headline: DeepMind workers sign letter in protest of Google’s defense contracts
 Description: <p>At least 200 workers at DeepMind, Google&#8217;s AI R&#38;D division, are displeased with Google&#8217;s reported defense contracts &#8212; and according to Time, they circulated a letter internall...
 Link: https://techcrunch.com/2024/08/22/deepmind-workers-sign-letter-in-protest-of-googles-defense-contracts/
+
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: AI was responsible for the fake quotes in the Megalopolis trailer
+Description: <figure>
+      <img alt="A picture of Adam Driver in Megalopolis." src="https://cdn.vox-cdn.com/thumbor/0SMwaU0fr7nE9M65DL8lAo_5ESA=/0x0:1543x1029/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
+Link: https://www.theverge.com/2024/8/25/24228003/megalopolis-trailer-fake-quotes-ai-generated-eddie-egan-dropped-lionsgate
 Headline: The Pixel 9 is great — and a problem
 Description: <figure>
       <img alt="An image of AI sparkles over a Vergecast illustration." src="https://cdn.vox-cdn.com/thumbor/n5Da2fN3yMPaRzQEEo2_qJHEqMM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus...
@@ -57,11 +66,6 @@ Headline: Google Pixel 9 Pro and 9 Pro XL review: AI all over the place
 Description: <p>The AI is inconsistent, but the hardware is oh so good.</p> <p class="p--has-dropcap p-large-text" id="Z9SzL0">Google finally got the hardware right.</p>
 <p id="Lxu1yV">The Pixel 9 Pro, its bigger ...
 Link: https://www.theverge.com/24225221/google-pixel-9-pro-xl-review-ai-gemini-screen-battery-camera
-Headline: Google’s AI ‘Reimagine’ tool helped us add wrecks, disasters, and corpses to our photos
-Description: <figure>
-      <img alt="" src="https://cdn.vox-cdn.com/thumbor/T2FyIi-cw9qdq1TFYzfMCb5rnPo=/0x0:2250x1500/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73535524/ai_label__2_.0.png" />
-        <...
-Link: https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos
 
 ---
 
@@ -200,6 +204,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/accuracy-evaluation-framewor
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: AI and employment: Echoes of the past or a new paradigm?
+Description: During unprecedented change (think AI) using the past as a prediction of the future is little more than looking in the rearview mirror.
+Link: https://venturebeat.com/ai/ai-and-employment-echoes-of-the-past-or-a-new-paradigm/
 Headline: Grok-2 gets a speed bump after developers rewrite code in three days
 Description: The two developers responsible are Lianmin Zheng and Saeed Maleki, according to Babuschkin's post, and they relied on open source SGLang.
 Link: https://venturebeat.com/ai/grok-2-gets-a-speed-bump-after-developers-rewrite-code-in-three-days/
@@ -224,13 +231,13 @@ Link: https://venturebeat.com/ai/google-debuts-free-prompt-gallery-in-ai-studio-
 Headline: AI21 debuts Jamba 1.5, boosting hybrid SSM transformer model to enable agentic AI
 Description: Jamba 1.5 mini and Jamba 1.5 large advance AI21 hybrid SSM transformer model with an eye toward agentic AI.
 Link: https://venturebeat.com/ai/ai21-debuts-jamba-1-5-boosting-hybrid-ssm-transformer-model-to-enable-agentic-ai/
-Headline: Adobe drops ‘Magic Fixup’: An AI breakthrough in the world of photo editing
-Description: Adobe unveils Magic Fixup, an AI-powered photo editing tool that learns from video data, promising to transform creative workflows across industries and democratize advanced image manipulation.
-Link: https://venturebeat.com/ai/adobe-drops-magic-fixup-an-ai-breakthrough-in-the-world-of-photo-editing/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Six levels of autonomous work: How AI augments, then replaces
+Description: In the next decade, the six levels of autonomous work will drive augmentation capabilities at first, and then full replacement of tasks, roles, teams, and - ultimately - lines-of-business.
+Link: https://www.zdnet.com/article/six-levels-of-autonomous-work-how-ai-augments-then-replaces/#ftag=RSSbaffb68
 Headline: My 5 favorite AI chatbot apps for Android - see what you can do with them
 Description: Beyond the official ChatGPT app for Android, there are several helpful and interesting alternatives. These are the five chatbot apps I reach for most often. Try one, or try them all.
 Link: https://www.zdnet.com/article/my-5-favorite-ai-chatbot-apps-for-android-see-what-you-can-do-with-them/#ftag=RSSbaffb68
@@ -258,9 +265,6 @@ Link: https://www.zdnet.com/article/how-i-test-an-ai-chatbots-coding-ability-and
 Headline: 1 in 5 top companies mention generative AI in their financial reports, but not in a good way
 Description: Generative AI is on everyone's radar. But more often than not, emerging technology is seen as a risk factor.
 Link: https://www.zdnet.com/article/one-in-five-top-companies-mention-generative-ai-in-their-financial-reports-but-not-in-a-good-way/#ftag=RSSbaffb68
-Headline: Salesforce unveils AI agents for sales teams - here's how they help
-Description: Because 'no sales team has enough pipeline,' these AI-powered programs can assist with qualifying a sales lead and helping a salesperson rehearse their pitch.
-Link: https://www.zdnet.com/article/salesforce-unveils-ai-agents-for-sales-teams-heres-how-they-help/#ftag=RSSbaffb68
 
 ---
 
@@ -387,21 +391,15 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Former OpenAI researchers warn of 'catastrophic harm' after the company opposes AI safety bill
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ezykk5/former_openai_researchers_warn_of_catastrophic/"> <img alt="Former OpenAI researchers warn of 'catastrophic harm' after t...
-Link: https://www.reddit.com/r/artificial/comments/1ezykk5/former_openai_researchers_warn_of_catastrophic/
-Headline: One-Minute Daily AI News 8/23/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Music company uses AI to expand access to music education.[1]</li> <li><strong>Meta</strong> and <strong>Spotify</strong> CEOs criticize AI regulation in the EU...
-Link: https://www.reddit.com/r/artificial/comments/1ezuyfs/oneminute_daily_ai_news_8232024/
-Headline: Simple AI tool for dubbing YouTube videos?
-Description: <!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>I'm looking for a simple online tool to dub YouTube videos into different languages. I'm currently testing Rask AI, which seems to do a good jo...
-Link: https://www.reddit.com/r/artificial/comments/1ezyrux/simple_ai_tool_for_dubbing_youtube_videos/
-Headline: I want to do an experiment. And I need help.
-Description: <!-- SC_OFF --><div class="md"><p>I want to do an experiment, with me as the subject. This experiment is going to test out how and if Personal AI's can either benefit or burden someone and how much an...
-Link: https://www.reddit.com/r/artificial/comments/1f0c58l/i_want_to_do_an_experiment_and_i_need_help/
-Headline: Using AI with Pdf to study Science ?
-Description: <!-- SC_OFF --><div class="md"><p>I got PDFs for Math Chem and Physics, example - <a href="https://ncert.nic.in/textbook.php?lemh1=1-6">https://ncert.nic.in/textbook.php?lemh1=1-6</a> . Indian governm...
-Link: https://www.reddit.com/r/artificial/comments/1f0f46b/using_ai_with_pdf_to_study_science/
+Headline: The Book of Bot. (A half-hour movie I made with AI and spent a month working on. Hope you enjoy.)
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1f0rhex/the_book_of_bot_a_halfhour_movie_i_made_with_ai/"> <img alt="The Book of Bot. (A half-hour movie I made with AI and spent...
+Link: https://www.reddit.com/r/artificial/comments/1f0rhex/the_book_of_bot_a_halfhour_movie_i_made_with_ai/
+Headline: One-Minute Daily AI News 8/24/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><p>Chinese internet search giant Baidu appears to have started blocking the online search engines of Alphabet's Google and Microsoft's Bing from scraping conten...
+Link: https://www.reddit.com/r/artificial/comments/1f0ndfm/oneminute_daily_ai_news_8242024/
+Headline: Will fashion designers be out of a job?
+Description: <!-- SC_OFF --><div class="md"><p>I've been thinking a lot about the impact of AI on various industries lately, and fashion design is one that's really caught my attention. With the rapid advancements...
+Link: https://www.reddit.com/r/artificial/comments/1f0qfs8/will_fashion_designers_be_out_of_a_job/
 
 ---
 
