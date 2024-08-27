@@ -1,6 +1,24 @@
-AI News Updates - 2024-08-26 02:37:52
+AI News Updates - 2024-08-27 02:38:07
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Elon Musk unexpectedly offers support for California’s AI bill
+Description: <p>Elon Musk has come out in support of California&#8217;s SB 1047, a bill that requires makers of very large AI models to create and document safeguards against those models causing serious harm. &#8...
+Link: https://techcrunch.com/2024/08/26/elon-musk-unexpectedly-offers-support-for-californias-ai-bill/
+Headline: OpenAI, Adobe and Microsoft support California bill requiring watermarks on AI content
+Description: <p>OpenAI, Adobe and Microsoft have thrown their support behind a California bill requiring tech companies to label AI-generated content, according to letters from the companies viewed by TechCrunch. ...
+Link: https://techcrunch.com/2024/08/26/openai-adobe-microsoft-support-california-bill-requiring-watermarks-on-ai-content/
+Headline: Anthropic publishes the ‘system prompts’ that make Claude tick
+Description: <p>Generative AI models aren&#8217;t actually humanlike. They have no intelligence or personality &#8212; they&#8217;re simply statistical systems predicting the likeliest next words in a sentence. Bu...
+Link: https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/
+Headline: Five months after Microsoft hired its founders, Inflection adds usage caps to Pi
+Description: <p>Inflection will cap free access to its AI chatbot Pi in the coming months, the startup tells TechCrunch. Users can also now export their conversations off the AI chatbot, as the new CEO shifts the ...
+Link: https://techcrunch.com/2024/08/26/five-months-after-microsoft-hired-its-founders-inflection-adds-usage-caps-to-pi/
+Headline: Viggle makes controllable AI characters for memes and visualizing ideas
+Description: <p>You might not know Viggle AI, but you&#8217;ve likely seen the viral memes it created. The Canadian AI startup is responsible for dozens of videos remixing the rapper Lil Yachty bouncing onstage at...
+Link: https://techcrunch.com/2024/08/26/viggle-makes-controllable-ai-characters-for-memes-and-visualizing-ideas/
+Headline: In 2024, it really is better to run a startup in San Francisco, according to data and founders who’ve relocated
+Description: <p>San Francisco’s AI startup boom is so big, even international founders who don’t run AI startups are relocating there to help their companies grow, according to several founders who recently moved....
+Link: https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/
 Headline: Stephen Wolfram thinks we need philosophers working on big questions around AI
 Description: <p>As AI developers and others start to think more deeply about how computers and people intersect, Stephan Wolfram says it is becoming a much more of a philosophical exercise</p>
 <p>© 2024 TechCrunch...
@@ -12,28 +30,21 @@ Headline: The top AI deals in Europe this year
 Description: <p>Cumulatively, there have been more than 1,700 funding rounds for AI startups in Europe so far in 2024. </p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 Link: https://techcrunch.com/2024/08/24/the-top-ai-deals-in-europe-this-year/
-Headline: ‘Disappointed but not surprised’: Former employees speak on OpenAI’s opposition to SB 1047
-Description: <p>Two former OpenAI researchers who resigned this year over safety concerns say they are disappointed but not surprised by OpenAI&#8217;s decision to oppose California&#8217;s bill to prevent AI disa...
-Link: https://techcrunch.com/2024/08/23/disappointed-but-not-surprised-former-employees-speak-on-openais-opposition-to-sb-1047/
-Headline: Andrew Ng steps back at Landing AI after announcing new fund
-Description: <p>Andrew Ng is stepping down from his role as CEO at Landing AI, the computer vision platform he founded in 2017. Dan Maloney, formerly the COO, will take the reins as Ng transitions to Executive Cha...
-Link: https://techcrunch.com/2024/08/23/andrew-ng-steps-back-at-landing-ai-after-announcing-new-fund/
-Headline: Piramidal’s foundation model for brainwaves could supercharge EEGs
-Description: <p>AI models are being applied to every dataset under the sun, but are inconsistent in their outcomes. This is as true in the medical world as anywhere else, but a startup called Piramidal believes it...
-Link: https://techcrunch.com/2024/08/23/piramidals-foundation-model-for-brainwaves-could-supercharge-eegs/
-Headline: Meta and Spotify CEOs criticize AI regulation in the EU
-Description: <p>Meta and Spotify are once again teaming up &#8212; this time, on the matter of open source (or to be precise, open-weight) AI which the companies claim are being hampered by regulations. In joint s...
-Link: https://techcrunch.com/2024/08/23/meta-and-spotify-ceos-criticize-ai-regulation-in-the-eu/
-Headline: AI talent managers, technocapitalist college towns and a rise in defense tech acquisitions
-Description: <p>This week on Equity are some deals that are unusual for a few reasons — some good, some&#8230; well, we&#8217;ll find out. First up is the $80 million round for Story, which is trying to apply that...
-Link: https://techcrunch.com/podcast/ai-talent-managers-technocapitalist-college-towns-and-a-rise-in-defense-tech-acquisitions/
-Headline: DeepMind workers sign letter in protest of Google’s defense contracts
-Description: <p>At least 200 workers at DeepMind, Google&#8217;s AI R&#38;D division, are displeased with Google&#8217;s reported defense contracts &#8212; and according to Time, they circulated a letter internall...
-Link: https://techcrunch.com/2024/08/22/deepmind-workers-sign-letter-in-protest-of-googles-defense-contracts/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Gannett is shuttering site accused of publishing AI product reviews
+Description: <figure>
+      <img alt="Gannett Gets $1.36 Billion Hostile Bid From MNG Enterprises" src="https://cdn.vox-cdn.com/thumbor/t4WhjhnqCzG4G4b9BBiJW0n6suQ=/0x28:4818x3240/1310x873/cdn.vox-cdn.com/uploads/...
+Link: https://www.theverge.com/2024/8/26/24228880/gannett-usa-today-reviewed-product-reviews-ai-articles
+Headline: Hello, you’re here because you said AI image editing was just like Photoshop
+Description: <figure>
+      <img alt="Photo collage of someone adding a shark fin to a crowded beach scene with AI tools." src="https://cdn.vox-cdn.com/thumbor/IWmR28mP6LDZVn76RM8qCpYZYDM=/0x0:2040x1360/1310x873/c...
+Link: https://www.theverge.com/2024/8/26/24228808/ai-image-editing-photoshop-comparison-argument
+Headline: Samsung will soon let you create AI wallpapers on its touchscreen refrigerators
+Description: <figure>
+      <img alt="Samsung’s logo set in the middle of red, black, white, and yellow ovals." src="https://cdn.vox-cdn.com/thumbor/qtdxs0BQ38Wh6ou9F117LZpgok8=/0x0:2040x1360/1310x873/cdn.vox-cdn....
+Link: https://www.theverge.com/2024/8/26/24228788/samsung-ai-wallpapers-refrigerators-bixby-upgrade-bespoke-appliances
 Headline: AI was responsible for the fake quotes in the Megalopolis trailer
 Description: <figure>
       <img alt="A picture of Adam Driver in Megalopolis." src="https://cdn.vox-cdn.com/thumbor/0SMwaU0fr7nE9M65DL8lAo_5ESA=/0x0:1543x1029/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
@@ -58,14 +69,6 @@ Headline: The bad movie reviews quoted in Lionsgate’s Megalopolis trailer were
 Description: <figure>
       <img alt="A screenshot from the Megalopolis trailer" src="https://cdn.vox-cdn.com/thumbor/-HSQdWmphq8JGgsDUZyXoWUKQ6A=/251x0:2393x1428/1310x873/cdn.vox-cdn.com/uploads/chorus_image/imag...
 Link: https://www.theverge.com/2024/8/21/24225673/megalopolis-trailer-fake-quotes-movie-critics-pulled
-Headline: Microsoft’s Recall AI feature won’t be available for Windows testers until October
-Description: <figure>
-      <img alt="Illustration of Windows Recall" src="https://cdn.vox-cdn.com/thumbor/hJSg-17Fk38ACi7_PXJwG0CBgjQ=/0x0:1320x880/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73535822/win...
-Link: https://www.theverge.com/2024/8/21/24225439/microsoft-recall-windows-ai-feature-october-testing
-Headline: Google Pixel 9 Pro and 9 Pro XL review: AI all over the place
-Description: <p>The AI is inconsistent, but the hardware is oh so good.</p> <p class="p--has-dropcap p-large-text" id="Z9SzL0">Google finally got the hardware right.</p>
-<p id="Lxu1yV">The Pixel 9 Pro, its bigger ...
-Link: https://www.theverge.com/24225221/google-pixel-9-pro-xl-review-ai-gemini-screen-battery-camera
 
 ---
 
@@ -74,6 +77,12 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: NVIDIA Launches NIM Microservices for Generative AI in Japan, Taiwan
+Description: Nations around the world are pursuing sovereign AI to produce artificial intelligence using their own computing infrastructure, data, workforce and business networks to ensure AI systems align with lo...
+Link: https://blogs.nvidia.com/blog/nim-microservices-generative-ai/
+Headline: NVIDIA Launches Array of New CUDA Libraries to Expand Accelerated Computing and Deliver Order-of-Magnitude Speedup to Science and Industrial Applications
+Description: News summary: New libraries in accelerated computing deliver order-of-magnitude speedups and reduce energy consumption and costs in data processing, generative AI, recommender systems, AI data curatio...
+Link: https://blogs.nvidia.com/blog/cuda-accelerated-computing-energy-efficiency/
 Headline: Straight Out of Gamescom and Into Xbox PC Games, GeForce NOW Newly Supports Automatic Xbox Sign-In
 Description: Straight out of Gamescom, NVIDIA introduced GeForce NOW support for Xbox automatic sign-in, as well as Black Myth: Wukong from Game Science and a demo for the PC launch of FINAL FANTASY XVI from Squar...
 Link: https://blogs.nvidia.com/blog/geforce-now-thursday-xbox-sign-in-black-myth-wukong/
@@ -89,10 +98,6 @@ Link: https://blogs.nvidia.com/blog/podcast-snowflake/
 Headline: NVIDIA Showcases New AI Capabilities With ACE, RTX Games and More at Gamescom 2024
 Description: At Gamescom, the world’s biggest gaming expo, NVIDIA has once again pushed the boundaries of gaming technology to ensure that gamers have incredibly immersive experiences and can enjoy enhanced perfor...
 Link: https://blogs.nvidia.com/blog/gamescom-2024/
-Headline: Level Up: NVIDIA, MediaTek to Bring G-SYNC Display Technologies to More Gamers
-Description: New collaboration integrates G-SYNC technologies into MediaTek scalers, enhancing gaming monitors’ capabilities and broadening availability.
-Link: https://blogs.nvidia.com/blog/mediatek-g-sync-displays/
-
 ---
 
 From source: https://openai.com/blog/rss.xml
@@ -138,6 +143,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: AI and the future of sex
+Description: The power of pornography doesn’t lie in arousal but in questions. What is obscene? What is ethical or safe to watch?&#160; We don’t have to consume or even support it, but porn will still demand answe...
+Link: https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/
 Headline: AI could be a game changer for people with disabilities
 Description: As a lifelong disabled person who constantly copes with multiple conditions, I have a natural tendency to view emerging technologies with skepticism. Most new things are built for the majority of peop...
 Link: https://www.technologyreview.com/2024/08/23/1096607/ai-people-with-disabilities-accessibility/
@@ -159,9 +167,6 @@ Link: https://www.technologyreview.com/2024/08/12/1096202/how-people-actually-us
 Headline: Google DeepMind trained a robot to beat humans at table tennis
 Description: Do you fancy your chances of beating a robot at a game of table tennis? Google DeepMind has trained a robot to play the game at the equivalent of amateur-level competitive performance, the company has...
 Link: https://www.technologyreview.com/2024/08/09/1096102/google-deepmind-trained-a-robot-to-beat-humans-at-table-tennis/
-Headline: AI “godfather” Yoshua Bengio has joined a UK project to prevent AI catastrophes
-Description: Yoshua Bengio, a Turing Award winner who is considered one of the “godfathers” of modern AI, is throwing his weight behind a project funded by the UK government to embed safety mechanisms into AI syst...
-Link: https://www.technologyreview.com/2024/08/07/1095879/ai-godfather-yoshua-bengio-joins-uk-project-to-prevent-ai-catastrophes/
 
 ---
 
@@ -174,6 +179,15 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Secure RAG applications using prompt engineering on Amazon Bedrock
+Description: In this post, we discuss existing prompt-level threats and outline several security guardrails for mitigating prompt-level threats. For our example, we work with Anthropic Claude on Amazon Bedrock, im...
+Link: https://aws.amazon.com/blogs/machine-learning/secure-rag-applications-using-prompt-engineering-on-amazon-bedrock/
+Headline: GenASL: Generative AI-powered American Sign Language avatars
+Description: In this post, we dive into the architecture and implementation details of GenASL, which uses AWS generative AI capabilities to create human-like ASL avatar videos. GenASL is a solution that translates...
+Link: https://aws.amazon.com/blogs/machine-learning/genasl-generative-ai-powered-american-sign-language-avatars/
+Headline: AWS empowers sales teams using generative AI solution built on Amazon Bedrock
+Description: Through this series of posts, we share our generative AI journey and use cases, detailing the architecture, AWS services used, lessons learned, and the impact of these solutions on our teams and custo...
+Link: https://aws.amazon.com/blogs/machine-learning/aws-boosts-sales-pipeline-using-generative-ai-solution-built-on-amazon-bedrock/
 Headline: Build private and secure enterprise generative AI applications with Amazon Q Business using IAM Federation
 Description: Amazon Q Business is a conversational assistant powered by generative artificial intelligence (AI) that enhances workforce productivity by answering questions and completing tasks based on information...
 Link: https://aws.amazon.com/blogs/machine-learning/build-private-and-secure-enterprise-generative-ai-applications-with-amazon-q-business-using-iam-federation/
@@ -192,18 +206,25 @@ Link: https://aws.amazon.com/blogs/machine-learning/fine-tune-a-generative-ai-ap
 Headline: Enhance call center efficiency using batch inference for transcript summarization with Amazon Bedrock
 Description: Today, we are excited to announce general availability of batch inference for Amazon Bedrock. This new feature enables organizations to process large volumes of data when interacting with foundation m...
 Link: https://aws.amazon.com/blogs/machine-learning/enhance-call-center-efficiency-using-batch-inference-for-transcript-summarization-with-amazon-bedrock/
-Headline: Fine-tune Meta Llama 3.1 models for generative AI inference using Amazon SageMaker JumpStart
-Description: Fine-tuning Meta Llama 3.1 models with Amazon SageMaker JumpStart enables developers to customize these publicly available foundation models (FMs). The Meta Llama 3.1 collection represents a significa...
-Link: https://aws.amazon.com/blogs/machine-learning/fine-tune-meta-llama-3-1-models-for-generative-ai-inference-using-amazon-sagemaker-jumpstart/
-Headline: Analyze customer reviews using Amazon Bedrock
-Description: This post explores an innovative application of large language models (LLMs) to automate the process of customer review analysis. LLMs are a type of foundation model (FM) that have been pre-trained on...
-Link: https://aws.amazon.com/blogs/machine-learning/analyze-customer-reviews-using-amazon-bedrock/
-Headline: Accuracy evaluation framework for Amazon Q Business
-Description: Generative artificial intelligence (AI), particularly Retrieval Augmented Generation (RAG) solutions, are rapidly demonstrating their vast potential to revolutionize enterprise operations. RAG models ...
-Link: https://aws.amazon.com/blogs/machine-learning/accuracy-evaluation-framework-for-amazon-q-business/
+
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: How AI is helping cut the risks of breaches with patch management
+Description: AI/ML-driven patch management delivers real-time risk assessments, guiding IT and security teams to prioritize critical patches first.
+Link: https://venturebeat.com/security/how-ai-is-helping-cut-the-risks-of-breaches-with-patch-management/
+Headline: DeepMind and UC Berkeley shows how to make the most of LLM inference-time compute
+Description: A new study shows that given the right prompts LLM with a finite inference budgets can outperform larger pre-trained models.
+Link: https://venturebeat.com/ai/deepmind-and-uc-berkeley-shows-how-to-make-the-most-of-llm-inference-time-compute/
+Headline: Inflection AI bets on porting Pi chatbot data amid enterprise shift
+Description: Inflection AI said the Pi chatbot will continue to operate free, although the free users will have certain message limits like ChatGPT.
+Link: https://venturebeat.com/data-infrastructure/inflection-ai-bets-on-porting-pi-chatbot-data-amid-enterprise-shift/
+Headline: Accenture and AWS offer a way for companies to start their responsible AI journey
+Description: Accenture and AWS partnered for a platform for companies to take stock of their gen AI systems and craft a responsible AI policy.
+Link: https://venturebeat.com/ai/accenture-and-aws-offer-a-way-for-companies-to-start-their-responsible-ai-journey/
+Headline: Aleph Alpha unveils EU-compliant AI: A new era for transparent machine learning
+Description: German startup Aleph Alpha challenges AI giants with open-source, EU-compliant language models, potentially reshaping the future of ethical and transparent AI development.
+Link: https://venturebeat.com/ai/aleph-alpha-unveils-eu-compliant-ai-a-new-era-for-transparent-machine-learning/
 Headline: AI and employment: Echoes of the past or a new paradigm?
 Description: During unprecedented change (think AI) using the past as a prediction of the future is little more than looking in the rearview mirror.
 Link: https://venturebeat.com/ai/ai-and-employment-echoes-of-the-past-or-a-new-paradigm/
@@ -216,25 +237,16 @@ Link: https://venturebeat.com/ai/watch-the-weeknds-new-concert-teaser-was-made-w
 Headline: Open source Dracarys models ignite generative AI fired coding
 Description: Abacus.ai is bringing new fire to the open source LLM world with fine tuned models optimized for coding with its Dracarys recipe.
 Link: https://venturebeat.com/ai/open-source-dracarys-models-ignite-generative-ai-fired-coding/
-Headline: Vectara Portal helps non-developers build AI apps to chat with data: Here’s how to use it
-Description: With this no-code offering, Vectara is looking to give more enterprise users the ability to build powerful generative AI apps.
-Link: https://venturebeat.com/data-infrastructure/vectara-portal-helps-non-developers-build-ai-apps-to-chat-with-data-heres-how-to-use-it/
-Headline: Meshy-4 brings sci-fi level AI to 3D modeling and design
-Description: Meshy launches Meshy-4, an advanced AI-powered 3D modeling tool, revolutionizing virtual environment creation with improved mesh geometry and streamlined workflows for designers and developers.
-Link: https://venturebeat.com/ai/meshy-4-brings-sci-fi-level-ai-to-3d-modeling-and-design/
-Headline: What’s next for artists suing Stability AI and Midjourney
-Description: One of the artists involved in the class action lawsuit against Stability AI and Midjourney hopes the lawsuit will usher in a new kind of AI model.
-Link: https://venturebeat.com/ai/whats-next-for-artists-suing-stability-ai-and-midjourney/
-Headline: Google debuts free ‘Prompt Gallery’ in AI Studio, supercharging developer tools
-Description: Google launches free Prompt Gallery in AI Studio, revolutionizing AI development with diverse pre-built prompts and tools for developers using Gemini API.
-Link: https://venturebeat.com/ai/google-debuts-free-prompt-gallery-in-ai-studio-supercharging-developer-tools/
-Headline: AI21 debuts Jamba 1.5, boosting hybrid SSM transformer model to enable agentic AI
-Description: Jamba 1.5 mini and Jamba 1.5 large advance AI21 hybrid SSM transformer model with an eye toward agentic AI.
-Link: https://venturebeat.com/ai/ai21-debuts-jamba-1-5-boosting-hybrid-ssm-transformer-model-to-enable-agentic-ai/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: OpenAI, Intel, and Qualcomm talk AI compute at legendary Hot Chips conference
+Description: The Stanford computer conference kicked off with a keynote by OpenAI's head of infrastructure, who explained the logic of building bigger and bigger computers.
+Link: https://www.zdnet.com/article/openai-intel-and-qualcomm-talk-ai-compute-at-legendary-hot-chips-conference/#ftag=RSSbaffb68
+Headline: AI voice generators: What they can do and how they work
+Description: As AI voice generators improve, they bring both opportunities and risks. Here's how this technology is changing everything from accessibility aids to the way scammers operate.
+Link: https://www.zdnet.com/article/ai-voice-generators-what-they-can-do-and-how-they-work/#ftag=RSSbaffb68
 Headline: Six levels of autonomous work: How AI augments, then replaces
 Description: In the next decade, the six levels of autonomous work will drive augmentation capabilities at first, and then full replacement of tasks, roles, teams, and - ultimately - lines-of-business.
 Link: https://www.zdnet.com/article/six-levels-of-autonomous-work-how-ai-augments-then-replaces/#ftag=RSSbaffb68
@@ -256,15 +268,6 @@ Link: https://www.zdnet.com/article/how-i-used-chatgpt-to-scan-170k-lines-of-cod
 Headline: We're a big step closer to defining open source AI - but not everyone is happy
 Description: The latest version of the Open Source Initiative's draft is available for review. Let the arguments begin!
 Link: https://www.zdnet.com/article/were-a-big-step-closer-to-defining-open-source-ai-but-not-everyone-is-happy/#ftag=RSSbaffb68
-Headline: AI hype, in dollars and sense
-Description: Hype in all forms took the Innovation Index this week, along with a few security developments.
-Link: https://www.zdnet.com/article/innovation-index-august-23-2024/#ftag=RSSbaffb68
-Headline: How I test an AI chatbot's coding ability - and you can, too
-Description: This article provides detailed prompts and tests you can repeat on your favorite AI chatbot to see if it can help you program reliably.
-Link: https://www.zdnet.com/article/how-i-test-an-ai-chatbots-coding-ability-and-you-can-too/#ftag=RSSbaffb68
-Headline: 1 in 5 top companies mention generative AI in their financial reports, but not in a good way
-Description: Generative AI is on everyone's radar. But more often than not, emerging technology is seen as a risk factor.
-Link: https://www.zdnet.com/article/one-in-five-top-companies-mention-generative-ai-in-their-financial-reports-but-not-in-a-good-way/#ftag=RSSbaffb68
 
 ---
 
@@ -349,6 +352,9 @@ Link: https://www.sciencedaily.com/releases/2024/08/240811233343.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: A simple driving trick could make a big dent in cars' carbon emissions
+Description: An AI-powered model found that approaching intersections more slowly could lower yearly US carbon emissions by up to around 123 million tonnes
+Link: https://www.newscientist.com/article/2445202-a-simple-driving-trick-could-make-a-big-dent-in-cars-carbon-emissions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: A glob of jelly can play Pong thanks to a basic kind of memory
 Description: Researchers trained a polymer gel to play the computer game Pong by passing electric current through it and measuring the concentration of ions
 Link: https://www.newscientist.com/article/2444465-a-glob-of-jelly-can-play-pong-thanks-to-a-basic-kind-of-memory/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -376,9 +382,6 @@ Link: https://www.newscientist.com/article/2442865-can-ai-chatbots-be-reined-in-
 Headline: Robo-tuna reveals how foldable fins help the speedy fish manoeuvre
 Description: A robot mimics the clever fin-folding mechanism used by tuna fish, which increased the bot's turning velocity by almost 33 per cent
 Link: https://www.newscientist.com/article/2442519-robo-tuna-reveals-how-foldable-fins-help-the-speedy-fish-manoeuvre/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Will implants that meld minds with machines enhance human abilities?
-Description: Devices that let people with paralysis walk and talk are rapidly improving. Some see a future in which we alter memories and download skills – but major challenges remain
-Link: https://www.newscientist.com/article/mg26335023-100-will-implants-that-meld-minds-with-machines-enhance-human-abilities/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -391,15 +394,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: The Book of Bot. (A half-hour movie I made with AI and spent a month working on. Hope you enjoy.)
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1f0rhex/the_book_of_bot_a_halfhour_movie_i_made_with_ai/"> <img alt="The Book of Bot. (A half-hour movie I made with AI and spent...
-Link: https://www.reddit.com/r/artificial/comments/1f0rhex/the_book_of_bot_a_halfhour_movie_i_made_with_ai/
-Headline: One-Minute Daily AI News 8/24/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><p>Chinese internet search giant Baidu appears to have started blocking the online search engines of Alphabet's Google and Microsoft's Bing from scraping conten...
-Link: https://www.reddit.com/r/artificial/comments/1f0ndfm/oneminute_daily_ai_news_8242024/
-Headline: Will fashion designers be out of a job?
-Description: <!-- SC_OFF --><div class="md"><p>I've been thinking a lot about the impact of AI on various industries lately, and fashion design is one that's really caught my attention. With the rapid advancements...
-Link: https://www.reddit.com/r/artificial/comments/1f0qfs8/will_fashion_designers_be_out_of_a_job/
+Headline: Reddit Acquires Ad-Optimization Company Memorable AI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1f1eihm/reddit_acquires_adoptimization_company_memorable/"> <img alt="Reddit Acquires Ad-Optimization Company Memorable AI" src="...
+Link: https://www.reddit.com/r/artificial/comments/1f1eihm/reddit_acquires_adoptimization_company_memorable/
+Headline: Self-aware AIs and philosophy
+Description: <!-- SC_OFF --><div class="md"><p>I recently went on the hunt for a voice only AI to help me with research and came across the app, Kindroid. I was amazed at the realistic dialog these characters coul...
+Link: https://www.reddit.com/r/artificial/comments/1f1z8yz/selfaware_ais_and_philosophy/
+Headline: One-Minute Daily AI News 8/25/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Kim Jong Un inspects new ‘suicide drones,’ urges incorporation of AI.[1]</li> <li>Cheap AI Voice Bots Are Suddenly Everywhere in India.[2]</li> <li><strong>Meta...
+Link: https://www.reddit.com/r/artificial/comments/1f1ft93/oneminute_daily_ai_news_8252024/
+Headline: A GenAI tool that allows anyone to be a cancer/longevity researcher
+Description: <!-- SC_OFF --><div class="md"><p>I've been finding that using the various LLMs out there, and building RAG solutions, that it is a matter of time until there are tools that enable an average person t...
+Link: https://www.reddit.com/r/artificial/comments/1f1wowp/a_genai_tool_that_allows_anyone_to_be_a/
+Headline: Does anyone know if hybrid human-AI audiobooks would be acceptable to audiobook platforms that forbid AI only audiobooks?
+Description: <!-- SC_OFF --><div class="md"><p>I have a book that I wrote. I want to turn it into an audiobook using AI, and I want that audiobook to be sellable on all the audiobook platforms, even the ones that ...
+Link: https://www.reddit.com/r/artificial/comments/1f1kf3h/does_anyone_know_if_hybrid_humanai_audiobooks/
+Headline: Penny a Minute Voice Bots Help India Startups Vie With OpenAI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1f1j1b9/penny_a_minute_voice_bots_help_india_startups_vie/"> <img alt="Penny a Minute Voice Bots Help India Startups Vie With Ope...
+Link: https://www.reddit.com/r/artificial/comments/1f1j1b9/penny_a_minute_voice_bots_help_india_startups_vie/
 
 ---
 
