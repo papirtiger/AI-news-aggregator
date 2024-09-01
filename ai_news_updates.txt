@@ -1,6 +1,17 @@
-AI News Updates - 2024-08-31 02:40:22
+AI News Updates - 2024-09-01 02:53:35
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Amazon hires the founders of AI robotics startup Covariant
+Description: <p>Amazon announced Friday evening that it has hired Covariant&#8217;s founders — Pieter Abbeel, Peter Chen, and Rocky Duan — along with “about a quarter” of the startup&#8217;s employees. It&#8217;s ...
+Link: https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/
+Headline: Grammy CEO says music industry also has AI concerns
+Description: <p>The rise of AI has consumed the arts, just as it has Silicon Valley. Everyone is pondering: Will AI replace me?</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/08/31/grammy-ceo-says-music-industry-also-has-ai-concerns/
+Headline: AI brings a whole new dimension to the challenge of organizational transformation
+Description: <p>Organizations are people and people are messy, and you have to look beyond the tech to the end goal: implementing new software that could transform the business.</p>
+<p>© 2024 TechCrunch. All right...
+Link: https://techcrunch.com/2024/08/31/ai-brings-a-whole-new-dimension-to-the-challenge-of-organizational-transformation/
 Headline: California’s legislature just passed AI bill SB 1047; here’s why some hope the governor won’t sign it
 Description: <p>SB 1047 has drawn the ire of Silicon Valley players large and small, including venture capitalists, big tech trade groups, researchers and startup founders.</p>
 <p>© 2024 TechCrunch. All rights res...
@@ -20,18 +31,6 @@ Link: https://techcrunch.com/2024/08/30/jam-and-tea-gaming-studio-leveraging-gen
 Headline: Telegram founder’s arrest, and who’s using acqui-hires to tip-toe around antitrust
 Description: <p>On today’s episode of TechCrunch’s Equity podcast, Devin Coldewey kicked off our Deals of the Week rundown with Piramidal, a startup that offers a foundational model for analyzing brain scan data t...
 Link: https://techcrunch.com/podcast/telegram-founders-arrest-and-whos-using-acqui-hires-to-tip-toe-around-antitrust/
-Headline: Google is working on AI that can hear signs of sickness
-Description: <p>Given everything you’ve already heard about AI, you may not be surprised to learn that Google is among other outfits beginning to use sound signals to predict early signs of disease.&#160; How? Acc...
-Link: https://techcrunch.com/2024/08/29/google-is-working-on-ai-that-can-hear-signs-of-sickness/
-Headline: Apple and Nvidia could be OpenAI’s next big investors
-Description: <p>Nvidia and Apple are reportedly in talks to contribute to OpenAI&#8217;s next fundraising round &#8212; a round that could value the ChatGPT maker at $100 billion. Per its sources, The New York Tim...
-Link: https://techcrunch.com/2024/08/29/apple-and-nvidia-could-be-openais-next-big-investors/
-Headline: Gmail users on Android can now chat with Gemini about their emails
-Description: <p>Gmail users on Android devices can now chat directly with Google&#8217;s AI assistant, Gemini, about their emails in the Gmail app. Google rolled out the new feature, Gmail Q&#38;A, on Thursday to ...
-Link: https://techcrunch.com/2024/08/29/gmail-users-on-android-can-now-chat-with-gemini-about-their-emails/
-Headline: Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others
-Description: <p>Magic, an AI startup creating models to generate code and automate a range of software development tasks, has raised a large tranche of cash from investors, including ex-Google CEO Eric Schmidt. In...
-Link: https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/
 
 ---
 
@@ -210,10 +209,43 @@ Link: https://aws.amazon.com/blogs/machine-learning/elevate-customer-experience-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: AI is growing faster than companies can secure it, warn industry leaders
+Description: Industry leaders at DataGrail Summit 2024 warn of AI's exponential growth outpacing security measures, urging companies to invest in robust AI safety systems to mitigate risks and protect consumer tru...
+Link: https://venturebeat.com/ai/ai-is-growing-faster-than-companies-can-secure-it-warn-industry-leaders/
+Headline: OpenAI gives developers more control over AI assistants
+Description: OpenAI added more control over file searching and responses in its Assistants API, which lets developers build AI assistants.
+Link: https://venturebeat.com/ai/openai-gives-developers-more-control-over-ai-assistants/
+Headline: Meta’s Transfusion model handles text and images in a single architecture
+Description: Meta Transfusion is a multi-modal model that can learn both discrete and continuous values to process and generate text and images.
+Link: https://venturebeat.com/ai/metas-transfusion-model-handles-text-and-images-in-a-single-architecture/
+Headline: Cohere just made Command R smarter. Here’s why businesses should care
+Description: Cohere upgrades Command R AI models, boosting performance in coding, math, and reasoning for enterprise clients, as the startup navigates fierce competition in the $500B AI market.
+Link: https://venturebeat.com/ai/cohere-just-made-command-r-smarter-heres-why-businesses-should-care/
+Headline: Meta leads open-source AI boom, Llama downloads surge 10x year-over-year
+Description: Several enterprises are tapping Meta's Llama family of models, including AT&#038;T, DoorDash, Goldman Sachs, Niantic, Zoom and KPMG.
+Link: https://venturebeat.com/ai/meta-leads-open-source-ai-boom-llama-downloads-surge-10x-year-over-year/
+Headline: Nvidia’s ‘Eagle’ AI sees the world in Ultra-HD, and it’s coming for your job
+Description: Nvidia's Eagle AI model revolutionizes visual understanding with high-resolution processing and multiple vision encoders, advancing document comprehension and visual question answering across industri...
+Link: https://venturebeat.com/ai/nvidias-eagle-ai-sees-the-world-in-ultra-hd-and-its-coming-for-your-job/
+Headline: OpenAI says ChatGPT now has 200M users
+Description: It also has 92% of Fortune 500 firms using its products, indicating massive uptake among enterprises and decision-makers.
+Link: https://venturebeat.com/ai/openai-says-chatgpt-now-has-200m-users/
+Headline: OpenAI and Anthropic agree to send models to US government for safety evaluations
+Description: OpenAI and Anthropic will send AI models to the US AI Safety Institute before public release for safety testing and evaluations.
+Link: https://venturebeat.com/ai/openai-and-anthropic-agree-to-send-models-to-us-government-for-safety-evaluations/
+Headline: Alibaba releases new AI model Qwen2-VL that can analyze videos more than 20 minutes long
+Description: The 7B and 2B variants are available under open source permissive Apache 2.0 licenses, allowing enterprises to use them at will.
+Link: https://venturebeat.com/ai/alibaba-releases-new-ai-model-qwen2-vl-that-can-analyze-videos-more-than-20-minutes-long/
+Headline: GameSwift Web3 game launcher integrates AI agents from Fetch
+Description: GameSwift will be the first Web3 gaming project that will integrate AI agents from Fetch.ai.
+Link: https://venturebeat.com/games/gameswift-web3-game-integrates-ai-agents-from-fetch/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: What is ChatGPT? The world's most popular AI chatbot explained
+Description: The AI chatbot's advanced conversational capabilities continue to generate a buzz. We answer your questions.
+Link: https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#ftag=RSSbaffb68
 Headline: 4 reasons I'm not upgrading to an iPhone 16 Pro from my iPhone 14
 Description: The iPhone 16 promises AI and a shiny new display, among other features, but is it worth the upgrade? Here's what could convince me to upgrade from my iPhone 14 Pro Max.
 Link: https://www.zdnet.com/article/4-reasons-im-not-upgrading-to-an-iphone-16-pro-from-my-iphone-14/#ftag=RSSbaffb68
@@ -235,10 +267,6 @@ Link: https://www.zdnet.com/article/200-million-people-use-chatgpt-every-week-up
 Headline: Agentic systems and synthetic voices: The AI job-takeover timeline
 Description: Autonomous labor and the pros and cons of realistic AI-generated voices top this week's Innovation Index. Here's what to watch for.
 Link: https://www.zdnet.com/article/innovation-index-august-30-2024/#ftag=RSSbaffb68
-Headline: How to get ChatGPT to roast your Instagram feed (or offer constructive feedback)
-Description: Are you wondering what people really think of your Instagram feed? AI can tell you. Depending on your prompt, the experience can be fun or instructive.
-Link: https://www.zdnet.com/article/how-to-make-chatgpt-roast-your-instagram-feed/#ftag=RSSbaffb68
-
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -322,12 +350,12 @@ Link: https://www.sciencedaily.com/releases/2024/08/240811233343.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
-Headline: Why is the US military getting ready to launch new spy balloons?
-Description: The US military has prioritised deploying high-altitude balloons that can carry out surveillance
-Link: https://www.newscientist.com/article/2445877-why-is-the-us-military-getting-ready-to-launch-new-spy-balloons/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Generative AI creates playable version of Doom game with no code
 Description: A neural network can recreate the classic computer game Doom despite using none of its code or graphics, hinting that generative AI could be used to create games from scratch in future
 Link: https://www.newscientist.com/article/2445450-generative-ai-creates-playable-version-of-doom-game-with-no-code/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Why is the US military getting ready to launch new spy balloons?
+Description: The US military has prioritised deploying high-altitude balloons that can carry out surveillance
+Link: https://www.newscientist.com/article/2445877-why-is-the-us-military-getting-ready-to-launch-new-spy-balloons/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: What can governments do about online disinformation from abroad?
 Description: A cyberterrorism charge in Pakistan connected to riots in the UK illustrates how authorities are reaching across borders to tackle disinformation, but bringing overseas suspects to justice won't alway...
 Link: https://www.newscientist.com/article/2445086-what-can-governments-do-about-online-disinformation-from-abroad/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -364,16 +392,15 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: One-Minute Daily AI News 8/29/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> and <strong>Anthropic</strong> agree to let U.S. AI Safety Institute test and evaluate new models.[1]</li> <li><strong>Google’s</strong>...
-Link: https://www.reddit.com/r/artificial/comments/1f4n178/oneminute_daily_ai_news_8292024/
-Headline: One-Minute Daily AI News 8/30/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>California AI bill SB 1047 aims to prevent AI disasters, but Silicon Valley warns it will cause one.[1]</li> <li><strong>iAsk</strong> Ai Outperforms ChatGPT an...
-Link: https://www.reddit.com/r/artificial/comments/1f59r8u/oneminute_daily_ai_news_8302024/
-Headline: Tom Hanks speaks out against AI-powered fake ads
-Description: <!-- SC_OFF --><div class="md"><p>Tom Hanks is fighting against fake ads made with AI that use his picture without permission. He’s upset because these ads could trick people into losing their money. ...
-Link: https://www.reddit.com/r/artificial/comments/1f4ywju/tom_hanks_speaks_out_against_aipowered_fake_ads/
-
+Headline: The unavoidable case for open models
+Description: <!-- SC_OFF --><div class="md"><p>These days it looks like every new startup, service or product needs to be AI-related. In a way, this makes sense, since AI (LLMs in particular) is without a doubt th...
+Link: https://www.reddit.com/r/artificial/comments/1f5ujn2/the_unavoidable_case_for_open_models/
+Headline: Generative AI creates playable version of Doom game with no code, hinting that generative AI could be used to create games from scratch in the future
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1f5yut4/generative_ai_creates_playable_version_of_doom/"> <img alt="Generative AI creates playable version of Doom game with no c...
+Link: https://www.reddit.com/r/artificial/comments/1f5yut4/generative_ai_creates_playable_version_of_doom/
+Headline: NunuAI managed to defeat the 3rd gym in Pokemon Emerald breaking the AI world record in this game
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/vegax87"> /u/vegax87 </a> <br /> <span><a href="https://www.youtube.com/live/MgHj3ZEHrR4?si=uIWCjKYhTAI8-1aF&amp;t=467">[link]</a></span> ...
+Link: https://www.reddit.com/r/artificial/comments/1f5x4ix/nunuai_managed_to_defeat_the_3rd_gym_in_pokemon/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
