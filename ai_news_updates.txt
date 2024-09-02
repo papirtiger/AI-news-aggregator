@@ -1,6 +1,13 @@
-AI News Updates - 2024-09-01 02:53:35
+AI News Updates - 2024-09-02 02:44:29
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: The case against AI art
+Description: <p>No matter who powerful generative AI becomes, writer Ted Chiang says it will never create true art. Chiang is one of the most admired science fiction authors writing today, best known for the novel...
+Link: https://techcrunch.com/2024/09/01/the-case-against-ai-art/
+Headline: ‘Emotion AI’ may be the next trend for business software, and that could be problematic
+Description: <p>As businesses experiment with embedding AI everywhere, one area starting to gain more attention is Emotion AI.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/
 Headline: Amazon hires the founders of AI robotics startup Covariant
 Description: <p>Amazon announced Friday evening that it has hired Covariant&#8217;s founders — Pieter Abbeel, Peter Chen, and Rocky Duan — along with “about a quarter” of the startup&#8217;s employees. It&#8217;s ...
 Link: https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/
@@ -22,15 +29,6 @@ Link: https://techcrunch.com/2024/08/30/the-org-behind-the-data-set-used-to-trai
 Headline: Google rolls out safeguards for more of its AI products ahead of the US presidential election
 Description: <p>Google is gearing up for the upcoming U.S. presidential election by rolling out safeguards for more of its generative AI products. Although the company already previously announced that it would re...
 Link: https://techcrunch.com/2024/08/30/google-rolls-out-safeguards-for-more-of-its-ai-products-ahead-of-the-us-presidential-election/
-Headline: TechCrunch Minute: Plaud’s NotePin is a wearable, AI-powered note taker
-Description: <p>Startups aren’t giving up on the idea of AI-powered pins, with the latest device from Plaud focused on just one task: taking notes. A few months ago, companies like Humane and Rabbit launched their...
-Link: https://techcrunch.com/video/techcrunch-minute-plauds-notepin-is-a-wearable-ai-powered-notetaker/
-Headline: Former Riot Games employees leverage generative AI to power NPCs in new video game
-Description: <p>Jam &#38; Tea Studios is the latest gaming startup implementing generative AI to transform the way players interact with non-playable characters (NPCs) in video games.&#160; Traditionally, video ga...
-Link: https://techcrunch.com/2024/08/30/jam-and-tea-gaming-studio-leveraging-generative-ai-to-power-npcs/
-Headline: Telegram founder’s arrest, and who’s using acqui-hires to tip-toe around antitrust
-Description: <p>On today’s episode of TechCrunch’s Equity podcast, Devin Coldewey kicked off our Deals of the Week rundown with Piramidal, a startup that offers a foundational model for analyzing brain scan data t...
-Link: https://techcrunch.com/podcast/telegram-founders-arrest-and-whos-using-acqui-hires-to-tip-toe-around-antitrust/
 
 ---
 
@@ -209,6 +207,12 @@ Link: https://aws.amazon.com/blogs/machine-learning/elevate-customer-experience-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Introducing AI’s long-lost twin: Engineered intelligence
+Description: The emerging discipline focuses on real-world application of AI research rooted in engineering — bringing science together with raw materials.
+Link: https://venturebeat.com/ai/introducing-ais-long-lost-twin-engineered-intelligence/
+Headline: Why we need to check the gen AI hype and get back to reality
+Description: We have already invested far more in LLMs — time, money, human effort, energy and breathless anticipation — than we will ever see in return.
+Link: https://venturebeat.com/ai/why-we-need-to-check-the-gen-ai-hype-and-get-back-to-reality/
 Headline: AI is growing faster than companies can secure it, warn industry leaders
 Description: Industry leaders at DataGrail Summit 2024 warn of AI's exponential growth outpacing security measures, urging companies to invest in robust AI safety systems to mitigate risks and protect consumer tru...
 Link: https://venturebeat.com/ai/ai-is-growing-faster-than-companies-can-secure-it-warn-industry-leaders/
@@ -233,12 +237,6 @@ Link: https://venturebeat.com/ai/openai-says-chatgpt-now-has-200m-users/
 Headline: OpenAI and Anthropic agree to send models to US government for safety evaluations
 Description: OpenAI and Anthropic will send AI models to the US AI Safety Institute before public release for safety testing and evaluations.
 Link: https://venturebeat.com/ai/openai-and-anthropic-agree-to-send-models-to-us-government-for-safety-evaluations/
-Headline: Alibaba releases new AI model Qwen2-VL that can analyze videos more than 20 minutes long
-Description: The 7B and 2B variants are available under open source permissive Apache 2.0 licenses, allowing enterprises to use them at will.
-Link: https://venturebeat.com/ai/alibaba-releases-new-ai-model-qwen2-vl-that-can-analyze-videos-more-than-20-minutes-long/
-Headline: GameSwift Web3 game launcher integrates AI agents from Fetch
-Description: GameSwift will be the first Web3 gaming project that will integrate AI agents from Fetch.ai.
-Link: https://venturebeat.com/games/gameswift-web3-game-integrates-ai-agents-from-fetch/
 
 ---
 
@@ -392,15 +390,15 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: The unavoidable case for open models
-Description: <!-- SC_OFF --><div class="md"><p>These days it looks like every new startup, service or product needs to be AI-related. In a way, this makes sense, since AI (LLMs in particular) is without a doubt th...
-Link: https://www.reddit.com/r/artificial/comments/1f5ujn2/the_unavoidable_case_for_open_models/
-Headline: Generative AI creates playable version of Doom game with no code, hinting that generative AI could be used to create games from scratch in the future
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1f5yut4/generative_ai_creates_playable_version_of_doom/"> <img alt="Generative AI creates playable version of Doom game with no c...
-Link: https://www.reddit.com/r/artificial/comments/1f5yut4/generative_ai_creates_playable_version_of_doom/
-Headline: NunuAI managed to defeat the 3rd gym in Pokemon Emerald breaking the AI world record in this game
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/vegax87"> /u/vegax87 </a> <br /> <span><a href="https://www.youtube.com/live/MgHj3ZEHrR4?si=uIWCjKYhTAI8-1aF&amp;t=467">[link]</a></span> ...
-Link: https://www.reddit.com/r/artificial/comments/1f5x4ix/nunuai_managed_to_defeat_the_3rd_gym_in_pokemon/
+Headline: Chatgpt gives me answers that Google searches can't
+Description: <!-- SC_OFF --><div class="md"><p>I look up questions that inmates in jail ask me to research, I ask questions about political theories, I ask questions about music, I ask questions about social media...
+Link: https://www.reddit.com/r/artificial/comments/1f66xmv/chatgpt_gives_me_answers_that_google_searches_cant/
+Headline: Building an AI Engineering Manager with GitHub Data
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1f6aer4/building_an_ai_engineering_manager_with_github/"> <img alt="Building an AI Engineering Manager with GitHub Data" src="htt...
+Link: https://www.reddit.com/r/artificial/comments/1f6aer4/building_an_ai_engineering_manager_with_github/
+Headline: One-Minute Daily AI News 8/31/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><p>Cartesia AI Released Rene: A Groundbreaking 1.3B Parameter Open-Source Small Language Model Transforming Natural Language Processing Applications.[1]</p></li...
+Link: https://www.reddit.com/r/artificial/comments/1f66ndn/oneminute_daily_ai_news_8312024/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
