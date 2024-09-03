@@ -1,6 +1,16 @@
-AI News Updates - 2024-09-02 02:44:29
+AI News Updates - 2024-09-03 02:40:20
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: SparkLabs closes $50M fund to back AI startups
+Description: <p>SparkLabs &#8212; an early-stage venture capital firm that has made a name for itself for backing OpenAI as well as a host of other AI startups such as Vectara, Allganize, Kneron, Anthropic, xAI, G...
+Link: https://techcrunch.com/2024/09/02/sparklabs-closes-50m-fund-to-back-ai-startups/
+Headline: Students and recent grads: 5 days left to save on TechCrunch Disrupt 2024 tickets
+Description: <p>Only 5 days remain to grab a $200 discount on Student Passes for TechCrunch Disrupt 2024. This special offer ends on September 6 at 11:59 p.m. PT. Don&#8217;t miss out! Now that classes are back in...
+Link: https://techcrunch.com/2024/09/02/students-and-recent-grads-5-days-left-to-save-on-techcrunch-disrupt-2024-tickets/
+Headline: Sign or veto: What’s next for California’s AI disaster bill, SB 1047?
+Description: <p>The tech industry has responded with a resounding outcry against SB 1047.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/09/02/governor-newsom-must-weigh-the-future-of-californias-ai-industry-with-sb-1047/
 Headline: The case against AI art
 Description: <p>No matter who powerful generative AI becomes, writer Ted Chiang says it will never create true art. Chiang is one of the most admired science fiction authors writing today, best known for the novel...
 Link: https://techcrunch.com/2024/09/01/the-case-against-ai-art/
@@ -19,20 +29,18 @@ Headline: AI brings a whole new dimension to the challenge of organizational tra
 Description: <p>Organizations are people and people are messy, and you have to look beyond the tech to the end goal: implementing new software that could transform the business.</p>
 <p>© 2024 TechCrunch. All right...
 Link: https://techcrunch.com/2024/08/31/ai-brings-a-whole-new-dimension-to-the-challenge-of-organizational-transformation/
-Headline: California’s legislature just passed AI bill SB 1047; here’s why some hope the governor won’t sign it
-Description: <p>SB 1047 has drawn the ire of Silicon Valley players large and small, including venture capitalists, big tech trade groups, researchers and startup founders.</p>
-<p>© 2024 TechCrunch. All rights res...
-Link: https://techcrunch.com/2024/08/30/california-ai-bill-sb-1047-aims-to-prevent-ai-disasters-but-silicon-valley-warns-it-will-cause-one/
-Headline: The org behind the dataset used to train Stable Diffusion claims it has removed CSAM
-Description: <p>LAION, the German research org that created the data used to train Stable Diffusion, among other generative AI models, has released a new dataset that it claims has been &#8220;thoroughly cleaned o...
-Link: https://techcrunch.com/2024/08/30/the-org-behind-the-data-set-used-to-train-stable-diffusion-claims-it-has-removed-csam/
-Headline: Google rolls out safeguards for more of its AI products ahead of the US presidential election
-Description: <p>Google is gearing up for the upcoming U.S. presidential election by rolling out safeguards for more of its generative AI products. Although the company already previously announced that it would re...
-Link: https://techcrunch.com/2024/08/30/google-rolls-out-safeguards-for-more-of-its-ai-products-ahead-of-the-us-presidential-election/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Jacob Wohl is running an AI lobbying company under a pseudonym, Politico reports
+Description: <figure>
+      <img alt="An image of Jack Burkman and Jacob Wohl against a radioactive background" src="https://cdn.vox-cdn.com/thumbor/o02Xh_impifMoU5r2lMq_PxKE78=/0x0:2040x1360/1310x873/cdn.vox-cdn....
+Link: https://www.theverge.com/2024/9/2/24234231/jacob-wohl-jack-burkman-ai-lobbying-lobbymatic-politico
+Headline: Is tennis the sport of the future?
+Description: <figure>
+      <img alt="Vector illustration of a tennis match with a huge crowd and a camera in the foreground." src="https://cdn.vox-cdn.com/thumbor/SriGapI5H-OOBlTELWKZnZV7M4U=/0x0:2040x1360/1310x8...
+Link: https://www.theverge.com/c/24225103/tennis-ai-electronic-line-calling-hawk-eye-sports-betting-gambling
 Headline: Amazon’s new Alexa voice assistant will use Claude AI
 Description: <figure>
       <img alt="Photo of an Echo Spot sitting on a nightstand." src="https://cdn.vox-cdn.com/thumbor/kGXo4KS-6PeiWs-ZVfsZTYGXk30=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/i...
@@ -57,18 +65,6 @@ Headline: OpenAI and Anthropic will share their models with the US government
 Description: <figure>
       <img alt="Illustration of a robot brain." src="https://cdn.vox-cdn.com/thumbor/2Kfq_W_Df-SuyqV77hmVAnF41eA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73551954/ST...
 Link: https://www.theverge.com/2024/8/29/24231395/openai-anthropic-share-models-us-ai-safety-institute
-Headline: Wyze’s AI can now search your camera footage so you don’t have to
-Description: <figure>
-      <img alt="An image of the Wyze Cam 4 on a table" src="https://cdn.vox-cdn.com/thumbor/2o7I9RYIkgjh9UrnYtde_jlBwEI=/0x0:1692x1128/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7355...
-Link: https://www.theverge.com/2024/8/29/24231371/wyze-ai-search-camera-footage
-Headline: California legislature passes sweeping AI safety bill
-Description: <figure>
-      <img alt="Digital photo collage of a judge with gavel whose hands has too many fingers." src="https://cdn.vox-cdn.com/thumbor/Qwe9u6DmLFESrTDyuO7jv06T4U8=/0x0:2040x1360/1310x873/cdn.vox...
-Link: https://www.theverge.com/2024/8/28/24229068/california-sb-1047-ai-safety-bill-passed-state-assembly-governor-newsom-signature
-Headline: Find the best AI-powered app to transcribe your audio
-Description: <figure>
-      <img alt="Repeating green microphones over a black background" src="https://cdn.vox-cdn.com/thumbor/cHDb7mEJ_eKOYyMRXHMFA11JXgc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_im...
-Link: https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to
 
 ---
 
@@ -109,6 +105,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Amazon partners with Anthropic to enhance Alexa
+Description: <p>Amazon is gearing up to roll out a revamped version of its Alexa voice assistant, which is expected to be available this October, right before the US shopping rush. Internally referred to as &#8220...
+Link: https://www.artificialintelligence-news.com/news/amazon-partners-anthropic-enhance-alexa/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-partners-anthropic-enhance-alexa
 Headline: IDC: GenAI smartphones to drive global shipment growth in 2024
 Description: <p>IDC has revised its global smartphone shipments forecast 2024, projecting a 5.8% year-on-year (YoY) growth to 1.23 billion units. The market intelligence firm&#8217;s optimistic outlook is driven b...
 Link: https://www.artificialintelligence-news.com/news/idc-genai-smartphones-drive-global-shipment-growth-2024/?utm_source=rss&utm_medium=rss&utm_campaign=idc-genai-smartphones-drive-global-shipment-growth-2024
@@ -136,9 +135,6 @@ Link: https://www.artificialintelligence-news.com/news/sovereign-ai-gets-boost-n
 Headline: Authors file lawsuit against Anthropic over ‘pirated’ works
 Description: <p>Three authors have filed&#160;a lawsuit&#160;against AI startup Anthropic, alleging the firm used their copyrighted works without permission to train its Claude language models. Andrea Bartz, Charl...
 Link: https://www.artificialintelligence-news.com/news/authors-file-lawsuit-against-anthropic-over-pirated-works/?utm_source=rss&utm_medium=rss&utm_campaign=authors-file-lawsuit-against-anthropic-over-pirated-works
-Headline: OpenAI warns California’s AI bill threatens US innovation
-Description: <p>OpenAI has added its voice to the growing chorus of tech leaders and politicians opposing a controversial AI safety bill in California. The company argues that the legislation, SB 1047, would stifl...
-Link: https://www.artificialintelligence-news.com/news/openai-warns-california-ai-bill-threatens-us-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=openai-warns-california-ai-bill-threatens-us-innovation
 
 ---
 
@@ -147,6 +143,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: How “personhood credentials” could help prove you’re a human online
+Description: As AI models become better at mimicking human behavior, it’s becoming increasingly difficult to distinguish between real human internet users and sophisticated systems imitating them.&#160; That’s a r...
+Link: https://www.technologyreview.com/2024/09/02/1103466/how-personhood-credentials-could-help-prove-youre-a-human-online/
 Headline: A new way to build neural networks could make AI more understandable
 Description: A tweak to the way artificial neurons work in neural networks could make AIs easier to decipher. Artificial neurons—the fundamental building blocks of deep neural networks—have survived almost unchang...
 Link: https://www.technologyreview.com/2024/08/30/1103385/a-new-way-to-build-neural-networks-could-make-ai-more-understandable/
@@ -171,10 +170,6 @@ Link: https://www.technologyreview.com/2024/08/23/1096607/ai-people-with-disabil
 Headline: We finally have a definition for open-source AI
 Description: Open-source AI is everywhere right now. The problem is, no one agrees on what it actually is. Now we may finally have an answer. The Open Source Initiative (OSI), the self-appointed arbiters of what i...
 Link: https://www.technologyreview.com/2024/08/22/1097224/we-finally-have-a-definition-for-open-source-ai/
-Headline: Why you’re about to see a lot more drones in the sky
-Description: This story is from The Algorithm, our weekly newsletter on AI. To get it in your inbox first, sign up here. If you follow drone news closely—and you’re forgiven if you don’t—you may have noticed over ...
-Link: https://www.technologyreview.com/2024/08/20/1097005/why-youre-about-to-see-a-lot-more-drones-in-the-sky/
-
 ---
 
 From source: https://ai.googleblog.com/feeds/posts/default
@@ -207,6 +202,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/elevate-customer-experience-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Forrester’s CISO budget priorities for 2025 focus on API, supply chain security
+Description: Safeguarding revenue and minimizing business risks will dominate CISOs' budgets next year, starting with APIs and software supply chains.
+Link: https://venturebeat.com/security/forresters-ciso-budget-priorities-for-2025-focus-on-api-supply-chain-security/
 Headline: Introducing AI’s long-lost twin: Engineered intelligence
 Description: The emerging discipline focuses on real-world application of AI research rooted in engineering — bringing science together with raw materials.
 Link: https://venturebeat.com/ai/introducing-ais-long-lost-twin-engineered-intelligence/
@@ -231,12 +229,6 @@ Link: https://venturebeat.com/ai/meta-leads-open-source-ai-boom-llama-downloads-
 Headline: Nvidia’s ‘Eagle’ AI sees the world in Ultra-HD, and it’s coming for your job
 Description: Nvidia's Eagle AI model revolutionizes visual understanding with high-resolution processing and multiple vision encoders, advancing document comprehension and visual question answering across industri...
 Link: https://venturebeat.com/ai/nvidias-eagle-ai-sees-the-world-in-ultra-hd-and-its-coming-for-your-job/
-Headline: OpenAI says ChatGPT now has 200M users
-Description: It also has 92% of Fortune 500 firms using its products, indicating massive uptake among enterprises and decision-makers.
-Link: https://venturebeat.com/ai/openai-says-chatgpt-now-has-200m-users/
-Headline: OpenAI and Anthropic agree to send models to US government for safety evaluations
-Description: OpenAI and Anthropic will send AI models to the US AI Safety Institute before public release for safety testing and evaluations.
-Link: https://venturebeat.com/ai/openai-and-anthropic-agree-to-send-models-to-us-government-for-safety-evaluations/
 
 ---
 
@@ -348,6 +340,9 @@ Link: https://www.sciencedaily.com/releases/2024/08/240811233343.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: How to avoid being fooled by AI-generated misinformation
+Description: Advances in generative AI mean fake images, videos, audio and bots are now everywhere. But studies have revealed the best ways to tell if something is real
+Link: https://www.newscientist.com/article/2445475-how-to-avoid-being-fooled-by-ai-generated-misinformation/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Generative AI creates playable version of Doom game with no code
 Description: A neural network can recreate the classic computer game Doom despite using none of its code or graphics, hinting that generative AI could be used to create games from scratch in future
 Link: https://www.newscientist.com/article/2445450-generative-ai-creates-playable-version-of-doom-game-with-no-code/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -375,9 +370,6 @@ Link: https://www.newscientist.com/video/2444207-can-ai-make-crime-scene-investi
 Headline: AI could help shrinking pool of coders keep outdated programs working
 Description: Computer code dating back to the 1960s is still vital to banks, airlines and governments, but programmers familiar with the language are in short supply. Now AI models are being trained to fill the sk...
 Link: https://www.newscientist.com/article/2443466-ai-could-help-shrinking-pool-of-coders-keep-outdated-programs-working/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Why the T in ChatGPT is AI's biggest breakthrough - and greatest risk
-Description: AI companies hope that feeding ever more data to their models will continue to boost performance, eventually leading to human-level intelligence. Behind this hope is the "transformer", a key breakthro...
-Link: https://www.newscientist.com/article/2444078-why-the-t-in-chatgpt-is-ais-biggest-breakthrough-and-greatest-risk/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -390,15 +382,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Chatgpt gives me answers that Google searches can't
-Description: <!-- SC_OFF --><div class="md"><p>I look up questions that inmates in jail ask me to research, I ask questions about political theories, I ask questions about music, I ask questions about social media...
-Link: https://www.reddit.com/r/artificial/comments/1f66xmv/chatgpt_gives_me_answers_that_google_searches_cant/
-Headline: Building an AI Engineering Manager with GitHub Data
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1f6aer4/building_an_ai_engineering_manager_with_github/"> <img alt="Building an AI Engineering Manager with GitHub Data" src="htt...
-Link: https://www.reddit.com/r/artificial/comments/1f6aer4/building_an_ai_engineering_manager_with_github/
-Headline: One-Minute Daily AI News 8/31/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><p>Cartesia AI Released Rene: A Groundbreaking 1.3B Parameter Open-Source Small Language Model Transforming Natural Language Processing Applications.[1]</p></li...
-Link: https://www.reddit.com/r/artificial/comments/1f66ndn/oneminute_daily_ai_news_8312024/
+Headline: My AI companion system
+Description: <!-- SC_OFF --><div class="md"><p>Hello all, I am autistic, with comorbidities in ADHD and Bipolar type 2, after many years of exploring treatment and options my current independent living plan revolv...
+Link: https://www.reddit.com/r/artificial/comments/1f6yerb/my_ai_companion_system/
+Headline: Are there any consumer focused AI products that are actually changing the game?
+Description: <!-- SC_OFF --><div class="md"><p>So as part of a project I'm running, I'm trying to find AI companies/products that are going to transform the consumer's experience directly.</p> <p>Most of what I ca...
+Link: https://www.reddit.com/r/artificial/comments/1f7gs4b/are_there_any_consumer_focused_ai_products_that/
+Headline: Reddit Monetization From AI Data Mining Deals Is Driving Revenue Growth
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1f7nbn6/reddit_monetization_from_ai_data_mining_deals_is/"> <img alt="Reddit Monetization From AI Data Mining Deals Is Driving Re...
+Link: https://www.reddit.com/r/artificial/comments/1f7nbn6/reddit_monetization_from_ai_data_mining_deals_is/
+Headline: One-Minute Daily AI News 9/1/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Microsoft</strong> Research Introduces <strong>AutoGen</strong> Studio: A Low-Code Interface for Rapidly Prototyping AI Agents.[1]</li> <li>Generative A...
+Link: https://www.reddit.com/r/artificial/comments/1f6yd0e/oneminute_daily_ai_news_912024/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
