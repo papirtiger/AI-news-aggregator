@@ -1,6 +1,18 @@
-AI News Updates - 2024-09-06 02:41:55
+AI News Updates - 2024-09-07 02:40:18
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
+Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to hyper-charge productivity through writing essays and code wit...
+Link: https://techcrunch.com/2024/09/06/chatgpt-everything-to-know-about-the-ai-chatbot/
+Headline: TechCrunch Minute: Canva faces backlash over price hikes
+Description: <p>Some Canva customers are experiencing serious sticker shock, while the company is pointing to new AI features to justify the price hike. The company has established itself as a simpler, more afford...
+Link: https://techcrunch.com/video/techcrunch-minute-canva-faces-backlash-over-price-hikes/
+Headline: The New Data Pipeline: Fivetran, DataStax and NEA are coming to TechCrunch Disrupt 2024
+Description: <p>In the world of modern AI, data is more than just a resource — it&#8217;s the fundamental core that aligns decision-makers, supports processes and enables innovation. As AI applications become more...
+Link: https://techcrunch.com/2024/09/06/the-new-data-pipeline-fivetran-datastax-and-nea-are-coming-to-techcrunch-disrupt-2024/
+Headline: Real estate revolutions and beanie baby economies
+Description: <p>The Equity podcast crew is wrapping up another eventful week, with real estate, AI agents, gambling and secondary markets — which are, of course, a form of legalized gambling. Mary Ann Azevedo, Bec...
+Link: https://techcrunch.com/2024/09/06/real-estate-revolutions-and-beanie-baby-economies/
 Headline: Microsoft gives deepfake porn victims a tool to scrub images from Bing search
 Description: <p>The advancement of generative AI tools has created a new problem for the internet: the proliferation of synthetic nude images resembling real people. On Thursday, Microsoft took a major step to giv...
 Link: https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/
@@ -19,20 +31,11 @@ Headline: The AI industry is obsessed with Chatbot Arena, but it might not be th
 Description: <p>LMSYS' Chatbot Arena is perhaps the most popular AI benchmark today — and an industry obsession. But it's far from a perfect measure.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use...
 Link: https://techcrunch.com/2024/09/05/the-ai-industry-is-obsessed-with-chatbot-arena-but-it-might-not-be-the-best-benchmark/
-Headline: Google expands AI-powered virtual try-on tool to include dresses
-Description: <p>Google announced Thursday that it expanded its generative AI-powered virtual try-on tool to support dresses, allowing users to virtually wear thousands of dresses from hundreds of brands, including...
-Link: https://techcrunch.com/2024/09/05/google-expands-ai-powered-virtual-try-on-tool-include-dresses/
-Headline: YouTube is developing AI detection tools for music and faces, plus creator controls for AI training
-Description: <p>Also of note, YouTube is in the early stages of coming up with a solution to address the use of its content to train AI models.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only....
-Link: https://techcrunch.com/2024/09/05/youtube-is-developing-ai-detection-tools-for-music-and-faces-plus-creator-controls-for-ai-training/
-Headline: US, UK and EU sign on to the Council of Europe’s high-level AI safety treaty
-Description: <p>We&#8217;re not very close to any specifics on how, exactly, AI regulations will be implemented and ensured, but today a swathe of countries including the U.S., the U.K. and the European Union sign...
-Link: https://techcrunch.com/2024/09/05/us-uk-and-eu-sign-on-to-the-council-of-europes-high-level-ai-safety-treaty/
+
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
-Headline: US and UK sign legally enforceable AI treaty
+Headline: US, EU, UK, and others sign legally enforceable AI treaty
 Description: <figure>
       <img alt="Digital photo collage of a statue of justice with too many arms." src="https://cdn.vox-cdn.com/thumbor/eABVFcy-ebGwsuEgeIjII-B6IJQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uplo...
 Link: https://www.theverge.com/2024/9/5/24236980/us-signs-legally-enforceable-ai-treaty
@@ -76,6 +79,9 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: How AI Is Personalizing Customer Service Experiences Across Industries
+Description: Customer service departments across industries are facing increased call volumes, high customer service agent turnover, talent shortages and shifting customer expectations. Customers expect both self-...
+Link: https://blogs.nvidia.com/blog/ai-personalize-customer-service-experiences/
 Headline: Three Ways to Ride the Flywheel of Cybersecurity AI
 Description: The business transformations that generative AI brings come with risks that AI itself can help secure in a kind of flywheel of progress. Companies who were quick to embrace the open internet more than...
 Link: https://blogs.nvidia.com/blog/ai-cybersecurity-flywheel/
@@ -100,9 +106,6 @@ Link: https://blogs.nvidia.com/blog/contextual-ai-retrieval-augmented-generation
 Headline: NVIDIA Blackwell Sets New Standard for Generative AI in MLPerf Inference Debut
 Description: As enterprises race to adopt generative AI and bring new services to market, the demands on data center infrastructure have never been greater. Training large language models is one challenge, but del...
 Link: https://blogs.nvidia.com/blog/mlperf-inference-benchmark-blackwell/
-Headline: More Than Fine: Multi-LoRA Support Now Available in NVIDIA RTX AI Toolkit
-Description: Large language models are driving some of the most exciting developments in AI with their ability to quickly understand, summarize and generate text-based content.
-Link: https://blogs.nvidia.com/blog/ai-decoded-multi-lora-rtx/
 
 ---
 
@@ -111,6 +114,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: AlphaProteo: Google DeepMind unveils protein design system
+Description: <p>Google DeepMind has unveiled an AI system called AlphaProteo that can design novel proteins that successfully bind to target molecules, potentially revolutionising drug design and disease research....
+Link: https://www.artificialintelligence-news.com/news/alphaproteo-google-deepmind-protein-design-system/?utm_source=rss&utm_medium=rss&utm_campaign=alphaproteo-google-deepmind-protein-design-system
 Headline: Here’s how niche AI assistants are helping unlock the technology’s true capabilities
 Description: <p>With artificial intelligence continuing to permeate a growing number of sectors, there is no telling what this market will be worth in the next decade or so. Amid this expansion, AI assistants have...
 Link: https://www.artificialintelligence-news.com/news/heres-how-niche-ai-assistants-are-helping-unlock-the-technologys-true-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=heres-how-niche-ai-assistants-are-helping-unlock-the-technologys-true-capabilities
@@ -138,9 +144,6 @@ Link: https://www.artificialintelligence-news.com/news/idc-genai-smartphones-dri
 Headline: How AI can help your business get off to a flyer
 Description: <p>Is there a problem nowadays that AI cannot solve? In all honesty, there are not many it seems. By using algorithms and ploughing through copious amounts of data and applying learnings absorbed from...
 Link: https://www.artificialintelligence-news.com/news/how-ai-can-help-your-business-get-off-to-a-flyer/?utm_source=rss&utm_medium=rss&utm_campaign=how-ai-can-help-your-business-get-off-to-a-flyer
-Headline: California Assembly passes controversial AI safety bill
-Description: <p>The California State Assembly has approved the Safe and Secure Innovation for Frontier Artificial Intelligence Models Act (SB 1047). The bill, which has sparked intense debate in Silicon Valley and...
-Link: https://www.artificialintelligence-news.com/news/california-assembly-passes-controversial-ai-safety-bill/?utm_source=rss&utm_medium=rss&utm_campaign=california-assembly-passes-controversial-ai-safety-bill
 
 ---
 
@@ -149,6 +152,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: Roblox is launching a generative AI that builds 3D environments in a snap
+Description: Roblox plans to roll out a generative AI tool that will let creators make whole 3D scenes just using text prompts, it announced today.  Once it’s up and running, developers on the hugely popular onlin...
+Link: https://www.technologyreview.com/2024/09/06/1103707/roblox-is-launching-a-generative-ai-that-builds-3d-environments-in-a-snap/
 Headline: What this futuristic Olympics video says about the state of generative AI
 Description: The Olympic Games in Paris just finished last month and the Paralympics are still underway, so the 2028 Summer Olympics in Los Angeles feel like a lifetime from now. But the prospect of watching the g...
 Link: https://www.technologyreview.com/2024/09/03/1103516/what-this-futuristic-olympics-video-says-about-the-state-of-generative-ai/
@@ -176,9 +182,6 @@ Link: https://www.technologyreview.com/2024/08/27/1096133/ai-economic-inequality
 Headline: A skeptic’s guide to humanoid-robot videos
 Description: This story is from The Algorithm, our weekly newsletter on AI. To get it in your inbox first,&#160;sign up here. We are living in “humanoid summer” right now, if you didn’t know. Or at least it feels ...
 Link: https://www.technologyreview.com/2024/08/27/1103035/a-skeptics-guide-to-humanoid-robot-videos/
-Headline: AI and the future of sex
-Description: The power of pornography doesn’t lie in arousal but in questions. What is obscene? What is ethical or safe to watch?&#160; We don’t have to consume or even support it, but porn will still demand answe...
-Link: https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/
 
 ---
 
@@ -191,6 +194,12 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: How Vidmob is using generative AI to transform its creative data landscape
+Description: In this post, we illustrate how Vidmob, a creative data company, worked with the AWS Generative AI Innovation Center (GenAIIC) team to uncover meaningful insights at scale within creative data using A...
+Link: https://aws.amazon.com/blogs/machine-learning/how-vidmob-is-using-generative-ai-to-transform-its-creative-data-landscape/
+Headline: Ground truth curation and metric interpretation best practices for evaluating generative AI question answering using FMEval
+Description: In this post, we discuss best practices for working with Foundation Model Evaluations Library (FMEval) in ground truth curation and metric interpretation for evaluating question answering applications...
+Link: https://aws.amazon.com/blogs/machine-learning/ground-truth-curation-and-metric-interpretation-best-practices-for-evaluating-generative-ai-question-answering-using-fmeval/
 Headline: Build powerful RAG pipelines with LlamaIndex and Amazon Bedrock
 Description: In this post, we show you how to use LlamaIndex with Amazon Bedrock to build robust and sophisticated RAG pipelines that unlock the full potential of LLMs for knowledge-intensive tasks.
 Link: https://aws.amazon.com/blogs/machine-learning/build-powerful-rag-pipelines-with-llamaindex-and-amazon-bedrock/
@@ -206,15 +215,19 @@ Link: https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-labs-ach
 Headline: Build a generative AI image description application with Anthropic’s Claude 3.5 Sonnet on Amazon Bedrock and AWS CDK
 Description: In this post, we delve into the process of building and deploying a sample application capable of generating multilingual descriptions for multiple images with a Streamlit UI, AWS Lambda powered with ...
 Link: https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-image-description-application-with-anthropics-claude-3-5-sonnet-on-amazon-bedrock-and-aws-cdk/
-Headline: Use LangChain with PySpark to process documents at massive scale with Amazon SageMaker Studio and Amazon EMR Serverless
-Description: In this post, we explore how to build a scalable and efficient Retrieval Augmented Generation (RAG) system using the new EMR Serverless integration, Spark’s distributed processing, and an Amazon OpenS...
-Link: https://aws.amazon.com/blogs/machine-learning/use-langchain-with-pyspark-to-process-documents-at-massive-scale-with-amazon-sagemaker-studio-and-amazon-emr-serverless/
-Headline: Best practices for prompt engineering with Meta Llama 3 for Text-to-SQL use cases
-Description: In this post, we explore a solution that uses the vector engine ChromaDB and Meta Llama 3, a publicly available foundation model hosted on SageMaker JumpStart, for a Text-to-SQL use case. We shared a ...
-Link: https://aws.amazon.com/blogs/machine-learning/best-practices-for-prompt-engineering-with-meta-llama-3-for-text-to-sql-use-cases/
+
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: How few-shot learning with Google’s Prompt Poet can supercharge your LLMs
+Description: Prompt Poet allows you to ground LLM-generated responses to a real-world data context, opening up a new horizon of AI interactions.
+Link: https://venturebeat.com/ai/how-few-shot-learning-with-googles-prompt-poet-can-supercharge-your-llms/
+Headline: Getty Images drops ‘cleanest’ visual dataset for training foundation models
+Description: With the open dataset, Getty Images wants to address enterprises’ ML training woes and position itself as a credible data partner.
+Link: https://venturebeat.com/data-infrastructure/getty-images-drops-cleanest-visual-dataset-for-training-foundation-models/
+Headline: Is AI the future of sales? Salesforce’s new models could change the game
+Description: Salesforce unveils xGen-Sales and xLAM AI models, transforming enterprise automation with action-oriented AI that outperforms larger models in efficiency and accuracy.
+Link: https://venturebeat.com/ai/is-ai-the-future-of-sales-salesforces-new-models-could-change-the-game/
 Headline: Fastn uses AI agents to facilitate data integration for complex app development
 Description: Since listing on Product Hunt in July 2024, Fastn has gained more than 450 users who are testing the platform in their workplace.
 Link: https://venturebeat.com/data-infrastructure/fastn-uses-ai-agents-to-facilitate-data-integration-for-complex-app-development/
@@ -236,19 +249,25 @@ Link: https://venturebeat.com/ai/lightspeed-l-a-reaches-agreement-with-sag-aftra
 Headline: Neo4j lowers barriers to graph technology with gen AI copilot, 15x read capacity
 Description: The upgrade for Neo4j AuraDB comes at a time when graph technologies are gaining significant traction in the market.
 Link: https://venturebeat.com/data-infrastructure/neo4j-lowers-barriers-to-graph-technology-with-gen-ai-copilot-15x-read-capacity/
-Headline: Paradigm launches to reinvent the spreadsheet with generative AI, filling in 500 cells per minute
-Description: The video showcases this in realtime, as we see cells filling in with information after just one click by the hypothetical user.
-Link: https://venturebeat.com/ai/paradigm-launches-to-reinvent-the-spreadsheet-with-generative-ai-filling-in-500-cells-per-minute/
-Headline: Stability AI brings new Stable Diffusion models to Amazon Bedrock
-Description: Stability AI is making it easier for enterprise users to access Stable Diffusion text to image models, with an expanded partnership with AWS on Amazon Bedrock.
-Link: https://venturebeat.com/ai/stability-ai-looks-to-grow-stable-diffusion-text-to-image-ai-usage-with-amazon-bedrock/
-Headline: Sakana AI scores $100M to challenge OpenAI, Anthropic as ‘world class’ AI lab
-Description: With the series A coming from leading venture capital firms, Sakana AI plans to speed up hiring and build an AI research organization.
-Link: https://venturebeat.com/ai/sakana-ai-scores-100m-to-challenge-openai-anthropic-as-world-class-ai-lab/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Red Hat unleashes Enterprise Linux AI - and it's truly useful
+Description: Many AI programs, despite all the hype, aren't that useful. On the other hand, Red Hat Enterprise Linux AI will help system administrators and developers alike.
+Link: https://www.zdnet.com/article/red-hat-unleashes-enterprise-linux-ai-and-its-truly-useful/#ftag=RSSbaffb68
+Headline: New global standard aims to build security around large language models
+Description: The WDTA framework spans the lifecycle of large language models, offering guidelines to manage integration with other systems.
+Link: https://www.zdnet.com/article/new-global-standard-aims-to-build-security-around-large-language-models/#ftag=RSSbaffb68
+Headline: How to use Midjourney's website to generate amazing images with AI
+Description: Midjourney is an AI image generator that can conjure impressive logos, artwork, and other graphics based on your imaginative descriptions. It's now much easier to use - here's how.
+Link: https://www.zdnet.com/article/how-to-use-midjourneys-website-to-generate-amazing-images-with-ai/#ftag=RSSbaffb68
+Headline: What AI can't do, digital twins, and swiveling laptop screens
+Description: In this week's Innovation Index, humans still have some leverage over AI, digital twins reign supreme, and IFA 2024 offers strange, wonderful products.
+Link: https://www.zdnet.com/article/what-ai-cant-do-digital-twins-and-swiveling-laptop-screens/#ftag=RSSbaffb68
+Headline: Understanding RAG: How to integrate generative AI LLMs with your business knowledge
+Description: Enhance your organization's use of AI by integrating LLMs with specific business data for more accurate responses using vector databases and open-source tools.
+Link: https://www.zdnet.com/article/understanding-rag-how-to-integrate-generative-ai-llms-with-your-business-knowledge/#ftag=RSSbaffb68
 Headline: How AI can help fix this global healthcare challenge
 Description: Singapore's health minister discusses aging populations and how AI can prepare nations for the inevitable.
 Link: https://www.zdnet.com/article/how-ai-can-help-fix-this-growing-healthcare-challenge/#ftag=RSSbaffb68
@@ -264,18 +283,6 @@ Link: https://www.zdnet.com/article/businesses-still-ready-to-invest-in-gen-ai-w
 Headline: Firefox now lets you access your favorite AI chatbot without switching tabs - here's how
 Description: With Firefox version 130, you can access ChatGPT, Google Gemini, or another AI directly from the sidebar.
 Link: https://www.zdnet.com/article/firefox-now-lets-you-access-your-favorite-ai-chatbot-without-switching-tabs-heres-how/#ftag=RSSbaffb68
-Headline: 6 ways to write better ChatGPT prompts - and get the results you want faster
-Description: There's an art to making the most of AI. Optimizing your inputs can improve ChatGPT's outputs. Here's how.
-Link: https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/#ftag=RSSbaffb68
-Headline: Anthropic's new Claude Enterprise plan brings AI superpowers to businesses at scale
-Description: The new plan offers a huge context window to remember lots of information and direct integration with GitHub to help with coding.
-Link: https://www.zdnet.com/article/anthropics-new-claude-enterprise-plan-brings-ai-to-businesses/#ftag=RSSbaffb68
-Headline: 1 in 3 workers are using AI multiple times a week - and they're shouting about it
-Description: Research suggests that 'Maximalists' actively encourage laggards to use artificial intelligence. Here's why everyone must start exploiting AI.
-Link: https://www.zdnet.com/article/1-in-3-workers-are-using-ai-multiple-times-a-week-and-theyre-shouting-about-it/#ftag=RSSbaffb68
-Headline: OpenAI's lead Japan exec teases 'GPT Next' - but what does it mean?
-Description: A conference appearance hints at new technology this year.
-Link: https://www.zdnet.com/article/openais-lead-japan-exec-teases-gpt-next/#ftag=RSSbaffb68
 
 ---
 
@@ -360,6 +367,15 @@ Link: https://www.sciencedaily.com/releases/2024/08/240812165449.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Smart speakers at crime scenes could provide valuable clues to police
+Description: Information on faces recognised, voice commands and internet searches can be extracted from an Amazon Echo smart assistant without help from the user or manufacturer
+Link: https://www.newscientist.com/article/2445673-smart-speakers-at-crime-scenes-could-provide-valuable-clues-to-police/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: NATO tests autonomous drone technology in DARPA-style competition
+Description: In a basement beneath City St George's, University of London, senior NATO leaders watch on as four research teams demonstrate the latest in AI-controlled, autonomous drone technolo0gy
+Link: https://www.newscientist.com/video/2446884-nato-tests-autonomous-drone-technology-in-darpa-style-competition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: We need transparency from the companies disseminating misinformation
+Description: As misinformation about the upcoming US elections rockets across social media, creating chaos, companies need to be honest about where this content is coming from, says Annalee Newitz
+Link: https://www.newscientist.com/article/mg26335072-300-we-need-transparency-from-the-companies-disseminating-misinformation/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Nexus review: Yuval Noah Harari is out of his depth in his new book
 Description: The author of Sapiens has turned his attention to the information networks that shape our societies, but when you stop and think about what he's saying, it's obvious
 Link: https://www.newscientist.com/article/mg26335070-400-nexus-review-yuval-noah-harari-is-out-of-his-depth-in-his-new-book/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -381,15 +397,6 @@ Link: https://www.newscientist.com/article/2445450-generative-ai-creates-playabl
 Headline: Why is the US military getting ready to launch new spy balloons?
 Description: The US military has prioritised deploying high-altitude balloons that can carry out surveillance
 Link: https://www.newscientist.com/article/2445877-why-is-the-us-military-getting-ready-to-launch-new-spy-balloons/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: What can governments do about online disinformation from abroad?
-Description: A cyberterrorism charge in Pakistan connected to riots in the UK illustrates how authorities are reaching across borders to tackle disinformation, but bringing overseas suspects to justice won't alway...
-Link: https://www.newscientist.com/article/2445086-what-can-governments-do-about-online-disinformation-from-abroad/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: A simple driving trick could make a big dent in cars' carbon emissions
-Description: An AI-powered model found that approaching intersections more slowly could lower yearly US carbon emissions by up to around 123 million tonnes
-Link: https://www.newscientist.com/article/2445202-a-simple-driving-trick-could-make-a-big-dent-in-cars-carbon-emissions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: DNA computer can play chess and solve sudoku puzzles
-Description: Computers made from DNA have previously only been able to store information or perform computations on it – now a new device can do both
-Link: https://www.newscientist.com/article/2445224-dna-computer-can-play-chess-and-solve-sudoku-puzzles/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -402,30 +409,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Australia plans AI rules on human oversight, transparency | Reuters
-Description: <!-- SC_OFF --><div class="md"><p>From the article:</p> <blockquote> <p>Australia's centre-left government said on Thursday it planned to introduce targeted artificial intelligence rules including hum...
-Link: https://www.reddit.com/r/artificial/comments/1f9wdp3/australia_plans_ai_rules_on_human_oversight/
-Headline: TIME shares their TIME100 AI list for 2024
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1f9prax/time_shares_their_time100_ai_list_for_2024/"> <img alt="TIME shares their TIME100 AI list for 2024" src="https://external...
-Link: https://www.reddit.com/r/artificial/comments/1f9prax/time_shares_their_time100_ai_list_for_2024/
-Headline: Google DeepMind Unveils AlphaProteo
-Description: <!-- SC_OFF --><div class="md"><p>In a significant leap for biological and health research, Google DeepMind announced AlphaProteo, a new AI-driven system designed to create novel protein binders with ...
-Link: https://www.reddit.com/r/artificial/comments/1fa2xka/google_deepmind_unveils_alphaproteo/
-Headline: Is there an AI gore subreddit of some sort?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fa2lnj/is_there_an_ai_gore_subreddit_of_some_sort/"> <img alt="Is there an AI gore subreddit of some sort?" src="https://preview...
-Link: https://www.reddit.com/r/artificial/comments/1fa2lnj/is_there_an_ai_gore_subreddit_of_some_sort/
-Headline: using AI to create a colouring in book for kids from existing artwork
-Description: <!-- SC_OFF --><div class="md"><p>does anyone have experience using AI image editors to turn photographs or paintings into colouring in book line drawings? I'm fairly naive with this stuff but would b...
-Link: https://www.reddit.com/r/artificial/comments/1f9q2rj/using_ai_to_create_a_colouring_in_book_for_kids/
-Headline: Building AI Customer Support with PII data Protection using Langchain
-Description: <!-- SC_OFF --><div class="md"><p>I recently tackled a challenge that I think a lot of us face: building a chatbot that can handle customer support queries without compromising user privacy.</p> <p>Cr...
-Link: https://www.reddit.com/r/artificial/comments/1f9iytd/building_ai_customer_support_with_pii_data/
-Headline: In market to purchase an ai subscription to generate stories with images. Money is no issue, so whats the best one to generate crestive stories?
-Description: <!-- SC_OFF --><div class="md"><p>I was thinking chat gpt monthly for the 20 a month but was wondering if there were better ones to buy before i bite the bullet</p> </div><!-- SC_ON --> &#32; submitte...
-Link: https://www.reddit.com/r/artificial/comments/1fa1ak2/in_market_to_purchase_an_ai_subscription_to/
-Headline: Hello everybody, im looking for a reccomendation for a AI type friend
-Description: <!-- SC_OFF --><div class="md"><p>I need him to do these things</p> <ol> <li><p>&quot;Lives&quot; on my monitor screen always being visible</p></li> <li><p>Can be talked with by typing</p></li> </ol> ...
-Link: https://www.reddit.com/r/artificial/comments/1f9tafs/hello_everybody_im_looking_for_a_reccomendation/
+Headline: TIL there's a black-market for AI chatbots and it is thriving
+Description: <!-- SC_OFF --><div class="md"><blockquote> <p>Illicit large language models (LLMs) can make up to $28,000 in two months from sales on underground markets.</p> <p>The LLMs fall into two categories: th...
+Link: https://www.reddit.com/r/artificial/comments/1fa4jke/til_theres_a_blackmarket_for_ai_chatbots_and_it/
+Headline: Rupert, a robot butler thrill ride short film made with AI.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1faimyn/rupert_a_robot_butler_thrill_ride_short_film_made/"> <img alt="Rupert, a robot butler thrill ride short film made with AI...
+Link: https://www.reddit.com/r/artificial/comments/1faimyn/rupert_a_robot_butler_thrill_ride_short_film_made/
+Headline: AI Adoption Hasn't Led to Significant Job Cuts, NY Fed Survey Reveals
+Description: <!-- SC_OFF --><div class="md"><p>A recent survey by the Federal Reserve Bank of New York shows that companies adopting artificial intelligence (AI) are not significantly cutting jobs. The findings, b...
+Link: https://www.reddit.com/r/artificial/comments/1fantyd/ai_adoption_hasnt_led_to_significant_job_cuts_ny/
+Headline: Ai impersonation paid ads on Facebook are a big problem
+Description: <!-- SC_OFF --><div class="md"><p>It's usually an ai dubbed voice of an influential figure on a poorley edited video of him/her moving his/her mouth promoting a snake oil medicine for knees and joints...
+Link: https://www.reddit.com/r/artificial/comments/1fafegi/ai_impersonation_paid_ads_on_facebook_are_a_big/
+Headline: UK signs first international treaty to implement AI safeguards
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fabvhr/uk_signs_first_international_treaty_to_implement/"> <img alt="UK signs first international treaty to implement AI safegua...
+Link: https://www.reddit.com/r/artificial/comments/1fabvhr/uk_signs_first_international_treaty_to_implement/
+Headline: One-Minute Daily AI News 9/5/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Video game performers reach agreement with 80 video games on AI terms.[1]</li> <li>California Governor Gavin Newsom hopes artificial intelligence can help addre...
+Link: https://www.reddit.com/r/artificial/comments/1fa55g6/oneminute_daily_ai_news_952024/
+Headline: AI Models From Google, Meta, Others May Not Be Truly 'Open Source'
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fajzue/ai_models_from_google_meta_others_may_not_be/"> <img alt="AI Models From Google, Meta, Others May Not Be Truly 'Open Sour...
+Link: https://www.reddit.com/r/artificial/comments/1fajzue/ai_models_from_google_meta_others_may_not_be/
+Headline: For people who care about output quality and Evaluations in LLMs I have created r/AIQuality (one for the hallucination free systems)
+Description: <!-- SC_OFF --><div class="md"><p>RAG and LLMs are all over the place, and for good reason! It’s transforming how LLMs generate informed, accurate responses by combining them with external knowledge s...
+Link: https://www.reddit.com/r/artificial/comments/1facmkh/for_people_who_care_about_output_quality_and/
 
 ---
 
