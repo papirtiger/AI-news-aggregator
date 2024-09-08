@@ -1,6 +1,9 @@
-AI News Updates - 2024-09-07 02:40:18
+AI News Updates - 2024-09-08 02:47:21
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: How a viral AI image catapulted a Mexican startup to a major adidas contract
+Description: <p>Antonio Nuño, Fatima Alvarez, and Enrique Rodriguez have been friends since they were five years old. As teenagers, they became volunteers helping indigenous communities &#8212; first in Mexico, th...
+Link: https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/
 Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
 Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to hyper-charge productivity through writing essays and code wit...
 Link: https://techcrunch.com/2024/09/06/chatgpt-everything-to-know-about-the-ai-chatbot/
@@ -27,14 +30,14 @@ Link: https://techcrunch.com/2024/09/05/all-hands-ai-raises-5m-to-build-open-sou
 Headline: German LLM maker Aleph Alpha pivots to AI support
 Description: <p>Europe doesn&#8217;t have many large language model (LLM) makers but one of these rare AI beasts &#8212; Germany&#8217;s Aleph Alpha &#8212; appears to be preparing to rule itself out of the runnin...
 Link: https://techcrunch.com/2024/09/05/german-llm-maker-aleph-alpha-pivots-to-ai-support/
-Headline: The AI industry is obsessed with Chatbot Arena, but it might not be the best benchmark
-Description: <p>LMSYS' Chatbot Arena is perhaps the most popular AI benchmark today — and an industry obsession. But it's far from a perfect measure.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use...
-Link: https://techcrunch.com/2024/09/05/the-ai-industry-is-obsessed-with-chatbot-arena-but-it-might-not-be-the-best-benchmark/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: How to watch Apple’s ‘Glowtime’ iPhone 16 event
+Description: <figure>
+      <img alt="Picture of the Apple Glowtime event: a rainbow-colored Apple logo with rounded shapes overlapping behind and inside of it." src="https://cdn.vox-cdn.com/thumbor/2YhbopFx6mChLn...
+Link: https://www.theverge.com/2024/9/7/24238537/apples-glowtime-iphone-16-event-how-to-watch-ios-18-apple-intelligence-ai
 Headline: US, EU, UK, and others sign legally enforceable AI treaty
 Description: <figure>
       <img alt="Digital photo collage of a statue of justice with too many arms." src="https://cdn.vox-cdn.com/thumbor/eABVFcy-ebGwsuEgeIjII-B6IJQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uplo...
@@ -67,10 +70,6 @@ Headline: The Nvidia AI antitrust investigation is ‘escalating,’ reports Blo
 Description: <figure>
       <img alt="Vector collage of the Ndivia logo." src="https://cdn.vox-cdn.com/thumbor/5mA0iFL9u4b3OC8DlXRQVQjthMA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7356191...
 Link: https://www.theverge.com/2024/9/3/24235233/nvidia-doj-ai-antitrust-investigation
-Headline: New VWs will answer some of your questions with ChatGPT
-Description: <figure>
-      <img alt="A picture of a touchscreen inside a vehicle, with text on the screen indicating a question has been asked of the AI assistant." src="https://cdn.vox-cdn.com/thumbor/S4CVK1M0f6...
-Link: https://www.theverge.com/2024/9/3/24234979/volkswagen-vw-ai-chatgpt-plus-speech-id-4-gti-golf-r-tiguan
 
 ---
 
@@ -219,6 +218,12 @@ Link: https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-image-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Get ready for a tumultuous era of GPU cost volitivity
+Description: Global AI revenue is booming, which is great for chip makers. But for many businesses, it requires a whole new discipline of cost management.
+Link: https://venturebeat.com/ai/get-ready-for-a-tumultuous-era-of-gpu-cost-volitivity/
+Headline: How AI is making copyright issues more complicated | Devcom panel
+Description: <p>AI and games has become the hottest topic at game conferences like Devcom, the game developer conference that precedes the giant Gamescom expo every year in Cologne. At the event, I moderated a pan...
+Link: https://venturebeat.com/games/how-ai-is-making-copyright-issues-more-complicated-devcom-panel/
 Headline: How few-shot learning with Google’s Prompt Poet can supercharge your LLMs
 Description: Prompt Poet allows you to ground LLM-generated responses to a real-world data context, opening up a new horizon of AI interactions.
 Link: https://venturebeat.com/ai/how-few-shot-learning-with-googles-prompt-poet-can-supercharge-your-llms/
@@ -243,16 +248,13 @@ Link: https://venturebeat.com/ai/openai-says-it-reached-1-million-business-users
 Headline: Medical startup Paige unveils Alba AI all-in-one assistant for pathology research
 Description: Its AI models were trained on over 3 million pathology slides collected from more than 800 labs across 45 countries.
 Link: https://venturebeat.com/ai/medical-startup-paige-unveils-alba-ai-all-in-one-assistant-for-pathology-research/
-Headline: Lightspeed L.A. reaches agreement with SAG-AFTRA on AI Protections
-Description: Last Sentinel developer Lightspeed L.A. has reached an agreement with the Screen Actors Guild on AI protections in their games.
-Link: https://venturebeat.com/ai/lightspeed-l-a-reaches-agreement-with-sag-aftra-on-ai-protections/
-Headline: Neo4j lowers barriers to graph technology with gen AI copilot, 15x read capacity
-Description: The upgrade for Neo4j AuraDB comes at a time when graph technologies are gaining significant traction in the market.
-Link: https://venturebeat.com/data-infrastructure/neo4j-lowers-barriers-to-graph-technology-with-gen-ai-copilot-15x-read-capacity/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Four reasons I'm not upgrading to an iPhone 16 Pro from my iPhone 14
+Description: The iPhone 16 promises AI and a shiny new camera button, among other features, but is it worth the upgrade? Here's what could convince me to upgrade from my iPhone 14 Pro Max.
+Link: https://www.zdnet.com/article/four-reasons-im-not-upgrading-to-an-iphone-16-pro-from-my-iphone-14/#ftag=RSSbaffb68
 Headline: Red Hat unleashes Enterprise Linux AI - and it's truly useful
 Description: Many AI programs, despite all the hype, aren't that useful. On the other hand, Red Hat Enterprise Linux AI will help system administrators and developers alike.
 Link: https://www.zdnet.com/article/red-hat-unleashes-enterprise-linux-ai-and-its-truly-useful/#ftag=RSSbaffb68
@@ -280,9 +282,6 @@ Link: https://www.zdnet.com/article/searching-through-your-google-photos-is-abou
 Headline: Businesses still ready to invest in Gen AI, with risk management a top priority
 Description: According to a Salesforce study, 87% of C-suite executives say implementing AI technology is a top business priority, but 93% acknowledge barriers to adoption in their organizations.
 Link: https://www.zdnet.com/article/businesses-still-ready-to-invest-in-gen-ai-with-risk-management-a-top-priority/#ftag=RSSbaffb68
-Headline: Firefox now lets you access your favorite AI chatbot without switching tabs - here's how
-Description: With Firefox version 130, you can access ChatGPT, Google Gemini, or another AI directly from the sidebar.
-Link: https://www.zdnet.com/article/firefox-now-lets-you-access-your-favorite-ai-chatbot-without-switching-tabs-heres-how/#ftag=RSSbaffb68
 
 ---
 
@@ -336,6 +335,9 @@ From source: https://www.sciencedaily.com/rss/computers_math/artificial_intellig
 Headline: Fungus-controlled robots tap into the unique power of nature
 Description: In creating a pair of new robots, researchers cultivated an unlikely component, one found on the forest floor: fungal mycelia. By harnessing mycelia's innate electrical signals, the researchers discov...
 Link: https://www.sciencedaily.com/releases/2024/09/240904192325.htm
+Headline: People facing life-or-death choice put too much trust in AI, study finds
+Description: In simulated life-or-death decisions, about two-thirds of people in a study allowed a robot to change their minds when it disagreed with them -- an alarming display of excessive trust in artificial in...
+Link: https://www.sciencedaily.com/releases/2024/09/240904184540.htm
 Headline: Artificial intelligence improves lung cancer diagnosis
 Description: A team of researchers has created a digital pathology platform based on artificial intelligence. The platform uses new algorithms developed by the team and enables fully automated analysis of tissue s...
 Link: https://www.sciencedaily.com/releases/2024/08/240823120058.htm
@@ -360,9 +362,6 @@ Link: https://www.sciencedaily.com/releases/2024/08/240813132013.htm
 Headline: New method for orchestrating successful collaboration among robots
 Description: New research shows that programming robots to create their own teams and voluntarily wait for their teammates results in faster task completion, with the potential to improve manufacturing, agricultur...
 Link: https://www.sciencedaily.com/releases/2024/08/240812165455.htm
-Headline: Engineers make tunable, shape-changing metamaterial inspired by vintage toys
-Description: Common push puppet toys in the shapes of animals and popular figures can move or collapse with the push of a button at the bottom of the toys' base. Now, a team of engineers has created a new class of...
-Link: https://www.sciencedaily.com/releases/2024/08/240812165449.htm
 
 ---
 
@@ -409,30 +408,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: TIL there's a black-market for AI chatbots and it is thriving
-Description: <!-- SC_OFF --><div class="md"><blockquote> <p>Illicit large language models (LLMs) can make up to $28,000 in two months from sales on underground markets.</p> <p>The LLMs fall into two categories: th...
-Link: https://www.reddit.com/r/artificial/comments/1fa4jke/til_theres_a_blackmarket_for_ai_chatbots_and_it/
-Headline: Rupert, a robot butler thrill ride short film made with AI.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1faimyn/rupert_a_robot_butler_thrill_ride_short_film_made/"> <img alt="Rupert, a robot butler thrill ride short film made with AI...
-Link: https://www.reddit.com/r/artificial/comments/1faimyn/rupert_a_robot_butler_thrill_ride_short_film_made/
-Headline: AI Adoption Hasn't Led to Significant Job Cuts, NY Fed Survey Reveals
-Description: <!-- SC_OFF --><div class="md"><p>A recent survey by the Federal Reserve Bank of New York shows that companies adopting artificial intelligence (AI) are not significantly cutting jobs. The findings, b...
-Link: https://www.reddit.com/r/artificial/comments/1fantyd/ai_adoption_hasnt_led_to_significant_job_cuts_ny/
-Headline: Ai impersonation paid ads on Facebook are a big problem
-Description: <!-- SC_OFF --><div class="md"><p>It's usually an ai dubbed voice of an influential figure on a poorley edited video of him/her moving his/her mouth promoting a snake oil medicine for knees and joints...
-Link: https://www.reddit.com/r/artificial/comments/1fafegi/ai_impersonation_paid_ads_on_facebook_are_a_big/
-Headline: UK signs first international treaty to implement AI safeguards
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fabvhr/uk_signs_first_international_treaty_to_implement/"> <img alt="UK signs first international treaty to implement AI safegua...
-Link: https://www.reddit.com/r/artificial/comments/1fabvhr/uk_signs_first_international_treaty_to_implement/
-Headline: One-Minute Daily AI News 9/5/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Video game performers reach agreement with 80 video games on AI terms.[1]</li> <li>California Governor Gavin Newsom hopes artificial intelligence can help addre...
-Link: https://www.reddit.com/r/artificial/comments/1fa55g6/oneminute_daily_ai_news_952024/
-Headline: AI Models From Google, Meta, Others May Not Be Truly 'Open Source'
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fajzue/ai_models_from_google_meta_others_may_not_be/"> <img alt="AI Models From Google, Meta, Others May Not Be Truly 'Open Sour...
-Link: https://www.reddit.com/r/artificial/comments/1fajzue/ai_models_from_google_meta_others_may_not_be/
-Headline: For people who care about output quality and Evaluations in LLMs I have created r/AIQuality (one for the hallucination free systems)
-Description: <!-- SC_OFF --><div class="md"><p>RAG and LLMs are all over the place, and for good reason! It’s transforming how LLMs generate informed, accurate responses by combining them with external knowledge s...
-Link: https://www.reddit.com/r/artificial/comments/1facmkh/for_people_who_care_about_output_quality_and/
+Headline: I found out that the creator of the AI bot I was using was reading my messages
+Description: <!-- SC_OFF --><div class="md"><p>I paid for a bot called &quot;PsyAI&quot; as it is meant to answer your questions &quot;judgment free&quot; but then I get the owner of the bot quoting some of the st...
+Link: https://www.reddit.com/r/artificial/comments/1faxp0i/i_found_out_that_the_creator_of_the_ai_bot_i_was/
+Headline: Walmart Uses Generative AI to Transform Product Catalog
+Description: <!-- SC_OFF --><div class="md"><p>Walmart has significantly boosted its operational efficiency and customer experience by implementing generative AI to enhance its product catalog. According to compan...
+Link: https://www.reddit.com/r/artificial/comments/1faza5d/walmart_uses_generative_ai_to_transform_product/
+Headline: OpenAI co-founder Sutskever's new safety-focused AI startup SSI raises $1 billion
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/Akkeri"> /u/Akkeri </a> <br /> <span><a href="https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-...
+Link: https://www.reddit.com/r/artificial/comments/1fbejds/openai_cofounder_sutskevers_new_safetyfocused_ai/
+Headline: New Open Source AI Model Can Check Itself and Avoid Hallucinations
+Description: <!-- SC_OFF --><div class="md"><blockquote> <p>A brand new AI from New York-based startup HyperWrite is in the spotlight for a of different reason--it's using a new open source error-trapping system t...
+Link: https://www.reddit.com/r/artificial/comments/1fb4d98/new_open_source_ai_model_can_check_itself_and/
+Headline: One-Minute Daily AI News 9/6/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Guy arrested for allegedly using AI to make fake fans listen to fake songs on Spotify.[1]</li> <li>AI craze is distorting VC market, as tech giants like <strong...
+Link: https://www.reddit.com/r/artificial/comments/1fayf9q/oneminute_daily_ai_news_962024/
+Headline: ChatGPT 5: OpenAI considering 2000$/month plan
+Description: <!-- SC_OFF --><div class="md"><p>Would mean 100x times version 4. Maybe this means they target enterprises differently ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit....
+Link: https://www.reddit.com/r/artificial/comments/1fb071s/chatgpt_5_openai_considering_2000month_plan/
 
 ---
 
