@@ -1,6 +1,20 @@
-AI News Updates - 2024-09-08 02:47:21
+AI News Updates - 2024-09-09 02:47:19
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Apple Intelligence delays could impede iPhone 16 ‘supercycle’
+Description: <p>When Apple unveiled its AI plans at WWDC in June, analysts suggested the feature could put the iPhone 16 on track for another &#8220;supercycle.&#8221; Like the addition of 5G before it, industry w...
+Link: https://techcrunch.com/2024/09/08/apple-intelligence-delays-could-impede-iphone-16-supercycle/
+Headline: Elon Musk says Tesla has ‘no need’ to license xAI models
+Description: <p>Elon Musk has denied a report that one of his companies, Tesla, has discussed sharing revenue with another of his companies, xAI, so that it can use the startup&#8217;s AI models. The Wall Street J...
+Link: https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/
+Headline: Meta Llama: Everything you need to know about the open generative AI model
+Description: <p>Like other generative AI models, Llama can perform a range of different assistive tasks, like coding and answering basic math questions, as well as summarizing documents in eight languages.</p>
+<p>...
+Link: https://techcrunch.com/2024/09/08/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/
+Headline: Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected ‘Glowtime’ reveals
+Description: <p>Apple's Glowtime iPhone event will include the iPhone 16, but may also feature new AirPods, a new Apple Watch and possibly even new Macs. </p>
+<p>© 2024 TechCrunch. All rights reserved. For persona...
+Link: https://techcrunch.com/2024/09/08/apple-event-2024-iphone-16-apple-intelligence-and-all-the-other-expected-glowtime-reveals/
 Headline: How a viral AI image catapulted a Mexican startup to a major adidas contract
 Description: <p>Antonio Nuño, Fatima Alvarez, and Enrique Rodriguez have been friends since they were five years old. As teenagers, they became volunteers helping indigenous communities &#8212; first in Mexico, th...
 Link: https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/
@@ -19,17 +33,6 @@ Link: https://techcrunch.com/2024/09/06/real-estate-revolutions-and-beanie-baby-
 Headline: Microsoft gives deepfake porn victims a tool to scrub images from Bing search
 Description: <p>The advancement of generative AI tools has created a new problem for the internet: the proliferation of synthetic nude images resembling real people. On Thursday, Microsoft took a major step to giv...
 Link: https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/
-Headline: Google’s AI-powered Ask Photos feature begins US rollout
-Description: <p>Google said the feature could be used for more than just photo retrieval alone; users would also be able to ask questions to get helpful answers.</p>
-<p>© 2024 TechCrunch. All rights reserved. For ...
-Link: https://techcrunch.com/2024/09/05/googles-ai-powered-ask-photos-feature-begins-u-s-rollout/
-Headline: All Hands AI raises $5M to build open source agents for developers
-Description: <p>As with many open source startups, All Hands AI expects to monetize its service by offering paid, closed-source enterprise features. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use...
-Link: https://techcrunch.com/2024/09/05/all-hands-ai-raises-5m-to-build-open-source-agents-for-developers/
-Headline: German LLM maker Aleph Alpha pivots to AI support
-Description: <p>Europe doesn&#8217;t have many large language model (LLM) makers but one of these rare AI beasts &#8212; Germany&#8217;s Aleph Alpha &#8212; appears to be preparing to rule itself out of the runnin...
-Link: https://techcrunch.com/2024/09/05/german-llm-maker-aleph-alpha-pivots-to-ai-support/
 
 ---
 
@@ -218,7 +221,10 @@ Link: https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-image-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
-Headline: Get ready for a tumultuous era of GPU cost volitivity
+Headline: AI orchestration: Crafting harmony or creating dependency?
+Description: AI can come at a price, as there is a thin line between collaboration — also known as augmentation — and dependency.
+Link: https://venturebeat.com/ai/ai-orchestration-crafting-harmony-or-creating-dependency/
+Headline: Get ready for a tumultuous era of GPU cost volatility
 Description: Global AI revenue is booming, which is great for chip makers. But for many businesses, it requires a whole new discipline of cost management.
 Link: https://venturebeat.com/ai/get-ready-for-a-tumultuous-era-of-gpu-cost-volitivity/
 Headline: How AI is making copyright issues more complicated | Devcom panel
@@ -245,9 +251,6 @@ Link: https://venturebeat.com/ai/yi-coder-the-open-source-ai-that-wants-to-be-yo
 Headline: OpenAI says it reached 1 million business users
 Description: OpenAI released its Enterprise product in August last year, and since then, usage has grown across ChatGPT Enterprise, Team and Edu.
 Link: https://venturebeat.com/ai/openai-says-it-reached-1-million-business-users/
-Headline: Medical startup Paige unveils Alba AI all-in-one assistant for pathology research
-Description: Its AI models were trained on over 3 million pathology slides collected from more than 800 labs across 45 countries.
-Link: https://venturebeat.com/ai/medical-startup-paige-unveils-alba-ai-all-in-one-assistant-for-pathology-research/
 
 ---
 
@@ -408,24 +411,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: I found out that the creator of the AI bot I was using was reading my messages
-Description: <!-- SC_OFF --><div class="md"><p>I paid for a bot called &quot;PsyAI&quot; as it is meant to answer your questions &quot;judgment free&quot; but then I get the owner of the bot quoting some of the st...
-Link: https://www.reddit.com/r/artificial/comments/1faxp0i/i_found_out_that_the_creator_of_the_ai_bot_i_was/
-Headline: Walmart Uses Generative AI to Transform Product Catalog
-Description: <!-- SC_OFF --><div class="md"><p>Walmart has significantly boosted its operational efficiency and customer experience by implementing generative AI to enhance its product catalog. According to compan...
-Link: https://www.reddit.com/r/artificial/comments/1faza5d/walmart_uses_generative_ai_to_transform_product/
-Headline: OpenAI co-founder Sutskever's new safety-focused AI startup SSI raises $1 billion
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/Akkeri"> /u/Akkeri </a> <br /> <span><a href="https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-...
-Link: https://www.reddit.com/r/artificial/comments/1fbejds/openai_cofounder_sutskevers_new_safetyfocused_ai/
-Headline: New Open Source AI Model Can Check Itself and Avoid Hallucinations
-Description: <!-- SC_OFF --><div class="md"><blockquote> <p>A brand new AI from New York-based startup HyperWrite is in the spotlight for a of different reason--it's using a new open source error-trapping system t...
-Link: https://www.reddit.com/r/artificial/comments/1fb4d98/new_open_source_ai_model_can_check_itself_and/
-Headline: One-Minute Daily AI News 9/6/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Guy arrested for allegedly using AI to make fake fans listen to fake songs on Spotify.[1]</li> <li>AI craze is distorting VC market, as tech giants like <strong...
-Link: https://www.reddit.com/r/artificial/comments/1fayf9q/oneminute_daily_ai_news_962024/
-Headline: ChatGPT 5: OpenAI considering 2000$/month plan
-Description: <!-- SC_OFF --><div class="md"><p>Would mean 100x times version 4. Maybe this means they target enterprises differently ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit....
-Link: https://www.reddit.com/r/artificial/comments/1fb071s/chatgpt_5_openai_considering_2000month_plan/
+Headline: Reddit has acquired an AI startup to beef up its ad business in a deal worth around $40 million
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fc6071/reddit_has_acquired_an_ai_startup_to_beef_up_its/"> <img alt="Reddit has acquired an AI startup to beef up its ad busines...
+Link: https://www.reddit.com/r/artificial/comments/1fc6071/reddit_has_acquired_an_ai_startup_to_beef_up_its/
+Headline: I'm a high school student who made a novel free AI tutor & AI study tools app!
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fc0mcb/im_a_high_school_student_who_made_a_novel_free_ai/"> <img alt="I'm a high school student who made a novel free AI tutor &...
+Link: https://www.reddit.com/r/artificial/comments/1fc0mcb/im_a_high_school_student_who_made_a_novel_free_ai/
+Headline: Gemini LIve as a podcast.
+Description: <!-- SC_OFF --><div class="md"><p>I've been using AI to research and write local news stories since March of 2023. I try to stay up with the AI curve, but it's challenging. </p> <p>With the release of...
+Link: https://www.reddit.com/r/artificial/comments/1fbuiu4/gemini_live_as_a_podcast/
+Headline: One-Minute Daily AI News 9/7/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Apple’s</strong> new iPhone will use Arm’s next-generation chip technology for AI.[1]</li> <li><strong>Reflection 70B</strong>: A Ground Breaking Open-S...
+Link: https://www.reddit.com/r/artificial/comments/1fbpy9f/oneminute_daily_ai_news_972024/
+Headline: AI Startup/Pricing Models
+Description: <!-- SC_OFF --><div class="md"><p>How does one price custom AI solutions outside of the overpriced models with add on’s that add up quickly?</p> <p>SAAS with SMB as target. I am passing all costs on r...
+Link: https://www.reddit.com/r/artificial/comments/1fc97li/ai_startuppricing_models/
 
 ---
 
