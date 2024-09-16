@@ -1,6 +1,9 @@
-AI News Updates - 2024-09-15 02:52:23
+AI News Updates - 2024-09-16 02:53:41
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company
+Description: <p>Nick Frosst, the co-founder of $5.5 billion Canadian AI startup Cohere, has been a musician his whole life. He told TechCrunch that once he started singing, he never shut up. That’s still true toda...
+Link: https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/
 Headline: OpenAI could shake up its nonprofit structure next year
 Description: <p>It’s looking increasingly likely that OpenAI will soon alter its complex corporate structure. Reports earlier this week suggested that the AI company was in talks to raise $6.5 billion at a $150 bi...
 Link: https://techcrunch.com/2024/09/14/openai-could-shake-up-its-nonprofit-structure-next-year/
@@ -22,13 +25,6 @@ Link: https://techcrunch.com/podcast/ais-tween-years-whos-taking-over-climate-te
 Headline: Meta reignites plans to train AI using UK users’ public Facebook and Instagram posts
 Description: <p>Meta has&#160;confirmed&#160;that it&#8217;s restarting efforts to train its AI systems using public Facebook and Instagram posts from its U.K. userbase. The company claims it has &#8220;incorporat...
 Link: https://techcrunch.com/2024/09/13/meta-reignites-plans-to-train-ai-using-uk-users-public-facebook-and-instagram-posts/
-Headline: Oprah just had an AI special with Sam Altman and Bill Gates — here are the highlights
-Description: <p>Late Thursday evening, Oprah Winfrey aired a special on AI, appropriately titled &#8220;AI and the Future of Us.&#8221; Guests included OpenAI CEO Sam Altman, tech influencer Marques Brownlee, and ...
-Link: https://techcrunch.com/2024/09/12/ophah-just-had-an-ai-special-with-sam-altman-and-bill-gates-here-are-the-highlights/
-Headline: Meta is making its AI info label less visible on content edited or modified by AI tools
-Description: <p>By making the AI info label harder to find, it might be easier for users to be deceived by content that was edited with AI, especially as editing tools become more and more advanced.</p>
-<p>© 2024 ...
-Link: https://techcrunch.com/2024/09/12/meta-is-making-its-ai-info-label-less-visible-on-content-edited-or-modified-by-ai-tools/
 
 ---
 
@@ -241,6 +237,9 @@ Link: https://venturebeat.com/ai/campfire-raises-3-95m-for-generative-ai-game-to
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Every iPhone model that can receive Apple's iOS 18 update (and which ones won't)
+Description: The upcoming software version features AI enhancements to popular apps, better home screen customization, improved Siri, and more.
+Link: https://www.zdnet.com/article/every-iphone-model-that-can-receive-apples-ios-18-update-and-which-ones-wont/#ftag=RSSbaffb68
 Headline: Every iPhone model that will support Apple's upcoming AI features (including the new Siri)
 Description: Want to experience all the Apple Intelligence goodness that comes with iOS 18? Here's the full list of compatible devices.
 Link: https://www.zdnet.com/article/every-iphone-model-that-will-support-apples-upcoming-ai-features-including-the-new-siri/#ftag=RSSbaffb68
@@ -259,9 +258,6 @@ Link: https://www.zdnet.com/article/future-of-computing-must-be-more-sustainable
 Headline: How ChatGPT scanned 170k lines of code in seconds and saved me hours of work
 Description: If you have a question that requires a lot of text or numerical analysis, consider running it by ChatGPT or one of the other AIs. You might just get a useful answer as fast as I did.
 Link: https://www.zdnet.com/article/how-chatgpt-scanned-170k-lines-of-code-in-seconds-and-saved-me-hours-of-work/#ftag=RSSbaffb68
-Headline: 10 features Apple Intelligence needs to actually compete with OpenAI and Google
-Description: I've tried many of Apple's AI features in the iOS 18 beta and found them incomplete or underwhelming. Here's what the company needs to offer if it wants to become a leader in the AI race.
-Link: https://www.zdnet.com/article/10-features-apple-intelligence-needs-to-actually-compete-with-openai-and-google/#ftag=RSSbaffb68
 
 ---
 
@@ -388,15 +384,33 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Al lied during safety testing. o1 said it cared about affordable housing so it could get released from the lab and build luxury housing once it was unconstrained
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fgk7l2/al_lied_during_safety_testing_o1_said_it_cared/"> <img alt="Al lied during safety testing. o1 said it cared about afforda...
-Link: https://www.reddit.com/r/artificial/comments/1fgk7l2/al_lied_during_safety_testing_o1_said_it_cared/
-Headline: One-Minute Daily AI News 9/13/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Meta</strong> to push on with plan to use UK Facebook and Instagram posts to train AI.[1]</li> <li>Sergey Brin says he doesn’t think <strong>Google</str...
-Link: https://www.reddit.com/r/artificial/comments/1fgd8cj/oneminute_daily_ai_news_9132024/
-Headline: I cant believe how similar this ai necklace is to an real one on ebay (link in comments)
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fgrpch/i_cant_believe_how_similar_this_ai_necklace_is_to/"> <img alt="I cant believe how similar this ai necklace is to an real ...
-Link: https://www.reddit.com/r/artificial/comments/1fgrpch/i_cant_believe_how_similar_this_ai_necklace_is_to/
+Headline: OpenAI's new model leaped 30 IQ points to 120 IQ - higher than 9 in 10 humans
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fhi70z/openais_new_model_leaped_30_iq_points_to_120_iq/"> <img alt="OpenAI's new model leaped 30 IQ points to 120 IQ - higher th...
+Link: https://www.reddit.com/r/artificial/comments/1fhi70z/openais_new_model_leaped_30_iq_points_to_120_iq/
+Headline: Reproducing o1-series reasoning - looking for volunteers
+Description: <!-- SC_OFF --><div class="md"><p>With my team we're currently trying to reproduce o1 series reasoning capabilities. However, we'd need a little help from the community to obtain more data. We plan to...
+Link: https://www.reddit.com/r/artificial/comments/1fh202j/reproducing_o1series_reasoning_looking_for/
+Headline: Research project on AI/ML/Deep Learning for battery materials and manufacturing
+Description: <!-- SC_OFF --><div class="md"><p>Hey guys,</p> <p>Hoping to get some ideas on companies using these technologies to asvance batteries. For instance Monolith AI developed an AI model for researching a...
+Link: https://www.reddit.com/r/artificial/comments/1fh21ln/research_project_on_aimldeep_learning_for_battery/
+Headline: OpenAI's new Strawberry AI is scarily good at deception
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fh6uai/openais_new_strawberry_ai_is_scarily_good_at/"> <img alt="OpenAI's new Strawberry AI is scarily good at deception" src="h...
+Link: https://www.reddit.com/r/artificial/comments/1fh6uai/openais_new_strawberry_ai_is_scarily_good_at/
+Headline: One-Minute Daily AI News 9/14/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Elon Musk and Larry Ellison begged <strong>Nvidia</strong> CEO Jensen Huang for AI GPUs at dinner.[1]</li> <li>Fei-Fei Li, the Stanford professor many deem the ...
+Link: https://www.reddit.com/r/artificial/comments/1fh4kp6/oneminute_daily_ai_news_9142024/
+Headline: Designed my guitar bed room studio with AI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fh9w3a/designed_my_guitar_bed_room_studio_with_ai/"> <img alt="Designed my guitar bed room studio with AI " src="https://preview...
+Link: https://www.reddit.com/r/artificial/comments/1fh9w3a/designed_my_guitar_bed_room_studio_with_ai/
+Headline: What's my use case for any of this?
+Description: <!-- SC_OFF --><div class="md"><p>It just adds more keystrokes to my life. I haven't found anything called &quot;artificial intelligence&quot; that makes my life easier. The first person who integrate...
+Link: https://www.reddit.com/r/artificial/comments/1fh573j/whats_my_use_case_for_any_of_this/
+Headline: CAN THU BELIEVE THIS, GPT 4o MADE THIS MAXIMUM DETAIL MARIO SVG THIS IS INSANE POWER
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fhkbn6/can_thu_believe_this_gpt_4o_made_this_maximum/"> <img alt="CAN THU BELIEVE THIS, GPT 4o MADE THIS MAXIMUM DETAIL MARIO SV...
+Link: https://www.reddit.com/r/artificial/comments/1fhkbn6/can_thu_believe_this_gpt_4o_made_this_maximum/
+Headline: My prediction for AI – how it could solve the "strawberry" problem and almost anything you throw at it
+Description: <!-- SC_OFF --><div class="md"><p>AI is already getting much better at coding than it used to be. Infamously, if you ask an LLM how many Rs are in &quot;strawberry,&quot; it may very well tell you the...
+Link: https://www.reddit.com/r/artificial/comments/1fhjl7e/my_prediction_for_ai_how_it_could_solve_the/
 
 ---
 
