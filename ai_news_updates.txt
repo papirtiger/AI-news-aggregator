@@ -1,6 +1,9 @@
-AI News Updates - 2024-09-21 02:43:06
+AI News Updates - 2024-09-22 02:53:13
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Google CEO Sundar Pichai announces $120M fund for global AI education
+Description: <p>Speaking Saturday at the UN Summit of the Future, Google CEO Sundar Pichai described AI as “the most transformative technology yet” and announced a new fund for AI education and training around the...
+Link: https://techcrunch.com/2024/09/21/google-ceo-sundar-pichai-announces-120m-fund-for-global-ai-education/
 Headline: Grok’s image generator, Black Forest Labs, is raising $100M at a $1B valuation, say sources
 Description: <p>Black Forest Labs, an image GenAI startup that only came out of stealth two months ago, has closed a a monster new round, sources say.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal us...
@@ -18,13 +21,22 @@ Link: https://techcrunch.com/2024/09/20/linkedin-has-stopped-grabbing-u-k-users-
 Headline: Microsoft taps Three Mile Island nuclear plant to power AI
 Description: <p>The data centers that train the large language models behind AI consume unimaginable amounts of energy, and the stakes are high for big tech companies to ensure they have enough power to run those ...
 Link: https://techcrunch.com/2024/09/20/microsoft-taps-three-mile-island-nuclear-plant-to-power-ai/
-Headline: Indian filmmaker Ram Gopal Varma abandons human musicians for AI-generated music
-Description: <p>Indian filmmaker Ram Gopal Varma is ditching human musicians for artificial intelligence, saying he&#8217;ll use only AI-generated tunes in future projects, a move that underscores AI&#8217;s growi...
-Link: https://techcrunch.com/2024/09/19/indian-filmmaker-ram-gopal-varma-abandons-human-musicians-for-ai-generated-music/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Jony Ive confirms he’s working on a new device with OpenAI
+Description: <figure>
+      <img alt="An image of a smiling Jony Ive sitting in a bright red chair. " src="https://cdn.vox-cdn.com/thumbor/taLckkIjmY2Ndnoa-R3pa5g1Pgw=/1x0:4000x2666/1310x873/cdn.vox-cdn.com/upload...
+Link: https://www.theverge.com/2024/9/21/24250867/jony-ive-confirms-collaboration-openai-hardware
+Headline: What to expect at Meta Connect 2024 — the next Quest VR headset
+Description: <figure>
+      <img alt="the letters of the word “connect” spelled out on three lines, and a floating diamond with colorful shapes around it" src="https://cdn.vox-cdn.com/thumbor/C1SJ0JvF9_7hz-H8Xps2y...
+Link: https://www.theverge.com/24250169/meta-connect-2024-stream-quest-3s-vr-ar-ai
+Headline: Meta has a major opportunity to win the AI hardware race
+Description: <figure>
+      <img alt="Pair of Ray-Ban Meta Smart Glasses illuminated from below" src="https://cdn.vox-cdn.com/thumbor/fWaO22ZpzrnwS0mDf70R_rMg418=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/cho...
+Link: https://www.theverge.com/2024/9/21/24250020/ray-ban-meta-smart-glasses-ai-hardware-meta-connect
 Headline: Microsoft’s Copilot key will be able to launch apps on Windows 11 soon
 Description: <figure>
       <img alt="A new Copilot key on a Windows keyboard" src="https://cdn.vox-cdn.com/thumbor/JcKVV2oyTmHmd4L5EggI2bjbAIQ=/100x0:1180x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
@@ -45,14 +57,7 @@ Headline: LinkedIn is training AI models on your data
 Description: <figure>
       <img alt="An illustration of a woman typing on a keyboard, her face replaced with lines of code." src="https://cdn.vox-cdn.com/thumbor/61dxF9HPpWL8UjiVBnRsyFRRK0s=/0x0:2040x1360/1310x87...
 Link: https://www.theverge.com/2024/9/18/24248471/linkedin-ai-training-user-accounts-data-opt-in
-Headline: Lionsgate signs deal to train AI model on its movies and shows
-Description: <figure>
-      <img alt="A man in a black blazer sitting next to a person in a flowing, white, toga-like garment and golden laurel wreath." src="https://cdn.vox-cdn.com/thumbor/7sJKqnfyk_HyTktGxzIyF4c...
-Link: https://www.theverge.com/2024/9/18/24248115/lionsgate-runway-ai-deal
-Headline: YouTube will use AI to generate ideas, titles, and even full videos
-Description: <figure>
-      <img alt="A screenshot of the YouTube Inspiration tab, with a brainstorming window opened." src="https://cdn.vox-cdn.com/thumbor/pK_GxU5ATykI9yYk5u1ULiAR_5U=/0x214:1280x1067/1310x873/cd...
-Link: https://www.theverge.com/2024/9/18/24247559/youtube-ai-videos-veo-inspiration-tab
+
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -211,6 +216,9 @@ Link: https://venturebeat.com/ai/why-jensen-huang-and-marc-benioff-see-gigantic-
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: How Apple, Google, and Microsoft can save us from AI deepfakes
+Description: To combat AI-driven disinformation, tech giants must collaborate to adopt these open standards. The absence of Apple and X raises concerns.
+Link: https://www.zdnet.com/article/how-apple-google-and-microsoft-can-save-us-from-ai-deepfakes/#ftag=RSSbaffb68
 Headline: OpenAI expands o1 model availability - here's who gets access and how much
 Description: A week after launching its o1 models, OpenAI increased daily limits and expanded access to all users.
 Link: https://www.zdnet.com/article/openai-expands-o1-model-availability-heres-who-gets-access-and-how-much/#ftag=RSSbaffb68
@@ -226,10 +234,6 @@ Link: https://www.zdnet.com/article/linkedin-is-training-ai-with-your-personal-d
 Headline: OpenAI's o1-preview 'excels' at coding and thoughts can now control Alexa
 Description: It was a somewhat practical week for the Innovation Index, with advancements in accessibility, reasoning, and digital protections for teens topping the leaderboard.
 Link: https://www.zdnet.com/article/openais-o1-preview-excels-at-coding-and-thoughts-can-now-control-alexa/#ftag=RSSbaffb68
-Headline: Trying to break OpenAI's new o1 models? You might get banned
-Description: Getting a new AI model to hallucinate can be a fun challenge, but those actions now have consequences.
-Link: https://www.zdnet.com/article/trying-to-break-openais-new-o1-models-you-might-get-banned/#ftag=RSSbaffb68
-
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -355,21 +359,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: China's Alibaba launches over 100 new open-source AI models, releases text-to-video generation tool
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fl8b05/chinas_alibaba_launches_over_100_new_opensource/"> <img alt="China's Alibaba launches over 100 new open-source AI models,...
-Link: https://www.reddit.com/r/artificial/comments/1fl8b05/chinas_alibaba_launches_over_100_new_opensource/
-Headline: One-Minute Daily AI News 9/19/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>WordLlama</strong> Released on <strong>Hugging Face</strong>: An Open Source, Fast, Lightweight (16MB) NLP Toolkit for Tasks like Fuzzy-Deduplication, S...
-Link: https://www.reddit.com/r/artificial/comments/1fl3mp1/oneminute_daily_ai_news_9192024/
-Headline: Evolution of Consciousness: Humans vs. Machines
-Description: <!-- SC_OFF --><div class="md"><p>Machine consciousness is still in its infancy. AI and machine learning currently lack true consciousness. They can simulate certain cognitive tasks but do not have su...
-Link: https://www.reddit.com/r/artificial/comments/1fl4j3n/evolution_of_consciousness_humans_vs_machines/
-Headline: Could AI Become Its Own Worst Enemy?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1flkzvv/could_ai_become_its_own_worst_enemy/"> <img alt="Could AI Become Its Own Worst Enemy?" src="https://external-preview.redd...
-Link: https://www.reddit.com/r/artificial/comments/1flkzvv/could_ai_become_its_own_worst_enemy/
-Headline: AI and Consciousness
-Description: <!-- SC_OFF --><div class="md"><p>A question from a layperson to the AI experts out there: What will happen when AI explores, feels, smells, and perceives the world with all the sensors at its disposa...
-Link: https://www.reddit.com/r/artificial/comments/1flbfdc/ai_and_consciousness/
+Headline: What are the biggest misconceptions about AI that you're tired of? For me, it's the tendency to extreme positions on pretty much everything (e.g. "just hype", hardcore doomerism), as if there were no more likely middle grounds..
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fm1whw/what_are_the_biggest_misconceptions_about_ai_that/"> <img alt="What are the biggest misconceptions about AI that you're t...
+Link: https://www.reddit.com/r/artificial/comments/1fm1whw/what_are_the_biggest_misconceptions_about_ai_that/
+Headline: Yuval Noah Harari says in 10 years the world will be run by millions of AI bureaucrats who will make decisions that we can't understand about jobs, finance and government, leading to power shifting from humanity to alien intelligences
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fm44kc/yuval_noah_harari_says_in_10_years_the_world_will/"> <img alt="Yuval Noah Harari says in 10 years the world will be run b...
+Link: https://www.reddit.com/r/artificial/comments/1fm44kc/yuval_noah_harari_says_in_10_years_the_world_will/
+Headline: One-Minute Daily AI News 9/20/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Graphiti</strong>: A Python Library for Building Temporal Knowledge Graphs Using LLMs.[1]</li> <li>Three Mile Island, site of 1979 nuclear reactor accid...
+Link: https://www.reddit.com/r/artificial/comments/1flv6q9/oneminute_daily_ai_news_9202024/
+Headline: newssurvey is free software that uses OpenAI API to write an extensive survey report on medical and science topics
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fmhxuj/newssurvey_is_free_software_that_uses_openai_api/"> <img alt="newssurvey is free software that uses OpenAI API to write a...
+Link: https://www.reddit.com/r/artificial/comments/1fmhxuj/newssurvey_is_free_software_that_uses_openai_api/
+Headline: Can AI Make Moral Choices?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fmg7kl/can_ai_make_moral_choices/"> <img alt="Can AI Make Moral Choices?" src="https://external-preview.redd.it/eGJvcmd4ZXcxOXFk...
+Link: https://www.reddit.com/r/artificial/comments/1fmg7kl/can_ai_make_moral_choices/
 
 ---
 
