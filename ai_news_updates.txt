@@ -1,6 +1,9 @@
-AI News Updates - 2024-09-22 02:53:13
+AI News Updates - 2024-09-23 02:50:27
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Yup, Jony Ive is working on an AI device startup with OpenAI
+Description: <p>Jony Ive, the legendary designer who left his full-time role at Apple five years ago, is working on a new startup with OpenAI and its CEO Sam Altman. The collaboration was first reported last year,...
+Link: https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/
 Headline: Google CEO Sundar Pichai announces $120M fund for global AI education
 Description: <p>Speaking Saturday at the UN Summit of the Future, Google CEO Sundar Pichai described AI as “the most transformative technology yet” and announced a new fund for AI education and training around the...
 Link: https://techcrunch.com/2024/09/21/google-ceo-sundar-pichai-announces-120m-fund-for-global-ai-education/
@@ -18,14 +21,15 @@ Link: https://techcrunch.com/video/techcrunch-minute-amazon-announces-ai-powered
 Headline: LinkedIn has stopped grabbing UK users’ data for AI
 Description: <p>The U.K.&#8217;s data protection watchdog has confirmed that Microsoft-owned LinkedIn has stopped processing user data for AI model training for now. Stephen Almond, executive director of regulator...
 Link: https://techcrunch.com/2024/09/20/linkedin-has-stopped-grabbing-u-k-users-data-for-ai/
-Headline: Microsoft taps Three Mile Island nuclear plant to power AI
-Description: <p>The data centers that train the large language models behind AI consume unimaginable amounts of energy, and the stakes are high for big tech companies to ensure they have enough power to run those ...
-Link: https://techcrunch.com/2024/09/20/microsoft-taps-three-mile-island-nuclear-plant-to-power-ai/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
-Headline: Jony Ive confirms he’s working on a new device with OpenAI
+Headline: A social network where everyone’s a bot
+Description: <figure>
+      <img alt="Pictures of headphones, SocialAI, and The Penguin, on an Installer background." src="https://cdn.vox-cdn.com/thumbor/SIp7vURD5xkwyVh4rWJFWnO8oAo=/0x1:2226x1485/1310x873/cdn.vo...
+Link: https://www.theverge.com/2024/9/22/24249948/socialai-snap-spectacles-snapchat-penguin-installer
+Headline: Jony Ive confirms he’s working on a new device with OpenAI
 Description: <figure>
       <img alt="An image of a smiling Jony Ive sitting in a bright red chair. " src="https://cdn.vox-cdn.com/thumbor/taLckkIjmY2Ndnoa-R3pa5g1Pgw=/1x0:4000x2666/1310x873/cdn.vox-cdn.com/upload...
 Link: https://www.theverge.com/2024/9/21/24250867/jony-ive-confirms-collaboration-openai-hardware
@@ -53,10 +57,6 @@ Headline: Amazon is stuffing generative AI into its shopping experience
 Description: <figure>
       <img alt="A person browsing Amazon on their mobile device." src="https://cdn.vox-cdn.com/thumbor/G2S4TaTSv1_8M2ch9g1Xsj-tbQU=/206x0:2435x1486/1310x873/cdn.vox-cdn.com/uploads/chorus_ima...
 Link: https://www.theverge.com/2024/9/19/24249046/amazon-generative-ai-tools-personalized-shopping-recommendations
-Headline: LinkedIn is training AI models on your data
-Description: <figure>
-      <img alt="An illustration of a woman typing on a keyboard, her face replaced with lines of code." src="https://cdn.vox-cdn.com/thumbor/61dxF9HPpWL8UjiVBnRsyFRRK0s=/0x0:2040x1360/1310x87...
-Link: https://www.theverge.com/2024/9/18/24248471/linkedin-ai-training-user-accounts-data-opt-in
 
 ---
 
@@ -189,6 +189,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/build-rag-based-generative-a
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Why prompt engineering is one of the most valuable skills today
+Description: Prompt engineering is shaping how we interact with and benefit from AI. Here's how to get prompt engineering right.
+Link: https://venturebeat.com/ai/why-prompt-engineering-is-one-of-the-most-valuable-skills-today/
 Headline: Adversarial attacks on AI models are rising: what should you do now?
 Description: With AI’s growing influence across industries, malicious attackers continue to sharpen their tradecraft to exploit ML models.
 Link: https://venturebeat.com/security/adversarial-attacks-on-ai-models-are-rising-what-should-you-do-now/
@@ -213,6 +216,7 @@ Link: https://venturebeat.com/ai/how-one-fintech-startup-used-gen-ai-to-boost-pr
 Headline: Why Jensen Huang and Marc Benioff see ‘gigantic’ opportunity for agentic AI
 Description: Already, progress in agentic AI is “spectacular and surprising,” moving faster and faster and getting into the “flywheel zone," Huang says.
 Link: https://venturebeat.com/ai/why-jensen-huang-and-marc-benioff-see-gigantic-opportunity-for-agentic-ai/
+
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
@@ -359,21 +363,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: What are the biggest misconceptions about AI that you're tired of? For me, it's the tendency to extreme positions on pretty much everything (e.g. "just hype", hardcore doomerism), as if there were no more likely middle grounds..
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fm1whw/what_are_the_biggest_misconceptions_about_ai_that/"> <img alt="What are the biggest misconceptions about AI that you're t...
-Link: https://www.reddit.com/r/artificial/comments/1fm1whw/what_are_the_biggest_misconceptions_about_ai_that/
-Headline: Yuval Noah Harari says in 10 years the world will be run by millions of AI bureaucrats who will make decisions that we can't understand about jobs, finance and government, leading to power shifting from humanity to alien intelligences
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fm44kc/yuval_noah_harari_says_in_10_years_the_world_will/"> <img alt="Yuval Noah Harari says in 10 years the world will be run b...
-Link: https://www.reddit.com/r/artificial/comments/1fm44kc/yuval_noah_harari_says_in_10_years_the_world_will/
-Headline: One-Minute Daily AI News 9/20/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Graphiti</strong>: A Python Library for Building Temporal Knowledge Graphs Using LLMs.[1]</li> <li>Three Mile Island, site of 1979 nuclear reactor accid...
-Link: https://www.reddit.com/r/artificial/comments/1flv6q9/oneminute_daily_ai_news_9202024/
-Headline: newssurvey is free software that uses OpenAI API to write an extensive survey report on medical and science topics
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fmhxuj/newssurvey_is_free_software_that_uses_openai_api/"> <img alt="newssurvey is free software that uses OpenAI API to write a...
-Link: https://www.reddit.com/r/artificial/comments/1fmhxuj/newssurvey_is_free_software_that_uses_openai_api/
-Headline: Can AI Make Moral Choices?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fmg7kl/can_ai_make_moral_choices/"> <img alt="Can AI Make Moral Choices?" src="https://external-preview.redd.it/eGJvcmd4ZXcxOXFk...
-Link: https://www.reddit.com/r/artificial/comments/1fmg7kl/can_ai_make_moral_choices/
+Headline: One-Minute Daily AI News 9/21/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google DeepMind</strong> Introduced Self-Correction via Reinforcement Learning (SCoRe): A New AI Method Enhancing Large Language Models’ Accuracy in Com...
+Link: https://www.reddit.com/r/artificial/comments/1fmlae9/oneminute_daily_ai_news_9212024/
+Headline: Looking for Recommendation AI
+Description: <!-- SC_OFF --><div class="md"><p>Hi, I created an online course a few years ago and now I would like to convert the course to a different language but I try not to get all the work again. What I need...
+Link: https://www.reddit.com/r/artificial/comments/1fmz4eo/looking_for_recommendation_ai/
+Headline: Human ever feel accountable to an Ai?
+Description: <!-- SC_OFF --><div class="md"><p>Would it be possible for a human to feel accountable to an Ai? This is probably more a psychology question </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=...
+Link: https://www.reddit.com/r/artificial/comments/1fmw7sh/human_ever_feel_accountable_to_an_ai/
+Headline: Natural intelligence is artificial.
+Description: <!-- SC_OFF --><div class="md"><p>Natural intelligence serves only the ego--it is not a true general intelligence. It's been said that constructed artificial intelligence might turn the universe into ...
+Link: https://www.reddit.com/r/artificial/comments/1fn4ao1/natural_intelligence_is_artificial/
 
 ---
 
