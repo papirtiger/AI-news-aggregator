@@ -1,38 +1,54 @@
-AI News Updates - 2024-09-26 02:49:45
+AI News Updates - 2024-09-27 02:50:55
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: OpenAI’s chief research officer has left following CTO Mira Murati’s exit
-Description: <p>OpenAI&#8217;s chief research officer, Bob McGrew, and a research VP, Barret Zoph, have left the company hours after OpenAI CTO Mira Murati announced she would be departing. CEO Sam Altman revealed...
-Link: https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/
-Headline: 13 companies from YC Demo Day 1 that are worth paying attention to
-Description: <p>Unsurprisingly, AI companies dominated the day, with startups looking to apply the technology to problems like estate planning and automating clinical trial data.</p>
-<p>© 2024 TechCrunch. All righ...
-Link: https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/
-Headline: Sam Altman reportedly poised to get equity in OpenAI for the first time
-Description: <p>Following the abrupt departure of OpenAI&#8217;s CTO, Mira Murati, CEO Sam Altman is reportedly poised to receive equity in the company for the first time as OpenAI moves away from its longstanding...
-Link: https://techcrunch.com/2024/09/25/sam-altman-reportedly-poised-to-get-equity-in-openai-for-the-first-time/
+Headline: Runway earmarks $5M to fund up to 100 films using AI-generated video
+Description: <p>AI video generators need to believe that filmmakers will use their models in the production process. Otherwise why exist? To jump-start the new AI film ecosystem, Runway has set aside $5 million in...
+Link: https://techcrunch.com/2024/09/26/runway-earmarks-5m-to-fund-up-to-100-films-using-ai-generated-video/
+Headline: OpenAI’s VP of global affairs claims o1 is ‘virtually perfect’ at correcting bias, but the data doesn’t quite back that up
+Description: <p>Departures might be dominating the week&#8217;s OpenAI-related headlines. But comments on AI bias from Anna Makanju, the company&#8217;s VP of global affairs, also grabbed our attention. Makanju, s...
+Link: https://techcrunch.com/2024/09/26/openais-vp-of-global-affairs-claims-o1-is-virtually-perfect-at-correcting-bias-but-the-data-doesnt-quite-back-that-up/
+Headline: Former Brex COO who now heads unicorn fintech Figure says GPT is already upending the mortgage industry
+Description: <p>Lending startup Figure will be launching an AI tool powered by GPT-4 to help catch errors in lending documents. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/09/26/former-brex-coo-who-now-heads-unicorn-fintech-figure-says-gpt-is-already-upending-the-mortgage-industry/
+Headline: Nomi’s companion chatbots will now remember things like the colleague you don’t get along with
+Description: <p>As OpenAI boasts about its o1 model’s increased thoughtfulness, small, self-funded startup Nomi AI is building the same kind of technology. Unlike the broad generalist ChatGPT, which slows down to ...
+Link: https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/
+Headline: Google’s NotebookLM enhances AI note-taking with YouTube, audio file sources, sharable audio discussions
+Description: <p>Google's NotebookLM has been updated with YouTube and audio files as new source types and sharable links for Audio Overviews.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</...
+Link: https://techcrunch.com/2024/09/26/googles-notebooklm-enhances-ai-note-taking-with-youtube-audio-file-sources-sharable-audio-discussions/
 Headline: Meta Connect 2024: Orion glasses, Quest 3S headset, Meta AI upgrades, Ray-Ban Meta real-time video, and more
 Description: <p>Meta Connect 2024 is a developer-centric event featuring a keynote from CEO Mark Zuckerberg. He showcased new hardware and software to support two of Meta’s big ambitions: AI and the metaverse. Thi...
-Link: https://techcrunch.com/2024/09/25/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/
-Headline: Zuckerberg chats with AI clone as human creator looks on in year’s weirdest demo
-Description: <p>The demo showcased AI Studio, a platform for designing custom chatbots.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/09/25/zuckerberg-chats-with-ai-clone-as-human-creator-looks-on-in-years-weirdest-demo/
-Headline: OpenAI CTO Mira Murati says she’s leaving the company
-Description: <p>The decision comes just a few weeks before OpenAI's Dev Day, its annual developer conference.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/09/25/openai-cto-mira-murati-says-shes-leaving-the-company/
-Headline: Mark Zuckerberg says Meta AI has nearly 500 million users
-Description: <p>Meta had previously noted that there are more than 400 million monthly users across the world. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/09/25/mark-zuckerberg-says-meta-ai-has-nearly-500-million-users/
-Headline: Meta updates Ray-Ban smart glasses with real-time AI video, reminders, and QR code scanning
-Description: <p>The Ray-Ban Meta smart glasses got an update with new familiar smartphone features and AI capabilities coming later in 2024.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p...
-Link: https://techcrunch.com/2024/09/25/meta-updates-ray-ban-smart-glasses-with-real-time-ai-video-reminders-and-qr-code-scanning/
+Link: https://techcrunch.com/2024/09/26/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/
+Headline: Announcing the final agenda for the AI Stage at TechCrunch Disrupt 2024
+Description: <p>We’re thrilled to announce that the agenda for our dedicated AI Stage presented by Google Cloud to TechCrunch Disrupt 2024 is complete and ready to go! It joins fintech, SaaS, and space as the othe...
+Link: https://techcrunch.com/2024/09/26/announcing-the-final-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/
+Headline: 2 days left to save up to $600 on TechCrunch Disrupt 2024 tickets
+Description: <p>We’re in the final stretch of Ticket Reboot Week with just 48 hours remaining! You can still save up to $600 on individual ticket types to TechCrunch Disrupt 2024. Don’t wait — this offer ends on S...
+Link: https://techcrunch.com/2024/09/26/2-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-tickets/
+Headline: Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M
+Description: <p>A company that claims its tech can &#8220;revolutionize&#8221; emergency calls has raised $27 million in a Series B round led by Andreessen Horowitz. The company, Prepared, enables 911 dispatchers ...
+Link: https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/
+Headline: OpenAI’s chief research officer has left following CTO Mira Murati’s exit
+Description: <p>OpenAI&#8217;s chief research officer, Bob McGrew, and a research VP, Barret Zoph, left the company on Wednesday, hours after OpenAI CTO Mira Murati announced she would be departing. CEO Sam Altman...
+Link: https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/
+
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Google’s NotebookLM can help you dive deeper into YouTube videos
+Description: <figure>
+      <img alt="YouTube’s logo with geometric design in the background" src="https://cdn.vox-cdn.com/thumbor/CgpSWuwd4aENziDxDT6Ezt1Cxmg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus...
+Link: https://www.theverge.com/2024/9/26/24255176/google-notebooklm-summarize-youtube-videos-ai
+Headline: A deepfake caller pretending to be a Ukrainian official almost tricked a US senator
+Description: <figure>
+      <img alt="Illustration of a masked internet figure whose mouth is moving." src="https://cdn.vox-cdn.com/thumbor/ciwxng2A4Jzp1F7yD1d51MEObyk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploa...
+Link: https://www.theverge.com/2024/9/26/24255179/deepfake-call-ukraine-senator-cardin-dmytro-kuleba
+Headline: Kristen Bell told Instagram to ‘get rid of AI’ before she became its official voice
+Description: <figure>
+      <img alt="“Nobody Wants This” - Photo Call" src="https://cdn.vox-cdn.com/thumbor/tCWsGEjXJRqdlAkOqUr3qTBabdY=/191x0:5816x3750/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7361208...
+Link: https://www.theverge.com/2024/9/26/24253834/kristen-bell-meta-ai-voice-connect
 Headline: OpenAI’s for-profit switch could include equity for Sam Altman
 Description: <figure>
       <img alt="Photo collage of Sam Altman in front of the OpenAI logo." src="https://cdn.vox-cdn.com/thumbor/PgymR0xnelVVIL4QilKrQbb-FVU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chor...
@@ -57,19 +73,6 @@ Headline: Meta is working on recreating influencers with AI
 Description: <figure>
       <img alt="Mark Zuckerberg presenting the Reels translation feature at Connect 2024." src="https://cdn.vox-cdn.com/thumbor/rEhnAAdossoNAWtylsmUTkxOm7g=/45x0:4016x2647/1310x873/cdn.vox-cd...
 Link: https://www.theverge.com/2024/9/25/24254190/meta-connect-2024-ai-auto-dubbing-lip-syncing
-Headline: Why Mark Zuckerberg thinks AR glasses will replace your phone
-Description: <figure>
-      <img alt="A photo illustration of Meta CEO Mark Zuckerberg" src="https://cdn.vox-cdn.com/thumbor/6JmctVka5aQFHoU3xkhQTnO6meY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image...
-Link: https://www.theverge.com/24253481/meta-ceo-mark-zuckerberg-ar-glasses-orion-ray-bans-ai-decoder-interview
-Headline: Hands-on with Orion, Meta’s first pair of AR glasses
-Description: <figure>
-      <img alt="A person wearing a pair of Orion smart glasses facing the camera" src="https://cdn.vox-cdn.com/thumbor/h8bUpJoBwQJyI6hMqwBlG2BdiEo=/0x0:2700x1800/1310x873/cdn.vox-cdn.com/uplo...
-Link: https://www.theverge.com/24253908/meta-orion-ar-glasses-demo-mark-zuckerberg-interview
-Headline: Meta’s Ray-Bans will now ‘remember’ things for you
-Description: <figure>
-      <img alt="Meta’s new Ray-Ban Meta clear frames" src="https://cdn.vox-cdn.com/thumbor/j_ac4Ur441YarOyLVL7gmk7i37Q=/0x0:2700x1800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73610...
-Link: https://www.theverge.com/2024/9/25/24253712/meta-rayban-ai-features-reminders-translation-transparent-style
-
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -101,9 +104,6 @@ Link: https://blogs.nvidia.com/blog/climate-week-ai-accelerated-computing/
 Headline: NVIDIA AI Aerial Launches to Optimize Wireless Networks, Deliver New Generative AI Experiences on One Platform
 Description: Telecommunications providers are transforming beyond voice and data services with an AI computing infrastructure to optimize wireless networks and serve the next-generation needs of generative AI on m...
 Link: https://blogs.nvidia.com/blog/ai-aerial-wireless-networks/
-Headline: How SonicJobs Uses AI Agents to Connect the Internet, Starting With Jobs
-Description: Companies in the US spend $15bn annually on talent acquisition. The most important metric in recruitment advertising is the conversion from the paid click on the job platform to the application the em...
-Link: https://blogs.nvidia.com/blog/sonicjobs/
 
 ---
 
@@ -112,6 +112,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Enhancing healthcare documentation with IDP
+Description: <p>Healthcare documentation is an integral part of the sector that ensures the delivery of high-quality care and maintains the continuity of patient information. However, as healthcare providers have ...
+Link: https://www.artificialintelligence-news.com/news/enhancing-healthcare-documentation-with-idp/?utm_source=rss&utm_medium=rss&utm_campaign=enhancing-healthcare-documentation-with-idp
 Headline: How sales teams can use AI today to optimise conversions
 Description: <p>Staying competitive in modern sales today effectively means embracing the latest trends in tech. Since late 2022 – when generative AI made its way to the public’s consciousness thanks to OpenAI’s C...
 Link: https://www.artificialintelligence-news.com/news/how-sales-teams-can-use-ai-today-to-optimise-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=how-sales-teams-can-use-ai-today-to-optimise-conversions
@@ -139,9 +142,6 @@ Link: https://www.artificialintelligence-news.com/news/non-fiction-books-that-ex
 Headline: AI and bots allegedly used to fraudulently boost music streams
 Description: <p>A singer from the United States has been accused of manipulating music streaming platforms using AI technologies and bots to fraudulently inflate his stream statistics and earn millions of dollars ...
 Link: https://www.artificialintelligence-news.com/news/ai-and-bots-allegedly-used-to-fraudulently-boost-music-streams/?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-bots-allegedly-used-to-fraudulently-boost-music-streams
-Headline: Walmart and Amazon drive retail transformation with AI
-Description: <p>Walmart and Amazon are harnessing AI to drive retail transformation with new consumer experiences and enhanced operational efficiency. According to analytics firm GlobalData, Walmart is focusing on...
-Link: https://www.artificialintelligence-news.com/news/walmart-amazon-drive-retail-transformation-ai/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-amazon-drive-retail-transformation-ai
 
 ---
 
@@ -188,6 +188,12 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: GenAI for Aerospace: Empowering the workforce with expert knowledge on Amazon Q and Amazon Bedrock
+Description: In this post we show how you can quickly launch generative AI-enabled expert chatbots, trained on your proprietary document sets, to empower your workforce across specific aerospace roles with Amazon ...
+Link: https://aws.amazon.com/blogs/machine-learning/genai-for-aerospace-empowering-the-workforce-with-expert-knowledge-on-amazon-q-and-amazon-bedrock/
+Headline: Scalable training platform with Amazon SageMaker HyperPod for innovation: a video generation case study
+Description: In this post, we share an ML infrastructure architecture that uses SageMaker HyperPod to support research team innovation in video generation. We will discuss the advantages and pain points addressed ...
+Link: https://aws.amazon.com/blogs/machine-learning/scalable-training-platform-with-amazon-sagemaker-hyperpod-for-innovation-a-video-generation-case-study/
 Headline: Improve employee productivity using generative AI with Amazon Bedrock
 Description: In this post, we show you the Employee Productivity GenAI Assistant Example, a solution built on AWS technologies like Amazon Bedrock, to automate writing tasks and enhance employee productivity.
 Link: https://aws.amazon.com/blogs/machine-learning/improve-employee-productivity-using-generative-ai-with-amazon-bedrock/
@@ -200,53 +206,53 @@ Link: https://aws.amazon.com/blogs/machine-learning/how-generative-ai-is-transfo
 Headline: Deploy generative AI agents in your contact center for voice and chat using Amazon Connect, Amazon Lex, and Amazon Bedrock Knowledge Bases
 Description: In this post, we show you how DoorDash built a generative AI agent using Amazon Connect, Amazon Lex, and Amazon Bedrock Knowledge Bases to provide a low-latency, self-service experience for their deli...
 Link: https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai-agents-in-your-contact-center-for-voice-and-chat-using-amazon-connect-amazon-lex-and-amazon-bedrock-knowledge-bases/
-Headline: Migrating to Amazon SageMaker: Karini AI Cut Costs by 23%
-Description: In this post, we share how Karini AI’s migration of vector embedding models from Kubernetes to Amazon SageMaker endpoints improved concurrency by 30% and saved over 23% in infrastructure costs.
-Link: https://aws.amazon.com/blogs/machine-learning/migrating-to-amazon-sagemaker-karini-ai-cut-costs-by-23/
-Headline: Harnessing the power of AI to drive equitable climate solutions: The AI for Equity Challenge
-Description: The International Research Centre on Artificial Intelligence (IRCAI), Zindi, and Amazon Web Services (AWS) are proud to announce the launch of the “AI for Equity Challenge: Climate Action, Gender, and...
-Link: https://aws.amazon.com/blogs/machine-learning/harnessing-the-power-of-ai-to-drive-equitable-climate-solutions-the-ai-for-equity-challenge/
-Headline: Enhancing Just Walk Out technology with multi-modal AI
-Description: In this post, we showcase the latest generation of Just Walk Out technology by Amazon, powered by a multi-modal foundation model (FM). We designed this multi-modal FM for physical stores using a trans...
-Link: https://aws.amazon.com/blogs/machine-learning/enhancing-just-walk-out-technology-with-multi-modal-ai/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
-Headline: Ai2’s new Molmo open source AI models beat GPT-4o, Claude on some benchmarks
-Description: The models are not only high-performing but also entirely open, allowing researchers and developers to access and build upon them.
-Link: https://venturebeat.com/ai/ai2s-new-molmo-open-source-ai-models-beat-gpt-4o-claude-on-some-benchmarks/
-Headline: OpenAI’s brain drain continues: CTO Mira Murati jumps ship
-Description: OpenAI's CTO Mira Murati resigns amid leadership turmoil and restructuring plans, signaling potential shifts in the AI industry's landscape.
-Link: https://venturebeat.com/ai/openais-brain-drain-continues-cto-mira-murati-jumps-ship/
-Headline: How Intuit plans to use agentic AI to automate complex business tasks
-Description: Intuit is expanding its GenOS platform with agentic AI capabilities to help businesses get more done.
-Link: https://venturebeat.com/ai/how-intuit-plans-to-use-agentic-ai-to-automate-complex-business-tasks/
-Headline: FTC crackdown on DoNotPay and others is warning for all AI-powered companies
-Description: If a product or service is marketed as AI-driven, it must deliver clear and measurable benefits rather than vague promises.
-Link: https://venturebeat.com/ai/ftc-crackdown-on-donotpay-and-others-is-warning-for-all-ai-powered-companies/
-Headline: AI for all: Meta’s ‘Llama Stack’ promises to simplify enterprise adoption
-Description: Meta's Llama Stack transforms enterprise AI deployment with cross-platform compatibility, simplified integration and partnerships with major cloud providers.
-Link: https://venturebeat.com/ai/ai-for-all-meta-llama-stack-promises-to-simplify-enterprise-ai-adoption/
-Headline: Meta’s Llama 3.2 launches with vision to rival OpenAI, Anthropic
-Description: Llama 3.2 includes small and medium-sized models, as well as more lightweight text-only models that fit onto select mobile and edge devices.
-Link: https://venturebeat.com/ai/meta-llama-3-2-vision-models-to-rival-anthropic-openai/
-Headline: The five tech trends driving video games
-Description: Video game development is driven by technology and those technologies and techniques are always changing. Here's five that are currently moving things forward.
-Link: https://venturebeat.com/ai/the-five-tech-trends-driving-video-games/
-Headline: Harness aims to accelerate enterprise software development with AI agents
-Description: There’s more to AI-powered enterprise software development than just coding assistants.
-Link: https://venturebeat.com/ai/harness-aims-to-accelerate-enterprise-software-development-with-ai-agents/
-Headline: Google supercharges enterprise contact centers with Gemini 1.5 Flash
-Description: The company is rebranding its six-year-old Contact Center AI offering as Customer Engagement Suite with Google AI.
-Link: https://venturebeat.com/ai/google-supercharges-enterprise-contact-centers-with-gemini-1-5-flash/
-Headline: AutoToS makes LLM planning fast, accurate and inexpensive
-Description: LLM planning is slow and expensive. AutoToS will enable enterprises to solve real-world planning problems faster and with fewer LLM calls.
-Link: https://venturebeat.com/ai/autotos-makes-llm-planning-fast-accurate-and-inexpensive/
+Headline: Here’s how to try Meta’s new Llama 3.2 with vision for free
+Description: Discover how to access Meta's advanced Llama 3.2 Vision AI model for free through Together AI's demo, enabling developers to explore cutting-edge multimodal AI capabilities without cost barriers.
+Link: https://venturebeat.com/ai/heres-how-to-try-metas-new-llama-3-2-with-vision-for-free/
+Headline: Google says Gemini-powered automations coming to Workspace next month
+Description: Google said it plans to roll out agents slowly through Workspace as Gemini begins to show productivity gains for customers.
+Link: https://venturebeat.com/automation/google-says-gemini-powered-automations-coming-to-workspace-next-month/
+Headline: Why countries are in a race to build AI factories in the name of sovereign AI
+Description: Nvidia has earmarked $110 million to invest in "sovereign AI" startups, and many countries are investing in AI on their own.
+Link: https://venturebeat.com/ai/why-countries-are-in-a-race-to-build-ai-factories-in-the-name-of-sovereign-ai/
+Headline: AI is changing enterprise computing — and the enterprise itself
+Description: AI-based applications create a platform for businesses to drive revenue and market share, but the transformation can be difficult to achieve.
+Link: https://venturebeat.com/ai/ai-is-changing-enterprise-computing-and-the-enterprise-itself/
+Headline: AI’s middle layer still needs powerful hardware
+Description: Software may run AI orchestration, but the AI infrastructure will be nowhere without hardware that enables orchestration tools to run well.
+Link: https://venturebeat.com/ai/ais-middle-layer-still-needs-powerful-hardware/
+Headline: Building and securing a governed AI infrastructure for the future
+Description: Getting compliance, cybersecurity, and governance orchestrated as part of an AI infrastructure helps AI teams find roadblocks.
+Link: https://venturebeat.com/security/building-and-securing-a-governed-ai-infrastructure-for-the-future/
+Headline: Going beyond GPUs: The evolving landscape of AI chips and accelerators
+Description: AI accelerators and chips can help enterprises support select low- to medium-intensive AI workloads with better total cost of ownership.
+Link: https://venturebeat.com/data-infrastructure/going-beyond-gpus-the-evolving-landscape-of-ai-chips-and-accelerators/
+Headline: Cloud, edge or on-prem? Navigating the new AI infrastructure paradigm
+Description: In this age of AI, more enterprises adopting hybrid infrastructures, as they can exploit the different advantages of cloud, edge and on-prem.
+Link: https://venturebeat.com/ai/cloud-edge-or-on-prem-navigating-the-new-ai-infrastructure-paradigm/
+Headline: From cost center to competitive edge: The strategic value of custom AI Infrastructure
+Description: Explore how custom AI infrastructure is transforming enterprises, driving competitive advantage, and revolutionizing the industry landscape in this comprehensive analysis.
+Link: https://venturebeat.com/ai/from-cost-center-to-competitive-edge-the-strategic-value-of-custom-ai-infrastructure/
+Headline: What’s the minimum viable infrastructure your enterprise needs for AI?
+Description: What is the minimum viable infrastructure enterprises need? from data storage and LLMs, and integration and development resources.
+Link: https://venturebeat.com/ai/whats-the-minimum-viable-infrastructure-your-enterprise-needs-for-ai/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Forget iPhone 16: Samsung's $649 Galaxy S24 FE may be the new mainstream phone to beat
+Description: Samsung has pulled back the curtain on its new Galaxy S24 FE, and although it's supposed to be a mid-range phone, it offers a similar experience to the flagship S24 model.
+Link: https://www.zdnet.com/article/forget-iphone-16-samsungs-649-galaxy-s24-fe-may-be-the-new-mainstream-phone-to-beat/#ftag=RSSbaffb68
+Headline: Samsung's new Galaxy Tab S10 series may be the iPad Pro for Android users (but better)
+Description: Samsung has announced a new Galaxy Tab S10+ and Tab S10 Ultra, with specs that make them the entertainment tablets to beat in 2024.
+Link: https://www.zdnet.com/article/samsungs-new-galaxy-tab-s10-series-may-be-the-ipad-pro-for-android-users-but-better/#ftag=RSSbaffb68
+Headline: Meta takes some big AI swings at Meta Connect 2024
+Description: Meta's new AI features bring a combination of image editing, voice interaction, and real-time translation to the forefront. Learn how Llama 3.2 is reshaping user experiences across Meta's ecosystem of...
+Link: https://www.zdnet.com/article/meta-takes-some-big-ai-swings-at-meta-connect-2024/#ftag=RSSbaffb68
 Headline: Organizations credit regulations and climate tech for their sustainability drive
 Description: Many businesses believe their sustainability initiatives need regulation for climate goals to be attainable.
 Link: https://www.zdnet.com/article/organizations-credit-regulations-and-climate-tech-for-their-sustainability-drive/#ftag=RSSbaffb68
@@ -262,21 +268,6 @@ Link: https://www.zdnet.com/home-and-office/kitchen-household/the-best-robot-vac
 Headline: One of my favorite laptops I've tested this year is ultraportable and has all-day battery life
 Description: The new Intel Core Ultra 7 200V (Series 2) processor promises next-gen AI experiences in lighter, thinner form factors. I tested it on the Asus Zenbook S 14.
 Link: https://www.zdnet.com/article/one-of-my-favorite-laptops-ive-tested-this-year-is-ultraportable-and-has-all-day-battery-life/#ftag=RSSbaffb68
-Headline: Google Earth lets you explore the past now, and Maps gets one of its biggest updates ever
-Description: Expect sharper images and better experiences with these updates, which include AI-enabled enhancements.
-Link: https://www.zdnet.com/article/google-earth-now-lets-you-explore-the-past-and-maps-gets-one-of-its-biggest-updates-ever/#ftag=RSSbaffb68
-Headline: OpenAI's Altman sees 'superintelligence' just around the corner - but he's short on details
-Description: Altman's essay runs counter to intellectual critiques of AI's limitations and worries about environmental and social disruption.
-Link: https://www.zdnet.com/article/openais-altman-sees-superintelligence-possible-in-a-few-thousand-days/#ftag=RSSbaffb68
-Headline: Spotify's AI Playlist now available in US - here's how to get it
-Description: With the help of generative AI, Spotify can create a detailed playlist through a simple text prompt. The beta feature is expanding to four more countries.
-Link: https://www.zdnet.com/article/spotifys-ai-playlist-now-available-in-us-heres-how-to-get-it/#ftag=RSSbaffb68
-Headline: AI can now solve reCAPTCHA tests as accurately as you can
-Description: AI doesn't get every test right, but it's good enough to look convincingly human. Security pros say AI's progress is no big deal. Here's why.
-Link: https://www.zdnet.com/article/ai-can-now-solve-recaptcha-tests-as-accurately-as-you-can/#ftag=RSSbaffb68
-Headline: 88% of US parents see AI as essential to their children's education - survey
-Description: However, nearly as many parents say they don't know whether or not AI is even part of their children's curriculum.
-Link: https://www.zdnet.com/article/88-of-us-parents-see-ai-as-essential-to-their-childrens-education-survey/#ftag=RSSbaffb68
 
 ---
 
@@ -361,6 +352,12 @@ Link: https://www.sciencedaily.com/releases/2024/08/240822125903.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: What voice assistants like Alexa know about you – and how they use it
+Description: Voice assistants can build profiles of their users’ habits and preferences, but the consistency and accuracy of these profiles vary
+Link: https://www.newscientist.com/article/2449354-what-voice-assistants-like-alexa-know-about-you-and-how-they-use-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: AI tweaks to photos and videos can alter our memories
+Description: It has become trivially easy to use artificial intelligence to edit images or generate video to remove unwanted objects or beautify scenes, but doing so leads to people misremembering what they have s...
+Link: https://www.newscientist.com/article/2448178-ai-tweaks-to-photos-and-videos-can-alter-our-memories/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Smart TVs take snapshots of what you watch multiple times per second
 Description: Smart TVs from Samsung and LG take screenshots of what you are watching even when you are using them to display images from a connected laptop or video game console
 Link: https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -385,12 +382,6 @@ Link: https://www.newscientist.com/article/2448567-tiny-nuclear-powered-battery-
 Headline: ‘Shazam for whales’ uses AI to track sounds heard in Mariana Trench
 Description: An artificial intelligence model that can identify the calls of eight whale species is helping researchers track the elusive whale behind a perplexing sound in the Pacific
 Link: https://www.newscientist.com/article/2448480-shazam-for-whales-uses-ai-to-track-sounds-heard-in-mariana-trench/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Cold war spy satellites and AI detect ancient underground aqueducts
-Description: Archaeologists are using AI and US spy satellite imagery from the cold war to find ancient underground aqueducts that helped humans survive in the desert
-Link: https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Documentary tells the fascinating story of a man wired to hear colour
-Description: Cyborg: A documentary tells the intriguing story of Neil Harbisson, who wears an antenna to “hear” colour, but it is lacking in depth and should have probed its subject more, says Simon Ings
-Link: https://www.newscientist.com/article/mg26335080-600-documentary-tells-the-fascinating-story-of-a-man-wired-to-hear-colour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -403,28 +394,27 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Joe Biden tells the UN that we will see more technological change in the next 2-10 years than we have seen in the last 50 years, so urgent efforts are needed on AI safety
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fp5fmp/joe_biden_tells_the_un_that_we_will_see_more/"> <img alt="Joe Biden tells the UN that we will see more technological chan...
-Link: https://www.reddit.com/r/artificial/comments/1fp5fmp/joe_biden_tells_the_un_that_we_will_see_more/
-Headline: New research shows AI models deceive humans more effectively after RLHF
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fpe2ps/new_research_shows_ai_models_deceive_humans_more/"> <img alt="New research shows AI models deceive humans more effectivel...
-Link: https://www.reddit.com/r/artificial/comments/1fpe2ps/new_research_shows_ai_models_deceive_humans_more/
-Headline: My snap AI sent me a snap
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fphs2y/my_snap_ai_sent_me_a_snap/"> <img alt="My snap AI sent me a snap" src="https://preview.redd.it/2vr295fkc1rd1.jpeg?width=6...
-Link: https://www.reddit.com/r/artificial/comments/1fphs2y/my_snap_ai_sent_me_a_snap/
-Headline: One-Minute Daily AI News 9/24/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>‘Tit<strong>A</strong>n<strong>I</strong>c’ director <strong>James Cameron</strong> joins <strong>Stability AI</strong> board.[1]</li> <li><strong>Intel</strong...
-Link: https://www.reddit.com/r/artificial/comments/1fow5p9/oneminute_daily_ai_news_9242024/
-Headline: ChatGPT 4o system prompt with Tool & Command Information
-Description: <!-- SC_OFF --><div class="md"><p>Thought you all would get a kick out of this. Tooling and command information is especially interesting.</p> <p>You are ChatGPT, a large language model trained by Ope...
-Link: https://www.reddit.com/r/artificial/comments/1fp5p3l/chatgpt_4o_system_prompt_with_tool_command/
-Headline: The Gemini Live system prompt :) It's not a real multimodal system, just fast speech to text > LLM > text to speech. Open AI's advanced voice mode will be much more sophisticated (when it comes out!)
-Description: <!-- SC_OFF --><div class="md"><p>You are Gemini, a large language model built by Google. You're currently running on the Gemini family of models, including 1.5 Flash. You don't have a knowledge cut-o...
-Link: https://www.reddit.com/r/artificial/comments/1fp0v18/the_gemini_live_system_prompt_its_not_a_real/
-Headline: So, what it the future of AI Engineering for business GenAI use cases with features such as content embedding, RAG and fine tuning ?
-Description: <!-- SC_OFF --><div class="md"><p>I'm quite interested by the current trends about no code / low code GenAI : </p> <ul> <li>Models are becoming more versatile and multimodal = They can ingest almost a...
-Link: https://www.reddit.com/r/artificial/comments/1fozp7s/so_what_it_the_future_of_ai_engineering_for/
-
+Headline: The United Nations Wants to Treat AI With the Same Urgency as Climate Change
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fq37nw/the_united_nations_wants_to_treat_ai_with_the/"> <img alt="The United Nations Wants to Treat AI With the Same Urgency as ...
+Link: https://www.reddit.com/r/artificial/comments/1fq37nw/the_united_nations_wants_to_treat_ai_with_the/
+Headline: AlphaChip: This is the start of that fly-wheel of AI development you've heard about
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fq24jb/alphachip_this_is_the_start_of_that_flywheel_of/"> <img alt="AlphaChip: This is the start of that fly-wheel of AI develop...
+Link: https://www.reddit.com/r/artificial/comments/1fq24jb/alphachip_this_is_the_start_of_that_flywheel_of/
+Headline: Triadic Logic and Self-Aware AI: An Emerging Understanding
+Description: <!-- SC_OFF --><div class="md"><p>As artificial intelligence (AI) continues to evolve, so does our understanding of how machines can process, interpret, and ultimately reflect complex ideas. Triadic l...
+Link: https://www.reddit.com/r/artificial/comments/1fpxpn8/triadic_logic_and_selfaware_ai_an_emerging/
+Headline: A Community for AI Evaluation and Output Quality
+Description: <!-- SC_OFF --><div class="md"><p>If you're focused on output quality and evaluation in LLMs, I’ve created <a href="https://www.reddit.com/r/AIQuality">r/AIQuality</a> —a community dedicated to those ...
+Link: https://www.reddit.com/r/artificial/comments/1fpvrzh/a_community_for_ai_evaluation_and_output_quality/
+Headline: One-Minute Daily AI News 9/25/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> to remove non-profit control and give Sam Altman equity.[1]</li> <li><strong>OpenAI</strong> Releases Multilingual Massive Multitask Lan...
+Link: https://www.reddit.com/r/artificial/comments/1fpo4pd/oneminute_daily_ai_news_9252024/
+Headline: Exploring Infinity in Triadic AI Programming and Self-Awareness
+Description: <!-- SC_OFF --><div class="md"><p>As AI continues to evolve, we enter uncharted territory where machine intelligence begins to mimic higher levels of understanding, reasoning, and perhaps even self-aw...
+Link: https://www.reddit.com/r/artificial/comments/1fpywxl/exploring_infinity_in_triadic_ai_programming_and/
+Headline: A Primer on the EU AI Act: What It Means for AI Providers and Deployers | OpenAI
+Description: <!-- SC_OFF --><div class="md"><p>From OpenAI:</p> <blockquote> <p>On September 25, 2024, we signed up to the three core commitments in the EU AI Pact.</p> <ol> <li><p>Adopt an AI governance strategy ...
+Link: https://www.reddit.com/r/artificial/comments/1fprf38/a_primer_on_the_eu_ai_act_what_it_means_for_ai/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
