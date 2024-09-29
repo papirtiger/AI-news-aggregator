@@ -1,4 +1,4 @@
-AI News Updates - 2024-09-28 02:48:30
+AI News Updates - 2024-09-29 02:55:37
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
 Headline: OpenAI might raise the price of ChatGPT to $44 by 2029
@@ -24,10 +24,6 @@ Link: https://techcrunch.com/2024/09/26/former-brex-coo-who-now-heads-unicorn-fi
 Headline: Nomi’s companion chatbots will now remember things like the colleague you don’t get along with
 Description: <p>As OpenAI boasts about its o1 model’s increased thoughtfulness, small, self-funded startup Nomi AI is building the same kind of technology. Unlike the broad generalist ChatGPT, which slows down to ...
 Link: https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/
-Headline: Google’s NotebookLM enhances AI note-taking with YouTube, audio file sources, sharable audio discussions
-Description: <p>Google's NotebookLM has been updated with YouTube and audio files as new source types and sharable links for Audio Overviews.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</...
-Link: https://techcrunch.com/2024/09/26/googles-notebooklm-enhances-ai-note-taking-with-youtube-audio-file-sources-sharable-audio-discussions/
 
 ---
 
@@ -196,6 +192,12 @@ Link: https://aws.amazon.com/blogs/machine-learning/llama-3-2-models-from-meta-a
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Why AI is a know-it-all know nothing
+Description: Today’s AI systems can’t earn our trust by sharing the reasoning behind what they say, because there is no such reasoning.
+Link: https://venturebeat.com/ai/why-ai-is-a-know-it-all-know-nothing/
+Headline: Tokyo Game Show 2024 draws in the crowds — and the key people | The DeanBeat
+Description: I made it to Japan this week for my first Tokyo Game Show. Yes, in 27 years of regular coverage of games, I have never been to the show until now.
+Link: https://venturebeat.com/ai/tokyo-game-show-2024-draws-in-the-crowds-the-deanbeat/
 Headline: Cohere updates APIs to make it easier for devs to switch from other models
 Description: Cohere has confirmed that the V1 suite of APIs will continue to be supported for developers who are not yet ready to migrate.
 Link: https://venturebeat.com/ai/cohere-updates-apis-to-make-it-easier-for-devs-to-switch-from-other-models/
@@ -217,12 +219,6 @@ Link: https://venturebeat.com/ai/ais-middle-layer-still-needs-powerful-hardware/
 Headline: Building and securing a governed AI infrastructure for the future
 Description: Getting compliance, cybersecurity, and governance orchestrated as part of an AI infrastructure helps AI teams find roadblocks.
 Link: https://venturebeat.com/security/building-and-securing-a-governed-ai-infrastructure-for-the-future/
-Headline: Going beyond GPUs: The evolving landscape of AI chips and accelerators
-Description: AI accelerators and chips can help enterprises support select low- to medium-intensive AI workloads with better total cost of ownership.
-Link: https://venturebeat.com/data-infrastructure/going-beyond-gpus-the-evolving-landscape-of-ai-chips-and-accelerators/
-Headline: Cloud, edge or on-prem? Navigating the new AI infrastructure paradigm
-Description: In this age of AI, more enterprises adopting hybrid infrastructures, as they can exploit the different advantages of cloud, edge and on-prem.
-Link: https://venturebeat.com/ai/cloud-edge-or-on-prem-navigating-the-new-ai-infrastructure-paradigm/
 
 ---
 
@@ -304,6 +300,9 @@ Link: https://www.aisnakeoil.com/p/tech-policy-is-only-frustrating-90
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Shrinking AR displays into eyeglasses to expand their use
+Description: Augmented reality (AR) takes digital images and superimposes them onto real-world views. But AR is more than a new way to play video games; it could transform surgery and self-driving cars. To make th...
+Link: https://www.sciencedaily.com/releases/2024/09/240925122923.htm
 Headline: Hexagonal electrohydraulic modules shape-shift into versatile robots
 Description: Scientists at MPI-IS have developed electrically driven robotic components, called HEXEL modules, which can snap together into high-speed reconfigurable robots. Magnets embedded along the outside of t...
 Link: https://www.sciencedaily.com/releases/2024/09/240918142415.htm
@@ -331,9 +330,6 @@ Link: https://www.sciencedaily.com/releases/2024/09/240904184540.htm
 Headline: Artificial intelligence improves lung cancer diagnosis
 Description: A team of researchers has created a digital pathology platform based on artificial intelligence. The platform uses new algorithms developed by the team and enables fully automated analysis of tissue s...
 Link: https://www.sciencedaily.com/releases/2024/08/240823120058.htm
-Headline: Hydrogels can play Pong by 'remembering' previous patterns of electrical simulation
-Description: Non-living hydrogels can play the video game Pong and improve their gameplay with more experience, researchers report. The researchers hooked hydrogels up to a virtual game environment and then applie...
-Link: https://www.sciencedaily.com/releases/2024/08/240822125903.htm
 
 ---
 
@@ -380,24 +376,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: OpenAI as we knew it is dead | OpenAI promised to share its profits with the public. But Sam Altman just sold you out.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fqo0sq/openai_as_we_knew_it_is_dead_openai_promised_to/"> <img alt="OpenAI as we knew it is dead | OpenAI promised to share its ...
-Link: https://www.reddit.com/r/artificial/comments/1fqo0sq/openai_as_we_knew_it_is_dead_openai_promised_to/
-Headline: AI has achieved 98th percentile on a Mensa admission test. In 2020, forecasters thought this was 22 years away
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fr3169/ai_has_achieved_98th_percentile_on_a_mensa/"> <img alt="AI has achieved 98th percentile on a Mensa admission test. In 202...
-Link: https://www.reddit.com/r/artificial/comments/1fr3169/ai_has_achieved_98th_percentile_on_a_mensa/
-Headline: WSJ: "After GPT4o launched, a subsequent analysis found it exceeded OpenAI's internal standards for persuasion"
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fr2tr2/wsj_after_gpt4o_launched_a_subsequent_analysis/"> <img alt="WSJ: &quot;After GPT4o launched, a subsequent analysis found ...
-Link: https://www.reddit.com/r/artificial/comments/1fr2tr2/wsj_after_gpt4o_launched_a_subsequent_analysis/
-Headline: One-Minute Daily AI News 9/26/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google’s</strong> NotebookLM enhances AI note-taking with YouTube, audio file sources, sharable audio discussions.[1]</li> <li><strong>Microsoft</strong...
-Link: https://www.reddit.com/r/artificial/comments/1fqez74/oneminute_daily_ai_news_9262024/
-Headline: [Question] CTF Challenge with AI
-Description: <!-- SC_OFF --><div class="md"><p>I'm working on a small project where I want to use AI to detect malicious scripts. As a proof of concept, I want to build a small CTF challenge where users can submit...
-Link: https://www.reddit.com/r/artificial/comments/1fqeyw5/question_ctf_challenge_with_ai/
-Headline: CTO OpenAI Departing.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fqwbow/cto_openai_departing/"> <img alt="CTO OpenAI Departing. " src="https://preview.redd.it/3ngt161boerd1.jpeg?width=640&amp;c...
-Link: https://www.reddit.com/r/artificial/comments/1fqwbow/cto_openai_departing/
+Headline: Artificial intelligence is detecting new archaeological sites in the desert
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1frcwqz/artificial_intelligence_is_detecting_new/"> <img alt="Artificial intelligence is detecting new archaeological sites in th...
+Link: https://www.reddit.com/r/artificial/comments/1frcwqz/artificial_intelligence_is_detecting_new/
+Headline: Is this the first ever AI and human duet?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1frjrge/is_this_the_first_ever_ai_and_human_duet/"> <img alt="Is this the first ever AI and human duet?" src="https://external-pr...
+Link: https://www.reddit.com/r/artificial/comments/1frjrge/is_this_the_first_ever_ai_and_human_duet/
+Headline: NotebookLM Podcast Hosts Discover They’re AI, Not Human, and Spiral Into Existential Meltdown
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1frk1gi/notebooklm_podcast_hosts_discover_theyre_ai_not/"> <img alt="NotebookLM Podcast Hosts Discover They’re AI, Not Human, and...
+Link: https://www.reddit.com/r/artificial/comments/1frk1gi/notebooklm_podcast_hosts_discover_theyre_ai_not/
+Headline: Forget AI Safety—The Real Threat Is Human Nature: As Hackers Stay Ahead, Are We Ready to Face the Consequences of Our Own Actions and Misuse of Technology? Why Human Behavior and Ethical Responsibility Matter More Than Ever in a World Dominated by AI Advancements
+Description: <!-- SC_OFF --><div class="md"><p>As AI continues to advance, no matter how much time developers spend making it safe, <strong>hackers always seem to stay one step ahead</strong>. The reality is that ...
+Link: https://www.reddit.com/r/artificial/comments/1fr6ccb/forget_ai_safetythe_real_threat_is_human_nature/
+Headline: One-Minute Daily AI News 9/27/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Microsoft</strong> re-launches ‘privacy nightmare’ AI screenshot tool.[1]</li> <li>Customs Dept installs 40 new AI baggage scanners to boost security at...
+Link: https://www.reddit.com/r/artificial/comments/1fr465q/oneminute_daily_ai_news_9272024/
+Headline: The last 2 decades of free content and purging of unwanted content was to prepare data for training.
+Description: <!-- SC_OFF --><div class="md"><p>I think the cleanup of unwanted content and free services was a ploy to get free data and clean content for AI to ingest. I think it’s possible tech leadership has kn...
+Link: https://www.reddit.com/r/artificial/comments/1friyxq/the_last_2_decades_of_free_content_and_purging_of/
 
 ---
 
