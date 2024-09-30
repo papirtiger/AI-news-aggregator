@@ -1,6 +1,12 @@
-AI News Updates - 2024-09-29 02:55:37
+AI News Updates - 2024-09-30 02:56:24
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Here is what’s illegal under California’s 18 (and counting) new AI laws
+Description: <p>In September, California Governor Gavin Newsom considered 38 AI-related bills, including the highly contentious SB 1047, which the state&#8217;s legislature sent to his desk for final approval. He ...
+Link: https://techcrunch.com/2024/09/29/here-is-whats-illegal-under-californias-18-and-counting-new-ai-laws/
+Headline: Gov. Newsom vetoes California’s controversial AI bill, SB 1047
+Description: <p>California Governor Gavin Newsom has vetoed SB 1047, a high-profile bill that would have regulated the development of AI. The bill was authored by State Senator Scott Wiener and would have made com...
+Link: https://techcrunch.com/2024/09/29/gov-newsom-vetoes-californias-controversial-ai-bill-sb-1047/
 Headline: OpenAI might raise the price of ChatGPT to $44 by 2029
 Description: <p>ChatGPT could get more expensive to use in coming years. The New York Times, citing internal OpenAI docs, reports that OpenAI is planning to raise the price of individual ChatGPT subscriptions from...
 Link: https://techcrunch.com/2024/09/27/openai-might-raise-the-price-of-chatgpt-to-22-by-2025-44-by-2029/
@@ -17,17 +23,18 @@ Link: https://techcrunch.com/2024/09/26/runway-earmarks-5m-to-fund-up-to-100-fil
 Headline: OpenAI’s VP of global affairs claims o1 is ‘virtually perfect’ at correcting bias, but the data doesn’t quite back that up
 Description: <p>Departures might be dominating the week&#8217;s OpenAI-related headlines. But comments on AI bias from Anna Makanju, the company&#8217;s VP of global affairs, also grabbed our attention. Makanju, s...
 Link: https://techcrunch.com/2024/09/26/openais-vp-of-global-affairs-claims-o1-is-virtually-perfect-at-correcting-bias-but-the-data-doesnt-quite-back-that-up/
-Headline: Former Brex COO who now heads unicorn fintech Figure says GPT is already upending the mortgage industry
-Description: <p>Lending startup Figure will be launching an AI tool powered by GPT-4 to help catch errors in lending documents. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/09/26/former-brex-coo-who-now-heads-unicorn-fintech-figure-says-gpt-is-already-upending-the-mortgage-industry/
-Headline: Nomi’s companion chatbots will now remember things like the colleague you don’t get along with
-Description: <p>As OpenAI boasts about its o1 model’s increased thoughtfulness, small, self-funded startup Nomi AI is building the same kind of technology. Unlike the broad generalist ChatGPT, which slows down to ...
-Link: https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: California governor vetoes major AI safety bill
+Description: <figure>
+      <img alt="Photo illustration of a brain on a circuit board in red." src="https://cdn.vox-cdn.com/thumbor/yhYxdMmDLBE1DfYbCsGiJrAkdYQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chor...
+Link: https://www.theverge.com/2024/9/29/24232172/california-ai-safety-bill-1047-vetoed-gavin-newsom
+Headline: The future of AI might look a lot like Twitter
+Description: <figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/fmffZ5cVpk9arrS2WgJhUNjhLMk=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73619329/The_Vergecast_chatbot_Site__1_.0...
+Link: https://www.theverge.com/24255887/social-ai-bots-social-network-chatgpt-vergecast
 Headline: OpenAI was a research lab — now it’s just another tech company
 Description: <figure>
       <img alt="ISRAEL-SCIENCE-TECHNOLOGY-AI" src="https://cdn.vox-cdn.com/thumbor/DvB36uJg8KYBZ7pwEx2FRWNp-RI=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73616251/1258...
@@ -52,18 +59,6 @@ Headline: Kristen Bell told Instagram to ‘get rid of AI’ before she became i
 Description: <figure>
       <img alt="“Nobody Wants This” - Photo Call" src="https://cdn.vox-cdn.com/thumbor/tCWsGEjXJRqdlAkOqUr3qTBabdY=/191x0:5816x3750/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7361208...
 Link: https://www.theverge.com/2024/9/26/24253834/kristen-bell-meta-ai-voice-connect
-Headline: OpenAI’s for-profit switch could include equity for Sam Altman
-Description: <figure>
-      <img alt="Photo collage of Sam Altman in front of the OpenAI logo." src="https://cdn.vox-cdn.com/thumbor/PgymR0xnelVVIL4QilKrQbb-FVU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chor...
-Link: https://www.theverge.com/2024/9/25/24254535/openai-non-profit-for-profit-sam-altman-investment
-Headline: Just 5,000 people use the Rabbit R1 every day
-Description: <figure>
-      <img alt="A photo of the Rabbit R1." src="https://cdn.vox-cdn.com/thumbor/tD2jRY6Egpo0pK9PCFcA28NpCcc=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73610969/Rabbit_...
-Link: https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget
-Headline: ‘Robot lawyer’ company faces $193,000 fine as part of FTC’s AI crackdown
-Description: <figure>
-      <img alt="Photo collage showing error messages over Congress." src="https://cdn.vox-cdn.com/thumbor/rwILQSNXrLVkBPM1FqMmTcdUORE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_im...
-Link: https://www.theverge.com/2024/9/25/24254405/federal-trade-commission-donotpay-robot-lawyers-artificial-intelligence-scams
 
 ---
 
@@ -101,6 +96,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Han Heloir, MongoDB: The role of scalable databases in AI-powered apps
+Description: <p>As data management grows more complex and modern applications extend the capabilities of traditional approaches, AI is revolutionising application scaling. In addition to freeing operators from out...
+Link: https://www.artificialintelligence-news.com/news/han-heloir-mongodb-the-future-of-ai-powered-applications-and-scalable-databases/?utm_source=rss&utm_medium=rss&utm_campaign=han-heloir-mongodb-the-future-of-ai-powered-applications-and-scalable-databases
 Headline: Ivo Everts, Databricks: Enhancing open-source AI and improving data governance
 Description: <p>Ahead of AI &#38; Big Data Expo Europe, AI News caught up with Ivo Everts, Senior Solutions Architect at Databricks, to discuss several key developments set to shape the future of open-source AI an...
 Link: https://www.artificialintelligence-news.com/news/ivo-everts-databricks-open-source-ai-improving-data-governance/?utm_source=rss&utm_medium=rss&utm_campaign=ivo-everts-databricks-open-source-ai-improving-data-governance
@@ -128,9 +126,6 @@ Link: https://www.artificialintelligence-news.com/news/alibaba-cloud-unleashes-o
 Headline: Tech industry giants urge EU to streamline AI regulations
 Description: <p>Meta has spearheaded an open letter calling for urgent reform of AI regulations in the EU. The letter, which garnered support from over 50 prominent companies – including Ericsson, SAP, and Spotify...
 Link: https://www.artificialintelligence-news.com/news/tech-industry-giants-urge-eu-streamline-ai-regulations/?utm_source=rss&utm_medium=rss&utm_campaign=tech-industry-giants-urge-eu-streamline-ai-regulations
-Headline: SolarWinds: IT professionals want stronger AI regulation
-Description: <p>A new survey from SolarWinds has unveiled a resounding call for increased government oversight of AI, with 88% of IT professionals advocating for stronger regulation. The study, which polled nearly...
-Link: https://www.artificialintelligence-news.com/news/solarwinds-it-professionals-stronger-ai-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=solarwinds-it-professionals-stronger-ai-regulation
 
 ---
 
@@ -192,6 +187,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/llama-3-2-models-from-meta-a
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Onboarding the AI workforce: How digital agents will redefine work itself
+Description: By 2030, AI will have evolved from a back-office assistant to a front-line collaborator in enterprise. Those who embrace it will thrive.
+Link: https://venturebeat.com/ai/onboarding-the-ai-workforce-how-digital-agents-will-redefine-work-itself/
 Headline: Why AI is a know-it-all know nothing
 Description: Today’s AI systems can’t earn our trust by sharing the reasoning behind what they say, because there is no such reasoning.
 Link: https://venturebeat.com/ai/why-ai-is-a-know-it-all-know-nothing/
@@ -216,9 +214,6 @@ Link: https://venturebeat.com/ai/ai-is-changing-enterprise-computing-and-the-ent
 Headline: AI’s middle layer still needs powerful hardware
 Description: Software may run AI orchestration, but the AI infrastructure will be nowhere without hardware that enables orchestration tools to run well.
 Link: https://venturebeat.com/ai/ais-middle-layer-still-needs-powerful-hardware/
-Headline: Building and securing a governed AI infrastructure for the future
-Description: Getting compliance, cybersecurity, and governance orchestrated as part of an AI infrastructure helps AI teams find roadblocks.
-Link: https://venturebeat.com/security/building-and-securing-a-governed-ai-infrastructure-for-the-future/
 
 ---
 
@@ -376,24 +371,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Artificial intelligence is detecting new archaeological sites in the desert
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1frcwqz/artificial_intelligence_is_detecting_new/"> <img alt="Artificial intelligence is detecting new archaeological sites in th...
-Link: https://www.reddit.com/r/artificial/comments/1frcwqz/artificial_intelligence_is_detecting_new/
-Headline: Is this the first ever AI and human duet?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1frjrge/is_this_the_first_ever_ai_and_human_duet/"> <img alt="Is this the first ever AI and human duet?" src="https://external-pr...
-Link: https://www.reddit.com/r/artificial/comments/1frjrge/is_this_the_first_ever_ai_and_human_duet/
-Headline: NotebookLM Podcast Hosts Discover They’re AI, Not Human, and Spiral Into Existential Meltdown
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1frk1gi/notebooklm_podcast_hosts_discover_theyre_ai_not/"> <img alt="NotebookLM Podcast Hosts Discover They’re AI, Not Human, and...
-Link: https://www.reddit.com/r/artificial/comments/1frk1gi/notebooklm_podcast_hosts_discover_theyre_ai_not/
-Headline: Forget AI Safety—The Real Threat Is Human Nature: As Hackers Stay Ahead, Are We Ready to Face the Consequences of Our Own Actions and Misuse of Technology? Why Human Behavior and Ethical Responsibility Matter More Than Ever in a World Dominated by AI Advancements
-Description: <!-- SC_OFF --><div class="md"><p>As AI continues to advance, no matter how much time developers spend making it safe, <strong>hackers always seem to stay one step ahead</strong>. The reality is that ...
-Link: https://www.reddit.com/r/artificial/comments/1fr6ccb/forget_ai_safetythe_real_threat_is_human_nature/
-Headline: One-Minute Daily AI News 9/27/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Microsoft</strong> re-launches ‘privacy nightmare’ AI screenshot tool.[1]</li> <li>Customs Dept installs 40 new AI baggage scanners to boost security at...
-Link: https://www.reddit.com/r/artificial/comments/1fr465q/oneminute_daily_ai_news_9272024/
-Headline: The last 2 decades of free content and purging of unwanted content was to prepare data for training.
-Description: <!-- SC_OFF --><div class="md"><p>I think the cleanup of unwanted content and free services was a ploy to get free data and clean content for AI to ingest. I think it’s possible tech leadership has kn...
-Link: https://www.reddit.com/r/artificial/comments/1friyxq/the_last_2_decades_of_free_content_and_purging_of/
+Headline: Gavin Newsom Vetoes California’s Contentious AI Safety Bill
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fsehgo/gavin_newsom_vetoes_californias_contentious_ai/"> <img alt="Gavin Newsom Vetoes California’s Contentious AI Safety Bill" ...
+Link: https://www.reddit.com/r/artificial/comments/1fsehgo/gavin_newsom_vetoes_californias_contentious_ai/
+Headline: How can artificial intelligence today make my life actually easier or make me money? I see how billionaires can profit and all the chat&photo gimmicks available, but what can it actually do for me?
+Description: <!-- SC_OFF --><div class="md"><p>How can it make housework easier? How can it save me money? How can it make me happier? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit...
+Link: https://www.reddit.com/r/artificial/comments/1fs0c90/how_can_artificial_intelligence_today_make_my/
+Headline: AI researchers demonstrate 100% success rate in bypassing online CAPTCHAs
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fsg6q2/ai_researchers_demonstrate_100_success_rate_in/"> <img alt="AI researchers demonstrate 100% success rate in bypassing onl...
+Link: https://www.reddit.com/r/artificial/comments/1fsg6q2/ai_researchers_demonstrate_100_success_rate_in/
+Headline: One-Minute Daily AI News 9/28/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>If your AI seems smarter​, it’s thanks to smarter human trainers.[1]</li> <li><strong>AMD</strong> Unveils Its First Small Language Model AMD-135M.[2]</li> <li>...
+Link: https://www.reddit.com/r/artificial/comments/1fruqjg/oneminute_daily_ai_news_9282024/
+Headline: Lobby firm Techquity which lobbied for AI Safety Bill 1047 works for all major technology firms except for Meta and X - Gavin Vetoed the bill I am returning Senate Bill 1047 without my signature - Why are there bills being lobbied regarding AI without public debate and discussion
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fskpky/lobby_firm_techquity_which_lobbied_for_ai_safety/"> <img alt="Lobby firm Techquity which lobbied for AI Safety Bill 1047 ...
+Link: https://www.reddit.com/r/artificial/comments/1fskpky/lobby_firm_techquity_which_lobbied_for_ai_safety/
+Headline: Does freely sharing our creations count under rule 2?
+Description: <!-- SC_OFF --><div class="md"><p>Hey everybody.....I'm a classical/ jazz musician that has taken to using AI tools a lot and have a fair bit of fun things to share (rock operas and concept albums, et...
+Link: https://www.reddit.com/r/artificial/comments/1fru2va/does_freely_sharing_our_creations_count_under/
+Headline: AI develops human-like number sense
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/Akkeri"> /u/Akkeri </a> <br /> <span><a href="https://ponderwall.com/index.php/2019/06/12/ai-number-sense-intelligence/">[link]</a></span>...
+Link: https://www.reddit.com/r/artificial/comments/1fsgqbs/ai_develops_humanlike_number_sense/
+Headline: In the trial version of Topaz Video AI, the software just ruins a beautifully AI-upscaled video by adding a big diamond and a URL at the center of it.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fs8rf4/in_the_trial_version_of_topaz_video_ai_the/"> <img alt="In the trial version of Topaz Video AI, the software just ruins a...
+Link: https://www.reddit.com/r/artificial/comments/1fs8rf4/in_the_trial_version_of_topaz_video_ai_the/
 
 ---
 
