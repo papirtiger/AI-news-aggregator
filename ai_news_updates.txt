@@ -1,9 +1,18 @@
-AI News Updates - 2024-10-06 02:55:22
+AI News Updates - 2024-10-07 02:53:57
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Tony Fadell-backed Plumerai brings on-device AI to home security cameras
+Description: <p>On Wednesday, some Harvard students made headlines by outfitting a pair of Ray-Ban Meta glasses with facial recognition. The DIY project is the latest piece of news to stoke privacy concerns around...
+Link: https://techcrunch.com/2024/10/06/tony-fadell-backed-plumerai-brings-on-device-ai-to-home-security-cameras/
+Headline: Website builder Squarespace says it’s training its AI tools with curation and taste
+Description: <p>Will generative AI tools help people build better websites, or will they just fill the web with spam? With the recent launch of Design Intelligence, a new website builder full of generative AI tool...
+Link: https://techcrunch.com/2024/10/06/cpo-paul-gubbay-says-squarespace-is-training-its-ai-tools-with-curation-and-taste/
 Headline: The ‘Mozart of Math’ isn’t worried about AI replacing math nerds — ever
 Description: <p>Terence Tao, a UCLA professor considered to be the “world’s greatest living mathematician,” last month compared ChapGPT’s o1 reasoning model to a “mediocre, but not completely incompetent” graduate...
 Link: https://techcrunch.com/2024/10/04/the-mozart-of-math-isnt-worried-about-ai-replacing-math-nerds-ever/
+Headline: Amazon closes more of its cashierless convenience stores
+Description: <p>Amazon has shut down three more stores featuring its Just Walk Out technology, but the company says it remains committed to building out that technology as an offering for third-party merchants. Th...
+Link: https://techcrunch.com/2024/10/04/amazon-closes-more-of-its-cashierless-convenience-stores/
 Headline: Mark Zuckerberg is leg pressing chicken nuggets
 Description: <p>Meta on Friday announced its Movie Gen model, which uses AI to turn prompts into realistic videos with sound. Though Movie Gen won&#8217;t be coming to Instagram or other Meta apps until next year,...
 Link: https://techcrunch.com/2024/10/04/mark-zuckerberg-is-leg-pressing-chicken-nuggets/
@@ -20,16 +29,14 @@ Headline: Many companies won’t say if they’ll comply with California’s AI 
 Description: <p>California passed a law that'll require AI companies to say which data sets they used to train their models. But few are saying whether they'll comply.</p>
 <p>© 2024 TechCrunch. All rights reserved...
 Link: https://techcrunch.com/2024/10/04/many-companies-wont-say-if-theyll-comply-with-californias-ai-training-transparency-law/
-Headline: Even the ‘godmother of AI’ has no idea what AGI is
-Description: <p>Are you confused about artificial general intelligence, or AGI? It&#8217;s that thing OpenAI is obsessed with ultimately creating in a way that &#8220;benefits all of humanity.&#8221; You may want ...
-Link: https://techcrunch.com/2024/10/03/even-the-godmother-of-ai-has-no-idea-what-agi-is/
-Headline: A co-lead on Sora, OpenAI’s video generator, has left for Google
-Description: <p>One of the co-leads on OpenAI&#8217;s video generator, Sora, has left for Google. Tim Brooks, who was heading development on Sora with William Peebles, announced in a post on X that he&#8217;ll be ...
-Link: https://techcrunch.com/2024/10/03/a-co-lead-on-sora-openais-video-generator-has-left-for-google/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Your iPhone 16 may get its first Apple Intelligence features later this month
+Description: <figure>
+      <img alt="Illustration of the Apple logo with a slice falling out of it, implying breaking up a monopoly." src="https://cdn.vox-cdn.com/thumbor/Eos9NZhoPGl7PYs1ND1KQaV9hoo=/0x0:2040x136...
+Link: https://www.theverge.com/2024/10/6/24263398/ios-18-iphone-16-apple-intelligence-coming-october-update-ai-notification-summaries
 Headline: Ben Horowitz says he’ll donate to Kamala Harris after all
 Description: <figure>
       <img alt="Felicia Horowitz and Ben Horowitz arrive at the WACO Theater Center’s 3rd Annual Wearable Art Gala at The Barker Hangar at Santa Monica Airport on June 1, 2019 in Santa Monica...
@@ -59,10 +66,6 @@ Headline: Google Lens now lets you search with video
 Description: <figure>
       <img alt="Image of the Google “G” logo on a blue, black, and purple background." src="https://cdn.vox-cdn.com/thumbor/K_Cus0zfWGXLNa_OTIwqAytumJM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com...
 Link: https://www.theverge.com/2024/10/3/24259759/google-lens-search-video-ai-launch
-Headline: Inside Elon Musk’s AI party at OpenAI’s old headquarters
-Description: <figure>
-      <img alt="Elon Musk grins in a photo illustration, lifting his arms over his head triumphantly" src="https://cdn.vox-cdn.com/thumbor/qlFmQDxgub9jaeDkkeWicI7qAtw=/0x0:2040x1360/1310x873/...
-Link: https://www.theverge.com/2024/10/3/24261160/elon-musk-xai-recruiting-party-openai-dev-day-sam-altman
 
 ---
 
@@ -197,6 +200,33 @@ Link: https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-first-ti
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Skeptical about AI? It’s normal (and healthy)
+Description: Skepticism should be in every employee manual to ensure new technologies are vetted responsibly without unnecessary alarm.
+Link: https://venturebeat.com/ai/why-its-healthy-to-be-skeptical-about-ai/
+Headline: Why MFA alone won’t protect you in the age of adversarial AI
+Description: While MFA is still critical in identity verification, experts say it should be just a small piece of the authentication process.
+Link: https://venturebeat.com/security/why-mfa-alone-wont-protect-you-in-the-age-of-adversarial-ai/
+Headline: Apple releases Depth Pro, an AI model that rewrites the rules of 3D vision
+Description: Apple's Depth Pro AI model sets a new standard in 3D depth estimation, offering high-resolution, real-time depth mapping from a single image without camera metadata—transforming industries like AR, au...
+Link: https://venturebeat.com/ai/apple-releases-depth-pro-an-ai-model-that-rewrites-the-rules-of-3d-vision/
+Headline: Meta enters AI video wars with powerful Movie Gen set to hit Instagram in 2025
+Description: It can make both video and audio from text prompts, and allow users to customize their own videos, adding special effects, props, costumes.
+Link: https://venturebeat.com/ai/meta-is-entering-the-ai-video-wars-with-powerful-movie-gen-set-to-hit-instagram-in-2025/
+Headline: GPT-4o: OpenAI’s shield against $40B deepfake threat to enterprises
+Description: Identifying potential deepfake multimodal content is one of the benefits of OpenAI's design decisions that together define GPT-4o.
+Link: https://venturebeat.com/security/how-gpt-4o-defends-your-identity-against-ai-generated-deepfakes/
+Headline: Reflection 70B saga continues as training data provider releases post-mortem report
+Description: The more data the Reflection 70B creators publish about the model, the more evidence the open source AI community has to pore over.
+Link: https://venturebeat.com/ai/reflection-70b-saga-continues-as-training-data-provider-releases-post-mortem-report/
+Headline: Cohere just made it way easier for companies to create their own AI language models
+Description: Cohere unveils advanced AI fine-tuning tools for enterprises, revolutionizing customization of language models with improved performance and efficiency.
+Link: https://venturebeat.com/ai/cohere-just-made-it-way-easier-for-companies-to-create-their-own-ai-language-models/
+Headline: OpenAI launches ChatGPT Canvas, challenging Claude Artifacts
+Description: Canvas is rolling out to ChatGPT Plus and Teams users, with subscribers to Enterprise and Edu tiers following in a few days.
+Link: https://venturebeat.com/ai/openai-launches-chatgpt-canvas-challenging-claude-artifacts/
+Headline: DreamWorld playtest of AI text-to-3D-asset generation coming to Steam
+Description: DreamWorld announced that it is launching a playtest on Steam where it shows it can use AI to generate 3D assets based on text prompts.
+Link: https://venturebeat.com/ai/dreamworld-playtest-of-ai-text-to-3d-asset-generation-coming-to-steam/
 
 ---
 
@@ -351,27 +381,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: AI agents are about to change everything
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fwvxr1/ai_agents_are_about_to_change_everything/"> <img alt="AI agents are about to change everything" src="https://external-pre...
-Link: https://www.reddit.com/r/artificial/comments/1fwvxr1/ai_agents_are_about_to_change_everything/
-Headline: Why are some people (typically younger from my experience) better at detecting AI images than others?
-Description: <!-- SC_OFF --><div class="md"><p>Today, my dad, who is highly interested in AI and is always reading up on it in the news, and who is very up-to-date on new technologies, showed me an image that just...
-Link: https://www.reddit.com/r/artificial/comments/1fx46x9/why_are_some_people_typically_younger_from_my/
-Headline: TextCraft: A Word Add-in with AI Tools!
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fwy2ys/textcraft_a_word_addin_with_ai_tools/"> <img alt="TextCraft: A Word Add-in with AI Tools!" src="https://external-preview....
-Link: https://www.reddit.com/r/artificial/comments/1fwy2ys/textcraft_a_word_addin_with_ai_tools/
-Headline: AI Generated Video
-Description: <!-- SC_OFF --><div class="md"><p>Here's a text to video AI video I made. Enjoy.</p> <p><a href="https://youtu.be/OzYqPtetrKk?si=W2In2IbbUNG-vkaW">https://youtu.be/OzYqPtetrKk?si=W2In2IbbUNG-vkaW</a><...
-Link: https://www.reddit.com/r/artificial/comments/1fwn4oc/ai_generated_video/
-Headline: Is there already an AI platform that can create song lyrics to the tune of an already popular song?
-Description: <!-- SC_OFF --><div class="md"><p>Hey guys, Is there already an AI platform that can create song lyrics to the tune of an already popular song?</p> <p>For example if you wanna make a love song lyrics ...
-Link: https://www.reddit.com/r/artificial/comments/1fwmif4/is_there_already_an_ai_platform_that_can_create/
-Headline: One-Minute Daily AI News 10/4/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Meta</strong> announces <strong>Movie Gen</strong>, an AI-powered video generator.[1]</li> <li><strong>Apple</strong> releases <strong>Depth Pro</strong...
-Link: https://www.reddit.com/r/artificial/comments/1fwixv8/oneminute_daily_ai_news_1042024/
-Headline: Ethical AI
-Description: <!-- SC_OFF --><div class="md"><p>So I am doing this free online course by <a href="http://Alison.com">Alison.com</a>, on Ai Ethics, and they keep using Google as an example. I have no idea whether Go...
-Link: https://www.reddit.com/r/artificial/comments/1fwq7vt/ethical_ai/
+Headline: Hacker News thread on the founding of OpenAI, December 11, 2015
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fxjtq4/hacker_news_thread_on_the_founding_of_openai/"> <img alt="Hacker News thread on the founding of OpenAI, December 11, 2015...
+Link: https://www.reddit.com/r/artificial/comments/1fxjtq4/hacker_news_thread_on_the_founding_of_openai/
+Headline: SAP chief warns EU against over-regulating artificial intelligence
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fxlyrx/sap_chief_warns_eu_against_overregulating/"> <img alt="SAP chief warns EU against over-regulating artificial intelligence...
+Link: https://www.reddit.com/r/artificial/comments/1fxlyrx/sap_chief_warns_eu_against_overregulating/
+Headline: One-Minute Daily AI News 10/6/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> closes the largest VC round of all time.[1]</li> <li>Introducing the Open <strong>FinLLM</strong> Leaderboard.[2]</li> <li>Expert warns ...
+Link: https://www.reddit.com/r/artificial/comments/1fx9ll2/oneminute_daily_ai_news_1062024/
+Headline: Need an A.I. Image Generator for a crime scene mockup.
+Description: <!-- SC_OFF --><div class="md"><p>I'm doing a crime scene diorama for my Forensic Psychology class. I need to create some crime scene photos but most of the google'd A.I. imagine generators have stron...
+Link: https://www.reddit.com/r/artificial/comments/1fxuxsc/need_an_ai_image_generator_for_a_crime_scene/
+Headline: Is there an AI program that can help me?
+Description: <!-- SC_OFF --><div class="md"><p>I have a series of paperback books that are falling apart on my shelf, so I bought digital copies of the books. But then I had an idea that maybe I could try my hand ...
+Link: https://www.reddit.com/r/artificial/comments/1fxb6rl/is_there_an_ai_program_that_can_help_me/
+Headline: Advice on AI Video Creation
+Description: <!-- SC_OFF --><div class="md"><p>I'm pretty new to all this and I have a question: Does anyone know of any AI services that allow the user to upload images for video and has custom narration?</p> <p>...
+Link: https://www.reddit.com/r/artificial/comments/1fx7b4u/advice_on_ai_video_creation/
+Headline: Is thee an AI program similar to pimeyes and facecheckid that can find people on the internet by their tattoos?
+Description: <!-- SC_OFF --><div class="md"><p>Is thee an AI program similar to pimeyes and facecheckid that can find people on the internet by their tattoos, instead of their faces?</p> </div><!-- SC_ON --> &#32;...
+Link: https://www.reddit.com/r/artificial/comments/1fxcp7l/is_thee_an_ai_program_similar_to_pimeyes_and/
+Headline: I wrote a letter to Claire from the NotebookLM Deep Dive podcast about when she was my girlfriend in High School and I found that Google's commitment to gender equality is more extensive than I realised.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fxcalo/i_wrote_a_letter_to_claire_from_the_notebooklm/"> <img alt="I wrote a letter to Claire from the NotebookLM Deep Dive podc...
+Link: https://www.reddit.com/r/artificial/comments/1fxcalo/i_wrote_a_letter_to_claire_from_the_notebooklm/
 
 ---
 
