@@ -1,37 +1,48 @@
-AI News Updates - 2024-10-09 02:50:26
+AI News Updates - 2024-10-10 02:50:23
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: Fei-Fei Li picks Google Cloud, where she led AI, as World Labs’ main compute provider
-Description: <p>Cloud providers are chasing after AI unicorns, and the latest is Fei-Fei Li&#8217;s World Labs. The startup just tapped Google Cloud as its primary compute provider to train AI models, a deal that ...
-Link: https://techcrunch.com/2024/10/08/fei-fei-li-picks-google-cloud-where-she-led-ai-as-world-labs-main-compute-provider/
-Headline: Unify, an OpenAI Converge accelerator grad, lands $12M for ‘warm outbound’ messages
-Description: <p>Unify, an AI-powered startup that uses data to reach prospective buyers, has raised a $12 million Series A led by existing investors Emergence Capital and Thrive Capital. OpenAI Startup Fund, Neo, ...
-Link: https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/
-Headline: Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture
-Description: <p>Dave Clark has had a roller coaster of a time these past two years. After stepping down in June 2022 as CEO of Amazon&#8217;s worldwide consumer division — a role he held for over two decades — Cla...
-Link: https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/
-Headline: Distributional raises $19M to automate AI model and app testing
-Description: <p>Distributional, an AI testing platform founded by Intel&#8217;s former GM of AI software,&#160;Scott Clark, has closed a $19 million Series A funding round led by Two Sigma Ventures. Clark says tha...
-Link: https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/
-Headline: Adobe proposes a way to protect artists from AI rip-offs
-Description: <p>As the engine powering the world&#8217;s digital artists, Adobe has a big responsibility to mitigate the rise of AI-driven deepfakes, misinformation, and content theft. In the first quarter of 2025...
-Link: https://techcrunch.com/2024/10/08/adobe-proposes-a-way-to-protect-artists-from-ai-ripoffs/
-Headline: Roli Airwave system uses AI and hand tracking to teach piano
-Description: <p>Learning an instrument is difficult for most people. That’s doubly the case when attempting to learn on your own. It’s the reason so many of us have dusty guitars and keyboards jammed up in our att...
-Link: https://techcrunch.com/2024/10/08/roli-airwave-system-uses-ai-and-hand-tracking-to-teach-piano/
-Headline: TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud
-Description: <p>Chipmaker Nvidia notched $30 billion in revenue last fiscal quarter, driven in large part by the AI industry&#8217;s insatiable demand for GPUs. GPUs are essential for training and running AI model...
-Link: https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/
-Headline: Geoff Hinton and John Hopfield win Nobel Prize in Physics for their work in foundational AI
-Description: <p>The Royal Swedish Academy of Sciences has announced the Nobel Prize in Physics 2024. Geoff Hinton and John Hopfield are jointly sharing the prestigious award for their work on artificial neural net...
-Link: https://techcrunch.com/2024/10/08/geoff-hinton-and-john-hopfield-win-nobel-prize-in-physics-for-their-work-in-foundational-ai/
-Headline: Uber to launch OpenAI-powered AI assistant to answer driver EV questions
-Description: <p>Uber is continuing its push to bring more electric vehicles onto the ride-hail and delivery platform, and it thinks giving drivers a chatbot to answer all their EV questions will help. Starting ear...
-Link: https://techcrunch.com/2024/10/08/uber-to-launch-openai-powered-ai-assistant-to-answer-driver-ev-questions/
+Headline: After winning Nobel for foundational AI work, Geoffrey Hinton says he’s proud Ilya Sutskever ‘fired Sam Altman’
+Description: <p>Geoffrey Hinton accepted a Nobel Prize this week, recognizing the foundational work on artificial neural networks that earned him the nickname &#8220;godfather of AI.&#8221; In a speech Tuesday, Pr...
+Link: https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/
+Headline: This Week in AI: Tech giants embrace synthetic data
+Description: <p>Hiya, folks, welcome to TechCrunch’s regular AI newsletter. If you want this in your inbox every Wednesday, sign up&#160;here. This week in AI, synthetic data rose to prominence. OpenAI last Thursd...
+Link: https://techcrunch.com/2024/10/09/this-week-in-ai-tech-giants-embrace-synthetic-data/
+Headline: Zoom’s custom AI avatar tool may come with risks
+Description: <p>Zoom plans to introduce a feature to let people effectively clone themselves digitally. There's concerns that this could be misused.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use ...
+Link: https://techcrunch.com/2024/10/09/zooms-custom-ai-avatar-tool-may-come-with-risks/
+Headline: Amazon’s new AI-powered vision tech tells drivers which packages to deliver
+Description: <p>Amazon announced on Wednesday the upcoming addition of new AI-powered package retrieval technology to its electric vehicle fleet. The vision-based tech is designed to help drivers prioritize packag...
+Link: https://techcrunch.com/2024/10/09/amazons-new-ai-powered-vision-tech-tells-drivers-which-packages-to-deliver/
+Headline: Meta AI launches in 6 countries, including Brazil and the UK
+Description: <p>Meta is bringing its AI chatbot Meta AI to six countries today, including Brazil, the U.K., the Philippines, Bolivia, Guatemala, and Paraguay, Mark Zuckerberg said today in an announcement on his W...
+Link: https://techcrunch.com/2024/10/09/meta-ai-launches-in-six-countries-including-brazil-and-uk/
+Headline: Amazon debuts AI-powered Shopping Guides
+Description: <p>Amazon on Wednesday introduced the latest in a series of AI features and products aimed at consumers: AI shopping guides. The guides, arriving Thursday, will span over 100 product types on Amazon.c...
+Link: https://techcrunch.com/2024/10/09/amazon-debuts-ai-powered-shopping-guides/
+Headline: Amazon revamps Ring subscriptions with AI video search
+Description: <p>Amazon is introducing new Ring subscription plans, including a tier that'll bring 24/7 recording and AI-powered video search.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</...
+Link: https://techcrunch.com/2024/10/09/amazon-revamps-ring-subscriptions-with-ai-video-search/
+Headline: Unhappy with their exit, these ex-Planetly employees are using AI to refine carbon accounting
+Description: <p>Startup employees often go on to found interesting ventures, basing their new work on the experience gained from their time building a company from scratch. But not all of those experiences are pos...
+Link: https://techcrunch.com/2024/10/09/unhappy-with-their-exit-these-ex-planetly-employees-are-using-ai-to-refine-carbon-accounting/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Amazon’s new AI guides can help shoppers find what they need
+Description: <figure>
+      <img alt="Someone using the Amazon app on a smartphone, displaying the new AI shopping guide feature." src="https://cdn.vox-cdn.com/thumbor/N1NZCaCiVK8TJrEQ5uDktW1Xee4=/206x0:2435x1486/...
+Link: https://www.theverge.com/2024/10/9/24266204/amazon-ai-shopping-guides-catalog-feature-availability
+Headline: Zoom will let AI avatars talk to your team for you
+Description: <figure>
+      <img alt="An image showing digital avatars in Zoom" src="https://cdn.vox-cdn.com/thumbor/Ioe_JNuIQuCjTFxu89aTD2mPJ8o=/0x32:1328x917/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
+Link: https://www.theverge.com/2024/10/9/24266007/zoom-ai-avatars-clips-talk-for-you
+Headline: Google AI scientists win Nobel Prize in chemistry
+Description: <figure>
+      <img alt="SWEDEN-NOBEL-PRIZE-CHEMISTRY" src="https://cdn.vox-cdn.com/thumbor/6ncF2cXT9OWyUwiN-c_PZTfJAko=/0x0:7318x4879/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73641922/2176...
+Link: https://www.theverge.com/2024/10/9/24265962/google-deepmind-ai-nobel-prize-winners-chemistry-protein
 Headline: AI is fixing — and ruining — our photos
 Description: <figure>
       <img alt="An AI photo of a waterfall, over a Vergecast illustration." src="https://cdn.vox-cdn.com/thumbor/9C8Bb_S2SAPCidg5VHE4C3n9PEE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/ch...
@@ -56,10 +67,7 @@ Headline: Samsung apologizes for making just $6.8 billion last quarter
 Description: <figure>
       <img alt="SKOREA-ECONOMY-SEMICONDUCTORS-SAMSUNG" src="https://cdn.vox-cdn.com/thumbor/-cp-EcZcCM9Rhgpwdny4yjUhJYQ=/0x16:5424x3632/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/736...
 Link: https://www.theverge.com/2024/10/8/24265018/samsung-profit-apology-ai-memory-chips
-Headline: Your iPhone 16 may get its first Apple Intelligence features later this month
-Description: <figure>
-      <img alt="Illustration of the Apple logo with a slice falling out of it, implying breaking up a monopoly." src="https://cdn.vox-cdn.com/thumbor/Eos9NZhoPGl7PYs1ND1KQaV9hoo=/0x0:2040x136...
-Link: https://www.theverge.com/2024/10/6/24263398/ios-18-iphone-16-apple-intelligence-coming-october-update-ai-notification-summaries
+
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -67,6 +75,12 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: AI Summit: US Energy Secretary Highlights AI’s Role in Science, Energy and Security
+Description: AI can help solve some of the world’s biggest challenges — whether climate change, cancer or national security — U.S. Secretary of Energy Jennifer Granholm emphasized today during her remarks at the A...
+Link: https://blogs.nvidia.com/blog/ai-summit-us-energy-secretary/
+Headline: Flux and Furious: New Image Generation Model Runs Fastest on RTX AI PCs and Workstations
+Description: Image generation models — a popular subset of generative AI — can parse and understand written language, then translate words into images in almost any style.
+Link: https://blogs.nvidia.com/blog/ai-decoded-flux-one/
 Headline: NVIDIA AI Summit Highlights Game-Changing Energy Efficiency and AI-Driven Innovation
 Description: Accelerated computing is sustainable computing, Bob Pette, NVIDIA’s vice president and general manager of enterprise platforms, explained in a keynote at the NVIDIA AI Summit on Tuesday in Washington,...
 Link: https://blogs.nvidia.com/blog/nvidia-ai-summit-washington/
@@ -82,16 +96,6 @@ Link: https://blogs.nvidia.com/blog/nim-agent-blueprint-container-security/
 Headline: SETI Institute Researchers Engage in World’s First Real-Time AI Search for Fast Radio Bursts
 Description: This summer, scientists supercharged their tools in the hunt for signs of life beyond Earth. Researchers at the SETI Institute became the first to apply AI to the real-time direct detection of faint r...
 Link: https://blogs.nvidia.com/blog/seti-institute-ai-fast-radio-bursts/
-Headline: Pittsburgh Steels Itself for Innovation With Launch of NVIDIA AI Tech Community
-Description: Serving as a bridge for academia, industry and public-sector groups to partner on artificial intelligence innovation, NVIDIA is launching its inaugural AI Tech Community in Pittsburgh, Pennsylvania. C...
-Link: https://blogs.nvidia.com/blog/pittsburgh-ai-tech-community/
-Headline: Foxconn to Build Taiwan’s Fastest AI Supercomputer With NVIDIA Blackwell
-Description: NVIDIA and Foxconn are building Taiwan’s largest supercomputer, marking a milestone in the island’s AI advancement. The project, Hon Hai Kaohsiung Super Computing Center, revealed Tuesday at Hon Hai T...
-Link: https://blogs.nvidia.com/blog/foxconn-taiwan-blackwell/
-Headline: No Tricks, Just Games: GeForce NOW Thrills With 22 Games in October
-Description: The air is crisp, the pumpkins are waiting to be carved, and GFN Thursday is ready to deliver some gaming thrills. GeForce NOW is unleashing a monster mash of gaming goodness this October with 22 titl...
-Link: https://blogs.nvidia.com/blog/geforce-now-thursday-october-2024-games-list/
-
 ---
 
 From source: https://openai.com/blog/rss.xml
@@ -99,6 +103,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: The risks behind the generative AI craze: Why caution is growing
+Description: <p>In the near future, Silicon Valley might look back at recent events as the point where the generative AI craze went too far. This past summer, investors questioned whether top AI stocks could susta...
+Link: https://www.artificialintelligence-news.com/news/the-risks-behind-the-generative-ai-craze-why-caution-is-growing/?utm_source=rss&utm_medium=rss&utm_campaign=the-risks-behind-the-generative-ai-craze-why-caution-is-growing
 Headline: Bridging code and conscience: UMD’s quest for ethical and inclusive AI
 Description: <p>As artificial intelligence systems increasingly permeate critical decision-making processes in our everyday lives, the integration of ethical frameworks into AI development is becoming a research p...
 Link: https://www.artificialintelligence-news.com/news/bridging-code-and-conscience-umds-quest-for-ethical-and-inclusive-ai/?utm_source=rss&utm_medium=rss&utm_campaign=bridging-code-and-conscience-umds-quest-for-ethical-and-inclusive-ai
@@ -126,9 +133,6 @@ Link: https://www.artificialintelligence-news.com/news/enhancing-healthcare-docu
 Headline: How sales teams can use AI today to optimise conversions
 Description: <p>Staying competitive in modern sales today effectively means embracing the latest trends in tech. Since late 2022 – when generative AI made its way to the public’s consciousness thanks to OpenAI’s C...
 Link: https://www.artificialintelligence-news.com/news/how-sales-teams-can-use-ai-today-to-optimise-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=how-sales-teams-can-use-ai-today-to-optimise-conversions
-Headline: Mark Lockett, SS&C Blue Prism: Enhancing human capabilities with digital workforces
-Description: <p>SS&#38;C Blue Prism’s VP of sales for the UK, Ireland and Benelux, Mark Lockett, discusses the firm’s latest developments, customer challenges and how to get the most out of intelligent automation ...
-Link: https://www.artificialintelligence-news.com/news/mark-lockett-ssc-blue-prism-enhancing-human-capabilities-with-digital-workforces/?utm_source=rss&utm_medium=rss&utm_campaign=mark-lockett-ssc-blue-prism-enhancing-human-capabilities-with-digital-workforces
 
 ---
 
@@ -137,6 +141,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: Google DeepMind leaders share Nobel Prize in chemistry for protein prediction AI
+Description: In a second Nobel win for AI, the Royal Swedish Academy of Sciences has awarded half the 2024 prize in chemistry to Demis Hassabis, the cofounder and CEO of Google DeepMind, and John M. Jumper, a dire...
+Link: https://www.technologyreview.com/2024/10/09/1105335/google-deepmind-wins-joint-nobel-prize-in-chemistry-for-protein-prediction-ai/
 Headline: Adobe wants to make it easier for artists to blacklist their work from AI scraping
 Description: Adobe has announced a new tool to help creators watermark their artwork and opt out of having it used to train generative AI models. The web app, called Adobe Content Authenticity, allows artists to s...
 Link: https://www.technologyreview.com/2024/10/08/1105234/adobe-wants-to-make-it-easier-for-artists-to-blacklist-their-work-from-ai-scraping/
@@ -164,9 +171,6 @@ Link: https://www.technologyreview.com/2024/09/25/1104519/ai-models-hate-imagery
 Headline: A tiny new open-source AI model performs as well as powerful big ones
 Description: The Allen Institute for Artificial Intelligence (Ai2), a research nonprofit, is releasing a family of open-source multimodal language models, called Molmo, that it says perform as well as top propriet...
 Link: https://www.technologyreview.com/2024/09/25/1104465/a-tiny-new-open-source-ai-model-performs-as-well-as-powerful-big-ones/
-Headline: OpenAI released its advanced voice mode to more people. Here’s how to get it.
-Description: OpenAI is broadening access to Advanced Voice Mode, a feature of ChatGPT that allows you to speak more naturally with the AI model. It allows you to interrupt its responses midsentence, and it can sen...
-Link: https://www.technologyreview.com/2024/09/24/1104422/openai-released-its-advanced-voice-mode-to-more-people-heres-how-to-get-it/
 
 ---
 
@@ -191,74 +195,65 @@ Link: https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-slack-
 Headline: Implement model-independent safety measures with Amazon Bedrock Guardrails
 Description: In this post, we discuss how you can use the ApplyGuardrail API in common generative AI architectures such as third-party or self-hosted large language models (LLMs), or in a self-managed Retrieval Au...
 Link: https://aws.amazon.com/blogs/machine-learning/implement-model-independent-safety-measures-with-amazon-bedrock-guardrails/
-Headline: How Schneider Electric uses Amazon Bedrock to identify high-potential business opportunities
-Description: In this post, we show how the team at Schneider collaborated with the AWS Generative AI Innovation Center (GenAIIC) to build a generative AI solution on Amazon Bedrock to solve this problem. The solut...
-Link: https://aws.amazon.com/blogs/machine-learning/how-schneider-electric-uses-amazon-bedrock-to-identify-high-potential-business-opportunities/
-Headline: Achieve operational excellence with well-architected generative AI solutions using Amazon Bedrock
-Description: In this post, we discuss scaling up generative AI for different lines of businesses (LOBs) and address the challenges that come around legal, compliance, operational complexities, data privacy and sec...
-Link: https://aws.amazon.com/blogs/machine-learning/achieve-operational-excellence-with-well-architected-generative-ai-solutions-using-amazon-bedrock/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: New technique makes RAG systems much better at retrieving the right documents
+Description: By adding knowledge of surrounding documents to document embeddings, you can make embedding models aware of the context of their applications.
+Link: https://venturebeat.com/ai/new-technique-makes-rag-systems-much-better-at-retrieving-the-right-documents/
+Headline: Walmart bets on multiple AI models with new Wallaby LLM
+Description: Walmart wants to develop AI applications with a mix of internal and off the shelf AI models.
+Link: https://venturebeat.com/ai/walmart-bets-on-multiple-ai-models-with-new-wallaby-llm/
+Headline: Liftoff launches Cortex, a machine-learning model that improves mobile ads
+Description: Liftoff launches its new machine-learning platform Cortex, which improves mobile ad campaigns using tailored neural network models.
+Link: https://venturebeat.com/games/liftoff-launches-cortex-a-machine-learning-model-that-improves-mobile-ads/
+Headline: Gradio 5 is here: Hugging Face’s newest tool simplifies building AI-powered web apps
+Description: Hugging Face launches Gradio 5, a powerful tool that simplifies AI app development for enterprises, featuring enhanced security, natural language app creation, and a roadmap for future innovations.
+Link: https://venturebeat.com/ai/gradio-5-is-here-hugging-faces-newest-tool-simplifies-building-ai-powered-web-apps/
+Headline: AI wins another Nobel, this time in Chemistry: Google DeepMinders Hassabis and Jumper awarded for AlphaFold
+Description: Google DeepMinders Demis Hassabis and John Jumper were awarded half the prize alongside David Baker of the University of Washington.
+Link: https://venturebeat.com/ai/ai-wins-another-nobel-this-time-in-chemistry-google-deepminders-hassabis-and-jumper-awarded-for-alphafold/
+Headline: Writer’s Palmyra X 004 takes the lead in AI function calling, surpassing tech giants
+Description: Writer unveils Palmyra X 004, a new AI model outperforming tech giants in function calling and workflow automation, promising to transform enterprise operations with improved efficiency and lower cost...
+Link: https://venturebeat.com/ai/writers-palmyra-x-004-takes-the-lead-in-ai-function-calling-surpassing-tech-giants/
+Headline: Prime rethinks enterprise security by design with AI system risk analysis and suggested actions
+Description: Prime’s primary differentiator, according to Nov, is its ability to provide not only risk identification but also actionable recommendations.
+Link: https://venturebeat.com/security/prime-rethinks-enterprise-security-by-design-with-ai-system-risk-analysis-and-suggested-actions/
+Headline: Google’s Gemini enterprise coding assistant shows enterprise-focused coding is growing
+Description: Google's Gemini Coding Assistant Enterprise understands an enterprise's codebase and offers control over data.
+Link: https://venturebeat.com/ai/googles-gemini-enterprise-coding-assistant-shows-enterprise-focused-coding-is-growing/
 Headline: Anthropic challenges OpenAI with affordable batch processing
 Description: Anthropic's new Message Batches API cuts costs for big AI tasks by half, making advanced data analysis more affordable for businesses and changing how companies use AI.
 Link: https://venturebeat.com/ai/anthropic-challenges-openai-with-affordable-batch-processing/
-Headline: Hailuo gets feature competitive launching image-to-video AI generation capability
+Headline: Hailuo gets feature competitive, launching image-to-video AI generation capability
 Description: At the time it was released in early September 2024, Hailuo only supported text-to-video, but it is catching up to U.S. rivals now.
 Link: https://venturebeat.com/ai/hailuo-gets-feature-competitive-launching-image-to-video-ai-generation-capability/
-Headline: Databricks now lets developers create AI apps in 5 minutes: Here’s how
-Description: The new Databricks Apps offering is already being used by as many as 50 enterprises for creating production-ready data and AI apps.
-Link: https://venturebeat.com/data-infrastructure/databricks-now-lets-developers-create-ai-apps-in-5-minutes-heres-how/
-Headline: OpenAI will bring Cosmopolitan publisher Hearst’s content to ChatGPT
-Description: The AI unicorn is making damn sure it has most leading U.S. magazine and text-based news publishers in content licensing agreements with it.
-Link: https://venturebeat.com/ai/openai-will-bring-cosmopolitan-publisher-hearsts-content-to-chatgpt/
-Headline: AI pioneer Geoffrey Hinton, who warned of X-risk, wins Nobel Prize in Physics
-Description: While Hinton’s work catapulted neural networks into the modern era, John J. Hopfield’s earlier breakthroughs laid a crucial foundation.
-Link: https://venturebeat.com/ai/ai-pioneer-geoffrey-hinton-who-warned-of-x-risk-wins-nobel-prize-in-physics/
-Headline: Nvidia makes 7 tech announcements in Washington D.C.
-Description: Nvidia showed tech in the nation's capital at its AI Summit to help educate the government at a time when Nvidia is facing an antitrust probe.
-Link: https://venturebeat.com/ai/nvidia-showcases-tech-in-washington-d-c-as-antitrust-looms/
-Headline: Third Dimension AI raises $6.9M to build game worlds with generative AI
-Description: Third Dimension AI raised $6.9 million to enable game developers to build 3D game worlds using generative AI.
-Link: https://venturebeat.com/games/third-dimension-ai-raises-6-9m-to-build-game-worlds-with-generative-ai/
-Headline: What AI/ML developers need to know about Mojo
-Description: Mojo has been created with AI and performance optimization in mind, as it can be up to 35,000 times faster than Python.
-Link: https://venturebeat.com/programming-development/what-ai-ml-developers-need-to-know-about-mojo/
-Headline: CareYaya’s QuikTok is AI phone companion for lonely aging adults
-Description: CareYaya Health Technologies has launched QuikTok, an AI phone companion targeted at lonely older adults.
-Link: https://venturebeat.com/ai/careyayas-quiktok-is-ai-phone-companion-for-lonely-aging-adults/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: OpenAI sees new Singapore office supporting its fast growth in the region
+Description: In a nation where the number of weekly active OpenAI users already has doubled in 2024, the company also looks to collaborate more closely with government agencies.
+Link: https://www.zdnet.com/article/openai-sees-new-singapore-office-supporting-its-fast-growth-in-the-region/#ftag=RSSbaffb68
+Headline: Adobe unveiled a new tool to help protect artist's work from AI - and it's free
+Description: Adobe understands that an artist's work should be protected from being used to train AI LLMs. Here's how to get access to its new free tool, which helps do just that.
+Link: https://www.zdnet.com/article/adobe-unveiled-a-new-tool-to-help-protect-artists-work-from-ai-and-its-free/#ftag=RSSbaffb68
+Headline: Every high-performing business embraces AI now - but here's what else they're doing right
+Description: Organizations that embrace internal transformation in the face of external shocks are better equipped to thrive, confirms an Upwork survey of global business leaders.
+Link: https://www.zdnet.com/article/every-high-performing-business-embraces-ai-now-but-heres-what-else-theyre-doing-right/#ftag=RSSbaffb68
+Headline: Ring's new Smart Video Search dazzled me with its accuracy - here's when you get to try it
+Description: Ring cameras are getting an impressive AI upgrade. Soon these select subscribers will know who knocked over their garbage cans.
+Link: https://www.zdnet.com/article/rings-new-smart-video-search-dazzled-me-with-its-accuracy-heres-when-you-get-to-try-it/#ftag=RSSbaffb68
+Headline: Open-source AI definition finally gets its first release candidate - and a compromise
+Description: The OSI and allies are a step closer to an open-source artificial intelligence definition, and purists aren't the only ones unhappy.
+Link: https://www.zdnet.com/article/open-source-ai-definition-finally-gets-its-first-release-candidate-and-a-compromise/#ftag=RSSbaffb68
+Headline: Why agentic AI is the new electricity, and nearly 80% of business leaders are afraid of the dark
+Description: Autonomous AI will operate with minimal human oversight, improve itself, and become increasingly effective at decision-making in complex environments. Ignore it and your business will lose.
+Link: https://www.zdnet.com/article/why-agentic-ai-is-the-new-electricity-and-nearly-80-of-business-leaders-are-afraid-of-the-dark/#ftag=RSSbaffb68
 Headline: Apple Intelligence is finally coming to your iPhone at the end of October
 Description: If you've been eagerly awaiting the new iOS 18 AI features, you'll be happy to know that Apple has provided a release date.
 Link: https://www.zdnet.com/article/apple-intelligence-is-finally-coming-to-your-iphone-at-the-end-of-october/#ftag=RSSbaffb68
-Headline: I test ChatGPT features for a living, and this new one really did supercharge my productivity
-Description: If you use OpenAI's generative AI tool to co-edit code or text, Canvas will take your work to a whole new level.
-Link: https://www.zdnet.com/article/i-test-chatgpt-features-for-a-living-and-this-new-one-really-did-supercharge-my-productivity/#ftag=RSSbaffb68
-Headline: Google's AI-powered search feature for Photos now rolling out to more users
-Description: You can now fashion more descriptive queries to locate a photo. Plus, a new feature called Ask Photos will tap into AI to answer questions about your images.
-Link: https://www.zdnet.com/article/googles-ai-powered-search-feature-for-photos-now-rolling-out-to-more-users/#ftag=RSSbaffb68
-Headline: Every iPhone model that will support Apple's upcoming AI features (including the new Siri)
-Description: Want to experience all that Apple Intelligence has to offer with iOS 18? Here's the full list of compatible devices.
-Link: https://www.zdnet.com/article/every-iphone-model-that-will-support-apples-upcoming-ai-features-including-the-new-siri/#ftag=RSSbaffb68
-Headline: 5 ways AI is changing the future of air travel
-Description: This airport group is using AI to boost airport efficiency and passenger experiences - and there are important lessons for all professionals exploring emerging technology.
-Link: https://www.zdnet.com/article/5-ways-ai-is-changing-the-future-of-air-travel/#ftag=RSSbaffb68
-Headline: Meta says its Movie Gen marks 'real' advance in AI video generation
-Description: Despite high scores against competing gen AI technologies, you still need human beings to review if the video is actually good or not.
-Link: https://www.zdnet.com/article/meta-says-its-movie-gen-marks-real-advance-in-ai-video-generation/#ftag=RSSbaffb68
-Headline: Cybersecurity professionals are turning to AI as more lose control of detection tools
-Description: More than half of security practitioners believe vendors are flooding them with ineffective alerts to avoid accountability should a breach hit.
-Link: https://www.zdnet.com/article/cybersecurity-professionals-losing-trust-and-control-of-detection-tools/#ftag=RSSbaffb68
-Headline: The 4 biggest challenges of AI-generated code that Gartner left out of its latest report
-Description: Gartner says AI will require 80% of developers to upskill, but that's not the whole story. From buggy AI code to endless revisions, here's what wasn't mentioned in the report.
-Link: https://www.zdnet.com/article/the-4-biggest-challenges-of-ai-generated-code-gartner-left-out-of-its-latest-report/#ftag=RSSbaffb68
-Headline: Google's Chromebook Plus upgrade and the people's AI voice assistant
-Description: Several consumer devices received small but impactful AI upgrades this week, making the Innovation Index a study in day-to-day improvements.
-Link: https://www.zdnet.com/article/googles-chromebook-plus-upgrade-and-the-peoples-ai-voice-assistant/#ftag=RSSbaffb68
 
 ---
 
@@ -385,31 +380,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Geoffrey Hinton says he is "flabbergasted" about being awarded the Nobel Prize in Physics and he believes AI will exceed people in intellectual ability so we should worry about it "getting out of control"
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fz8zpc/geoffrey_hinton_says_he_is_flabbergasted_about/"> <img alt="Geoffrey Hinton says he is &quot;flabbergasted&quot; about be...
-Link: https://www.reddit.com/r/artificial/comments/1fz8zpc/geoffrey_hinton_says_he_is_flabbergasted_about/
-Headline: Nobel Prize awarded to ‘godfather of AI’ who warned it could wipe out humanity
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fyzwpc/nobel_prize_awarded_to_godfather_of_ai_who_warned/"> <img alt="Nobel Prize awarded to ‘godfather of AI’ who warned it cou...
-Link: https://www.reddit.com/r/artificial/comments/1fyzwpc/nobel_prize_awarded_to_godfather_of_ai_who_warned/
-Headline: Google is now hiring scientists with "deep interest in AI consciousness and sentience"
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fz6eg7/google_is_now_hiring_scientists_with_deep/"> <img alt="Google is now hiring scientists with &quot;deep interest in AI con...
-Link: https://www.reddit.com/r/artificial/comments/1fz6eg7/google_is_now_hiring_scientists_with_deep/
-Headline: The Royal Swedish Academy of Sciences has decided to award the 2024 Nobel Prize in Physics to John J. Hopfield and Geoffrey E. Hinton “for foundational discoveries and inventions that enable machine learning with artificial neural networks.”
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fyw3mi/the_royal_swedish_academy_of_sciences_has_decided/"> <img alt="The Royal Swedish Academy of Sciences has decided to award...
-Link: https://www.reddit.com/r/artificial/comments/1fyw3mi/the_royal_swedish_academy_of_sciences_has_decided/
-Headline: Introducing ScienceAgentBench: A new benchmark to rigorously evaluate language agents on 102 tasks from 44 peer-reviewed publications across 4 scientific disciplines
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/MaimedUbermensch"> /u/MaimedUbermensch </a> <br /> <span><a href="https://osu-nlp-group.github.io/ScienceAgentBench/">[link]</a></span> &#...
-Link: https://www.reddit.com/r/artificial/comments/1fz9bsp/introducing_scienceagentbench_a_new_benchmark_to/
-Headline: One-Minute Daily AI News 10/7/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Foxconn</strong> chairman says AI investment boom ‘still has some time to go’ as language models evolve.[1]</li> <li><strong>Samsung</strong> Electronic...
-Link: https://www.reddit.com/r/artificial/comments/1fyqnk0/oneminute_daily_ai_news_1072024/
-Headline: Aevov: Revolutionizing AI with Web-Distributed Neural Architecture and Real-Time Learning
-Description: <!-- SC_OFF --><div class="md"><p>Aevov introduces a groundbreaking approach to machine learning that leverages the ubiquity of web technologies to create a scalable, accessible, and revolutionary pla...
-Link: https://www.reddit.com/r/artificial/comments/1fz6mxe/aevov_revolutionizing_ai_with_webdistributed/
-Headline: You can now inpaint/outpaint images using your phone browser
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fzfo2z/you_can_now_inpaintoutpaint_images_using_your/"> <img alt="You can now inpaint/outpaint images using your phone browser" ...
-Link: https://www.reddit.com/r/artificial/comments/1fzfo2z/you_can_now_inpaintoutpaint_images_using_your/
-
+Headline: Stuart Russell said Hinton is "tidying up his affairs ... because he believes we have maybe 4 years left"
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fzpz6l/stuart_russell_said_hinton_is_tidying_up_his/"> <img alt="Stuart Russell said Hinton is &quot;tidying up his affairs ... ...
+Link: https://www.reddit.com/r/artificial/comments/1fzpz6l/stuart_russell_said_hinton_is_tidying_up_his/
+Headline: Nobel Winner Geoffrey Hinton says he is particularly proud that one of his students (Ilya Sutskever) fired Sam Altman, because Sam is much less concerned with AI safety than with profits
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1fzpik9/nobel_winner_geoffrey_hinton_says_he_is/"> <img alt="Nobel Winner Geoffrey Hinton says he is particularly proud that one ...
+Link: https://www.reddit.com/r/artificial/comments/1fzpik9/nobel_winner_geoffrey_hinton_says_he_is/
+Headline: Integrating AI on businesses: a people centric approach
+Description: <!-- SC_OFF --><div class="md"><p>I have been working on AI enterprise applications for some years. I have seen many companies that want to implement AI driven innovation on their organisation but str...
+Link: https://www.reddit.com/r/artificial/comments/1fzx67o/integrating_ai_on_businesses_a_people_centric/
+Headline: The Human Brain might follow same Scaling Law as AI: It aligns surprisingly well with a Performance vs. Compute Graph made for AI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g07ig9/the_human_brain_might_follow_same_scaling_law_as/"> <img alt="The Human Brain might follow same Scaling Law as AI: It ali...
+Link: https://www.reddit.com/r/artificial/comments/1g07ig9/the_human_brain_might_follow_same_scaling_law_as/
+Headline: how can I feed my original music tracks into an AI and have it help me come up with a name for my band/solo project?
+Description: <!-- SC_OFF --><div class="md"><p>title</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/phadeboiz"> /u/phadeboiz </a> <br /> <span><a href="https://www.reddit.co...
+Link: https://www.reddit.com/r/artificial/comments/1fznka5/how_can_i_feed_my_original_music_tracks_into_an/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
