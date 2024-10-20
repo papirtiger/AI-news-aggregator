@@ -1,6 +1,22 @@
-AI News Updates - 2024-10-19 02:48:48
+AI News Updates - 2024-10-20 02:56:43
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup
+Description: <p>Mira Murati, the OpenAI CTO who announced her departure last month, is raising VC funding for a new AI startup, according to Reuters. This startup will reportedly focus on building AI products base...
+Link: https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/
+Headline: Penguin Random House is adding an AI warning to its books’ copyright pages
+Description: <p>Penguin Random House, the trade publisher, is adding language to the copyright pages of its books to prohibit the use of those books to train AI. The Bookseller reports that new books and reprints ...
+Link: https://techcrunch.com/2024/10/19/penguin-random-house-is-adding-an-ai-warning-to-its-books-copyright-pages/
+Headline: Midjourney plans to let anyone on the web edit images with AI
+Description: <p>Midjourney is planning to release an upgraded web tool that&#8217;ll let users edit any uploaded images from the web using Midjourney&#8217;s generative AI. The upgraded tool, which Midjourney CEO ...
+Link: https://techcrunch.com/2024/10/19/midjourney-plans-to-let-anyone-on-the-web-edit-images-with-ai/
+Headline: Women in AI: Dr. Rebecca Portnoff is protecting children from harmful deepfakes
+Description: <p>This is part of TechCrunch’s ongoing Women in AI series, which seeks to give AI-focused women academics and others their time in the spotlight. </p>
+<p>© 2024 TechCrunch. All rights reserved. For p...
+Link: https://techcrunch.com/2024/10/19/women-in-ai-dr-rebecca-portnoff-is-protecting-children-from-harmful-deepfakes/
+Headline: Claude: Everything you need to know about Anthropic’s AI
+Description: <p>Anthropic, the AI vendor second in size only to OpenAI, has a powerful family of generative AI models called Claude. These models can perform a range of tasks, from captioning images and writing em...
+Link: https://techcrunch.com/2024/10/19/claude-everything-you-need-to-know-about-anthropics-ai/
 Headline: Eric Schmidt’s SandboxAQ aims for $5B valuation for its AI/quantum Google moonshot
 Description: <p>SandboxAQ began as Alphabet’s moonshot AI and quantum computing and now has an impressive roster of projects.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
@@ -17,19 +33,6 @@ Link: https://techcrunch.com/2024/10/17/the-surprising-way-openai-could-get-out-
 Headline: Elon Musk’s X is changing its privacy policy to allow third parties to train AI on your posts
 Description: <p>On Wednesday, social network X (formerly Twitter) updated its Privacy Policy to indicate that it would allow third-party &#8220;collaborators&#8221; to train their AI models on X data, unless users...
 Link: https://techcrunch.com/2024/10/17/elon-musks-x-is-changing-its-privacy-policy-to-allow-third-parties-to-train-ai-on-your-posts/
-Headline: Experts say OpenAI’s patent pledge amounts to little more than ‘virtue signaling’
-Description: <p>This week, OpenAI quietly published a statement on its website pledging not to use its patents offensively. Asserting its commitment to the principles of &#8220;broad access&#8221; and &#8220;colla...
-Link: https://techcrunch.com/2024/10/17/experts-say-openais-patent-pledge-amounts-to-little-more-than-virtue-signaling/
-Headline: Marc Benioff warns that AI, while useful, is overhyped and partly blames Microsoft
-Description: <p>One of the tech industry’s biggest hype men, Salesforce CEO Marc Benioff, is psyched about AI, but points out that it hasn't cured cancer. </p>
-<p>© 2024 TechCrunch. All rights reserved. For person...
-Link: https://techcrunch.com/2024/10/17/marc-benioff-warns-that-ai-while-useful-is-overhyped-and-partly-blames-microsoft/
-Headline: Google replaces executive in charge of Search and advertising
-Description: <p>Google CEO Sundar Pichai announced on Thursday that Prabhakar Raghavan, the executive in charge of the company&#8217;s search engine and ads products, is leaving his role. Longtime Google executive...
-Link: https://techcrunch.com/2024/10/17/google-replaces-executive-in-charge-of-search-and-advertising/
-Headline: ChatGPT comes to Windows
-Description: <p>ChatGPT is now on Windows. Today, OpenAI announced that it&#8217;s begun previewing a dedicated Windows app for ChatGPT, its AI-powered chatbot platform. Currently only available to ChatGPT Plus, T...
-Link: https://techcrunch.com/2024/10/17/chatgpt-comes-to-windows/
 
 ---
 
@@ -105,6 +108,36 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Google announces restructuring to accelerate AI initiatives
+Description: <p>Google CEO Sundar Pichai has announced a series of structural changes and leadership appointments aimed at accelerating the company&#8217;s AI initiatives. The restructuring sees the Gemini app tea...
+Link: https://www.artificialintelligence-news.com/news/google-announces-restructuring-accelerate-ai-initiatives/?utm_source=rss&utm_medium=rss&utm_campaign=google-announces-restructuring-accelerate-ai-initiatives
+Headline: AI meets blockchain and decentralised data
+Description: <p>Blockchain can become a potent force as the foundation of decentralised AI systems, transparent and fair – ensuring everyone can access not only the technology, but the rewards it delivers. Blockch...
+Link: https://www.artificialintelligence-news.com/news/ai-meets-blockchain-and-decentralised-data/?utm_source=rss&utm_medium=rss&utm_campaign=ai-meets-blockchain-and-decentralised-data
+Headline: AI governance gap: 95% of firms haven’t implemented frameworks
+Description: <p>Robust governance is essential to mitigate AI risks and maintain responsible systems, but the majority of firms are yet to implement a framework. Commissioned by Prove AI and conducted by Zogby Ana...
+Link: https://www.artificialintelligence-news.com/news/ai-governance-gap-95-of-firms-havent-frameworks/?utm_source=rss&utm_medium=rss&utm_campaign=ai-governance-gap-95-of-firms-havent-frameworks
+Headline: Scoring AI models: Endor Labs unveils evaluation tool
+Description: <p>Endor Labs has begun scoring AI models based on their security, popularity, quality, and activity. Dubbed ‘Endor Scores for AI Models,’ this unique capability aims to simplify the process of identi...
+Link: https://www.artificialintelligence-news.com/news/scoring-ai-models-endor-labs-evaluation-tool/?utm_source=rss&utm_medium=rss&utm_campaign=scoring-ai-models-endor-labs-evaluation-tool
+Headline: Telefónica’s Wayra backs AI answer engine Perplexity
+Description: <p>Telefónica&#8217;s corporate venture capital arm, Wayra, has announced its investment in AI answer engine Perplexity. Perplexity&#8217;s AI-driven platform aims to revolutionise internet informatio...
+Link: https://www.artificialintelligence-news.com/news/telefonica-wayra-ai-answer-engine-perplexity/?utm_source=rss&utm_medium=rss&utm_campaign=telefonica-wayra-ai-answer-engine-perplexity
+Headline: Innovative machine learning uses transforming business applications
+Description: <p>Machine learning (ML) is revolutionising the way businesses operate, driving innovation, and unlocking new possibilities across industries. By leveraging vast amounts of data and powerful algorithm...
+Link: https://www.artificialintelligence-news.com/news/innovative-machine-learning-uses-transforming-business-applications/?utm_source=rss&utm_medium=rss&utm_campaign=innovative-machine-learning-uses-transforming-business-applications
+Headline: UK secures £6.3B in data infrastructure investments
+Description: <p>Four major US firms have announced plans to invest a combined £6.3 billion in UK data infrastructure.  The announcement, made during the International Investment Summit, was welcomed by Technology ...
+Link: https://www.artificialintelligence-news.com/news/uk-secures-6-3b-data-infrastructure-investments/?utm_source=rss&utm_medium=rss&utm_campaign=uk-secures-6-3b-data-infrastructure-investments
+Headline: Real-time data, blockchain, and AI: A game-changer for intelligent apps
+Description: <p>When we talk about real-time data, what we refer to is information that becomes available as soon as it&#8217;s created and acquired. Rather than being stored, data is forwarded directly to an appl...
+Link: https://www.artificialintelligence-news.com/news/real-time-data-blockchain-and-ai-a-game-changer-for-intelligent-apps/?utm_source=rss&utm_medium=rss&utm_campaign=real-time-data-blockchain-and-ai-a-game-changer-for-intelligent-apps
+Headline: China Telecom trains AI model with 1 trillion parameters on domestic chips
+Description: <p>China Telecom, one of the country&#8217;s state-owned telecom giants, has created two LLMs that were trained solely on domestically-produced chips. This breakthrough represents a significant step i...
+Link: https://www.artificialintelligence-news.com/news/china-telecom-trains-ai-model-with-1-trillion-parameters-on-domestic-chips/?utm_source=rss&utm_medium=rss&utm_campaign=china-telecom-trains-ai-model-with-1-trillion-parameters-on-domestic-chips
+Headline: Many organisations unprepared for AI cybersecurity threats
+Description: <p>While AI improves the detection of cybersecurity threats, it simultaneously ushers in more advanced challenges. Research from Keeper Security finds that, despite the implementation of AI-related po...
+Link: https://www.artificialintelligence-news.com/news/many-organisations-unprepared-ai-cybersecurity-threats/?utm_source=rss&utm_medium=rss&utm_campaign=many-organisations-unprepared-ai-cybersecurity-threats
 
 ---
 
@@ -217,6 +250,9 @@ Link: https://venturebeat.com/ai/archetype-ai-newton-learns-physics-from-raw-dat
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Southeast Asia reiterates pledge to collaborate amid growing cyber threats in AI era
+Description: ASEAN member states now have a physical CERT facility located in Singapore to exchange threat intel and best practices.
+Link: https://www.zdnet.com/article/southeast-asia-reiterates-pledge-to-collaborate-amid-growing-cyber-threat-in-ai-era/#ftag=RSSbaffb68
 Headline: Google's viral AI podcast generator just got more customizable, so I put it to the test
 Description: It's new and improved, and still free to use. Listen for yourself.
 Link: https://www.zdnet.com/article/googles-viral-ai-podcast-generator-just-got-more-customizable-so-i-put-it-to-the-test/#ftag=RSSbaffb68
@@ -241,9 +277,6 @@ Link: https://www.zdnet.com/article/googles-stunning-ai-podcast-tool-gets-new-fe
 Headline: I tested Meta's limited edition Ray-Ban smart glasses, and they're a near-perfect wearable for me
 Description: Meta released 7,500 pairs of transparent glasses, and I secured a pair that impressed me with its camera, Meta AI responses, and audio playback performance.
 Link: https://www.zdnet.com/article/i-tested-metas-limited-edition-ray-ban-smart-glasses-and-theyre-a-near-perfect-wearable-for-me/#ftag=RSSbaffb68
-Headline: AI is a $9-trillion market, and enterprises have barely begun to touch it
-Description: OpenAI and Nvidia are leading the AI craze, but with so much untapped potential in this booming market, who knows what the future will hold? A new 'State of AI' report makes some predictions.
-Link: https://www.zdnet.com/article/ai-is-a-9-trillion-market-and-enterprises-have-barely-begun-to-touch-it/#ftag=RSSbaffb68
 
 ---
 
@@ -370,30 +403,15 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Made an AI Reddit search feature that works really well, it doesn't really solving any big existential problems but is pretty fun to use
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g6hzeb/made_an_ai_reddit_search_feature_that_works/"> <img alt="Made an AI Reddit search feature that works really well, it does...
-Link: https://www.reddit.com/r/artificial/comments/1g6hzeb/made_an_ai_reddit_search_feature_that_works/
-Headline: GitHub: The Best 101 AI Engineering Learning Resources (Curated List)
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g6d8pl/github_the_best_101_ai_engineering_learning/"> <img alt="GitHub: The Best 101 AI Engineering Learning Resources (Curated ...
-Link: https://www.reddit.com/r/artificial/comments/1g6d8pl/github_the_best_101_ai_engineering_learning/
-Headline: PrimerAI introduces ‘near-zero hallucination’ update to AI platform
-Description: <!-- SC_OFF --><div class="md"><p><a href="https://www.defensenews.com/industry/2024/10/16/primerai-introduces-near-zero-hallucination-update-to-ai-platform/">https://www.defensenews.com/industry/2024...
-Link: https://www.reddit.com/r/artificial/comments/1g6w9lb/primerai_introduces_nearzero_hallucination_update/
-Headline: What AI are people using to turn modern rap songs into 1950's style music?
-Description: <!-- SC_OFF --><div class="md"><p>I've been coming across a lot of rap songs on YouTube lately that have been transformed using AI into music that sounds like it comes from the 1950s, but contains the...
-Link: https://www.reddit.com/r/artificial/comments/1g6rrxd/what_ai_are_people_using_to_turn_modern_rap_songs/
-Headline: I'm looking for the best text to image AI, been looking at FLUX1.1 [pro] is there anything better
-Description: <!-- SC_OFF --><div class="md"><p>I notice based on my research it nails the hands, and seems to have the highest realism output. I'm too green in this space, so I'm still doing lots of research. Can ...
-Link: https://www.reddit.com/r/artificial/comments/1g6c0xv/im_looking_for_the_best_text_to_image_ai_been/
-Headline: One-Minute Daily AI News 10/17/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Virginia</strong> congressional candidates debate incumbent’s AI – with a few glitches.[1]</li> <li>Autonomous AI agents may be available to <strong>Sin...
-Link: https://www.reddit.com/r/artificial/comments/1g69jp6/oneminute_daily_ai_news_10172024/
-Headline: I'll shut up about AI stealing training data if someone will make an AI powered robot that can give a good foot/leg/head massage.
-Description: <!-- SC_OFF --><div class="md"><p>That's my bribe level. Make a nice cheap massage robot I can afford in my house. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/us...
-Link: https://www.reddit.com/r/artificial/comments/1g6w1c1/ill_shut_up_about_ai_stealing_training_data_if/
-Headline: wanted your candid thoughts on this AI image generator, its goal is to generate images very fast
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g6oh2b/wanted_your_candid_thoughts_on_this_ai_image/"> <img alt="wanted your candid thoughts on this AI image generator, its goa...
-Link: https://www.reddit.com/r/artificial/comments/1g6oh2b/wanted_your_candid_thoughts_on_this_ai_image/
+Headline: AI researchers put LLMs into a Minecraft server and said Claude Opus was a harmless goofball, but Sonnet was terrifying - "the closest thing I've seen to Bostrom-style catastrophic AI misalignment 'irl'."
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g7ejgk/ai_researchers_put_llms_into_a_minecraft_server/"> <img alt="AI researchers put LLMs into a Minecraft server and said Cla...
+Link: https://www.reddit.com/r/artificial/comments/1g7ejgk/ai_researchers_put_llms_into_a_minecraft_server/
+Headline: One-Minute Daily AI News 10/18/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Congressional leaders negotiating potential lame-duck deal to address AI concerns.[1]</li> <li><strong>Meta</strong> AI Releases Meta Spirit LM: An Open Source ...
+Link: https://www.reddit.com/r/artificial/comments/1g718g7/oneminute_daily_ai_news_10182024/
+Headline: New paper by Anthropic and Stanford researchers finds LLMs are capable of introspection, which has implications for the moral status of AI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g7n0zs/new_paper_by_anthropic_and_stanford_researchers/"> <img alt="New paper by Anthropic and Stanford researchers finds LLMs a...
+Link: https://www.reddit.com/r/artificial/comments/1g7n0zs/new_paper_by_anthropic_and_stanford_researchers/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
