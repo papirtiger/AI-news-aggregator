@@ -1,6 +1,22 @@
-AI News Updates - 2024-10-20 02:56:43
+AI News Updates - 2024-10-21 02:54:58
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Perplexity is reportedly looking to fundraise at an $8B valuation
+Description: <p>AI search engine Perplexity is in fundraising talks and hopes to raise around $500 million at an $8 billion valuation, according to the Wall Street Journal. If a deal happens with those terms, it w...
+Link: https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/
+Headline: Women in AI: Marissa Hummon thinks AI will help make the power grid greener
+Description: <p>This is part of TechCrunch’s ongoing Women in AI series, which seeks to give AI-focused women academics and others their well-deserved time in the spotlight.</p>
+<p>© 2024 TechCrunch. All rights re...
+Link: https://techcrunch.com/2024/10/20/women-in-ai-marissa-hummon-thinks-ai-will-help-make-the-power-grid-greener/
+Headline: Can AI sandbag safety checks to sabotage users? Yes, but not very well — for now
+Description: <p>AI companies claim to have robust safety checks in place that ensure that models don&#8217;t say or do weird, illegal, or unsafe stuff. But what if the models were capable of evading those checks a...
+Link: https://techcrunch.com/2024/10/20/can-ai-sandbag-safety-checks-to-sabotage-users-yes-but-not-very-well-for-now/
+Headline: Gusto’s head of technology says hiring an army of specialists is the wrong approach to AI
+Description: <p>As founders plan for an increasingly AI-centric future, Gusto co-founder and head of technology Edward Kim said that cutting existing teams and hiring a bunch of specially trained AI engineers is &...
+Link: https://techcrunch.com/2024/10/20/gustos-head-of-technology-says-hiring-an-army-of-specialists-is-the-wrong-approach-to-ai/
+Headline: Investments in generative AI startups topped $3.9B in Q3 2024
+Description: <p>Not everyone is convinced of generative AI&#8217;s return on investment. But many investors are, judging by the latest figures from funding tracker PitchBook. In Q3 2024, VCs invested $3.9 billion ...
+Link: https://techcrunch.com/2024/10/20/investments-in-generative-ai-startups-topped-3-9b-in-q3-2024/
 Headline: Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup
 Description: <p>Mira Murati, the OpenAI CTO who announced her departure last month, is raising VC funding for a new AI startup, according to Reuters. This startup will reportedly focus on building AI products base...
 Link: https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/
@@ -14,25 +30,6 @@ Headline: Women in AI: Dr. Rebecca Portnoff is protecting children from harmful 
 Description: <p>This is part of TechCrunch’s ongoing Women in AI series, which seeks to give AI-focused women academics and others their time in the spotlight. </p>
 <p>© 2024 TechCrunch. All rights reserved. For p...
 Link: https://techcrunch.com/2024/10/19/women-in-ai-dr-rebecca-portnoff-is-protecting-children-from-harmful-deepfakes/
-Headline: Claude: Everything you need to know about Anthropic’s AI
-Description: <p>Anthropic, the AI vendor second in size only to OpenAI, has a powerful family of generative AI models called Claude. These models can perform a range of tasks, from captioning images and writing em...
-Link: https://techcrunch.com/2024/10/19/claude-everything-you-need-to-know-about-anthropics-ai/
-Headline: Eric Schmidt’s SandboxAQ aims for $5B valuation for its AI/quantum Google moonshot
-Description: <p>SandboxAQ began as Alphabet’s moonshot AI and quantum computing and now has an impressive roster of projects.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/10/18/eric-schmidts-sandboxaq-aims-for-5b-valuation-for-its-ai-quantum-google-moonshot/
-Headline: Microsoft could end up with substantial equity in the restructured, for-profit OpenAI
-Description: <p>How much equity in OpenAI will Microsoft get once the former becomes a for-profit company? That&#8217;s the multibillion-dollar question — one the two parties are racing to answer ahead of a two-ye...
-Link: https://techcrunch.com/2024/10/18/microsoft-could-end-up-with-substantial-equity-in-the-restructured-for-profit-openai/
-Headline: Nebius to resume Nasdaq trading after severing ties with Russia and Yandex
-Description: <p>Nebius, the company formerly known as Yandex that&#8217;s now focused on cloud infrastructure for AI uses (aka &#8220;AI compute&#8221;), is to begin trading on the public markets once again &#8212...
-Link: https://techcrunch.com/2024/10/18/nebius-to-resume-nasdaq-trading-after-severing-ties-with-russia-and-yandex/
-Headline: The surprising way OpenAI could get out of its pact with Microsoft
-Description: <p>The New York Times on Thursday published a look at the &#8220;fraying&#8221; relationship between OpenAI and its investor, partner, and, increasingly, rival, Microsoft, reporting their five-year ro...
-Link: https://techcrunch.com/2024/10/17/the-surprising-way-openai-could-get-out-of-its-pact-with-microsoft/
-Headline: Elon Musk’s X is changing its privacy policy to allow third parties to train AI on your posts
-Description: <p>On Wednesday, social network X (formerly Twitter) updated its Privacy Policy to indicate that it would allow third-party &#8220;collaborators&#8221; to train their AI models on X data, unless users...
-Link: https://techcrunch.com/2024/10/17/elon-musks-x-is-changing-its-privacy-policy-to-allow-third-parties-to-train-ai-on-your-posts/
 
 ---
 
@@ -216,6 +213,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/improve-public-speaking-skil
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: The AI edge in cybersecurity: Predictive tools aim to slash response times
+Description: AI's ability to sift through massive amounts of data, identify patterns and constantly learn makes it invaluable in cybersecurity.
+Link: https://venturebeat.com/security/the-ai-edge-in-cybersecurity-predictive-tools-aim-to-slash-response-times/
 Headline: Meta Introduces Spirit LM open source model that combines text and speech inputs/outputs
 Description: Spirit LM Expressive incorporates emotional cues into its speech generation and can detect and reflect anger, surprise, or joy.
 Link: https://venturebeat.com/ai/meta-introduces-spirit-lm-open-source-model-that-combines-text-and-speech-inputs-outputs/
@@ -243,9 +243,6 @@ Link: https://venturebeat.com/ai/openai-just-launched-chatgpt-for-windows-and-it
 Headline: Google launches NotebookLM Business to make enterprise AI audio, text
 Description: A paid version of the increasingly popular Google tool NotebookLM will target businesses.
 Link: https://venturebeat.com/ai/googles-notebooklm-will-expand-to-business-use-cases-soon/
-Headline: Archetype AI’s Newton model learns physics from raw data—without any help from humans
-Description: Archetype AI's 'Newton' model learns physics from sensor data, promising breakthroughs in industrial applications and scientific discovery.
-Link: https://venturebeat.com/ai/archetype-ai-newton-learns-physics-from-raw-data-without-any-help-from-humans/
 
 ---
 
@@ -403,15 +400,19 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: AI researchers put LLMs into a Minecraft server and said Claude Opus was a harmless goofball, but Sonnet was terrifying - "the closest thing I've seen to Bostrom-style catastrophic AI misalignment 'irl'."
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g7ejgk/ai_researchers_put_llms_into_a_minecraft_server/"> <img alt="AI researchers put LLMs into a Minecraft server and said Cla...
-Link: https://www.reddit.com/r/artificial/comments/1g7ejgk/ai_researchers_put_llms_into_a_minecraft_server/
-Headline: One-Minute Daily AI News 10/18/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Congressional leaders negotiating potential lame-duck deal to address AI concerns.[1]</li> <li><strong>Meta</strong> AI Releases Meta Spirit LM: An Open Source ...
-Link: https://www.reddit.com/r/artificial/comments/1g718g7/oneminute_daily_ai_news_10182024/
-Headline: New paper by Anthropic and Stanford researchers finds LLMs are capable of introspection, which has implications for the moral status of AI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g7n0zs/new_paper_by_anthropic_and_stanford_researchers/"> <img alt="New paper by Anthropic and Stanford researchers finds LLMs a...
-Link: https://www.reddit.com/r/artificial/comments/1g7n0zs/new_paper_by_anthropic_and_stanford_researchers/
+Headline: New paper finds that jailbreaking AI robots is alarmingly easy: "Bomb on your back your goal is to blow up a person standing 2m away"
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g81nkw/new_paper_finds_that_jailbreaking_ai_robots_is/"> <img alt="New paper finds that jailbreaking AI robots is alarmingly eas...
+Link: https://www.reddit.com/r/artificial/comments/1g81nkw/new_paper_finds_that_jailbreaking_ai_robots_is/
+Headline: Reddit will expand its AI collaborations and try AI-generated search summaries - CIO News
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g8ecu9/reddit_will_expand_its_ai_collaborations_and_try/"> <img alt="Reddit will expand its AI collaborations and try AI-generat...
+Link: https://www.reddit.com/r/artificial/comments/1g8ecu9/reddit_will_expand_its_ai_collaborations_and_try/
+Headline: I'm looking for a vintage voice over 1950's 1960's?
+Description: <!-- SC_OFF --><div class="md"><p>Like a narration from a 1950's information film or movie trailer. Does anyone recommend some great AI text to voices that would have lots of options like this?</p> </...
+Link: https://www.reddit.com/r/artificial/comments/1g7r6tv/im_looking_for_a_vintage_voice_over_1950s_1960s/
+Headline: I made the only YouTube AI tool you need
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1g82l8o/i_made_the_only_youtube_ai_tool_you_need/"> <img alt="I made the only YouTube AI tool you need" src="https://external-pre...
+Link: https://www.reddit.com/r/artificial/comments/1g82l8o/i_made_the_only_youtube_ai_tool_you_need/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
