@@ -1,6 +1,9 @@
-AI News Updates - 2024-10-26 02:47:15
+AI News Updates - 2024-10-27 02:56:09
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI’s Whisper transcription tool has hallucination issues, researchers say
+Description: <p>Software engineers, developers, and academic researchers have serious concerns about transcriptions from OpenAI’s Whisper, according to a report in the Associated Press. While there’s been no short...
+Link: https://techcrunch.com/2024/10/26/openais-whisper-transcription-tool-has-hallucination-issues-researchers-say/
 Headline: What is Apple Intelligence, when is it coming and who will get it?
 Description: <p>Apple Intelligence was designed to leverage things that generative AI already does well, like text and image generation, to improve upon existing features.</p>
 <p>© 2024 TechCrunch. All rights rese...
@@ -20,16 +23,14 @@ Link: https://techcrunch.com/2024/10/25/perplexity-says-its-now-serving-100m-sea
 Headline: OpenAI reportedly plans to release its Orion AI model by December
 Description: <p>Update: An OpenAI spokesperson got back to us with more info after this was published. Read the latest here. OpenAI is reportedly planning to release its next frontier AI model, codenamed Orion ins...
 Link: https://techcrunch.com/2024/10/24/openai-reportedly-plans-to-release-its-orion-ai-model-by-december/
-Headline: ‘They wish this technology didn’t exist’: Perplexity responds to News Corp’s lawsuit
-Description: <p>Perplexity shot back at media companies skeptical of AI&#8217;s benefits in a blog post Thursday, responding to News Corp&#8217;s lawsuit filed against the startup earlier this week. The lawsuit al...
-Link: https://techcrunch.com/2024/10/24/they-wish-this-technology-didnt-exist-perplexity-responds-to-news-corps-lawsuit/
-Headline: Apple will pay security researchers up to $1 million to hack its private AI cloud
-Description: <p>Ahead of the debut of Apple&#8217;s private AI cloud next week, dubbed Private Cloud Compute, the technology giant says it will pay security researchers up to $1 million to find vulnerabilities tha...
-Link: https://techcrunch.com/2024/10/24/apple-will-pay-security-researchers-up-to-1-million-to-hack-its-private-ai-cloud/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Google is reportedly developing a ‘computer-using agent’ AI system
+Description: <figure>
+      <img alt="Illustration of a robot brain." src="https://cdn.vox-cdn.com/thumbor/Bg1V9alqaUuJ37oSLzyoMy_F-tQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73680370/ST...
+Link: https://www.theverge.com/2024/10/26/24280431/google-project-jarvis-ai-system-computer-using-agent
 Headline: Meta signs its first big AI deal for news
 Description: <figure>
       <img alt="Image of the Meta logo and wordmark on a blue background bordered by black scribbles made out of the Meta logo." src="https://cdn.vox-cdn.com/thumbor/7w1SqNBL_8kDn38rLNISTjOXz...
@@ -58,10 +59,6 @@ Headline: Departing OpenAI leader says no company is ready for AGI
 Description: <figure>
       <img alt="Vector illustration of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/to4he2E-HglorE96RfVRhh1zS1w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/...
 Link: https://www.theverge.com/2024/10/24/24278694/openai-agi-readiness-miles-brundage-ai-safety
-Headline: Google Photos will soon show you if an image was edited with AI
-Description: <figure>
-      <img alt="A photo comparison of Google’s Magic Editor feature." src="https://cdn.vox-cdn.com/thumbor/vl8GcZcoHjpPcDPlICk-qzd0dtw=/20x0:1574x1036/1310x873/cdn.vox-cdn.com/uploads/chorus_...
-Link: https://www.theverge.com/2024/10/24/24278663/google-photos-generative-ai-label-reimagine-best-take
 
 ---
 
@@ -233,9 +230,6 @@ Link: https://venturebeat.com/ai/meta-just-beat-google-and-apple-in-the-race-to-
 Headline: The enterprise verdict on AI models: Why open source will win
 Description: While closed models like OpenAI's GPT-4 dominated early adoption, open source models have since closed the gap in quality, and are growing at least as quickly in the enterprise, according to multiple ...
 Link: https://venturebeat.com/ai/the-enterprise-verdict-on-ai-models-why-open-source-will-win/
-Headline: Midjourney launches AI image editor: how to use it
-Description: Users can upload any image of their choosing and actually edit sections of it with AI, or change the style and texture of it.
-Link: https://venturebeat.com/ai/midjourney-launches-ai-image-editor-how-to-use-it/
 
 ---
 
@@ -387,27 +381,33 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: 3 in 4 Americans are concerned about the risk of AI causing human extinction, according to poll
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gbvuz4/3_in_4_americans_are_concerned_about_the_risk_of/"> <img alt="3 in 4 Americans are concerned about the risk of AI causing...
-Link: https://www.reddit.com/r/artificial/comments/1gbvuz4/3_in_4_americans_are_concerned_about_the_risk_of/
-Headline: Do you believe AI advancements could help us explore the cosmos faster, perhaps even helping to settle other worlds? What other frontiers do you think it could assist humanity with? (article related)
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alien_reg"> /u/Alien_reg </a> <br /> <span><a href="https://blog.tangramholo.com/ai-and-mars-paving-the-way-for-human-travel-and-survival/...
-Link: https://www.reddit.com/r/artificial/comments/1gbvjv4/do_you_believe_ai_advancements_could_help_us/
-Headline: I made a website where you can actually try out an AI Agent with no install or log-in. See how far today's most powerful models are from autonomous AI remote workers!
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gbypbx/i_made_a_website_where_you_can_actually_try_out/"> <img alt="I made a website where you can actually try out an AI Agent ...
-Link: https://www.reddit.com/r/artificial/comments/1gbypbx/i_made_a_website_where_you_can_actually_try_out/
-Headline: Recent Paper shows Scaling won't work for generalizing outside of Training Data
-Description: <!-- SC_OFF --><div class="md"><p><em>For a video on this</em> <a href="https://www.youtube.com/watch?v=-fj-txrfkDo"><em>click here.</em></a></p> <p>I recently came across an intriguing paper (<a href...
-Link: https://www.reddit.com/r/artificial/comments/1gc7pju/recent_paper_shows_scaling_wont_work_for/
-Headline: One-Minute Daily AI News 10/24/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Contractors training <strong>Amazon, Meta and Microsoft</strong>’s AI systems left without pay after <strong>Appen</strong> moves to new platform.[1]</li> <li>A...
-Link: https://www.reddit.com/r/artificial/comments/1gbkj8c/oneminute_daily_ai_news_10242024/
-Headline: What are best meeting related AI apps/companies?
-Description: <!-- SC_OFF --><div class="md"><p>I pay for Claude, use Copilot and GPT all for work related things.</p> <p>I have tried OtterAI a few times and when I asked questions about a specific topic discussed...
-Link: https://www.reddit.com/r/artificial/comments/1gc154m/what_are_best_meeting_related_ai_appscompanies/
-Headline: Thoughts on AI regulation with minors?
-Description: <!-- SC_OFF --><div class="md"><p><a href="https://www.washingtonpost.com/nation/2024/10/24/character-ai-lawsuit-suicide/">https://www.washingtonpost.com/nation/2024/10/24/character-ai-lawsuit-suicide...
-Link: https://www.reddit.com/r/artificial/comments/1gbvg8x/thoughts_on_ai_regulation_with_minors/
+Headline: Security researchers put out honeypots to discover AI agents hacking autonomously in the wild and detected 6 potential agents
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gcnx59/security_researchers_put_out_honeypots_to/"> <img alt="Security researchers put out honeypots to discover AI agents hacki...
+Link: https://www.reddit.com/r/artificial/comments/1gcnx59/security_researchers_put_out_honeypots_to/
+Headline: Former OpenAI board member Helen Toner testifies to the Senate: "I've heard from people in multiple companies ... 'Please help us slow down. Please give us guardrails that we can point to that are external, that help us not only be subject to these market pressures.'"
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gcnqc6/former_openai_board_member_helen_toner_testifies/"> <img alt="Former OpenAI board member Helen Toner testifies to the Sen...
+Link: https://www.reddit.com/r/artificial/comments/1gcnqc6/former_openai_board_member_helen_toner_testifies/
+Headline: I've been curious to see what it's like when AI models talk to each other so made a site to do that.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gcck93/ive_been_curious_to_see_what_its_like_when_ai/"> <img alt="I've been curious to see what it's like when AI models talk to...
+Link: https://www.reddit.com/r/artificial/comments/1gcck93/ive_been_curious_to_see_what_its_like_when_ai/
+Headline: I shared a beginner friendly PyTorch Deep Learning course on YouTube (1.5 Hours)
+Description: <!-- SC_OFF --><div class="md"><p>Hello, I just shared a beginner-friendly PyTorch deep learning course on YouTube. In this course, I cover installation, creating tensors, tensor operations, tensor in...
+Link: https://www.reddit.com/r/artificial/comments/1gcfrg7/i_shared_a_beginner_friendly_pytorch_deep/
+Headline: One-Minute Daily AI News 10/25/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> plans to release its next big AI model by December.[1]</li> <li><strong>Meta</strong> Platforms to use Reuters news content in AI chatbo...
+Link: https://www.reddit.com/r/artificial/comments/1gcblyw/oneminute_daily_ai_news_10252024/
+Headline: One-Minute Daily AI News 10/26/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Claude AI</strong> Gets Bored During Coding Demonstration, Starts Perusing Photos of National Parks Instead.[1]</li> <li><strong>Google</strong> tool ma...
+Link: https://www.reddit.com/r/artificial/comments/1gcqziy/oneminute_daily_ai_news_10262024/
+Headline: Layer-of-Thoughts Prompting (LoT): A Unique Approach that Uses Large Language Model (LLM) based Retrieval with Constraint Hierarchies - MarkTechPost
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gco5t5/layerofthoughts_prompting_lot_a_unique_approach/"> <img alt="Layer-of-Thoughts Prompting (LoT): A Unique Approach that Us...
+Link: https://www.reddit.com/r/artificial/comments/1gco5t5/layerofthoughts_prompting_lot_a_unique_approach/
+Headline: Intuitive Understanding of how Neural Networks learn: The Library of Babel
+Description: <!-- SC_OFF --><div class="md"><p>The Library of Babel greatly improved my intuitive understanding of how neural networks can learn.</p> <p>The Library of Babel is a library with every book imaginable...
+Link: https://www.reddit.com/r/artificial/comments/1gcssob/intuitive_understanding_of_how_neural_networks/
+Headline: I witnessed it countless times in myself and others: Cognitive biases = showstoppers for adopting innovations like AI. Why? Because biases are triggered by factors like uncertainty, conflicts etc. - which are characteristic for this field. How do you manage this for yourself and those around you?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gcumvg/i_witnessed_it_countless_times_in_myself_and/"> <img alt="I witnessed it countless times in myself and others: Cognitive ...
+Link: https://www.reddit.com/r/artificial/comments/1gcumvg/i_witnessed_it_countless_times_in_myself_and/
 
 ---
 
