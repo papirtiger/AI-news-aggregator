@@ -1,6 +1,9 @@
-AI News Updates - 2024-10-27 02:56:09
+AI News Updates - 2024-10-28 02:56:15
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Arcade, a new AI product creation platform, designed this necklace
+Description: <p>Mariam Naficy, the founder of cosmetics retailer Eve and design marketplace Minted, has a long history of supporting independent artists and helping them sell their products. Her latest venture, Ar...
+Link: https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/
 Headline: OpenAI’s Whisper transcription tool has hallucination issues, researchers say
 Description: <p>Software engineers, developers, and academic researchers have serious concerns about transcriptions from OpenAI’s Whisper, according to a report in the Associated Press. While there’s been no short...
 Link: https://techcrunch.com/2024/10/26/openais-whisper-transcription-tool-has-hallucination-issues-researchers-say/
@@ -17,16 +20,13 @@ Link: https://techcrunch.com/2024/10/25/classic-christmas-song-gets-authorized-s
 Headline: YC startup Pharos lands a $5M seed led by Felicis to bring AI to hospital quality reporting
 Description: <p>Medical and administrative staff are increasingly overwhelmed with piles of paperwork they have to fill out every day. Dozens, if not hundreds, of startups, are seeing opportunities to make those b...
 Link: https://techcrunch.com/2024/10/25/yc-startup-pharos-lands-a-5m-seed-led-by-felicis-to-bring-ai-to-quality-reporting/
-Headline: Perplexity says it’s now serving 100M search queries a week
-Description: <p>Aravind Srinivas, the CEO of Perplexity, says that the AI-powered search engine is now performing 100 million queries each week. Extrapolated out to a month, that&#8217;s roughly 400 million querie...
-Link: https://techcrunch.com/2024/10/25/perplexity-says-its-now-serving-100m-search-queries-a-week/
-Headline: OpenAI reportedly plans to release its Orion AI model by December
-Description: <p>Update: An OpenAI spokesperson got back to us with more info after this was published. Read the latest here. OpenAI is reportedly planning to release its next frontier AI model, codenamed Orion ins...
-Link: https://techcrunch.com/2024/10/24/openai-reportedly-plans-to-release-its-orion-ai-model-by-december/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Hospitals use a transcription tool powered by a hallucination-prone OpenAI model
+Description: <figure>
+      <img alt="An illustration of a woman typing on a keyboard, her face replaced with lines of code." src="https://cdn.vox-cdn.com/thumbor/3qdPMCaGAIWhtAiD94vHeqzJBcU=/0x0:2040x1360/1310x87...
+Link: https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies
 Headline: Google is reportedly developing a ‘computer-using agent’ AI system
 Description: <figure>
       <img alt="Illustration of a robot brain." src="https://cdn.vox-cdn.com/thumbor/Bg1V9alqaUuJ37oSLzyoMy_F-tQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73680370/ST...
@@ -55,10 +55,6 @@ Headline: Notion is making a super customizable email app
 Description: <figure>
       <img alt="A screenshot of Notion’s Mail app" src="https://cdn.vox-cdn.com/thumbor/3cq-JlRiuu2Y74F9mvKRVV6Io_s=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/736760...
 Link: https://www.theverge.com/2024/10/24/24278848/notion-super-customizable-email-app
-Headline: Departing OpenAI leader says no company is ready for AGI
-Description: <figure>
-      <img alt="Vector illustration of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/to4he2E-HglorE96RfVRhh1zS1w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/...
-Link: https://www.theverge.com/2024/10/24/24278694/openai-agi-readiness-miles-brundage-ai-safety
 
 ---
 
@@ -203,6 +199,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/fine-tune-a-bge-embedding-mo
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Generative AI isn’t coming for you — your reluctance to adopt it is
+Description: Adaptability and willingness to embrace change are keys to staying relevant. Don't be afraid of generative AI; make it work for you.
+Link: https://venturebeat.com/ai/generative-ai-isnt-coming-for-you-your-reluctance-to-adopt-it-is/
 Headline: ServiceNow advocates for ‘invisible’ AI agents to ease worker adoption
 Description: ServiceNow vice president of AI Dorit Zilbershot believes employees will be more accepting of AI agents when they don't even know they're using AI agents.
 Link: https://venturebeat.com/ai/servicenow-advocates-for-invisible-ai-agents-to-ease-worker-adoption/
@@ -227,9 +226,6 @@ Link: https://venturebeat.com/ai/deepminds-talker-reasoner-framework-brings-syst
 Headline: Meta just beat Google and Apple in the race to put powerful AI on phones
 Description: Meta has launched compressed AI models that run directly on smartphones, making artificial intelligence faster and more private while using less memory than cloud-based alternatives.
 Link: https://venturebeat.com/ai/meta-just-beat-google-and-apple-in-the-race-to-put-powerful-ai-on-phones/
-Headline: The enterprise verdict on AI models: Why open source will win
-Description: While closed models like OpenAI's GPT-4 dominated early adoption, open source models have since closed the gap in quality, and are growing at least as quickly in the enterprise, according to multiple ...
-Link: https://venturebeat.com/ai/the-enterprise-verdict-on-ai-models-why-open-source-will-win/
 
 ---
 
@@ -381,33 +377,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Security researchers put out honeypots to discover AI agents hacking autonomously in the wild and detected 6 potential agents
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gcnx59/security_researchers_put_out_honeypots_to/"> <img alt="Security researchers put out honeypots to discover AI agents hacki...
-Link: https://www.reddit.com/r/artificial/comments/1gcnx59/security_researchers_put_out_honeypots_to/
-Headline: Former OpenAI board member Helen Toner testifies to the Senate: "I've heard from people in multiple companies ... 'Please help us slow down. Please give us guardrails that we can point to that are external, that help us not only be subject to these market pressures.'"
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gcnqc6/former_openai_board_member_helen_toner_testifies/"> <img alt="Former OpenAI board member Helen Toner testifies to the Sen...
-Link: https://www.reddit.com/r/artificial/comments/1gcnqc6/former_openai_board_member_helen_toner_testifies/
-Headline: I've been curious to see what it's like when AI models talk to each other so made a site to do that.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gcck93/ive_been_curious_to_see_what_its_like_when_ai/"> <img alt="I've been curious to see what it's like when AI models talk to...
-Link: https://www.reddit.com/r/artificial/comments/1gcck93/ive_been_curious_to_see_what_its_like_when_ai/
-Headline: I shared a beginner friendly PyTorch Deep Learning course on YouTube (1.5 Hours)
-Description: <!-- SC_OFF --><div class="md"><p>Hello, I just shared a beginner-friendly PyTorch deep learning course on YouTube. In this course, I cover installation, creating tensors, tensor operations, tensor in...
-Link: https://www.reddit.com/r/artificial/comments/1gcfrg7/i_shared_a_beginner_friendly_pytorch_deep/
-Headline: One-Minute Daily AI News 10/25/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> plans to release its next big AI model by December.[1]</li> <li><strong>Meta</strong> Platforms to use Reuters news content in AI chatbo...
-Link: https://www.reddit.com/r/artificial/comments/1gcblyw/oneminute_daily_ai_news_10252024/
-Headline: One-Minute Daily AI News 10/26/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Claude AI</strong> Gets Bored During Coding Demonstration, Starts Perusing Photos of National Parks Instead.[1]</li> <li><strong>Google</strong> tool ma...
-Link: https://www.reddit.com/r/artificial/comments/1gcqziy/oneminute_daily_ai_news_10262024/
-Headline: Layer-of-Thoughts Prompting (LoT): A Unique Approach that Uses Large Language Model (LLM) based Retrieval with Constraint Hierarchies - MarkTechPost
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gco5t5/layerofthoughts_prompting_lot_a_unique_approach/"> <img alt="Layer-of-Thoughts Prompting (LoT): A Unique Approach that Us...
-Link: https://www.reddit.com/r/artificial/comments/1gco5t5/layerofthoughts_prompting_lot_a_unique_approach/
-Headline: Intuitive Understanding of how Neural Networks learn: The Library of Babel
-Description: <!-- SC_OFF --><div class="md"><p>The Library of Babel greatly improved my intuitive understanding of how neural networks can learn.</p> <p>The Library of Babel is a library with every book imaginable...
-Link: https://www.reddit.com/r/artificial/comments/1gcssob/intuitive_understanding_of_how_neural_networks/
-Headline: I witnessed it countless times in myself and others: Cognitive biases = showstoppers for adopting innovations like AI. Why? Because biases are triggered by factors like uncertainty, conflicts etc. - which are characteristic for this field. How do you manage this for yourself and those around you?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gcumvg/i_witnessed_it_countless_times_in_myself_and/"> <img alt="I witnessed it countless times in myself and others: Cognitive ...
-Link: https://www.reddit.com/r/artificial/comments/1gcumvg/i_witnessed_it_countless_times_in_myself_and/
+Headline: Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gd38uy/researchers_say_an_aipowered_transcription_tool/"> <img alt="Researchers say an AI-powered transcription tool used in hos...
+Link: https://www.reddit.com/r/artificial/comments/1gd38uy/researchers_say_an_aipowered_transcription_tool/
+Headline: James Camerons warning on AGI
+Description: <!-- SC_OFF --><div class="md"><p>What do you think about what he said? </p> <p>At a recent AI+Robotics Summit, legendary director James Cameron shared concerns about the potential risks of artificial...
+Link: https://www.reddit.com/r/artificial/comments/1gddshy/james_camerons_warning_on_agi/
+Headline: What are your favorite AI-related sci-fi movies? I find it uncanny how often science fiction ends up being a realistic predictor of what will happen in a few decades. Almost as if sci-fi is a precursor to basic science, just as the latter is to applied science...
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gdj1xh/what_are_your_favorite_airelated_scifi_movies_i/"> <img alt="What are your favorite AI-related sci-fi movies? I find it u...
+Link: https://www.reddit.com/r/artificial/comments/1gdj1xh/what_are_your_favorite_airelated_scifi_movies_i/
+Headline: User interaction as fine tuning feedback loop?
+Description: <!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>A recent chat with my advanced voice mode got me thinking about the latest advancements in fine-tuning AI models based on real-world user interac...
+Link: https://www.reddit.com/r/artificial/comments/1gd28gh/user_interaction_as_fine_tuning_feedback_loop/
+Headline: Thoughts on AI regulation
+Description: <!-- SC_OFF --><div class="md"><p>What is everyone thoughts on AI regulation? Imo, there needs to be an AI safety regulatory body with an accompanying regulation like there is for aerospace under the ...
+Link: https://www.reddit.com/r/artificial/comments/1gdk3lz/thoughts_on_ai_regulation/
+Headline: Looking for a possible AI program.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gdf7nd/looking_for_a_possible_ai_program/"> <img alt="Looking for a possible AI program." src="https://a.thumbs.redditmedia.com/...
+Link: https://www.reddit.com/r/artificial/comments/1gdf7nd/looking_for_a_possible_ai_program/
+Headline: AI Future
+Description: <!-- SC_OFF --><div class="md"><p>With Generative AI democratising technology. What are some of the changes you envision? I'll start with what I think would change. </p> <p>&quot;Writers would be the ...
+Link: https://www.reddit.com/r/artificial/comments/1gdi66b/ai_future/
+Headline: We will soon be here discussing the announcement of an AGI. What will we see? What will happen? Make your predictions.
+Description: <!-- SC_OFF --><div class="md"><p>Who will announce it? OpenAI? Meta? Ilya alone? A new entity? The AGI itself?</p> <p>What capabilities will be demonstrated in the presentation? How will they convinc...
+Link: https://www.reddit.com/r/artificial/comments/1gd5obw/we_will_soon_be_here_discussing_the_announcement/
 
 ---
 
