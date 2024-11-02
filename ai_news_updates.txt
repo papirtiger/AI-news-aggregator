@@ -1,6 +1,18 @@
-AI News Updates - 2024-11-01 03:00:17
+AI News Updates - 2024-11-02 02:48:36
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Microsoft and a16z set aside differences, join hands in plea against AI regulation
+Description: <p>Two of the biggest forces in two deeply intertwined tech ecosystems — large incumbents and startups — have taken a break from counting their money to jointly plead that the government cease and des...
+Link: https://techcrunch.com/2024/11/01/microsoft-and-a16z-set-aside-differences-join-hands-in-plea-against-ai-regulation/
+Headline: Perplexity launches an elections tracker
+Description: <p>Perplexity, the AI-powered search engine, might hallucinate from time to time. But the company wants to show that it&#8217;s trustworthy enough to use for tracking election results. Today, Perplexi...
+Link: https://techcrunch.com/2024/11/01/perplexity-launches-an-elections-tracker/
+Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
+Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to hyper-charge productivity through writing essays and code wit...
+Link: https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/
+Headline: Chinese military researchers reportedly used Meta AI to develop defense chatbot
+Description: <p>Chinese research scientists linked to the People&#8217;s Liberation Army (PLA), the military wing of China&#8217;s ruling party, reportedly used &#8220;open&#8221; AI from Meta to develop a tool fo...
+Link: https://techcrunch.com/2024/11/01/chinese-military-researchers-reportedly-used-metas-ai-to-develop-a-defense-chatbot/
 Headline: Decart’s AI simulates a real-time, playable version of Minecraft
 Description: <p>Decart, an Israeli AI company that emerged from stealth today with $21 million in funding from Sequoia and Oren Zeev, has released what it&#8217;s claiming is the first playable &#8220;open-world&#...
 Link: https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/
@@ -10,25 +22,14 @@ Link: https://techcrunch.com/2024/10/31/openai-ceo-sam-altman-says-lack-of-compu
 Headline: Meta is making a robot hand that can ‘feel’ touch
 Description: <p>Meta says it&#8217;s partnering with sensor firm GelSight and Wonik Robotics, a South Korean robotics company, to commercialize tactile sensors for AI. The new devices aren&#8217;t meant for consum...
 Link: https://techcrunch.com/2024/10/31/meta-is-making-a-robot-hand-that-can-feel-touch/
-Headline: OpenAI launches its Google challenger, ChatGPT Search
-Description: <p>OpenAI&#8217;s Google challenger is finally here. The company on Thursday launched ChatGPT Search, an evolution of the SearchGPT prototype it unveiled this summer. Built into OpenAI&#8217;s ChatGPT...
-Link: https://techcrunch.com/2024/10/31/openai-launches-its-google-challenger-chatgpt-search/
-Headline: Google Maps is getting new AI features powered by Gemini
-Description: <p>Google Maps is getting new features powered by Gemini, Google&#8217;s generative AI model. On Thursday the company announced incoming updates that will allow Google Maps users in the U.S. to tap in...
-Link: https://techcrunch.com/2024/10/31/google-maps-is-getting-new-ai-features-powered-by-gemini/
-Headline: Google’s Gemini API and AI Studio get grounding with Google Search
-Description: <p>Starting today, developers using Google&#8217;s Gemini API and its Google AI Studio to build AI-based services and bots will be able to ground their prompts&#8217; results with data from Google Sea...
-Link: https://techcrunch.com/2024/10/31/googles-gemini-api-and-ai-studio-get-grounding-with-google-search/
-Headline: Nvidia-Run:ai deal to be reviewed under EU’s merger rules
-Description: <p>The European Union has tossed a wrench in the works of chipmaker Nvidia&#8217;s proposed acquisition of Tel Aviv-based AI workload management startup Run:ai. The deal, which was announced back in A...
-Link: https://techcrunch.com/2024/10/31/nvidia-runai-deal-to-be-reviewed-under-eus-merger-rules/
-Headline: Claude gets desktop apps and dictation support
-Description: <p>Anthropic&#8217;s AI-powered chatbot, Claude, now has desktop apps. Anthropic is launching Claude apps for Mac and Windows today in public beta, which — as Anthropic writes in a blog post — &#8220;...
-Link: https://techcrunch.com/2024/10/31/claude-gets-desktop-apps-and-dictation-support/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The AI garage door mystery
+Description: <figure>
+      <img alt="A photo of the new iMac colors, on a Vergecast background." src="https://cdn.vox-cdn.com/thumbor/Qaws8ruNChsBVDFCfljRme5ZBtc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/ch...
+Link: https://www.theverge.com/2024/11/1/24285304/chatgpt-search-apple-mac-mini-smart-home-vergecast
 Headline: ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features
 Description: <figure>
       <img alt="quick insert example" src="https://cdn.vox-cdn.com/thumbor/Vidtgeh_8eExS5DCJUKG8Xcr_uU=/151x0:1770x1079/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73692579/Chromebook...
@@ -57,10 +58,6 @@ Headline: Meta is pushing for the government to use its AI
 Description: <figure>
       <img alt="Photo collage of Mark Zuckerberg." src="https://cdn.vox-cdn.com/thumbor/XRcXtUAtztIYWuPY72Hq_pjx5sU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73690128...
 Link: https://www.theverge.com/2024/10/30/24283985/meta-government-llama-ai-q3-earnings
-Headline: Waymo explores using Google’s Gemini to train its robotaxis
-Description: <figure>
-      <img alt="Photo illustration of an autonomous vehicle." src="https://cdn.vox-cdn.com/thumbor/OJfzZp25oT6aupM-fOC4UT-QGUg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/ima...
-Link: https://www.theverge.com/2024/10/30/24283516/waymo-google-gemini-llm-ai-robotaxi
 
 ---
 
@@ -104,6 +101,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Anthropic urges AI regulation to avoid catastrophes
+Description: <p>Anthropic has flagged the potential risks of AI systems and calls for well-structured regulation to avoid potential catastrophes. The organisation argues that targeted regulation is essential to ha...
+Link: https://www.artificialintelligence-news.com/news/anthropic-urges-ai-regulation-avoid-catastrophes/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-urges-ai-regulation-avoid-catastrophes
 Headline: Industry leaders back open-source AI definition
 Description: <p>The Open Source Initiative (OSI) has unveiled a definition framework to evaluate whether AI systems can be classified as open-source. The announcement of the first Open Source AI Definition (OSAID)...
 Link: https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/?utm_source=rss&utm_medium=rss&utm_campaign=industry-leaders-back-open-source-ai-definition
@@ -131,9 +131,6 @@ Link: https://www.artificialintelligence-news.com/news/stability-ai-releases-mos
 Headline: Anthropic unveils new Claude AI models and ‘computer control’
 Description: <p>Anthropic has announced upgrades to its AI portfolio, including an enhanced Claude 3.5 Sonnet model and the introduction of Claude 3.5 Haiku, alongside a “computer control” feature in public beta. ...
 Link: https://www.artificialintelligence-news.com/news/anthropic-new-claude-ai-models-and-computer-control/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-new-claude-ai-models-and-computer-control
-Headline: EU AI Act: Early prep could give businesses competitive edge
-Description: <p>The EU AI Act is set to fully take effect in August 2026, but some provisions are coming into force even earlier. The legislation establishes a first-of-its-kind regulatory framework for AI systems...
-Link: https://www.artificialintelligence-news.com/news/eu-ai-act-early-prep-could-give-businesses-competitive-edge/?utm_source=rss&utm_medium=rss&utm_campaign=eu-ai-act-early-prep-could-give-businesses-competitive-edge
 
 ---
 
@@ -181,6 +178,18 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Best practices and lessons for fine-tuning Anthropic’s Claude 3 Haiku on Amazon Bedrock
+Description: In this post, we explore the best practices and lessons learned for fine-tuning Anthropic’s Claude 3 Haiku on Amazon Bedrock. We discuss the important components of fine-tuning, including use case def...
+Link: https://aws.amazon.com/blogs/machine-learning/best-practices-and-lessons-for-fine-tuning-anthropics-claude-3-haiku-on-amazon-bedrock/
+Headline: Track, allocate, and manage your generative AI cost and usage with Amazon Bedrock
+Description: Amazon Bedrock has launched a capability that organizations can use to tag on-demand models and monitor associated costs. Organizations can now label all Amazon Bedrock models with AWS cost allocation...
+Link: https://aws.amazon.com/blogs/machine-learning/track-allocate-and-manage-your-generative-ai-cost-and-usage-with-amazon-bedrock/
+Headline: Advance environmental sustainability in clinical trials using AWS
+Description: In this post, we discuss how to use AWS to support a decentralized clinical trial across the four main pillars of a decentralized clinical trial (virtual trials, personalized patient engagement, patie...
+Link: https://aws.amazon.com/blogs/machine-learning/advance-environmental-sustainability-in-clinical-trials-using-aws/
+Headline: How Druva used Amazon Bedrock to address foundation model complexity when building Dru, Druva’s backup AI copilot
+Description: Druva enables cyber, data, and operational resilience for thousands of enterprises, and is trusted by 60 of the Fortune 500. In this post, we show how Druva approached natural language querying (NLQ)—...
+Link: https://aws.amazon.com/blogs/machine-learning/how-druva-used-amazon-bedrock-to-address-foundation-model-complexity-when-building-dru-druvas-backup-ai-copilot/
 Headline: Create a generative AI–powered custom Google Chat application using Amazon Bedrock
 Description: AWS offers powerful generative AI services, including Amazon Bedrock, which allows organizations to create tailored use cases such as AI chat-based assistants that give answers based on knowledge cont...
 Link: https://aws.amazon.com/blogs/machine-learning/create-a-generative-ai-powered-custom-google-chat-application-using-amazon-bedrock/
@@ -193,15 +202,25 @@ Link: https://aws.amazon.com/blogs/machine-learning/accelerate-custom-labeling-w
 Headline: Achieve multi-Region resiliency for your conversational AI chatbots with Amazon Lex
 Description: Global Resiliency is a new Amazon Lex capability that enables near real-time replication of your Amazon Lex V2 bots in a second AWS Region. When you activate this feature, all resources, versions, and...
 Link: https://aws.amazon.com/blogs/machine-learning/achieve-multi-region-resiliency-for-your-conversational-ai-chatbots-with-amazon-lex/
-Headline: Empower your generative AI application with a comprehensive custom observability solution
-Description: In this post, we set up the custom solution for observability and evaluation of Amazon Bedrock applications. Through code examples and step-by-step guidance, we demonstrate how you can seamlessly inte...
-Link: https://aws.amazon.com/blogs/machine-learning/empower-your-generative-ai-application-with-a-comprehensive-custom-observability-solution/
-Headline: Build a video insights and summarization engine using generative AI with Amazon Bedrock
-Description: This post presents a solution where you can upload a recording of your meeting (a feature available in most modern digital communication services such as Amazon Chime) to a centralized video insights ...
-Link: https://aws.amazon.com/blogs/machine-learning/build-a-video-insights-and-summarization-engine-using-generative-ai-with-amazon-bedrock/
+
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Meta unveils AI tools to give robots a human touch in physical world
+Description: Meta unveils three tools and benchmarks to enhance robot touch perception, dexterity, and human-robot collaboration in real-world settings.
+Link: https://venturebeat.com/ai/meta-unveils-ai-tools-to-give-robots-a-human-touch-in-physical-world/
+Headline: AI on your smartphone? Hugging Face’s SmolLM2 brings powerful models to the palm of your hand
+Description: Hugging Face launches SmolLM2, a new family of compact AI language models that deliver impressive performance on mobile and edge devices, outperforming larger models like Meta’s LLaMA in key benchmark...
+Link: https://venturebeat.com/ai/ai-on-your-smartphone-hugging-faces-smollm2-brings-powerful-models-to-the-palm-of-your-hand/
+Headline: The show’s not over: 2024 sees big boost to AI investment
+Description: AI investment continues to show resiliency, driving deal volumes to 1,245 in Q3, 24, a level not seen since Q1, 22.
+Link: https://venturebeat.com/ai/ai-investment-accelerates-global-deal-counts-reach-2-year-high/
+Headline: DevRev raises $100.8 million in Series A funding and becomes an AI unicorn at a $1.15 billion valuation
+Description: Following its successful Series A funding, DevRev drives forward its mission to revolutionize customer support and product development.
+Link: https://venturebeat.com/ai/devrev-raises-100-8-million-in-series-a-funding-and-becomes-an-ai-unicorn-at-a-1-15-billion-valuation/
+Headline: Runway goes 3D with new AI video camera controls for Gen-3 Alpha Turbo
+Description: Realistically puts creators and their viewers into a fully realized, seemingly 3D world — like they are on a real movie set or on location.
+Link: https://venturebeat.com/ai/runway-goes-3d-with-new-ai-video-camera-controls-for-gen-3-alpha-turbo/
 Headline: Meta makes its MobileLLM open for researchers, posting full weights
 Description: Developers and researchers interested in testing MobileLLM can now access the models on Hugging Face, fully integrated with the Transformers library.
 Link: https://venturebeat.com/ai/meta-makes-its-mobilellm-open-for-researchers-posting-full-weights/
@@ -214,28 +233,13 @@ Link: https://venturebeat.com/ai/the-great-ai-masquerade-when-automation-wears-a
 Headline: OpenAI turns ChatGPT into a search engine, aims directly at Google
 Description: OpenAI launches ChatGPT web search to rival Google, partners with major publishers, and invests $5 billion in custom AI chips while Microsoft takes $1.5B quarterly hit from its AI investments.
 Link: https://venturebeat.com/ai/openai-turns-chatgpt-into-a-search-engine-aims-directly-at-google/
-Headline: Microsoft’s agentic AI tool OmniParser rockets up the open source charts
-Description: From prototype to popularity, here's why Microsoft’s new open source OmniParser model is trending on Hugging Face.
-Link: https://venturebeat.com/ai/microsofts-agentic-ai-tool-omniparser-rockets-up-the-open-source-charts/
-Headline: Noma arrives to provide security from data storage to deployment for enterprise AI solutions
-Description: Noma’s platform is designed to safeguard every stage of AI model development and operation, incorporating security tools.
-Link: https://venturebeat.com/ai/noma-arrives-to-provide-security-from-data-storage-to-deployment-for-enterprise-ai-solutions/
-Headline: Google Cloud’s security chief warns: Cyber defenses must evolve to counter AI abuses
-Description: How conventional cyber detection and response can be expanded to monitor for AI abuses — and how AI can be used for defensive advantage.
-Link: https://venturebeat.com/security/google-clouds-security-chief-warns-cyber-defenses-must-evolve-to-counter-ai-abuses/
-Headline: Patronus AI launches world’s first self-serve API to stop AI hallucinations
-Description: Patronus AI launches the first self-serve API to detect and prevent AI failures, offering businesses real-time guardrails, customizable evaluators, and a pay-as-you-go pricing model.
-Link: https://venturebeat.com/ai/patronus-ai-launches-worlds-first-self-serve-api-to-stop-ai-hallucinations/
-Headline: OpenAI expands Realtime API with new voices and cuts prices for developers
-Description: OpenAI's voice assistant API offers five new, more natural voices and discounted prices in the newest update.
-Link: https://venturebeat.com/ai/openai-expands-realtime-api-with-new-voices-and-cuts-prices-for-developers/
-Headline: Pika 1.5 updates with three new Halloween-themed video AI Pikaffects
-Description: The three new Pikaffects in time for Halloween are levitate, eye pop, and decapitate — all of which do what they sound like.
-Link: https://venturebeat.com/ai/pika-1-5-updates-with-three-new-halloween-themed-video-ai-pikaffects/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Anthropic warns of AI catastrophe if governments don't regulate in 18 months
+Description: 'The window for proactive risk prevention is closing fast,' the company says. Here's why.
+Link: https://www.zdnet.com/article/anthropic-warns-of-ai-catastrophe-if-governments-dont-regulate-in-18-months/
 Headline: Google's new AI tool transforms dense research papers into accessible conversations - try it free
 Description: Need a research assistant to help you digest dense and complex material? AI-powered Illuminate transforms published papers into audio discussions.
 Link: https://www.zdnet.com/article/how-googles-new-ai-tool-turns-research-papers-into-audio-conversations-try-it-free/
@@ -260,9 +264,6 @@ Link: https://www.zdnet.com/article/why-data-is-the-achilles-heel-of-ai-and-ever
 Headline: The MacBook Air's free RAM upgrade was sneakily the best announcement during Apple's Mac event
 Description: The M2 and M3 MacBook Air lines will now sport a base memory of 16GB RAM. But don't mistake the free performance boost for Apple generosity.
 Link: https://www.zdnet.com/article/the-macbook-airs-free-ram-upgrade-was-sneakily-the-best-announcement-during-apples-mac-event/
-Headline: GitHub Copilot goes 'multi-model' with support for four new LLMs
-Description: The coding assistant is no longer OpenAI-exclusive. See what will be supported and when.
-Link: https://www.zdnet.com/article/github-copilot-goes-multi-model-with-support-for-four-new-llms/
 
 ---
 
@@ -316,6 +317,9 @@ From source: https://www.sciencedaily.com/rss/computers_math/artificial_intellig
 Headline: New methods for whale tracking and rendezvous using autonomous robots
 Description: Today, a research team has proposed a new reinforcement learning framework with autonomous drones to find sperm whales and predict where they will surface.
 Link: https://www.sciencedaily.com/releases/2024/10/241031151718.htm
+Headline: Wearable ultrasound tech for muscle monitoring opens new possibilities in healthcare and human-machine interfaces
+Description: Researchers have developed a compact, wearable ultrasound device that monitors muscle activity. Attachable to the skin with an adhesive and powered by a small battery, the device wirelessly captures h...
+Link: https://www.sciencedaily.com/releases/2024/10/241031124459.htm
 Headline: Precision robotics offers hope for heart disease treatment
 Description: The advanced drug testing system screens multiple potential therapies simultaneously in beating heart cells.
 Link: https://www.sciencedaily.com/releases/2024/10/241030150429.htm
@@ -340,13 +344,13 @@ Link: https://www.sciencedaily.com/releases/2024/10/241023141802.htm
 Headline: Listening skills bring human-like touch to robots
 Description: Researchers give robots a sense of touch by 'listening' to vibrations, allowing them to identify materials, understand shapes and recognize objects just like human hands. The ability to interpret the ...
 Link: https://www.sciencedaily.com/releases/2024/10/241023131527.htm
-Headline: AI breakthrough in human action detection technology
-Description: Researchers develop an AI-driven video analyzer capable of detecting human actions in video footage with precision and intelligence.
-Link: https://www.sciencedaily.com/releases/2024/10/241017113523.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: One in 20 new Wikipedia pages seem to be written with the help of AI
+Description: Just under 5 per cent of the Wikipedia pages in English that have been published since ChatGPT's release seem to include AI-written content
+Link: https://www.newscientist.com/article/2454256-one-in-20-new-wikipedia-pages-seem-to-be-written-with-the-help-of-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: How a ride in a friendly Waymo saw me fall for robotaxis
 Description: I have a confession to make. After taking a handful of autonomous taxi rides, I have gone from a hater to a friend of robot cars in just a few weeks, says Annalee Newitz
 Link: https://www.newscientist.com/article/2453802-how-a-ride-in-a-friendly-waymo-saw-me-fall-for-robotaxis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -374,9 +378,6 @@ Link: https://www.newscientist.com/article/2453350-ai-models-fall-for-the-same-s
 Headline: Tiny battery made from silk hydrogel can run a mouse pacemaker
 Description: A lithium-ion battery made from three droplets of hydrogel is the smallest soft battery of its kind – and it could be used in biocompatible and biodegradable implants
 Link: https://www.newscientist.com/article/2453303-tiny-battery-made-from-silk-hydrogel-can-run-a-mouse-pacemaker/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Battery made from water and clay could be used on Mars
-Description: A new battery design that uses only water, clay and graphene could source material on Mars and be more sustainable and accessible than traditional batteries
-Link: https://www.newscientist.com/article/2453185-battery-made-from-water-and-clay-could-be-used-on-mars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -389,21 +390,34 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: AI Researcher Slams OpenAI, Warns It Will Become the "Most Orwellian Company of All Time"
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ggg846/ai_researcher_slams_openai_warns_it_will_become/"> <img alt="AI Researcher Slams OpenAI, Warns It Will Become the &quot;M...
-Link: https://www.reddit.com/r/artificial/comments/1ggg846/ai_researcher_slams_openai_warns_it_will_become/
+Headline: Oasis, the first playable, realtime, open-world AI model.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ghc96f/oasis_the_first_playable_realtime_openworld_ai/"> <img alt="Oasis, the first playable, realtime, open-world AI model." sr...
+Link: https://www.reddit.com/r/artificial/comments/1ghc96f/oasis_the_first_playable_realtime_openworld_ai/
+Headline: Open Source AI Definition Erodes the Meaning of “Open Source”
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ggvhf2/open_source_ai_definition_erodes_the_meaning_of/"> <img alt="Open Source AI Definition Erodes the Meaning of “Open Source...
+Link: https://www.reddit.com/r/artificial/comments/1ggvhf2/open_source_ai_definition_erodes_the_meaning_of/
+Headline: One-Minute Daily AI News 10/31/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>ChatGPT</strong> can now search the web in a much better way than before. You can get fast, timely answers with links to relevant web sources, which you...
+Link: https://www.reddit.com/r/artificial/comments/1ggvim1/oneminute_daily_ai_news_10312024/
+Headline: October’s AI highlights: Claude's computer use feature offers code-free automation / AI content floods Wikipedia / Hinton & Hopfield win Physics Nobel for AI / Researchers challenge possibility of AGI / Genmo’s competitive open-source video AI / ChatGPT Search rivals traditional search engines.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ghfbzv/octobers_ai_highlights_claudes_computer_use/"> <img alt="October’s AI highlights: Claude's computer use feature offers co...
+Link: https://www.reddit.com/r/artificial/comments/1ghfbzv/octobers_ai_highlights_claudes_computer_use/
+Headline: Looking for Tool - Document Reader and Public-Facing Chat
+Description: <!-- SC_OFF --><div class="md"><p>Hello!</p> <p>I'm looking for a specific type of AI-based product for a small personal project, and my Google-Fu is coming up with nothing. There are so many products...
+Link: https://www.reddit.com/r/artificial/comments/1ggviw8/looking_for_tool_document_reader_and_publicfacing/
+Headline: The Difference Between Human and AI Reasoning
+Description: <!-- SC_OFF --><div class="md"><p>Older AI models showed some capacity for generalization, but pre-O1 models weren't directly incentivized to reason. This fundamentally differs from humans: our limbic...
+Link: https://www.reddit.com/r/artificial/comments/1ghj2to/the_difference_between_human_and_ai_reasoning/
+Headline: Reward Functions in AI: Between Rigidity and Adaptability
+Description: <!-- SC_OFF --><div class="md"><p>The relationship between human and artificial reasoning reveals an interesting tension in reward function design. While the human brain features a remarkably flexible...
+Link: https://www.reddit.com/r/artificial/comments/1ghil6v/reward_functions_in_ai_between_rigidity_and/
 Headline: Here's what is making news in the AI
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Waymo wants to use Google’s Gemini to train its robotaxis</li> <li>Avride rolls out its next-gen sidewalk delivery robots</li> <li>Judges let algorithms help th...
-Link: https://www.reddit.com/r/artificial/comments/1ggexcm/heres_what_is_making_news_in_the_ai/
-Headline: One-Minute Daily AI News 10/30/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>LinkedIn</strong> launches its first AI agent to take on the role of job recruiters.[1]</li> <li><strong>Microsoft</strong> sails as AI boom fuels doubl...
-Link: https://www.reddit.com/r/artificial/comments/1gg6r55/oneminute_daily_ai_news_10302024/
-Headline: Is Xi Jinping an AI doomer? | China's elite is split over artificial intelligence
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ggftvg/is_xi_jinping_an_ai_doomer_chinas_elite_is_split/"> <img alt="Is Xi Jinping an AI doomer? | China's elite is split over a...
-Link: https://www.reddit.com/r/artificial/comments/1ggftvg/is_xi_jinping_an_ai_doomer_chinas_elite_is_split/
-Headline: AGI and human interests
-Description: <!-- SC_OFF --><div class="md"><p>A while ago I got obsessive about philosophical stuff again and wound up reading <a href="https://www.palladiummag.com/2023/11/03/make-yourself-human-again/">this art...
-Link: https://www.reddit.com/r/artificial/comments/1ggkjxc/agi_and_human_interests/
+Description: <!-- SC_OFF --><div class="md"><p><strong>Spotlight -</strong> <strong><em>OpenAI launches its Google challenger, ChatGPT Search</em></strong></p> <ol> <li><p>Google is building smart home controls in...
+Link: https://www.reddit.com/r/artificial/comments/1gh8d71/heres_what_is_making_news_in_the_ai/
+Headline: Spotting AI Cheaters in Remote Tech Interviews
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gh48r1/spotting_ai_cheaters_in_remote_tech_interviews/"> <img alt="Spotting AI Cheaters in Remote Tech Interviews" src="https://...
+Link: https://www.reddit.com/r/artificial/comments/1gh48r1/spotting_ai_cheaters_in_remote_tech_interviews/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
