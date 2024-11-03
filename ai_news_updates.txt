@@ -1,6 +1,9 @@
-AI News Updates - 2024-11-02 02:48:36
+AI News Updates - 2024-11-03 02:56:13
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: MIT debuts a large language model-inspired method for teaching robots new skills
+Description: <p>MIT this week showcased a new model for training robots. Rather than the standard set of focused data used to teach robots new tasks, the method goes big, mimicking the massive troves of informatio...
+Link: https://techcrunch.com/2024/11/02/mit-debuts-a-large-language-model-inspired-method-for-teaching-robots-new-skills/
 Headline: Microsoft and a16z set aside differences, join hands in plea against AI regulation
 Description: <p>Two of the biggest forces in two deeply intertwined tech ecosystems — large incumbents and startups — have taken a break from counting their money to jointly plead that the government cease and des...
 Link: https://techcrunch.com/2024/11/01/microsoft-and-a16z-set-aside-differences-join-hands-in-plea-against-ai-regulation/
@@ -19,10 +22,6 @@ Link: https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playabl
 Headline: OpenAI CEO Sam Altman says lack of compute capacity is delaying the company’s products
 Description: <p>In a Reddit AMA, OpenAI CEO Sam Altman admitted that a lack of compute capacity is one major factor preventing the company from shipping products as often as it&#8217;d like. &#8220;All of these mo...
 Link: https://techcrunch.com/2024/10/31/openai-ceo-sam-altman-says-lack-of-compute-is-delaying-the-companys-products/
-Headline: Meta is making a robot hand that can ‘feel’ touch
-Description: <p>Meta says it&#8217;s partnering with sensor firm GelSight and Wonik Robotics, a South Korean robotics company, to commercialize tactile sensors for AI. The new devices aren&#8217;t meant for consum...
-Link: https://techcrunch.com/2024/10/31/meta-is-making-a-robot-hand-that-can-feel-touch/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -206,6 +205,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/achieve-multi-region-resilie
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Why multi-agent AI tackles complexities LLMs can’t
+Description: While AGI and fully autonomous systems are still on the horizon, multi-agents will bridge the current gap between LLMs and AGI.
+Link: https://venturebeat.com/ai/why-multi-agent-ai-conquers-complexities-llms-cant/
 Headline: Meta unveils AI tools to give robots a human touch in physical world
 Description: Meta unveils three tools and benchmarks to enhance robot touch perception, dexterity, and human-robot collaboration in real-world settings.
 Link: https://venturebeat.com/ai/meta-unveils-ai-tools-to-give-robots-a-human-touch-in-physical-world/
@@ -230,9 +232,6 @@ Link: https://venturebeat.com/ai/google-just-gave-its-ai-access-to-search-hours-
 Headline: The great AI masquerade: When automation wears an agent costume
 Description: Most of today's AI "agents" are really automation systems whose interfaces are “agentic." The trick is understanding what's behind the mask.
 Link: https://venturebeat.com/ai/the-great-ai-masquerade-when-automation-wears-an-agent-costume/
-Headline: OpenAI turns ChatGPT into a search engine, aims directly at Google
-Description: OpenAI launches ChatGPT web search to rival Google, partners with major publishers, and invests $5 billion in custom AI chips while Microsoft takes $1.5B quarterly hit from its AI investments.
-Link: https://venturebeat.com/ai/openai-turns-chatgpt-into-a-search-engine-aims-directly-at-google/
 
 ---
 
@@ -390,33 +389,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Oasis, the first playable, realtime, open-world AI model.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ghc96f/oasis_the_first_playable_realtime_openworld_ai/"> <img alt="Oasis, the first playable, realtime, open-world AI model." sr...
-Link: https://www.reddit.com/r/artificial/comments/1ghc96f/oasis_the_first_playable_realtime_openworld_ai/
-Headline: Open Source AI Definition Erodes the Meaning of “Open Source”
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ggvhf2/open_source_ai_definition_erodes_the_meaning_of/"> <img alt="Open Source AI Definition Erodes the Meaning of “Open Source...
-Link: https://www.reddit.com/r/artificial/comments/1ggvhf2/open_source_ai_definition_erodes_the_meaning_of/
-Headline: One-Minute Daily AI News 10/31/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>ChatGPT</strong> can now search the web in a much better way than before. You can get fast, timely answers with links to relevant web sources, which you...
-Link: https://www.reddit.com/r/artificial/comments/1ggvim1/oneminute_daily_ai_news_10312024/
-Headline: October’s AI highlights: Claude's computer use feature offers code-free automation / AI content floods Wikipedia / Hinton & Hopfield win Physics Nobel for AI / Researchers challenge possibility of AGI / Genmo’s competitive open-source video AI / ChatGPT Search rivals traditional search engines.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ghfbzv/octobers_ai_highlights_claudes_computer_use/"> <img alt="October’s AI highlights: Claude's computer use feature offers co...
-Link: https://www.reddit.com/r/artificial/comments/1ghfbzv/octobers_ai_highlights_claudes_computer_use/
-Headline: Looking for Tool - Document Reader and Public-Facing Chat
-Description: <!-- SC_OFF --><div class="md"><p>Hello!</p> <p>I'm looking for a specific type of AI-based product for a small personal project, and my Google-Fu is coming up with nothing. There are so many products...
-Link: https://www.reddit.com/r/artificial/comments/1ggviw8/looking_for_tool_document_reader_and_publicfacing/
-Headline: The Difference Between Human and AI Reasoning
-Description: <!-- SC_OFF --><div class="md"><p>Older AI models showed some capacity for generalization, but pre-O1 models weren't directly incentivized to reason. This fundamentally differs from humans: our limbic...
-Link: https://www.reddit.com/r/artificial/comments/1ghj2to/the_difference_between_human_and_ai_reasoning/
-Headline: Reward Functions in AI: Between Rigidity and Adaptability
-Description: <!-- SC_OFF --><div class="md"><p>The relationship between human and artificial reasoning reveals an interesting tension in reward function design. While the human brain features a remarkably flexible...
-Link: https://www.reddit.com/r/artificial/comments/1ghil6v/reward_functions_in_ai_between_rigidity_and/
-Headline: Here's what is making news in the AI
-Description: <!-- SC_OFF --><div class="md"><p><strong>Spotlight -</strong> <strong><em>OpenAI launches its Google challenger, ChatGPT Search</em></strong></p> <ol> <li><p>Google is building smart home controls in...
-Link: https://www.reddit.com/r/artificial/comments/1gh8d71/heres_what_is_making_news_in_the_ai/
-Headline: Spotting AI Cheaters in Remote Tech Interviews
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gh48r1/spotting_ai_cheaters_in_remote_tech_interviews/"> <img alt="Spotting AI Cheaters in Remote Tech Interviews" src="https://...
-Link: https://www.reddit.com/r/artificial/comments/1gh48r1/spotting_ai_cheaters_in_remote_tech_interviews/
+Headline: One-Minute Daily AI News 11/2/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Anthropic</strong> Introduces Claude 3.5 Sonnet with Visual PDF Analysis for Images, Charts, and Graphs under 100 Pages.[1]</li> <li>Quantum Machines an...
+Link: https://www.reddit.com/r/artificial/comments/1giazr9/oneminute_daily_ai_news_1122024/
+Headline: One-Minute Daily AI News 11/1/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Super Micro</strong>’s $50 billion stock collapse underscores risk of AI hype.[1]</li> <li><strong>Perplexity</strong> launches an elections tracker.[2]...
+Link: https://www.reddit.com/r/artificial/comments/1ghm473/oneminute_daily_ai_news_1112024/
+Headline: Has AI helped Shazam music identification so I can just hum a song?
+Description: <!-- SC_OFF --><div class="md"><p>Growing up as an autistic kid, I always had melodies play in my head. Symphonies and songs and beats and stuff. But I could never figure out if I had heard it in a so...
+Link: https://www.reddit.com/r/artificial/comments/1ghx7y9/has_ai_helped_shazam_music_identification_so_i/
+Headline: Here’s what making news in the AI
+Description: <!-- SC_OFF --><div class="md"><p>Spotlight- Nvidia (NVDA) to Replace Intel in the Dow Jones Industrial Average after Intel fail in the race of AI boom</p> <ul> <li>Perplexity launches an elections tr...
+Link: https://www.reddit.com/r/artificial/comments/1gi6wmt/heres_what_making_news_in_the_ai/
 
 ---
 
