@@ -1,6 +1,15 @@
-AI News Updates - 2024-11-03 02:56:13
+AI News Updates - 2024-11-04 02:55:37
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI has hired the co-founder of Twitter challenger Pebble
+Description: <p>Gabor Cselle, the former CEO and co-founder of X (formerly Twitter) challenger Pebble, has joined OpenAI to work on a secretive project. Cselle, who according to LinkedIn has been employed at OpenA...
+Link: https://techcrunch.com/2024/11/03/openai-has-hired-the-co-founder-of-twitter-challenger-pebble/
+Headline: Women in AI: Sophia Velastegui believes AI is moving too fast
+Description: <p>As a part of TechCrunch’s ongoing&#160;Women in AI series, which seeks to give&#160;AI-focused women&#160;academics and others their well-deserved (and overdue) time in the spotlight, TechCrunch in...
+Link: https://techcrunch.com/2024/11/03/women-in-ai-sophia-velastegui-believes-ai-is-moving-too-fast/
+Headline: GenAI suffers from data overload, so companies should focus on smaller, specific goals
+Description: <p>&#8220;There is no AI without data, there is no AI without unstructured data, and there is no AI without unstructured data at scale,&#8221; said Chet Kapoor, chairman and CEO of data management com...
+Link: https://techcrunch.com/2024/11/03/genai-suffers-from-data-overload-so-companies-should-focus-on-smaller-specific-goals/
 Headline: MIT debuts a large language model-inspired method for teaching robots new skills
 Description: <p>MIT this week showcased a new model for training robots. Rather than the standard set of focused data used to teach robots new tasks, the method goes big, mimicking the massive troves of informatio...
 Link: https://techcrunch.com/2024/11/02/mit-debuts-a-large-language-model-inspired-method-for-teaching-robots-new-skills/
@@ -16,15 +25,13 @@ Link: https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-
 Headline: Chinese military researchers reportedly used Meta AI to develop defense chatbot
 Description: <p>Chinese research scientists linked to the People&#8217;s Liberation Army (PLA), the military wing of China&#8217;s ruling party, reportedly used &#8220;open&#8221; AI from Meta to develop a tool fo...
 Link: https://techcrunch.com/2024/11/01/chinese-military-researchers-reportedly-used-metas-ai-to-develop-a-defense-chatbot/
-Headline: Decart’s AI simulates a real-time, playable version of Minecraft
-Description: <p>Decart, an Israeli AI company that emerged from stealth today with $21 million in funding from Sequoia and Oren Zeev, has released what it&#8217;s claiming is the first playable &#8220;open-world&#...
-Link: https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/
-Headline: OpenAI CEO Sam Altman says lack of compute capacity is delaying the company’s products
-Description: <p>In a Reddit AMA, OpenAI CEO Sam Altman admitted that a lack of compute capacity is one major factor preventing the company from shipping products as often as it&#8217;d like. &#8220;All of these mo...
-Link: https://techcrunch.com/2024/10/31/openai-ceo-sam-altman-says-lack-of-compute-is-delaying-the-companys-products/
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Perplexity debuts an AI-powered election information hub
+Description: <figure>
+      <img alt="Vector collage of the Perplexity logo." src="https://cdn.vox-cdn.com/thumbor/Ar4k7_9PeCGFGoNaDSIYQ-8rYGI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/736...
+Link: https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris
 Headline: The AI garage door mystery
 Description: <figure>
       <img alt="A photo of the new iMac colors, on a Vergecast background." src="https://cdn.vox-cdn.com/thumbor/Qaws8ruNChsBVDFCfljRme5ZBtc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/ch...
@@ -53,10 +60,6 @@ Headline: Google Maps will use AI to answer questions about the new restaurant y
 Description: <figure>
       <img alt="Screenshots showing Google Maps updates" src="https://cdn.vox-cdn.com/thumbor/r-LG20PfECB23Uv-CrvRefTT75I=/197x0:1490x862/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
 Link: https://www.theverge.com/2024/10/31/24283970/google-maps-gemini-ai-answer-questions
-Headline: Meta is pushing for the government to use its AI
-Description: <figure>
-      <img alt="Photo collage of Mark Zuckerberg." src="https://cdn.vox-cdn.com/thumbor/XRcXtUAtztIYWuPY72Hq_pjx5sU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73690128...
-Link: https://www.theverge.com/2024/10/30/24283985/meta-government-llama-ai-q3-earnings
 
 ---
 
@@ -205,6 +208,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/achieve-multi-region-resilie
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Enter the ‘Whisperverse’: How AI voice agents will guide us through our days
+Description: Within the next few years, an AI-powered voice will burrow into your ears and take up residence inside your head.
+Link: https://venturebeat.com/ai/enter-the-whisperverse-how-ai-voice-agents-will-guide-us-through-our-days/
 Headline: Why multi-agent AI tackles complexities LLMs can’t
 Description: While AGI and fully autonomous systems are still on the horizon, multi-agents will bridge the current gap between LLMs and AGI.
 Link: https://venturebeat.com/ai/why-multi-agent-ai-conquers-complexities-llms-cant/
@@ -229,13 +235,13 @@ Link: https://venturebeat.com/ai/meta-makes-its-mobilellm-open-for-researchers-p
 Headline: Google just gave its AI access to Search, hours before OpenAI launched ChatGPT Search
 Description: Google launches real-time search integration for Gemini AI platform at $35 per 1,000 queries, while OpenAI debuts ChatGPT Search on the same day, setting up a major battle for the future of AI-powered...
 Link: https://venturebeat.com/ai/google-just-gave-its-ai-access-to-search-hours-before-openai-launched-chatgpt-search/
-Headline: The great AI masquerade: When automation wears an agent costume
-Description: Most of today's AI "agents" are really automation systems whose interfaces are “agentic." The trick is understanding what's behind the mask.
-Link: https://venturebeat.com/ai/the-great-ai-masquerade-when-automation-wears-an-agent-costume/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: 4 ways to turn generative AI experiments into real business value
+Description: Here's how to ensure your great ideas for AI turn into something that helps people reap the benefits of emerging technology.
+Link: https://www.zdnet.com/article/4-ways-to-turn-gen-ai-experiments-into-real-business-value/
 Headline: Anthropic warns of AI catastrophe if governments don't regulate in 18 months
 Description: 'The window for proactive risk prevention is closing fast,' the company says. Here's why.
 Link: https://www.zdnet.com/article/anthropic-warns-of-ai-catastrophe-if-governments-dont-regulate-in-18-months/
@@ -260,9 +266,6 @@ Link: https://www.zdnet.com/article/this-highly-requested-chatgpt-search-feature
 Headline: Why data is the Achilles Heel of AI (and every other business plan)
 Description: Companies need to put their data houses in order before moving ahead with generative AI initiatives, warn two new surveys.
 Link: https://www.zdnet.com/article/why-data-is-the-achilles-heel-of-ai-and-every-other-business-plan/
-Headline: The MacBook Air's free RAM upgrade was sneakily the best announcement during Apple's Mac event
-Description: The M2 and M3 MacBook Air lines will now sport a base memory of 16GB RAM. But don't mistake the free performance boost for Apple generosity.
-Link: https://www.zdnet.com/article/the-macbook-airs-free-ram-upgrade-was-sneakily-the-best-announcement-during-apples-mac-event/
 
 ---
 
@@ -389,18 +392,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: One-Minute Daily AI News 11/2/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Anthropic</strong> Introduces Claude 3.5 Sonnet with Visual PDF Analysis for Images, Charts, and Graphs under 100 Pages.[1]</li> <li>Quantum Machines an...
-Link: https://www.reddit.com/r/artificial/comments/1giazr9/oneminute_daily_ai_news_1122024/
-Headline: One-Minute Daily AI News 11/1/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Super Micro</strong>’s $50 billion stock collapse underscores risk of AI hype.[1]</li> <li><strong>Perplexity</strong> launches an elections tracker.[2]...
-Link: https://www.reddit.com/r/artificial/comments/1ghm473/oneminute_daily_ai_news_1112024/
-Headline: Has AI helped Shazam music identification so I can just hum a song?
-Description: <!-- SC_OFF --><div class="md"><p>Growing up as an autistic kid, I always had melodies play in my head. Symphonies and songs and beats and stuff. But I could never figure out if I had heard it in a so...
-Link: https://www.reddit.com/r/artificial/comments/1ghx7y9/has_ai_helped_shazam_music_identification_so_i/
-Headline: Here’s what making news in the AI
-Description: <!-- SC_OFF --><div class="md"><p>Spotlight- Nvidia (NVDA) to Replace Intel in the Dow Jones Industrial Average after Intel fail in the race of AI boom</p> <ul> <li>Perplexity launches an elections tr...
-Link: https://www.reddit.com/r/artificial/comments/1gi6wmt/heres_what_making_news_in_the_ai/
+Headline: Yuval Noah Harari says AI may trap us in a world of illusions and delusions that we will mistake for reality and where the Internet's web of information encloses us and becomes a cocoon
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1givn3w/yuval_noah_harari_says_ai_may_trap_us_in_a_world/"> <img alt="Yuval Noah Harari says AI may trap us in a world of illusio...
+Link: https://www.reddit.com/r/artificial/comments/1givn3w/yuval_noah_harari_says_ai_may_trap_us_in_a_world/
+Headline: Miles Brundage, ex-head of OpenAI's AGI Readiness team, says there is no dispute that AI is moving very fast and this is evident because many people who have no incentive to hype things are warning of this
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1givsjd/miles_brundage_exhead_of_openais_agi_readiness/"> <img alt="Miles Brundage, ex-head of OpenAI's AGI Readiness team, says ...
+Link: https://www.reddit.com/r/artificial/comments/1givsjd/miles_brundage_exhead_of_openais_agi_readiness/
+Headline: Here's what is making news in the AI world (Former Twitter/X Challenger Pebble's CEO Gabor Cselle Just Joined OpenAI! Here's What We Know)
+Description: <!-- SC_OFF --><div class="md"><p>Just came across some interesting news I thought you all might want to discuss.</p> <p>Looks like Gabor Cselle (yeah, the Pebble/T2 guy) has quietly joined OpenAI! He...
+Link: https://www.reddit.com/r/artificial/comments/1giz1vi/heres_what_is_making_news_in_the_ai_world_former/
+Headline: Here's what is making news in the AI world
+Description: <!-- SC_OFF --><div class="md"><p>Spotlight - Former Twitter/X Challenger Pebble's CEO Gabor Cselle Just Joined OpenAI! Here's What We Know (I made other post for this whole story)</p> <p>- former chi...
+Link: https://www.reddit.com/r/artificial/comments/1giz5r0/heres_what_is_making_news_in_the_ai_world/
+Headline: The Anatomy of an AI Agent
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gj2hn6/the_anatomy_of_an_ai_agent/"> <img alt="The Anatomy of an AI Agent" src="https://a.thumbs.redditmedia.com/aJ8izbcVtAQ1XqV...
+Link: https://www.reddit.com/r/artificial/comments/1gj2hn6/the_anatomy_of_an_ai_agent/
 
 ---
 
