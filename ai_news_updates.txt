@@ -1,6 +1,29 @@
-AI News Updates - 2024-11-05 02:48:29
+AI News Updates - 2024-11-06 02:47:20
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: It’s Election Day, and all the AIs — but one — are acting responsibly
+Description: <p>TechCrunch found that X's AI chatbot produced incorrect results about the U.S. presidential election, even as votes were still being cast.</p>
+<p>© 2024 TechCrunch. All rights reserved. For persona...
+Link: https://techcrunch.com/2024/11/05/its-election-day-and-all-the-ais-but-one-are-acting-responsibly/
+Headline: Nvidia just became the world’s largest company amid AI boom
+Description: <p>Nvidia on Tuesday exceeded Apple’s market capitalization to become the world’s largest company, on the strength of a global AI push. As Bloomberg notes, the chipmaker has experienced an astronomica...
+Link: https://techcrunch.com/2024/11/05/nvidia-just-became-the-worlds-largest-company-amid-ai-boom/
+Headline: As generative AI gets better, what will happen to artists?
+Description: <p>Suno CEO Mikey Shulman found himself in an unlikely place for the founder of a generative AI music company: a songwriting class at Berklee College of Music. &#8220;It sounds like walking into the l...
+Link: https://techcrunch.com/2024/11/05/as-generative-ai-gets-better-what-will-happen-to-artists/
+Headline: Google is opening an AI hub in oil-rich Saudi Arabia
+Description: <p>The new AI hub will support research into Arab language AI models and “Saudi-specific AI applications.”</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/11/05/google-is-opening-an-ai-hub-in-oil-rich-saudi-arabia/
+Headline: Can Pictionary and Minecraft test AI models’ ingenuity?
+Description: <p>Most AI benchmarks don&#8217;t tell us much. They ask questions that can be solved with rote memorization, or cover topics that aren&#8217;t relevant to the majority of users. So some AI enthusiast...
+Link: https://techcrunch.com/2024/11/05/people-are-using-games-like-pictionary-to-benchmark-ai-now/
+Headline: AI safety advocates tell founders to slow down
+Description: <p>&#8220;Move cautiously and red-team things&#8221; is sadly not as catchy as &#8220;move fast and break things.&#8221; But three AI safety advocates made it clear to startup founders that going too ...
+Link: https://techcrunch.com/2024/11/05/ai-safety-advocates-tell-founders-to-slow-down/
+Headline: Amazon begins delivering select products via drone in Phoenix
+Description: <p>A few months after ending its drone-based delivery program, Prime Air, in California, Amazon says that it&#8217;s begun making deliveries to select customers via drone in Phoenix, Arizona. Starting...
+Link: https://techcrunch.com/2024/11/05/amazon-begins-delivering-certain-products-via-drone-in-phoenix/
 Headline: Coatue is raising $1B for AI bets
 Description: <p>Coatue Management, a hedge fund that invested heavily in tech startups during the pandemic-infused boom, is raising $1 billion to back AI-focused companies, Bloomberg reported on Monday. The fundin...
 Link: https://techcrunch.com/2024/11/04/coatue-is-raising-1b-for-ai-bets/
@@ -10,25 +33,14 @@ Link: https://techcrunch.com/2024/11/04/metas-former-hardware-lead-for-orion-is-
 Headline: Apple users can soon upgrade to ChatGPT Plus within the Settings app
 Description: <p>Apple products are getting an integration with OpenAI&#8217;s ChatGPT in December when iOS 18.2 rolls out, which should supercharge Siri and a few other features with smarter AI. On Monday, iOS 18....
 Link: https://techcrunch.com/2024/11/04/apple-users-can-soon-upgrade-to-chatgpt-plus-within-the-settings-app/
-Headline: Perplexity CEO offers AI company’s services to replace striking NYT staff
-Description: <p>The CEO of AI search company Perplexity, Aravind Srinivas, has offered to cross picket lines and provide services to mitigate the effect of a strike by New York Times tech workers. The NYT Tech Gui...
-Link: https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/
-Headline: Amazon brings generative AI-powered recaps to Prime Video
-Description: <p>Instead of scouring the internet for a summary of a TV show, which often risks unintentionally revealing major plot points, Prime Video’s latest feature aims to save viewers from encountering any s...
-Link: https://techcrunch.com/2024/11/04/amazon-brings-generative-ai-powered-recaps-to-prime-video/
-Headline: Anthropic hikes the price of its Haiku model
-Description: <p>Anthropic&#8217;s newest AI model has arrived. But it&#8217;s pricier than the last generation, and unlike Anthropic&#8217;s other models, it can&#8217;t analyze images just yet. Claude 3.5 Haiku, ...
-Link: https://techcrunch.com/2024/11/04/anthropic-hikes-the-price-of-its-haiku-model/
-Headline: Meta says it’s making its Llama models available for US national security applications
-Description: <p>To combat the perception that its &#8220;open&#8221; AI is aiding foreign adversaries, Meta today said that it&#8217;s making its Llama series of AI models available to U.S. government agencies and...
-Link: https://techcrunch.com/2024/11/04/meta-says-its-making-its-llama-models-available-for-us-national-security-applications/
-Headline: Built in four days, this $120 robot arm cleans a spill with help from GPT-4o
-Description: <p>Large language models have already proven transformative for robotics. While researchers and companies alike utilize the platforms to supercharge robotic learning, a pair of roboticists at UC Berke...
-Link: https://techcrunch.com/2024/11/04/built-in-four-days-this-120-robot-arm-cleans-a-spill-with-help-from-gpt-4o/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Alexa at 10: Amazon’s assistant is a winner and a failure
+Description: <figure>
+      <img alt="A photo of the original Amazon Echo, on a Vergecast background." src="https://cdn.vox-cdn.com/thumbor/WfDXoRxOfUFXOrIxRqZzZtCo3aA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploa...
+Link: https://www.theverge.com/2024/11/5/24288352/amazon-alexa-anniversary-ai-llm-assistant-vergecast
 Headline: Meta AI is ready for war
 Description: <figure>
       <img alt="Meta logo on a blue background" src="https://cdn.vox-cdn.com/thumbor/umUBI7uGT611f72hvN3ux6B-X5Y=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73700360/ST...
@@ -57,10 +69,6 @@ Headline: Microsoft just delayed Recall again
 Description: <figure>
       <img alt="A timeline with buttons for yesterday, today, and now, with apps like Teams and Excel at the bottom." src="https://cdn.vox-cdn.com/thumbor/c24K5vSfekR3bUZACl4RUzC9qkY=/144x0:1...
 Link: https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing
-Headline: Humane recalls the AI Pin’s charging case due to overheating concerns
-Description: <figure>
-      <img alt="" src="https://cdn.vox-cdn.com/thumbor/l9Pao4MfFQ1QH9bIQ13TOYIIAuw=/0x0:2700x1800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73691738/247075_Humane_AI_pin_AKrales_032...
-Link: https://www.theverge.com/2024/10/31/24284691/humane-ai-pin-charge-case-recall-fire-hazard
 
 ---
 
@@ -69,6 +77,9 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: Austin Calling: As Texas Absorbs Influx of Residents, Rekor Taps NVIDIA Technology for Roadway Safety, Traffic Relief
+Description: Austin is drawing people to jobs, music venues, comedy clubs, barbecue and more. But with this boom has come a big city blues: traffic jams. Rekor, which offers traffic management and public safety an...
+Link: https://blogs.nvidia.com/blog/rekor-metropolis-ai-jetson-roadway-safety/
 Headline: Give AI a Look: Any Industry Can Now Search and Summarize Vast Volumes of Visual Data
 Description: Enterprises and public sector organizations around the world are developing AI agents to boost the capabilities of workforces that rely on visual information from a growing number of devices — includi...
 Link: https://blogs.nvidia.com/blog/video-search-summarization-ai-agents/
@@ -93,10 +104,6 @@ Link: https://blogs.nvidia.com/blog/ai-workflow-fraud-detection/
 Headline: ‘India Should Manufacture Its Own AI,’ Declares NVIDIA CEO
 Description: Artificial intelligence will be the driving force behind India’s digital transformation, fueling innovation, economic growth, and global leadership, NVIDIA founder and CEO Jensen Huang said Thursday a...
 Link: https://blogs.nvidia.com/blog/india-ai-summit-jensen-huang/
-Headline: Zoom’s AI-First Transformation to Boost Business Productivity, Collaboration
-Description: Zoom, a company that helped change the way people work during the COVID-19 pandemic, is continuing to reimagine the future of work by transforming itself into an AI-first communications and productivi...
-Link: https://blogs.nvidia.com/blog/zoom-ai-transformation/
-
 ---
 
 From source: https://openai.com/blog/rss.xml
@@ -104,6 +111,12 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: AI hallucinations gone wrong as Alaska uses fake stats in policy
+Description: <p>The combination of artificial intelligence and policymaking can occasionally have unforeseen repercussions, as seen recently in Alaska. In an unusual turn of events, Alaska legislators reportedly u...
+Link: https://www.artificialintelligence-news.com/news/ai-hallucinations-gone-wrong-as-alaska-uses-fake-stats-in-policy/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hallucinations-gone-wrong-as-alaska-uses-fake-stats-in-policy
+Headline: Western drivers remain sceptical of in-vehicle AI
+Description: <p>A global study has unveiled a stark contrast in attitudes towards embracing in-vehicle AI between Eastern and Western markets, with European drivers particularly reluctant. The research – conducted...
+Link: https://www.artificialintelligence-news.com/news/western-drivers-remain-sceptical-in-vehicle-ai/?utm_source=rss&utm_medium=rss&utm_campaign=western-drivers-remain-sceptical-in-vehicle-ai
 Headline: GitHub expands AI suite: Copilot goes multi-model, Spark debuts for web dev
 Description: <p>GitHub is marking a significant evolution of its developer tools with two major announcements: a multi-model upgrade to Copilot and the introduction of Spark, a natural language web development pla...
 Link: https://www.artificialintelligence-news.com/news/github-expands-ai-suite-copilot-goes-multi-model-spark-debuts-for-web-dev/?utm_source=rss&utm_medium=rss&utm_campaign=github-expands-ai-suite-copilot-goes-multi-model-spark-debuts-for-web-dev
@@ -128,12 +141,6 @@ Link: https://www.artificialintelligence-news.com/news/ai-is-helping-brands-avoi
 Headline: Intern allegedly sabotages ByteDance AI project, leading to dismissal
 Description: <p>ByteDance, the creator of TikTok, recently experienced a security breach involving an intern who allegedly sabotaged AI model training. The incident, reported on WeChat, raised concerns about the c...
 Link: https://www.artificialintelligence-news.com/news/intern-allegedly-sabotages-bytedance-ai-project-leading-to-dismissal/?utm_source=rss&utm_medium=rss&utm_campaign=intern-allegedly-sabotages-bytedance-ai-project-leading-to-dismissal
-Headline: AI sector study: Record growth masks serious challenges
-Description: <p>A comprehensive AI sector study – conducted by the Department for Science, Innovation and Technology (DSIT) in collaboration with Perspective Economics, Ipsos, and glass.ai – provides a detailed ov...
-Link: https://www.artificialintelligence-news.com/news/ai-sector-study-record-growth-masks-serious-challenges/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sector-study-record-growth-masks-serious-challenges
-Headline: Penguin Random House protects its books from AI training use
-Description: <p>Penguin Random House (PRH) has taken a significant step in response to rising concerns about the use of intellectual property to train AI systems. The publisher has introduced a new statement to th...
-Link: https://www.artificialintelligence-news.com/news/penguin-random-house-protects-its-books-from-ai-training-use/?utm_source=rss&utm_medium=rss&utm_campaign=penguin-random-house-protects-its-books-from-ai-training-use
 
 ---
 
@@ -142,6 +149,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: How ChatGPT search paves the way for AI agents
+Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI’s Olivier Godement, head of product for its platform, a...
+Link: https://www.technologyreview.com/2024/11/05/1106603/how-chatgpt-search-paves-the-way-for-ai-agents/
 Headline: This AI-generated version of Minecraft may represent the future of real-time video generation
 Description: When you walk around in a version of the video game Minecraft from the AI companies Decart and Etched, it feels a little off. Sure, you can move forward, cut down a tree, and lay down a dirt block, ju...
 Link: https://www.technologyreview.com/2024/10/31/1106461/this-ai-generated-minecraft-may-represent-the-future-of-real-time-video-generation/
@@ -166,9 +176,6 @@ Link: https://www.technologyreview.com/2024/10/28/1106251/this-ai-system-makes-h
 Headline: Kids are learning how to make their own little language models
 Description: “This new AI technology—it’s very interesting to learn how it works and understand it more,” says 10-year-old Luca, a young AI model maker. Luca is one of the first kids to try Little Language Models,...
 Link: https://www.technologyreview.com/2024/10/25/1106168/kids-are-learning-how-to-make-their-own-little-language-models/
-Headline: Reckoning with generative AI’s uncanny valley
-Description: Generative AI has the power to surprise in a way that few other technologies can. Sometimes that&#8217;s a very good thing; other times, not so good. In theory, as generative AI improves, this issue s...
-Link: https://www.technologyreview.com/2024/10/24/1106110/reckoning-with-generative-ais-uncanny-valley/
 
 ---
 
@@ -209,6 +216,12 @@ Link: https://aws.amazon.com/blogs/machine-learning/achieve-multi-region-resilie
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Microsoft’s new Magnetic-One system directs multiple AI agents to complete user tasks
+Description: Magnetic-One, Microsoft's AI agent orchestration framework, deploys multiple agents to solve daily tasks autonomously.
+Link: https://venturebeat.com/ai/microsofts-new-magnetic-one-system-directs-multiple-ai-agents-to-complete-user-tasks/
+Headline: Meet the startup that just won the Pentagon’s first AI defense contract
+Description: The Pentagon awards its first-ever generative AI defense contract worth $1.8M to Jericho Security, targeting deepfake attacks and AI-powered threats against military personnel including drone pilots.
+Link: https://venturebeat.com/ai/meet-the-startup-that-just-won-the-pentagons-first-ai-defense-contract/
 Headline: xAI woos developers with $25/month worth of API credits, support for OpenAI, Anthropic SDKs
 Description: It doesn't sound like much coming from the world's wealthiest man and multi-billionaire, and it's not really on a per user basis.
 Link: https://venturebeat.com/ai/xai-woos-developers-with-25-month-worth-of-api-credits-support-for-openai-anthropic-sdks/
@@ -233,21 +246,22 @@ Link: https://venturebeat.com/ai/ai-on-your-smartphone-hugging-faces-smollm2-bri
 Headline: The show’s not over: 2024 sees big boost to AI investment
 Description: AI investment continues to show resiliency, driving deal volumes to 1,245 in Q3, 24, a level not seen since Q1, 22.
 Link: https://venturebeat.com/ai/ai-investment-accelerates-global-deal-counts-reach-2-year-high/
-Headline: DevRev raises $100.8 million in Series A funding and becomes an AI unicorn at a $1.15 billion valuation
-Description: Following its successful Series A funding, DevRev drives forward its mission to revolutionize customer support and product development.
-Link: https://venturebeat.com/ai/devrev-raises-100-8-million-in-series-a-funding-and-becomes-an-ai-unicorn-at-a-1-15-billion-valuation/
+
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Microsoft's Copilot AI is coming to your Office apps - whether you like it or not
+Description: Microsoft 365 subscribers in Australia, New Zealand, and some Asian markets are about to get an AI upgrade and a price increase. How long until customers in the US and Europe see the same?
+Link: https://www.zdnet.com/article/microsofts-copilot-ai-is-coming-to-your-office-apps-whether-you-like-it-or-not/
 Headline: Perplexity AI offers election results tracker and voter resource - try it here
 Description: The Election Information Hub aims to aggregate data about the US elections, but its AI has already gotten some facts wrong. Here's what to know.
 Link: https://www.zdnet.com/article/perplexity-ai-offers-election-results-tracker-and-voter-resource-try-it-here/
 Headline: The best Black Friday Roborock deals 2024: Early sales available now
 Description: Black Friday and Cyber Monday are right around the corner, but you can already find huge discounts on robot vacuums, including from top brands like Roborock.
 Link: https://www.zdnet.com/article/best-black-friday-roborock-deals-2024/
-Headline: I'm a hardware Android user - but likely won't upgrade to Pixel 10 for the reason that Google thinks
+Headline: I'm a hardcore Android user - but likely won't upgrade to Pixel 10 for the reason that Google thinks
 Description: Manufacturers are betting on AI to be the future of phones. That might be the case, but is that what consumers want or need?
-Link: https://www.zdnet.com/article/im-a-hardware-android-user-but-likely-wont-upgrade-to-pixel-10-for-the-reason-that-google-thinks/
+Link: https://www.zdnet.com/article/im-a-hardcore-android-user-but-likely-wont-upgrade-to-pixel-10-for-the-reason-that-google-thinks/
 Headline: Claude AI can now analyze PDFs - here's how to try it (and why you'll want to)
 Description: The new Visual PDFs feature is now available in beta. Here's the breakdown of its capabilities.
 Link: https://www.zdnet.com/article/claude-ai-can-now-analyze-pdfs-heres-how-to-try-it-and-why-youll-want-to/
@@ -260,12 +274,6 @@ Link: https://www.zdnet.com/article/linux-lite-just-got-a-useful-ai-feature-for-
 Headline: One third of consumers would prefer working with AI agents for faster service
 Description: Many consumers are happy to communicate with an AI agent but also want to know when that conversation is happening.
 Link: https://www.zdnet.com/article/one-third-of-consumers-would-prefer-working-with-ai-agents-for-faster-and-smarter-service/
-Headline: 4 ways to turn generative AI experiments into real business value
-Description: Here's how to ensure your great ideas for AI turn into something that helps people reap the benefits of emerging technology.
-Link: https://www.zdnet.com/article/4-ways-to-turn-gen-ai-experiments-into-real-business-value/
-Headline: Anthropic warns of AI catastrophe if governments don't regulate in 18 months
-Description: 'The window for proactive risk prevention is closing fast,' the company says. Here's why.
-Link: https://www.zdnet.com/article/anthropic-warns-of-ai-catastrophe-if-governments-dont-regulate-in-18-months/
 
 ---
 
@@ -350,6 +358,9 @@ Link: https://www.sciencedaily.com/releases/2024/10/241023131527.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: 3D printing with light and sound could let us copy human organs
+Description: One day, doctors might be able to 3D print copies of your organs in order to test a variety of drugs, thanks to a new technique that uses light and sound for rapid printing
+Link: https://www.newscientist.com/article/2454825-3d-printing-with-light-and-sound-could-let-us-copy-human-organs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: One in 20 new Wikipedia pages seem to be written with the help of AI
 Description: Just under 5 per cent of the Wikipedia pages in English that have been published since ChatGPT's release seem to include AI-written content
 Link: https://www.newscientist.com/article/2454256-one-in-20-new-wikipedia-pages-seem-to-be-written-with-the-help-of-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -377,9 +388,6 @@ Link: https://www.newscientist.com/article/2453516-ai-helps-driverless-cars-pred
 Headline: AI models fall for the same scams that we do
 Description: Large language models can be used to scam humans, but AI is also susceptible to being scammed – and some models are more gullible than others
 Link: https://www.newscientist.com/article/2453350-ai-models-fall-for-the-same-scams-that-we-do/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Tiny battery made from silk hydrogel can run a mouse pacemaker
-Description: A lithium-ion battery made from three droplets of hydrogel is the smallest soft battery of its kind – and it could be used in biocompatible and biodegradable implants
-Link: https://www.newscientist.com/article/2453303-tiny-battery-made-from-silk-hydrogel-can-run-a-mouse-pacemaker/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -392,30 +400,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: One-Minute Daily AI News 11/3/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Meta</strong> and <strong>Google</strong> using user comments or reviews as part of generative AI responses to queries on restaurants or to summarise se...
-Link: https://www.reddit.com/r/artificial/comments/1gj4lmg/oneminute_daily_ai_news_1132024/
-Headline: [D] Why Bigger Models Generalize Better
-Description: <!-- SC_OFF --><div class="md"><p>There is still a lingering belief from classical machine learning that bigger models overfit and thus don't generalize well. This is described by the bias-variance tr...
-Link: https://www.reddit.com/r/artificial/comments/1gjlznv/d_why_bigger_models_generalize_better/
-Headline: New: Data on AI's impact in ux/product/design research, most commonly used tools
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gjg7ib/new_data_on_ais_impact_in_uxproductdesign/"> <img alt="New: Data on AI's impact in ux/product/design research, most commo...
-Link: https://www.reddit.com/r/artificial/comments/1gjg7ib/new_data_on_ais_impact_in_uxproductdesign/
-Headline: The Future of Human Life Extension and AI
-Description: <!-- SC_OFF --><div class="md"><p>Over the last few years, I've been obsessing over the idea of human life extension through CRISPR technology. The whole premise is based on editing DNA. I'm no expert...
-Link: https://www.reddit.com/r/artificial/comments/1gjpp51/the_future_of_human_life_extension_and_ai/
-Headline: Here's what is making news in the AI world
-Description: <!-- SC_OFF --><div class="md"><p>Spotlight: Meta will now allow US government agencies and contractors to use its open-source Llama AI model for “national security applications.” </p> <ol> <li><p>You...
-Link: https://www.reddit.com/r/artificial/comments/1gjrz8g/heres_what_is_making_news_in_the_ai_world/
-Headline: This happened today.
-Description: <!-- SC_OFF --><div class="md"><p>I was using Open AI assistant to help me look for source material for a presentation. I have done this before and it usually gives me good material to complement the ...
-Link: https://www.reddit.com/r/artificial/comments/1gj3wtp/this_happened_today/
-Headline: Could an artificial intelligence become president of the United States?
-Description: <!-- SC_OFF --><div class="md"><p>Could an artificial super-intelligence become president of the United States?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/D...
-Link: https://www.reddit.com/r/artificial/comments/1gj3tay/could_an_artificial_intelligence_become_president/
-Headline: OpenAI's AGI Czar Quits, Saying the Company Isn't ready For What It's Building. "The world is also not ready."
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gje67t/openais_agi_czar_quits_saying_the_company_isnt/"> <img alt="OpenAI's AGI Czar Quits, Saying the Company Isn't ready For W...
-Link: https://www.reddit.com/r/artificial/comments/1gje67t/openais_agi_czar_quits_saying_the_company_isnt/
+Headline: Google Claims World First As AI Finds 0-Day Security Vulnerability | An AI agent has discovered a previously unknown, zero-day, exploitable memory-safety vulnerability in widely used real-world software.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gjwgfc/google_claims_world_first_as_ai_finds_0day/"> <img alt="Google Claims World First As AI Finds 0-Day Security Vulnerabilit...
+Link: https://www.reddit.com/r/artificial/comments/1gjwgfc/google_claims_world_first_as_ai_finds_0day/
+Headline: AI can interview on your behalf. Would you try it?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gkdwbe/ai_can_interview_on_your_behalf_would_you_try_it/"> <img alt="AI can interview on your behalf. Would you try it?" src="ht...
+Link: https://www.reddit.com/r/artificial/comments/1gkdwbe/ai_can_interview_on_your_behalf_would_you_try_it/
+Headline: A.I. Powered by Human Brain Cells!
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gkgp36/ai_powered_by_human_brain_cells/"> <img alt="A.I. Powered by Human Brain Cells!" src="https://external-preview.redd.it/ZG...
+Link: https://www.reddit.com/r/artificial/comments/1gkgp36/ai_powered_by_human_brain_cells/
+Headline: One-Minute Daily AI News 11/4/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Jeff Bezos</strong> and <strong>OpenAI</strong> invest in robot startup Physical Intelligence at $2.4 billion valuation.[1]</li> <li><strong>Apple</stro...
+Link: https://www.reddit.com/r/artificial/comments/1gjxkdh/oneminute_daily_ai_news_1142024/
+Headline: Ai tries to Mime
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gkm05q/ai_tries_to_mime/"> <img alt="Ai tries to Mime" src="https://external-preview.redd.it/MGh2Z2wzdmxmNnpkMdUJh3ZuNGM1BB-vXQN...
+Link: https://www.reddit.com/r/artificial/comments/1gkm05q/ai_tries_to_mime/
+Headline: How AI policy differs for the candidates in today's Presidential Election
+Description: <!-- SC_OFF --><div class="md"><p>In the U.S. presidential race, AI policy is emerging as a battleground, with both candidates emphasizing American leadership in technology, yet taking distinctly diff...
+Link: https://www.reddit.com/r/artificial/comments/1gk38sp/how_ai_policy_differs_for_the_candidates_in/
 
 ---
 
