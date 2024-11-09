@@ -1,6 +1,31 @@
-AI News Updates - 2024-11-08 02:48:58
+AI News Updates - 2024-11-09 02:42:19
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI loses another lead safety researcher, Lilian Weng
+Description: <p>Another one of OpenAI&#8217;s lead safety researchers, Lilian Weng, announced on Friday she is departing the startup. Weng served as VP of research and safety since August, and before that, was the...
+Link: https://techcrunch.com/2024/11/08/openai-loses-another-lead-safety-researcher-lilian-weng/
+Headline: ChatGPT told 2M people to get their election news elsewhere — and rejected 250K deepfakes
+Description: <p>Now that the election is over, the dissection can begin. As this is the first election in which AI chatbots played a significant part of voters&#8217; information diets, even approximate numbers ar...
+Link: https://techcrunch.com/2024/11/08/chatgpt-told-2m-people-to-get-their-election-news-elsewhere-and-rejected-250k-deepfakes/
+Headline: Benchmark, Index, others are in a wild unsolicited bidding war over Anysphere, maker of Cursor
+Description: <p>There isn&#8217;t a shortage of AI-powered coding assistance startups. They include Augment, Codeium, Magic, and Poolside. However, Cursor has become one of the most popular. Its developer, Anysphe...
+Link: https://techcrunch.com/2024/11/08/benchmark-index-others-are-in-a-wild-unsolicited-bidding-war-over-anysphere-maker-of-cursor/
+Headline: The Beatles’ AI-assisted track ‘Now and Then’ is nominated for  two Grammy awards
+Description: <p>The Beatles have been nominated for two Grammy awards this year, and no, we did not accidentally fall into a time warp back to the 1960s. The Beatles&#8217; song &#8220;Now and Then,&#8221; refined...
+Link: https://techcrunch.com/2024/11/08/the-beatles-ai-assisted-track-now-and-then-is-nominated-for-two-grammy-awards/
+Headline: How AI startup Conflixis is protecting hospitals from corrupt doctors
+Description: <p>After a career as a corruption investigator,  Aaron Narva had an idea for a startup in the age of LLM AI: help hospitals identify risky behavior by doctors.</p>
+<p>© 2024 TechCrunch. All rights res...
+Link: https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-hospitals-from-corrupt-doctors/
+Headline: AI-powered app integration platform UnifyApps grabs $20M from ICONIQ Growth
+Description: <p>These days, it seems like every company either wants to or is already offering an AI product or service. For startups building an AI product in this space, it&#8217;s a really good time, but they a...
+Link: https://techcrunch.com/2024/11/08/unifyapps-ai-powered-app-integration-platform-grabs-20m-from-iconiq-growth/
+Headline: Trump’s election throws tech regulation a curveball
+Description: <p>President-elect Donald Trump has made a slew of “day one” pledges, including dismantling President Biden’s AI policies. While we’re not sure exactly if Trump will take action the first day he takes...
+Link: https://techcrunch.com/podcast/trumps-election-throws-tech-regulation-a-curveball/
+Headline: Led by a founder who sold a video startup to Apple, Panjaya uses deepfake techniques to bite into video dubbing
+Description: <p>There’s a big opportunity for generative AI in the world of translation, and a startup called Panjaya is taking the concept to the next level: a hyperrealistic, GenAI-based dubbing tool for videos ...
+Link: https://techcrunch.com/2024/11/08/led-by-a-founder-who-sold-a-video-startup-to-apple-panjaya-uses-deepfake-techniques-to-bite-into-video-dubbing/
 Headline: Amazon may up its investment in Anthropic — on one condition
 Description: <p>Amazon is considering increasing its investment in OpenAI rival Anthropic. According to The Information, Amazon is in talks to invest multiple billions in Anthropic, its first financial pledge in t...
 Link: https://techcrunch.com/2024/11/07/amazon-may-up-its-investment-in-anthropic-on-one-condition/
@@ -8,32 +33,22 @@ Headline: AI-powered parenting is here and a16z is ready to back it
 Description: <p>AI wants to help us drive better, write better and diagnose diseases faster. Now imagine AI helping you be a better parent. </p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p...
 Link: https://techcrunch.com/2024/11/07/ai-powered-parenting-is-here-and-a16z-is-ready-to-back-it/
-Headline: Mistral launches a moderation API
-Description: <p>AI startup Mistral has launched a new API for content moderation. The API, which is the same API that powers moderation in Mistral&#8217;s Le Chat chatbot platform, can be tailored to specific appl...
-Link: https://techcrunch.com/2024/11/07/mistral-launches-a-moderation-api/
-Headline: Microsoft Outlook now lets you create personalized AI-powered themes
-Description: <p>Microsoft announced on Thursday that Outlook is getting a new feature that will allow you to use generative AI to create themes based on your personal preferences. AI-powered themes are available t...
-Link: https://techcrunch.com/2024/11/07/microsoft-outlook-now-lets-you-create-personalized-ai-powered-themes/
-Headline: Anthropic teams up with Palantir and AWS to sell AI to defense customers
-Description: <p>Anthropic has teamed up with Palantir and AWS to sell its AI family of models called Claude to defense customers.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/
-Headline: Apple iOS 18.2 public beta arrives with new AI features, but some remain waitlisted
-Description: <p>Apple has released the AI-powered version of its latest mobile operating system, iOS 18.2, to its public beta users. The update includes new features like an AI emoji generator app called Genmoji, ...
-Link: https://techcrunch.com/2024/11/06/apple-ios-18-2-public-beta-arrives-with-new-ai-features-but-some-remain-waitlisted/
-Headline: The other election night winner: Perplexity
-Description: <p>On Tuesday, two AI startups tried convincing the world their AI chatbots were good enough to be an accurate, real-time source of information during a high-stakes presidential election: xAI and Perp...
-Link: https://techcrunch.com/2024/11/06/the-other-election-night-winner-perplexity/
-Headline: OpenAI acquired Chat.com
-Description: <p>OpenAI bought Chat.com, adding to its collection of high-profile domain names. As of this morning, Chat.com now redirects to OpenAI&#8217;s AI-powered chatbot, ChatGPT. An OpenAI spokesperson confi...
-Link: https://techcrunch.com/2024/11/06/openai-acquired-chat-com/
-Headline: What Trump’s win might mean for Elon Musk
-Description: <p>Elon Musk — the billionaire CEO of Tesla, SpaceX, and xAI, and the owner of The Boring Company, Neuralink, and X — took a sharp swing to the right this election to support President-elect Donald Tr...
-Link: https://techcrunch.com/2024/11/06/what-trumps-win-might-mean-for-elon-musk/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The Beatles’ final song, restored using AI, is up for a Grammy
+Description: <figure>
+      <img alt="Glastonbury Festival Day Four" src="https://cdn.vox-cdn.com/thumbor/JyE03rjrSLkP594C6ghDKNMxmxM=/0x0:5000x3333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73710189/140...
+Link: https://www.theverge.com/2024/11/8/24291691/the-beatles-ai-now-and-then-song-grammy-nomination
+Headline: What a second Trump presidency means for tech
+Description: <figure>
+      <img alt="An image showing Donald Trump on a red and green background" src="https://cdn.vox-cdn.com/thumbor/H6f-XTiO1HUzArCyqjbMlzR0exA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/c...
+Link: https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto
+Headline: Google rolls out its Gemini AI-powered video presentation app
+Description: <figure>
+      <img alt="Vids help me create screen with a prompt that says “create a market research overview on Gen Z retail trends using [gen Z research report doc]”" src="https://cdn.vox-cdn.com/t...
+Link: https://www.theverge.com/2024/11/8/24291241/google-vids-ai-presentation-video-general-availability-rollout
 Headline: Google could add AI replies to its handy call-screening feature
 Description: <figure>
       <img alt="A hands-on photo of Google’s Pixel 9 / 9 Pro 9 / 9 Pro XL." src="https://cdn.vox-cdn.com/thumbor/V631Xks2vRYFkGwVidUD8jiVEfY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/ch...
@@ -58,19 +73,6 @@ Headline: Alexa at 10: Amazon’s assistant is a winner and a failure
 Description: <figure>
       <img alt="A photo of the original Amazon Echo, on a Vergecast background." src="https://cdn.vox-cdn.com/thumbor/WfDXoRxOfUFXOrIxRqZzZtCo3aA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploa...
 Link: https://www.theverge.com/2024/11/5/24288352/amazon-alexa-anniversary-ai-llm-assistant-vergecast
-Headline: Meta AI is ready for war
-Description: <figure>
-      <img alt="Meta logo on a blue background" src="https://cdn.vox-cdn.com/thumbor/umUBI7uGT611f72hvN3ux6B-X5Y=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73700360/ST...
-Link: https://www.theverge.com/2024/11/4/24287951/meta-ai-llama-war-us-government-national-security
-Headline: Prime Video will let you summon AI to recap what you’re watching
-Description: <figure>
-      <img alt="A photo of Amazon’s X-Ray Recaps feature." src="https://cdn.vox-cdn.com/thumbor/RPC123QSo5XMMiL5KQ8PGoTkLW0=/156x0:1844x1125/1310x873/cdn.vox-cdn.com/uploads/chorus_image/imag...
-Link: https://www.theverge.com/2024/11/4/24287955/amazon-prime-video-ai-x-ray-recaps
-Headline: Perplexity debuts an AI-powered election information hub
-Description: <figure>
-      <img alt="Vector collage of the Perplexity logo." src="https://cdn.vox-cdn.com/thumbor/Ar4k7_9PeCGFGoNaDSIYQ-8rYGI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/736...
-Link: https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris
-
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -113,6 +115,12 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Understanding AI’s impact on the workforce
+Description: <p>The Tony Blair Institute (TBI) has examined AI&#8217;s impact on the workforce. The report outlines AI’s potential to reshape work environments, boost productivity, and create opportunities—while w...
+Link: https://www.artificialintelligence-news.com/news/understanding-ai-impact-on-the-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-ai-impact-on-the-workforce
+Headline: Centralised AI is dangerous: how can we stop it?
+Description: <p>The intelligence displayed by generative AI chatbots like OpenAI&#8217;s ChatGPT has captured the imagination of individuals and corporations, and artificial intelligence has suddenly become the mo...
+Link: https://www.artificialintelligence-news.com/news/centralised-ai-is-dangerous-how-can-we-stop-it/?utm_source=rss&utm_medium=rss&utm_campaign=centralised-ai-is-dangerous-how-can-we-stop-it
 Headline: ASI Alliance launches AIRIS that ‘learns’ in Minecraft
 Description: <p>The ASI Alliance has introduced AIRIS (Autonomous Intelligent Reinforcement Inferred Symbolism) that “learns” within the popular game, Minecraft. AIRIS represents the first proto-AGI (Artificial Ge...
 Link: https://www.artificialintelligence-news.com/news/asi-alliance-launches-airis-learns-minecraft/?utm_source=rss&utm_medium=rss&utm_campaign=asi-alliance-launches-airis-learns-minecraft
@@ -137,12 +145,6 @@ Link: https://www.artificialintelligence-news.com/news/industry-leaders-back-ope
 Headline: MIT breakthrough could transform robot training
 Description: <p>MIT researchers have developed a robot training method that reduces time and cost while improving adaptability to new tasks and environments. The approach – called Heterogeneous Pretrained Transfor...
 Link: https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/?utm_source=rss&utm_medium=rss&utm_campaign=mit-breakthrough-could-transform-robot-training
-Headline: President Biden issues first National Security Memorandum on AI
-Description: <p>President Biden has issued the US&#8217; first-ever National Security Memorandum (NSM) on AI, addressing how the nation approaches the technology from a security perspective. The memorandum, which ...
-Link: https://www.artificialintelligence-news.com/news/president-biden-issues-first-national-security-memorandum-ai/?utm_source=rss&utm_medium=rss&utm_campaign=president-biden-issues-first-national-security-memorandum-ai
-Headline: AI is helping brands avoid controversial influencer partnerships
-Description: <p>Influencer partnerships can be great for brands looking to pump out content that promotes their products and services in an authentic way. These types of engagements can yield significant brand awa...
-Link: https://www.artificialintelligence-news.com/news/ai-is-helping-brands-avoid-controversial-influencer-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=ai-is-helping-brands-avoid-controversial-influencer-partnerships
 
 ---
 
@@ -221,13 +223,22 @@ Link: https://aws.amazon.com/blogs/machine-learning/best-practices-and-lessons-f
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Multimodal RAG is growing, here’s the best way to get started
+Description: Enterprises want to use RAG systems to search for more than just text files, multimodal embeddings models help them do that.
+Link: https://venturebeat.com/ai/multimodal-rag-is-growing-heres-the-best-way-to-get-started/
+Headline: ByteDance’s AI can make your photos act out movie scenes — but is it too real?
+Description: ByteDance’s new AI tool, X-Portrait 2, transforms still photos into realistic video animations of famous movie scenes with uncanny detail, raising questions about the future of AI-driven animation and...
+Link: https://venturebeat.com/ai/bytedances-ai-can-now-turn-your-selfies-into-videos-but-should-we-be-worried/
+Headline: OpenAI’s data scraping wins big as Raw Story’s copyright lawsuit dismissed by NY court
+Description: The dismissal of Raw Story’s lawsuit is more than a win for OpenAI—it’s an indicator of how courts may handle similar copyright claims.
+Link: https://venturebeat.com/ai/openais-data-scraping-wins-big-as-raw-storys-copyright-lawsuit-dismissed-by-ny-court/
 Headline: Puppygraph speeds up LLMs’ access to graph data insights
 Description: While PuppyGraph is less than a year old, it is already witnessing success with several enterprises, including Coinbase, Clarivate, Dawn Capital and Prevelant AI.
 Link: https://venturebeat.com/data-infrastructure/puppygraph-speeds-up-llms-access-to-graph-data-insights/
 Headline: Mistral AI takes on OpenAI with new moderation API, tackling harmful content in 11 languages
 Description: Mistral AI launches a powerful multilingual content moderation API to challenge OpenAI, addressing growing concerns about AI safety with advanced tools to detect harmful content across nine categories...
 Link: https://venturebeat.com/ai/mistral-ai-takes-on-openai-with-new-moderation-api-tackling-harmful-content-in-11-languages/
-Headline: ‘Unrestricted’ AI group Nous Research launches first chatbot — with guardrails
+Headline: ‘Unrestricted’ AI group Nous Research launches first chatbot
 Description: Nous Chat gives users access to its large language model (LLM) Hermes 3-70B, a fine-tuned variant of Meta's Llama 3.1.
 Link: https://venturebeat.com/ai/unrestricted-ai-group-nous-research-launches-first-chatbot-with-guardrails/
 Headline: MIPS releases RISC-V CPU for autonomous vehicles
@@ -239,22 +250,19 @@ Link: https://venturebeat.com/ai/introducing-narrative-command-the-new-vc-thesis
 Headline: Tech leaders congratulate Trump on winning 2024 election, pledge to work together on innovation
 Description: Leaders of AI companies and other tech organizations cited the need to maintain American AI leadership in congratulating Donald Trump.
 Link: https://venturebeat.com/ai/tech-leaders-congratulate-trump-on-winning-2024-election-pledge-to-work-together-on-innovation/
-Headline: SambaNova and Hugging Face make AI chatbot deployment easier with one-click integration
-Description: SambaNova and Hugging Face's new tool lets developers build ChatGPT-style apps in one click, cutting setup time from hours to minutes and making AI projects simpler for businesses.
-Link: https://venturebeat.com/ai/sambanova-and-hugging-face-make-ai-chatbot-deployment-easier-with-one-click-integration/
-Headline: Nvidia advances robot learning and humanoid development with AI and simulation tools
-Description: <p>Nvidia revealed new AI and simulation tools that will advance robot learning and humanoid development. The world&#8217;s biggest tech company by valuation (worth $3.432 trillion) said that the tool...
-Link: https://venturebeat.com/ai/nvidia-advances-robot-learning-and-humanoid-development-with-ai-and-simulation-tools/
-Headline: Trump’s victory will benefit Elon Musk and xAI
-Description: Now that Musk helped propel Trump to a victory, expect xAI to join in the list of federally approved AI vendors and possibly even preferred AI vendors.
-Link: https://venturebeat.com/ai/trumps-victory-will-benefit-elon-musk-and-xai/
-Headline: AIRIS is a learning AI teaching itself how to play Minecraft
-Description: An AI named AIRIS is engaging in self-directed learning inside of Minecraft, teaching itself how to play and theoretically becoming efficient at it.
-Link: https://venturebeat.com/games/airis-is-a-learning-ai-teaching-itself-how-to-play-minecraft/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: These 4 AI tools boost my productivity at work - and most are free
+Description: I've tested a lot of AI tools for work. These are the four I use almost daily to get more done - faster.
+Link: https://www.zdnet.com/article/these-4-ai-tools-boost-my-productivity-at-work-and-most-are-free/
+Headline: AI can drive business growth in Southeast Asia. But some big challenges remain
+Description: Research suggests Southeast Asian markets have already invested heavily in AI. Continued growth will rely on pro-innovation policies.
+Link: https://www.zdnet.com/article/ai-can-drive-business-growth-in-southeast-asia-but-some-big-challenges-remain/
+Headline: Google's new AI tool could be your new favorite learning aid - and it's free
+Description: Part AI chatbot, part search engine, Google's experimental 'Learn About' tool is personalized to your learning needs. How to try it.
+Link: https://www.zdnet.com/article/googles-new-ai-tool-could-be-your-new-favorite-learning-aid-and-its-free/
 Headline: The best AI image generators of 2024: Tested and reviewed
 Description: Want to create images in seconds using just text prompts? Here are the 10 best text-to-image AI tools for bringing whatever you can imagine to life (and most of them are free).
 Link: https://www.zdnet.com/article/best-ai-image-generator/
@@ -270,9 +278,6 @@ Link: https://www.zdnet.com/article/best-ai-search-engine/
 Headline: Business in the age of AI: From economies of scale to ecosystems of success
 Description: With neither infrastructure nor silos to slow it down, World Central Kitchen delivers a million meals a day, every day. It also delivers important lessons for your business.
 Link: https://www.zdnet.com/article/business-in-the-age-of-ai-from-economies-of-scale-to-ecosystems-of-success/
-Headline: Prime Video now offers AI-generated show recaps - but no spoilers!
-Description: Forgot what happened last season? Or even last week? X-Ray Recaps can summarize what you missed - and these TVs are the first to see the new feature.
-Link: https://www.zdnet.com/article/prime-video-now-offers-ai-generated-show-recaps-but-no-spoilers/
 
 ---
 
@@ -323,6 +328,9 @@ Link: https://www.aisnakeoil.com/p/ai-snake-oil-is-now-available-to
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Robot learns how to clean a washbasin
+Description: Scientists have created a robot that can learn tasks like cleaning a washbasin just by watching humans. A special sponge with sensors is used to show the robot how to clean. Using an advanced machine ...
+Link: https://www.sciencedaily.com/releases/2024/11/241107193009.htm
 Headline: AI-driven mobile robots team up to tackle chemical synthesis
 Description: Researchers have developed AI-driven mobile robots that can carry out chemical synthesis research with extraordinary efficiency. Researchers show how mobile robots that use AI logic to make decisions ...
 Link: https://www.sciencedaily.com/releases/2024/11/241106132220.htm
@@ -350,13 +358,13 @@ Link: https://www.sciencedaily.com/releases/2024/10/241024132117.htm
 Headline: Scientists develop grain-sized soft robots controlled by magnetic fields for targeted drug delivery
 Description: A team of scientists has developed grain-sized soft robots that can be controlled using magnetic fields for targeted drug delivery, paving the way to possible improved therapies in future.
 Link: https://www.sciencedaily.com/releases/2024/10/241024131954.htm
-Headline: Non-electric touchpad takes sensor technology to extreme conditions
-Description: Researchers have developed the world's first soft touchpad that can sense the force, area and location of contact without electricity. The device utilizes pneumatic channels, enabling its use in envir...
-Link: https://www.sciencedaily.com/releases/2024/10/241024131917.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: AI helps robot dogs navigate the real world
+Description: Four-legged robot dogs learned to perform new tricks by practising in a virtual platform that mimics real-world obstacles – a possible shortcut for training robots faster and more accurately
+Link: https://www.newscientist.com/article/2455418-ai-helps-robot-dogs-navigate-the-real-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Slick trick separates oil and water with 99.9 per cent purity
 Description: Oil and water can be separated efficiently by pumping the mixture through thin channels between two semipermeable membranes
 Link: https://www.newscientist.com/article/2454625-slick-trick-separates-oil-and-water-with-99-9-per-cent-purity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -384,9 +392,6 @@ Link: https://www.newscientist.com/article/mg26435153-200-are-we-really-ready-fo
 Headline: Simple fix could make US census more accurate but just as private
 Description: The US Census Bureau processes data before publishing it in order to keep personal information private – but a new approach could maintain the same privacy while improving accuracy
 Link: https://www.newscientist.com/article/2454095-simple-fix-could-make-us-census-more-accurate-but-just-as-private/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: AI can use tourist photos to help track Antarctica’s penguins
-Description: Scientists used AI to transform tourist photos into a 3D digital map of Antarctic penguin colonies – even as researchers debate whether to harness or discourage tourism in this remote region
-Link: https://www.newscientist.com/article/2453986-ai-can-use-tourist-photos-to-help-track-antarcticas-penguins/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -399,15 +404,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Microsoft AI CEO Mustafa Suleyman says recursively self-improving AI that can operate autonomously is 3-5 years away and might well be "much, much sooner"
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1glgb2g/microsoft_ai_ceo_mustafa_suleyman_says/"> <img alt="Microsoft AI CEO Mustafa Suleyman says recursively self-improving AI ...
-Link: https://www.reddit.com/r/artificial/comments/1glgb2g/microsoft_ai_ceo_mustafa_suleyman_says/
-Headline: One-Minute Daily AI News 11/6/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google</strong> accidentally leaked a preview of its Jarvis AI that can take over computers.[1]</li> <li><strong>Microsoft</strong> Launches Magentic-On...
-Link: https://www.reddit.com/r/artificial/comments/1glixm6/oneminute_daily_ai_news_1162024/
-Headline: Here’s what is making news in the AI
-Description: <!-- SC_OFF --><div class="md"><p><strong>Spotlight: OpenAI spend more than $10 million on</strong> <a href="http://chat.com"><strong>chat.com</strong></a> <strong>(source: verge, techcrunch and hacke...
-Link: https://www.reddit.com/r/artificial/comments/1glho3i/heres_what_is_making_news_in_the_ai/
+Headline: Google accidentally leaked a preview of its Jarvis AI that can take over computers
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gml4qb/google_accidentally_leaked_a_preview_of_its/"> <img alt="Google accidentally leaked a preview of its Jarvis AI that can t...
+Link: https://www.reddit.com/r/artificial/comments/1gml4qb/google_accidentally_leaked_a_preview_of_its/
+Headline: AI Innovations We’re Not Talking About Enough?
+Description: <!-- SC_OFF --><div class="md"><p>Which AI applications or projects do you think could bring about real change but are currently flying under the radar? Interested in learning about the impactful, les...
+Link: https://www.reddit.com/r/artificial/comments/1gmgpnp/ai_innovations_were_not_talking_about_enough/
+Headline: One-Minute Daily AI News 11/7/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Anthropic</strong> teams up with Palantir and AWS to sell AI to defense customers.[1]</li> <li><strong>Baidu</strong> Readies AI Smart Glasses to Rival ...
+Link: https://www.reddit.com/r/artificial/comments/1gm9jma/oneminute_daily_ai_news_1172024/
+Headline: [meta] Weekly pinned post suggestion "What have you accomplished with AI this week?"
+Description: <!-- SC_OFF --><div class="md"><p>Since subs can have 2 pinned posts and they can be scheduled, could we have a weekly post regarding what productive work people on this sub have accomplished with AI ...
+Link: https://www.reddit.com/r/artificial/comments/1gme6av/meta_weekly_pinned_post_suggestion_what_have_you/
+Headline: Suggestions for YouTube Channels on AI for the Average User
+Description: <!-- SC_OFF --><div class="md"><p>Hello everyone. I'm looking for YouTube channels that teach how to use AI for everyday tasks in a practical way for the average user, without much technical knowledge...
+Link: https://www.reddit.com/r/artificial/comments/1gmitpr/suggestions_for_youtube_channels_on_ai_for_the/
+Headline: Finding Comfort in Code: AI Companions Are Becoming Our Emotional Support Buddies?
+Description: <!-- SC_OFF --><div class="md"><p>In recent years, AI companions have evolved from simple chatbots to highly advanced virtual beings capable of offering emotional support. These digital friends are no...
+Link: https://www.reddit.com/r/artificial/comments/1gmimql/finding_comfort_in_code_ai_companions_are/
 
 ---
 
