@@ -1,6 +1,9 @@
-AI News Updates - 2024-11-09 02:42:19
+AI News Updates - 2024-11-10 02:51:27
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI reportedly developing new strategies to deal with AI improvement slowdown
+Description: <p>OpenAI’s next flagship model might not represent as big a leap forward as its predecessors, according to a new report in The Information. Employees who tested the new model, code-named Orion, repor...
+Link: https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/
 Headline: OpenAI loses another lead safety researcher, Lilian Weng
 Description: <p>Another one of OpenAI&#8217;s lead safety researchers, Lilian Weng, announced on Friday she is departing the startup. Weng served as VP of research and safety since August, and before that, was the...
 Link: https://techcrunch.com/2024/11/08/openai-loses-another-lead-safety-researcher-lilian-weng/
@@ -26,17 +29,14 @@ Link: https://techcrunch.com/podcast/trumps-election-throws-tech-regulation-a-cu
 Headline: Led by a founder who sold a video startup to Apple, Panjaya uses deepfake techniques to bite into video dubbing
 Description: <p>There’s a big opportunity for generative AI in the world of translation, and a startup called Panjaya is taking the concept to the next level: a hyperrealistic, GenAI-based dubbing tool for videos ...
 Link: https://techcrunch.com/2024/11/08/led-by-a-founder-who-sold-a-video-startup-to-apple-panjaya-uses-deepfake-techniques-to-bite-into-video-dubbing/
-Headline: Amazon may up its investment in Anthropic — on one condition
-Description: <p>Amazon is considering increasing its investment in OpenAI rival Anthropic. According to The Information, Amazon is in talks to invest multiple billions in Anthropic, its first financial pledge in t...
-Link: https://techcrunch.com/2024/11/07/amazon-may-up-its-investment-in-anthropic-on-one-condition/
-Headline: AI-powered parenting is here and a16z is ready to back it
-Description: <p>AI wants to help us drive better, write better and diagnose diseases faster. Now imagine AI helping you be a better parent. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p...
-Link: https://techcrunch.com/2024/11/07/ai-powered-parenting-is-here-and-a16z-is-ready-to-back-it/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: How to use the latest AI video editing tools in Google Photos
+Description: <figure>
+      <img alt="Google icon on a phone against an illustrated background." src="https://cdn.vox-cdn.com/thumbor/VqdSaBRcJbDIX1DH6VGh63dtSIk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/cho...
+Link: https://www.theverge.com/24290456/google-photos-ai-clip-how-to
 Headline: The Beatles’ final song, restored using AI, is up for a Grammy
 Description: <figure>
       <img alt="Glastonbury Festival Day Four" src="https://cdn.vox-cdn.com/thumbor/JyE03rjrSLkP594C6ghDKNMxmxM=/0x0:5000x3333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73710189/140...
@@ -73,6 +73,7 @@ Headline: Alexa at 10: Amazon’s assistant is a winner and a failure
 Description: <figure>
       <img alt="A photo of the original Amazon Echo, on a Vergecast background." src="https://cdn.vox-cdn.com/thumbor/WfDXoRxOfUFXOrIxRqZzZtCo3aA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploa...
 Link: https://www.theverge.com/2024/11/5/24288352/amazon-alexa-anniversary-ai-llm-assistant-vergecast
+
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -223,6 +224,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/best-practices-and-lessons-f
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Here are 3 critical LLM compression strategies to supercharge AI performance
+Description: How techniques like model pruning, quantization and knowledge distillation can optimize LLMs for faster, cheaper predictions.
+Link: https://venturebeat.com/ai/here-are-3-critical-llm-compression-strategies-to-supercharge-ai-performance/
 Headline: Multimodal RAG is growing, here’s the best way to get started
 Description: Enterprises want to use RAG systems to search for more than just text files, multimodal embeddings models help them do that.
 Link: https://venturebeat.com/ai/multimodal-rag-is-growing-heres-the-best-way-to-get-started/
@@ -247,9 +251,6 @@ Link: https://venturebeat.com/ai/mips-releases-risc-v-cpu-for-autonomous-vehicle
 Headline: Introducing Narrative Command, the new business thesis that helps explain the 2024 election
 Description: If we can agree on end goals, then we can debate how to get there while working on getting there. And so the best founders understand this.
 Link: https://venturebeat.com/ai/introducing-narrative-command-the-new-vc-thesis-that-helps-explain-the-2024-election/
-Headline: Tech leaders congratulate Trump on winning 2024 election, pledge to work together on innovation
-Description: Leaders of AI companies and other tech organizations cited the need to maintain American AI leadership in congratulating Donald Trump.
-Link: https://venturebeat.com/ai/tech-leaders-congratulate-trump-on-winning-2024-election-pledge-to-work-together-on-innovation/
 
 ---
 
@@ -362,6 +363,9 @@ Link: https://www.sciencedaily.com/releases/2024/10/241024131954.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: The sci-fi films and TV that explore AI in eerily prescient ways
+Description: Hollywood has been imagining the impact AI might have on our lives for decades, but how accurate are these portrayals?
+Link: https://www.newscientist.com/video/2455513-the-sci-fi-films-and-tv-that-explore-ai-in-eerily-prescient-ways/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: AI helps robot dogs navigate the real world
 Description: Four-legged robot dogs learned to perform new tricks by practising in a virtual platform that mimics real-world obstacles – a possible shortcut for training robots faster and more accurately
 Link: https://www.newscientist.com/article/2455418-ai-helps-robot-dogs-navigate-the-real-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -389,9 +393,6 @@ Link: https://www.newscientist.com/article/mg26435152-300-mountaineering-astrona
 Headline: Are we really ready for genuine communication with animals through AI?
 Description: Thanks to artificial intelligence, understanding animals may be closer than we think. But we may not like what they are going to tell us, says RSPCA chief executive Chris Sherwood
 Link: https://www.newscientist.com/article/mg26435153-200-are-we-really-ready-for-genuine-communication-with-animals-through-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Simple fix could make US census more accurate but just as private
-Description: The US Census Bureau processes data before publishing it in order to keep personal information private – but a new approach could maintain the same privacy while improving accuracy
-Link: https://www.newscientist.com/article/2454095-simple-fix-could-make-us-census-more-accurate-but-just-as-private/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -404,25 +405,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Google accidentally leaked a preview of its Jarvis AI that can take over computers
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gml4qb/google_accidentally_leaked_a_preview_of_its/"> <img alt="Google accidentally leaked a preview of its Jarvis AI that can t...
-Link: https://www.reddit.com/r/artificial/comments/1gml4qb/google_accidentally_leaked_a_preview_of_its/
-Headline: AI Innovations We’re Not Talking About Enough?
-Description: <!-- SC_OFF --><div class="md"><p>Which AI applications or projects do you think could bring about real change but are currently flying under the radar? Interested in learning about the impactful, les...
-Link: https://www.reddit.com/r/artificial/comments/1gmgpnp/ai_innovations_were_not_talking_about_enough/
-Headline: One-Minute Daily AI News 11/7/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Anthropic</strong> teams up with Palantir and AWS to sell AI to defense customers.[1]</li> <li><strong>Baidu</strong> Readies AI Smart Glasses to Rival ...
-Link: https://www.reddit.com/r/artificial/comments/1gm9jma/oneminute_daily_ai_news_1172024/
-Headline: [meta] Weekly pinned post suggestion "What have you accomplished with AI this week?"
-Description: <!-- SC_OFF --><div class="md"><p>Since subs can have 2 pinned posts and they can be scheduled, could we have a weekly post regarding what productive work people on this sub have accomplished with AI ...
-Link: https://www.reddit.com/r/artificial/comments/1gme6av/meta_weekly_pinned_post_suggestion_what_have_you/
-Headline: Suggestions for YouTube Channels on AI for the Average User
-Description: <!-- SC_OFF --><div class="md"><p>Hello everyone. I'm looking for YouTube channels that teach how to use AI for everyday tasks in a practical way for the average user, without much technical knowledge...
-Link: https://www.reddit.com/r/artificial/comments/1gmitpr/suggestions_for_youtube_channels_on_ai_for_the/
-Headline: Finding Comfort in Code: AI Companions Are Becoming Our Emotional Support Buddies?
-Description: <!-- SC_OFF --><div class="md"><p>In recent years, AI companions have evolved from simple chatbots to highly advanced virtual beings capable of offering emotional support. These digital friends are no...
-Link: https://www.reddit.com/r/artificial/comments/1gmimql/finding_comfort_in_code_ai_companions_are/
-
+Headline: Noam Brown: "I've heard people claim that Sam is just drumming up hype, but from what I've seen everything he's saying matches the ~median view of OpenAI researchers on the ground."
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gnepos/noam_brown_ive_heard_people_claim_that_sam_is/"> <img alt="Noam Brown: &quot;I've heard people claim that Sam is just dru...
+Link: https://www.reddit.com/r/artificial/comments/1gnepos/noam_brown_ive_heard_people_claim_that_sam_is/
+Headline: One-Minute Daily AI News 11/8/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>ChatGPT</strong> told 2M people to get their election news elsewhere — and rejected 250K deepfakes.[1]</li> <li>The <strong>Beatles</strong>’ AI-assiste...
+Link: https://www.reddit.com/r/artificial/comments/1gn2hvs/oneminute_daily_ai_news_1182024/
+Headline: Another AI safety leader has quit OpenAI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gnolfw/another_ai_safety_leader_has_quit_openai/"> <img alt="Another AI safety leader has quit OpenAI" src="https://external-pre...
+Link: https://www.reddit.com/r/artificial/comments/1gnolfw/another_ai_safety_leader_has_quit_openai/
+Headline: The Antithesis To Skynet: An In-Depth Look
+Description: <!-- SC_OFF --><div class="md"><h2>I gave Gemini a prompt and this was the result:</h2> <p><strong>Core Principles:</strong></p> <ul> <li><p><strong>Benevolence:</strong> This AI wouldn't see humanity...
+Link: https://www.reddit.com/r/artificial/comments/1gnljgd/the_antithesis_to_skynet_an_indepth_look/
+Headline: Do you think Trump might allow fully AI-generated materials to be eligible for copyright protections?
+Description: <!-- SC_OFF --><div class="md"><p>Right now, AI-generated materials are not protected by copyirhgt. Do you think Trump will allow them to be protected by copyright? Why or why not?</p> <p>And do you t...
+Link: https://www.reddit.com/r/artificial/comments/1gndsse/do_you_think_trump_might_allow_fully_aigenerated/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
