@@ -1,6 +1,13 @@
-AI News Updates - 2024-11-10 02:51:27
+AI News Updates - 2024-11-11 02:50:15
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: TSMC reportedly halts advanced chip shipments to Chinese companies
+Description: <p>After a chip manufactured by Taiwan Semiconductor Manufacturing Company was found inside a Huawei processor, the US Department of Commerce has ordered the company to halt shipments of advanced chip...
+Link: https://techcrunch.com/2024/11/10/tsmc-reportedly-halts-advanced-chip-shipments-to-chinese-companies/
+Headline: a16z VC Martin Casado explains why  so many AI regulations are so wrong
+Description: <p>Attempts to regulate AI to date have focused on some mythical future instead of understanding what new risks AI actually introduces, argues VC Martin Casado.</p>
+<p>© 2024 TechCrunch. All rights re...
+Link: https://techcrunch.com/2024/11/10/a16z-vc-martin-casado-explains-why-so-many-ai-regulations-are-so-wrong/
 Headline: OpenAI reportedly developing new strategies to deal with AI improvement slowdown
 Description: <p>OpenAI’s next flagship model might not represent as big a leap forward as its predecessors, according to a new report in The Information. Employees who tested the new model, code-named Orion, repor...
 Link: https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/
@@ -23,16 +30,14 @@ Link: https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-h
 Headline: AI-powered app integration platform UnifyApps grabs $20M from ICONIQ Growth
 Description: <p>These days, it seems like every company either wants to or is already offering an AI product or service. For startups building an AI product in this space, it&#8217;s a really good time, but they a...
 Link: https://techcrunch.com/2024/11/08/unifyapps-ai-powered-app-integration-platform-grabs-20m-from-iconiq-growth/
-Headline: Trump’s election throws tech regulation a curveball
-Description: <p>President-elect Donald Trump has made a slew of “day one” pledges, including dismantling President Biden’s AI policies. While we’re not sure exactly if Trump will take action the first day he takes...
-Link: https://techcrunch.com/podcast/trumps-election-throws-tech-regulation-a-curveball/
-Headline: Led by a founder who sold a video startup to Apple, Panjaya uses deepfake techniques to bite into video dubbing
-Description: <p>There’s a big opportunity for generative AI in the world of translation, and a startup called Panjaya is taking the concept to the next level: a hyperrealistic, GenAI-based dubbing tool for videos ...
-Link: https://techcrunch.com/2024/11/08/led-by-a-founder-who-sold-a-video-startup-to-apple-panjaya-uses-deepfake-techniques-to-bite-into-video-dubbing/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Spotify’s AI is no match for a real DJ
+Description: <figure>
+      <img alt="Vector illustration of a play button with the Spotify logo." src="https://cdn.vox-cdn.com/thumbor/QWyi51MVlAqLGyfWAcvaUSnXjOY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/c...
+Link: https://www.theverge.com/24290914/spotify-ai-dj-radio-kexp
 Headline: How to use the latest AI video editing tools in Google Photos
 Description: <figure>
       <img alt="Google icon on a phone against an illustrated background." src="https://cdn.vox-cdn.com/thumbor/VqdSaBRcJbDIX1DH6VGh63dtSIk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/cho...
@@ -65,14 +70,6 @@ Headline: Even Microsoft Notepad is getting AI text editing now
 Description: <figure>
       <img alt="Illustration of Microsoft’s Windows logo" src="https://cdn.vox-cdn.com/thumbor/3dpqZ_KSWq5lkkDyge5IhWpXABg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
 Link: https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite
-Headline: Apple’s iOS 18.2 public beta starts opening up access to more AI features
-Description: <figure>
-      <img alt="An illustration of the Apple logo." src="https://cdn.vox-cdn.com/thumbor/QKjtlPrNgY4Fhk5Rev8lUspXWKE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7370482...
-Link: https://www.theverge.com/2024/11/6/24289714/ios-18-2-apple-intelligence-public-beta-chatgpt-siri-image-playground
-Headline: Alexa at 10: Amazon’s assistant is a winner and a failure
-Description: <figure>
-      <img alt="A photo of the original Amazon Echo, on a Vergecast background." src="https://cdn.vox-cdn.com/thumbor/WfDXoRxOfUFXOrIxRqZzZtCo3aA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploa...
-Link: https://www.theverge.com/2024/11/5/24288352/amazon-alexa-anniversary-ai-llm-assistant-vergecast
 
 ---
 
@@ -224,6 +221,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/best-practices-and-lessons-f
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: AGI is coming faster than we think — we must get ready now
+Description: As we are on the brink of breakthroughs in AGI and superintelligence, we need to assess whether we are truly ready for this transformation.
+Link: https://venturebeat.com/ai/agi-is-coming-faster-than-we-think-we-must-get-ready-now/
 Headline: Here are 3 critical LLM compression strategies to supercharge AI performance
 Description: How techniques like model pruning, quantization and knowledge distillation can optimize LLMs for faster, cheaper predictions.
 Link: https://venturebeat.com/ai/here-are-3-critical-llm-compression-strategies-to-supercharge-ai-performance/
@@ -248,9 +248,6 @@ Link: https://venturebeat.com/ai/unrestricted-ai-group-nous-research-launches-fi
 Headline: MIPS releases RISC-V CPU for autonomous vehicles
 Description: <p>MIPS released its P8700 CPU based on the RISC-V computing architecture to target driver assistance and autonomous vehicle applications. The San Jose, California-based company, which focuses on deve...
 Link: https://venturebeat.com/ai/mips-releases-risc-v-cpu-for-autonomous-vehicles/
-Headline: Introducing Narrative Command, the new business thesis that helps explain the 2024 election
-Description: If we can agree on end goals, then we can debate how to get there while working on getting there. And so the best founders understand this.
-Link: https://venturebeat.com/ai/introducing-narrative-command-the-new-vc-thesis-that-helps-explain-the-2024-election/
 
 ---
 
@@ -405,21 +402,22 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Noam Brown: "I've heard people claim that Sam is just drumming up hype, but from what I've seen everything he's saying matches the ~median view of OpenAI researchers on the ground."
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gnepos/noam_brown_ive_heard_people_claim_that_sam_is/"> <img alt="Noam Brown: &quot;I've heard people claim that Sam is just dru...
-Link: https://www.reddit.com/r/artificial/comments/1gnepos/noam_brown_ive_heard_people_claim_that_sam_is/
-Headline: One-Minute Daily AI News 11/8/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>ChatGPT</strong> told 2M people to get their election news elsewhere — and rejected 250K deepfakes.[1]</li> <li>The <strong>Beatles</strong>’ AI-assiste...
-Link: https://www.reddit.com/r/artificial/comments/1gn2hvs/oneminute_daily_ai_news_1182024/
-Headline: Another AI safety leader has quit OpenAI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gnolfw/another_ai_safety_leader_has_quit_openai/"> <img alt="Another AI safety leader has quit OpenAI" src="https://external-pre...
-Link: https://www.reddit.com/r/artificial/comments/1gnolfw/another_ai_safety_leader_has_quit_openai/
-Headline: The Antithesis To Skynet: An In-Depth Look
-Description: <!-- SC_OFF --><div class="md"><h2>I gave Gemini a prompt and this was the result:</h2> <p><strong>Core Principles:</strong></p> <ul> <li><p><strong>Benevolence:</strong> This AI wouldn't see humanity...
-Link: https://www.reddit.com/r/artificial/comments/1gnljgd/the_antithesis_to_skynet_an_indepth_look/
-Headline: Do you think Trump might allow fully AI-generated materials to be eligible for copyright protections?
-Description: <!-- SC_OFF --><div class="md"><p>Right now, AI-generated materials are not protected by copyirhgt. Do you think Trump will allow them to be protected by copyright? Why or why not?</p> <p>And do you t...
-Link: https://www.reddit.com/r/artificial/comments/1gndsse/do_you_think_trump_might_allow_fully_aigenerated/
+Headline: Anthropic founder says AI skeptics are poorly calibrated as to the state of progress
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1go0tvw/anthropic_founder_says_ai_skeptics_are_poorly/"> <img alt="Anthropic founder says AI skeptics are poorly calibrated as to...
+Link: https://www.reddit.com/r/artificial/comments/1go0tvw/anthropic_founder_says_ai_skeptics_are_poorly/
+Headline: One-Minute Daily AI News 11/9/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> reportedly developing new strategies to deal with AI improvement slowdown.[1]</li> <li>Exclusive-US ordered <strong>TSMC</strong> to hal...
+Link: https://www.reddit.com/r/artificial/comments/1gns7py/oneminute_daily_ai_news_1192024/
+Headline: Jamaica's Auditors Incorporating Artificial Intelligence To Identify Trends.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1go91c5/jamaicas_auditors_incorporating_artificial/"> <img alt="Jamaica's Auditors Incorporating Artificial Intelligence To Ident...
+Link: https://www.reddit.com/r/artificial/comments/1go91c5/jamaicas_auditors_incorporating_artificial/
+Headline: How will the rising tide of Western leadership deal with AI DEVELOPMENT
+Description: <!-- SC_OFF --><div class="md"><p>My biggest worry right now is that there will be less support to help people adapt to current changes, which is leading to an increase in homelessness and poverty on ...
+Link: https://www.reddit.com/r/artificial/comments/1god9ye/how_will_the_rising_tide_of_western_leadership/
+Headline: Unfortunately Venice AI is pretty bad, I like the intention behind it but it is horrible. What are some good anonymous chat bots that don't track your data but are also functional?
+Description: <!-- SC_OFF --><div class="md"><p>Here's the thing after using Chatgpt I am spoiled, when I try to use other chat bots it feels like using multiple generational old technology. </p> <p>All of these ot...
+Link: https://www.reddit.com/r/artificial/comments/1gobmpp/unfortunately_venice_ai_is_pretty_bad_i_like_the/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
