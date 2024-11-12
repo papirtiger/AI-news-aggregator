@@ -1,6 +1,12 @@
-AI News Updates - 2024-11-11 02:50:15
+AI News Updates - 2024-11-12 02:45:55
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: From self-driving cars to AI that writes enterprise software: Cogna founder raises $15M
+Description: <p>A founder who was an early mover in the race to build autonomous vehicles has raised $15 million for his next act: a startup that claims its AI can write enterprise software on its own. Cogna &#821...
+Link: https://techcrunch.com/2024/11/11/from-self-driving-cars-to-ai-that-writes-enterprise-software-cogna-founder-raises-15m/
+Headline: X is testing a free version of AI chatbot Grok
+Description: <p>Social network X has so far limited its AI chatbot Grok (built by Elon Musk&#8217;s other company xAI) to its premium, paying users. However, the platform is seemingly preparing to open up the chat...
+Link: https://techcrunch.com/2024/11/10/x-is-testing-a-free-version-of-ai-chatbot-grok/
 Headline: TSMC reportedly halts advanced chip shipments to Chinese companies
 Description: <p>After a chip manufactured by Taiwan Semiconductor Manufacturing Company was found inside a Huawei processor, the US Department of Commerce has ordered the company to halt shipments of advanced chip...
 Link: https://techcrunch.com/2024/11/10/tsmc-reportedly-halts-advanced-chip-shipments-to-chinese-companies/
@@ -23,17 +29,22 @@ Link: https://techcrunch.com/2024/11/08/benchmark-index-others-are-in-a-wild-uns
 Headline: The Beatles’ AI-assisted track ‘Now and Then’ is nominated for  two Grammy awards
 Description: <p>The Beatles have been nominated for two Grammy awards this year, and no, we did not accidentally fall into a time warp back to the 1960s. The Beatles&#8217; song &#8220;Now and Then,&#8221; refined...
 Link: https://techcrunch.com/2024/11/08/the-beatles-ai-assisted-track-now-and-then-is-nominated-for-two-grammy-awards/
-Headline: How AI startup Conflixis is protecting hospitals from corrupt doctors
-Description: <p>After a career as a corruption investigator,  Aaron Narva had an idea for a startup in the age of LLM AI: help hospitals identify risky behavior by doctors.</p>
-<p>© 2024 TechCrunch. All rights res...
-Link: https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-hospitals-from-corrupt-doctors/
-Headline: AI-powered app integration platform UnifyApps grabs $20M from ICONIQ Growth
-Description: <p>These days, it seems like every company either wants to or is already offering an AI product or service. For startups building an AI product in this space, it&#8217;s a really good time, but they a...
-Link: https://techcrunch.com/2024/11/08/unifyapps-ai-powered-app-integration-platform-grabs-20m-from-iconiq-growth/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Google’s AI ‘learning companion’ takes chatbot answers a step further
+Description: <figure>
+      <img alt="site with prompt that asks “why to some sea creatures glow?” with an image of a red orange jellyfish" src="https://cdn.vox-cdn.com/thumbor/z3dVgL3Urdz6qkh-5zqw7klOZjo=/0x0:332...
+Link: https://www.theverge.com/2024/11/11/24293891/google-learn-about-ai-search-educational
+Headline: Why the Grammys need to change, with CEO Harvey Mason Jr.
+Description: <figure>
+      <img alt="Harvey Mason Jr. smiles at camera at a red carpet event" src="https://cdn.vox-cdn.com/thumbor/j5W3t8fP1M3TZ-jP3BJJaaC32F8=/0x0:2070x1380/1310x873/cdn.vox-cdn.com/uploads/choru...
+Link: https://www.theverge.com/24293447/grammy-awards-recording-academy-harvey-mason-beyonce-discrimination-generative-ai-decoder
+Headline: The push for Elon Musk to lead American AI policy is already starting
+Description: <figure>
+      <img alt="Elon Musk grins in a photo illustration, lifting his arms over his head triumphantly" src="https://cdn.vox-cdn.com/thumbor/gMmaTXUaCO8-2Avc_BPB4ZfMHgU=/0x0:2040x1360/1310x873/...
+Link: https://www.theverge.com/2024/11/11/24291401/elon-musk-donald-trump-ai-policy
 Headline: Spotify’s AI is no match for a real DJ
 Description: <figure>
       <img alt="Vector illustration of a play button with the Spotify logo." src="https://cdn.vox-cdn.com/thumbor/QWyi51MVlAqLGyfWAcvaUSnXjOY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/c...
@@ -58,18 +69,6 @@ Headline: Google could add AI replies to its handy call-screening feature
 Description: <figure>
       <img alt="A hands-on photo of Google’s Pixel 9 / 9 Pro 9 / 9 Pro XL." src="https://cdn.vox-cdn.com/thumbor/V631Xks2vRYFkGwVidUD8jiVEfY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/ch...
 Link: https://www.theverge.com/2024/11/7/24290425/google-pixel-phone-ai-replies-call-screening
-Headline: Microsoft Outlook now has dynamic AI-powered themes
-Description: <figure>
-      <img alt="Copilot AI themes in Outlook" src="https://cdn.vox-cdn.com/thumbor/iYrmuE1J0iIRFNjEc5WoUeRZ1pE=/106x0:1240x756/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73706563/ima...
-Link: https://www.theverge.com/2024/11/7/24290273/microsoft-outlook-ai-themes-copilot
-Headline: Did OpenAI just spend more than $10 million on a URL?
-Description: <figure>
-      <img alt="An image of OpenAI’s logo, which looks like a stylized and symmetrical braid." src="https://cdn.vox-cdn.com/thumbor/hwz4iqrdQSSkUFhELvXvrfOtNcc=/0x0:1820x1213/1310x873/cdn.vox...
-Link: https://www.theverge.com/2024/11/6/24289768/openai-chat-chatgpt-sam-altman-hubspot
-Headline: Even Microsoft Notepad is getting AI text editing now
-Description: <figure>
-      <img alt="Illustration of Microsoft’s Windows logo" src="https://cdn.vox-cdn.com/thumbor/3dpqZ_KSWq5lkkDyge5IhWpXABg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
-Link: https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite
 
 ---
 
@@ -151,6 +150,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: What Africa needs to do to become a major AI player
+Description: Kessel Okinga-Koumu paced around a crowded hallway. It was her first time presenting at the Deep Learning Indaba, she told the crowd gathered to hear her, filled with researchers from Africa’s machine...
+Link: https://www.technologyreview.com/2024/11/11/1106762/africa-ai-barriers/
 Headline: How ChatGPT search paves the way for AI agents
 Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI’s Olivier Godement, head of product for its platform, a...
 Link: https://www.technologyreview.com/2024/11/05/1106603/how-chatgpt-search-paves-the-way-for-ai-agents/
@@ -175,9 +177,6 @@ Link: https://www.technologyreview.com/2024/10/28/1106316/ai-e-waste/
 Headline: This AI system makes human tutors better at teaching children math
 Description: The US has a major problem with education inequality. Children from low-income families are less likely to receive high-quality education, partly because poorer districts struggle to retain experience...
 Link: https://www.technologyreview.com/2024/10/28/1106251/this-ai-system-makes-human-tutors-better-at-teaching-children-math/
-Headline: Kids are learning how to make their own little language models
-Description: “This new AI technology—it’s very interesting to learn how it works and understand it more,” says 10-year-old Luca, a young AI model maker. Luca is one of the first kids to try Little Language Models,...
-Link: https://www.technologyreview.com/2024/10/25/1106168/kids-are-learning-how-to-make-their-own-little-language-models/
 
 ---
 
@@ -190,6 +189,9 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Fine-tune Meta Llama 3.2 text generation models for generative AI inference using Amazon SageMaker JumpStart
+Description: In this post, we demonstrate how to fine-tune Meta’s latest Llama 3.2 text generation models, Llama 3.2 1B and 3B, using Amazon SageMaker JumpStart for domain-specific applications. By using the pre-b...
+Link: https://aws.amazon.com/blogs/machine-learning/fine-tune-meta-llama-3-2-text-generation-models-for-generative-ai-inference-using-amazon-sagemaker-jumpstart/
 Headline: Amazon Bedrock Prompt Management is now available in GA
 Description: Today we are announcing the general availability of Amazon Bedrock Prompt Management, with new features that provide enhanced options for configuring your prompts and enabling seamless integration for...
 Link: https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-prompt-management-is-now-available-in-ga/
@@ -214,13 +216,19 @@ Link: https://aws.amazon.com/blogs/machine-learning/integrate-foundation-models-
 Headline: Build and deploy a UI for your generative AI applications with AWS and Python
 Description: AWS provides a powerful set of tools and services that simplify the process of building and deploying generative AI applications, even for those with limited experience in frontend and backend develop...
 Link: https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-ui-for-your-generative-ai-applications-with-aws-and-python/
-Headline: Best practices and lessons for fine-tuning Anthropic’s Claude 3 Haiku on Amazon Bedrock
-Description: In this post, we explore the best practices and lessons learned for fine-tuning Anthropic’s Claude 3 Haiku on Amazon Bedrock. We discuss the important components of fine-tuning, including use case def...
-Link: https://aws.amazon.com/blogs/machine-learning/best-practices-and-lessons-for-fine-tuning-anthropics-claude-3-haiku-on-amazon-bedrock/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Google DeepMind open-sources AlphaFold 3, ushering in a new era for drug discovery and molecular biology
+Description: Google DeepMind releases AlphaFold 3's source code to academics, marking a significant advance in AI-powered molecular biology and drug discovery, while balancing open science with commercial interest...
+Link: https://venturebeat.com/ai/google-deepmind-open-sources-alphafold-3-ushering-in-a-new-era-for-drug-discovery-and-molecular-biology/
+Headline: Exclusive: Northflank scores $22.3 million to make cloud infrastructure less of a nightmare for developers
+Description: Northflank raises $22.3M to simplify cloud deployment, offering developers a third path between inflexible platforms and costly internal tools, with backing from Bain Capital Ventures.
+Link: https://venturebeat.com/ai/exclusive-northflank-scores-22-3-million-to-make-cloud-infrastructure-less-of-a-nightmare-for-developers/
+Headline: AI’s math problem: FrontierMath benchmark shows how far technology still has to go
+Description: FrontierMath, a new benchmark from Epoch AI, challenges advanced AI systems with complex math problems, revealing how far AI still has to go before achieving true human-level reasoning.
+Link: https://venturebeat.com/ai/ais-math-problem-frontiermath-benchmark-shows-how-far-technology-still-has-to-go/
 Headline: AGI is coming faster than we think — we must get ready now
 Description: As we are on the brink of breakthroughs in AGI and superintelligence, we need to assess whether we are truly ready for this transformation.
 Link: https://venturebeat.com/ai/agi-is-coming-faster-than-we-think-we-must-get-ready-now/
@@ -239,19 +247,22 @@ Link: https://venturebeat.com/ai/openais-data-scraping-wins-big-as-raw-storys-co
 Headline: Puppygraph speeds up LLMs’ access to graph data insights
 Description: While PuppyGraph is less than a year old, it is already witnessing success with several enterprises, including Coinbase, Clarivate, Dawn Capital and Prevelant AI.
 Link: https://venturebeat.com/data-infrastructure/puppygraph-speeds-up-llms-access-to-graph-data-insights/
-Headline: Mistral AI takes on OpenAI with new moderation API, tackling harmful content in 11 languages
-Description: Mistral AI launches a powerful multilingual content moderation API to challenge OpenAI, addressing growing concerns about AI safety with advanced tools to detect harmful content across nine categories...
-Link: https://venturebeat.com/ai/mistral-ai-takes-on-openai-with-new-moderation-api-tackling-harmful-content-in-11-languages/
-Headline: ‘Unrestricted’ AI group Nous Research launches first chatbot
-Description: Nous Chat gives users access to its large language model (LLM) Hermes 3-70B, a fine-tuned variant of Meta's Llama 3.1.
-Link: https://venturebeat.com/ai/unrestricted-ai-group-nous-research-launches-first-chatbot-with-guardrails/
-Headline: MIPS releases RISC-V CPU for autonomous vehicles
-Description: <p>MIPS released its P8700 CPU based on the RISC-V computing architecture to target driver assistance and autonomous vehicle applications. The San Jose, California-based company, which focuses on deve...
-Link: https://venturebeat.com/ai/mips-releases-risc-v-cpu-for-autonomous-vehicles/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: The best Black Friday Roborock deals 2024: Early sales available now
+Description: Black Friday and Cyber Monday are right around the corner, but you can already find huge discounts on robot vacuums, including from top brands like Roborock.
+Link: https://www.zdnet.com/article/best-black-friday-roborock-deals-2024/
+Headline: The Washington Post's AI bot answers your questions now - no subscription required
+Description: 'Ask The Post AI' delivers conversational responses, cites its sources, and, the newspaper says, is not vulnerable to hallucinating.
+Link: https://www.zdnet.com/article/the-washington-posts-ai-bot-answers-your-questions-now-no-subscription-required/
+Headline: ChatGPT continues to dominate, but this Google AI tool is picking up steam fast
+Description: Though ChatGPT is enjoying the highest overall user growth among generative AI services, another AI tool has seen its traffic more than triple in recent weeks.
+Link: https://www.zdnet.com/article/chatgpt-continues-to-dominate-but-this-google-ai-tool-is-picking-up-steam-fast/
+Headline: I changed 5 ChatGPT settings and instantly became more productive - here's how
+Description: Customizing your ChatGPT experience with these simple tips makes every future AI conversation so much more productive.
+Link: https://www.zdnet.com/article/i-changed-5-chatgpt-settings-and-instantly-became-more-productive-heres-how/
 Headline: These 4 AI tools boost my productivity at work - and most are free
 Description: I've tested a lot of AI tools for work. These are the four I use almost daily to get more done - faster.
 Link: https://www.zdnet.com/article/these-4-ai-tools-boost-my-productivity-at-work-and-most-are-free/
@@ -261,22 +272,6 @@ Link: https://www.zdnet.com/article/ai-can-drive-business-growth-in-southeast-as
 Headline: Google's new AI tool could be your new favorite learning aid - and it's free
 Description: Part AI chatbot, part search engine, Google's experimental 'Learn About' tool is personalized to your learning needs. How to try it.
 Link: https://www.zdnet.com/article/googles-new-ai-tool-could-be-your-new-favorite-learning-aid-and-its-free/
-Headline: The best AI image generators of 2024: Tested and reviewed
-Description: Want to create images in seconds using just text prompts? Here are the 10 best text-to-image AI tools for bringing whatever you can imagine to life (and most of them are free).
-Link: https://www.zdnet.com/article/best-ai-image-generator/
-Headline: Watch out, Windows Notepad users: Here comes AI
-Description: Currently available to Windows Insiders in Windows 11, Microsoft's new AI-powered Rewrite feature will help you fine-tune your prose in Notepad.
-Link: https://www.zdnet.com/article/watch-out-windows-notepad-users-here-comes-ai/
-Headline: The best Black Friday Roborock deals 2024: Early sales available now
-Description: Black Friday and Cyber Monday are right around the corner, but you can already find huge discounts on robot vacuums, including from top brands like Roborock.
-Link: https://www.zdnet.com/article/best-black-friday-roborock-deals-2024/
-Headline: The best AI search engines of 2024: Google, Perplexity, and more
-Description: Artificial intelligence can optimize your search experience, and getting started is both free and easy.
-Link: https://www.zdnet.com/article/best-ai-search-engine/
-Headline: Business in the age of AI: From economies of scale to ecosystems of success
-Description: With neither infrastructure nor silos to slow it down, World Central Kitchen delivers a million meals a day, every day. It also delivers important lessons for your business.
-Link: https://www.zdnet.com/article/business-in-the-age-of-ai-from-economies-of-scale-to-ecosystems-of-success/
-
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -292,6 +287,9 @@ From source: https://garymarcus.substack.com/feed
 ---
 
 From source: https://www.aisnakeoil.com/feed
+Headline: Does the UK’s liver transplant matching algorithm systematically exclude younger patients?
+Description: Seemingly minor technical decisions can have life-or-death effects
+Link: https://www.aisnakeoil.com/p/does-the-uks-liver-transplant-matching
 Headline: FAQ about the book and our writing process
 Description: What's in the book and how we wrote it
 Link: https://www.aisnakeoil.com/p/faq-about-the-book-and-our-writing
@@ -319,13 +317,16 @@ Link: https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool
 Headline: AI leaderboards are no longer useful. It's time to switch to Pareto curves.
 Description: What spending $2,000 can tell us about evaluating AI agents
 Link: https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful
-Headline: AI Snake Oil is now available to preorder
-Description: What artificial intelligence can do, what it can't, and how to tell the difference
-Link: https://www.aisnakeoil.com/p/ai-snake-oil-is-now-available-to
 
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: AI can detect serious neurologic changes in babies in the NICU using video data alone
+Description: Study findings could serve as a foundation for broader neuro-monitoring applications across intensive care units globally.
+Link: https://www.sciencedaily.com/releases/2024/11/241111212131.htm
+Headline: Robot that watched surgery videos performs with skill of human doctor, researchers report
+Description: A robot, trained for the first time by watching videos of seasoned surgeons, executed the same surgical procedures as skillfully as the human doctors, say researchers.
+Link: https://www.sciencedaily.com/releases/2024/11/241111123037.htm
 Headline: Robot learns how to clean a washbasin
 Description: Scientists have created a robot that can learn tasks like cleaning a washbasin just by watching humans. A special sponge with sensors is used to show the robot how to clean. Using an advanced machine ...
 Link: https://www.sciencedaily.com/releases/2024/11/241107193009.htm
@@ -350,16 +351,16 @@ Link: https://www.sciencedaily.com/releases/2024/10/241029143900.htm
 Headline: A faster, better way to train general-purpose robots
 Description: Inspired by large language models, researchers developed a training technique that pools diverse data to teach robots new skills.
 Link: https://www.sciencedaily.com/releases/2024/10/241028164536.htm
-Headline: From accessibility upgrades to a custom cat-food bowl, this mobile 3D printer can autonomously add features to a room
-Description: Researchers created MobiPrint, a mobile 3D printer that can automatically measure a room and print objects onto the floor. The team's graphic interface lets users design objects in a space that the ro...
-Link: https://www.sciencedaily.com/releases/2024/10/241024132117.htm
-Headline: Scientists develop grain-sized soft robots controlled by magnetic fields for targeted drug delivery
-Description: A team of scientists has developed grain-sized soft robots that can be controlled using magnetic fields for targeted drug delivery, paving the way to possible improved therapies in future.
-Link: https://www.sciencedaily.com/releases/2024/10/241024131954.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Audio AIs are trained on data full of bias and offensive language
+Description: Seven major datasets used to train audio-generating AI models are three times more likely to use the words "man" or "men" than "woman" or "women", raising fears of bias
+Link: https://www.newscientist.com/article/2455742-audio-ais-are-trained-on-data-full-of-bias-and-offensive-language/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: The real reason VAR infuriates football fans and how to fix it
+Description: The controversies surrounding football’s video assistant referee (VAR) system highlight our troubled relationship with uncertainty – and point to potential solutions
+Link: https://www.newscientist.com/article/2454587-the-real-reason-var-infuriates-football-fans-and-how-to-fix-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: The sci-fi films and TV that explore AI in eerily prescient ways
 Description: Hollywood has been imagining the impact AI might have on our lives for decades, but how accurate are these portrayals?
 Link: https://www.newscientist.com/video/2455513-the-sci-fi-films-and-tv-that-explore-ai-in-eerily-prescient-ways/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -369,9 +370,6 @@ Link: https://www.newscientist.com/article/2455418-ai-helps-robot-dogs-navigate-
 Headline: Slick trick separates oil and water with 99.9 per cent purity
 Description: Oil and water can be separated efficiently by pumping the mixture through thin channels between two semipermeable membranes
 Link: https://www.newscientist.com/article/2454625-slick-trick-separates-oil-and-water-with-99-9-per-cent-purity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: The real reason VAR infuriates football fans and how to fix it
-Description: The controversies surrounding football’s video assistant referee (VAR) system highlight our troubled relationship with uncertainty – and point to potential solutions
-Link: https://www.newscientist.com/article/2454587-the-real-reason-var-infuriates-football-fans-and-how-to-fix-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: 3D printing with light and sound could let us copy human organs
 Description: One day, doctors might be able to 3D print copies of your organs in order to test a variety of drugs, thanks to a new technique that uses light and sound for rapid printing
 Link: https://www.newscientist.com/article/2454825-3d-printing-with-light-and-sound-could-let-us-copy-human-organs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -387,9 +385,6 @@ Link: https://www.newscientist.com/article/2453191-spies-can-eavesdrop-on-phone-
 Headline: Mountaineering astronauts and bad spelling? It's advertising's future
 Description: Feedback digs into a baffling ad for a mobile game and identifies a new and devilish way to advertise a product online: make it as confusing as possible to encourage people to click (it worked on Feed...
 Link: https://www.newscientist.com/article/mg26435152-300-mountaineering-astronauts-and-bad-spelling-its-advertisings-future/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Are we really ready for genuine communication with animals through AI?
-Description: Thanks to artificial intelligence, understanding animals may be closer than we think. But we may not like what they are going to tell us, says RSPCA chief executive Chris Sherwood
-Link: https://www.newscientist.com/article/mg26435153-200-are-we-really-ready-for-genuine-communication-with-animals-through-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -402,21 +397,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Anthropic founder says AI skeptics are poorly calibrated as to the state of progress
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1go0tvw/anthropic_founder_says_ai_skeptics_are_poorly/"> <img alt="Anthropic founder says AI skeptics are poorly calibrated as to...
-Link: https://www.reddit.com/r/artificial/comments/1go0tvw/anthropic_founder_says_ai_skeptics_are_poorly/
-Headline: One-Minute Daily AI News 11/9/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> reportedly developing new strategies to deal with AI improvement slowdown.[1]</li> <li>Exclusive-US ordered <strong>TSMC</strong> to hal...
-Link: https://www.reddit.com/r/artificial/comments/1gns7py/oneminute_daily_ai_news_1192024/
-Headline: Jamaica's Auditors Incorporating Artificial Intelligence To Identify Trends.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1go91c5/jamaicas_auditors_incorporating_artificial/"> <img alt="Jamaica's Auditors Incorporating Artificial Intelligence To Ident...
-Link: https://www.reddit.com/r/artificial/comments/1go91c5/jamaicas_auditors_incorporating_artificial/
-Headline: How will the rising tide of Western leadership deal with AI DEVELOPMENT
-Description: <!-- SC_OFF --><div class="md"><p>My biggest worry right now is that there will be less support to help people adapt to current changes, which is leading to an increase in homelessness and poverty on ...
-Link: https://www.reddit.com/r/artificial/comments/1god9ye/how_will_the_rising_tide_of_western_leadership/
-Headline: Unfortunately Venice AI is pretty bad, I like the intention behind it but it is horrible. What are some good anonymous chat bots that don't track your data but are also functional?
-Description: <!-- SC_OFF --><div class="md"><p>Here's the thing after using Chatgpt I am spoiled, when I try to use other chat bots it feels like using multiple generational old technology. </p> <p>All of these ot...
-Link: https://www.reddit.com/r/artificial/comments/1gobmpp/unfortunately_venice_ai_is_pretty_bad_i_like_the/
+Headline: Max Tegmark says we need to draw a line and build only AI that is our tool and not AGI or superintelligence, which is a new species that Alan Turing warned us we would lose control over
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gosi7n/max_tegmark_says_we_need_to_draw_a_line_and_build/"> <img alt="Max Tegmark says we need to draw a line and build only AI ...
+Link: https://www.reddit.com/r/artificial/comments/1gosi7n/max_tegmark_says_we_need_to_draw_a_line_and_build/
+Headline: Anthropic has hired an 'AI welfare' researcher to explore whether we might have moral obligations to AI systems
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1goseej/anthropic_has_hired_an_ai_welfare_researcher_to/"> <img alt="Anthropic has hired an 'AI welfare' researcher to explore wh...
+Link: https://www.reddit.com/r/artificial/comments/1goseej/anthropic_has_hired_an_ai_welfare_researcher_to/
+Headline: OpenAI researcher: "Since joining in Jan I’ve shifted from “this is unproductive hype” to “agi is basically here”. IMHO, what comes next is relatively little new science, but instead years of grindy engineering to try all the newly obvious ideas in the new paradigm, to scale it up and speed it up."
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1got6aj/openai_researcher_since_joining_in_jan_ive/"> <img alt="OpenAI researcher: &quot;Since joining in Jan I’ve shifted from “...
+Link: https://www.reddit.com/r/artificial/comments/1got6aj/openai_researcher_since_joining_in_jan_ive/
+Headline: One-Minute Daily AI News 11/10/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>China develops first AI robot lifeguard to stand 24-hour watch over river.[1]</li> <li>AI Detected Her Early Breast Cancer After Annual Test Came Back as Normal...
+Link: https://www.reddit.com/r/artificial/comments/1goi3c3/oneminute_daily_ai_news_11102024/
+Headline: The AI Machine Gun of the Future Is Already Here
+Description: <!-- SC_OFF --><div class="md"><p>The Pentagon is pursuing every available option to keep US troops safe from the rising tide of adversary drones, including a robotic twist on its standard-issue small...
+Link: https://www.reddit.com/r/artificial/comments/1gopexz/the_ai_machine_gun_of_the_future_is_already_here/
+Headline: AI Generators that convert drawing into digital art?
+Description: <!-- SC_OFF --><div class="md"><p>Are there any free ai art generators that convert drawings into digital images?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user...
+Link: https://www.reddit.com/r/artificial/comments/1gp33tp/ai_generators_that_convert_drawing_into_digital/
+Headline: AI meal planning & grocery shopping app
+Description: <!-- SC_OFF --><div class="md"><p>Hey everyone! I’m developing an AI app for meal planning and grocery shopping. I’m doing it bc me and my gf are eating same meals every day and spending hours on groc...
+Link: https://www.reddit.com/r/artificial/comments/1gov8gr/ai_meal_planning_grocery_shopping_app/
+Headline: AI artwork of Alan Turing sells for $1m at auction
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gp3y35/ai_artwork_of_alan_turing_sells_for_1m_at_auction/"> <img alt="AI artwork of Alan Turing sells for $1m at auction" src="h...
+Link: https://www.reddit.com/r/artificial/comments/1gp3y35/ai_artwork_of_alan_turing_sells_for_1m_at_auction/
 
 ---
 
