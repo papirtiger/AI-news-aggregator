@@ -1,38 +1,47 @@
-AI News Updates - 2024-11-12 02:45:55
+AI News Updates - 2024-11-13 02:49:24
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: From self-driving cars to AI that writes enterprise software: Cogna founder raises $15M
-Description: <p>A founder who was an early mover in the race to build autonomous vehicles has raised $15 million for his next act: a startup that claims its AI can write enterprise software on its own. Cogna &#821...
-Link: https://techcrunch.com/2024/11/11/from-self-driving-cars-to-ai-that-writes-enterprise-software-cogna-founder-raises-15m/
-Headline: X is testing a free version of AI chatbot Grok
-Description: <p>Social network X has so far limited its AI chatbot Grok (built by Elon Musk&#8217;s other company xAI) to its premium, paying users. However, the platform is seemingly preparing to open up the chat...
-Link: https://techcrunch.com/2024/11/10/x-is-testing-a-free-version-of-ai-chatbot-grok/
-Headline: TSMC reportedly halts advanced chip shipments to Chinese companies
-Description: <p>After a chip manufactured by Taiwan Semiconductor Manufacturing Company was found inside a Huawei processor, the US Department of Commerce has ordered the company to halt shipments of advanced chip...
-Link: https://techcrunch.com/2024/11/10/tsmc-reportedly-halts-advanced-chip-shipments-to-chinese-companies/
-Headline: a16z VC Martin Casado explains why  so many AI regulations are so wrong
-Description: <p>Attempts to regulate AI to date have focused on some mythical future instead of understanding what new risks AI actually introduces, argues VC Martin Casado.</p>
-<p>© 2024 TechCrunch. All rights re...
-Link: https://techcrunch.com/2024/11/10/a16z-vc-martin-casado-explains-why-so-many-ai-regulations-are-so-wrong/
-Headline: OpenAI reportedly developing new strategies to deal with AI improvement slowdown
-Description: <p>OpenAI’s next flagship model might not represent as big a leap forward as its predecessors, according to a new report in The Information. Employees who tested the new model, code-named Orion, repor...
-Link: https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/
-Headline: OpenAI loses another lead safety researcher, Lilian Weng
-Description: <p>Another one of OpenAI&#8217;s lead safety researchers, Lilian Weng, announced on Friday she is departing the startup. Weng served as VP of research and safety since August, and before that, was the...
-Link: https://techcrunch.com/2024/11/08/openai-loses-another-lead-safety-researcher-lilian-weng/
-Headline: ChatGPT told 2M people to get their election news elsewhere — and rejected 250K deepfakes
-Description: <p>Now that the election is over, the dissection can begin. As this is the first election in which AI chatbots played a significant part of voters&#8217; information diets, even approximate numbers ar...
-Link: https://techcrunch.com/2024/11/08/chatgpt-told-2m-people-to-get-their-election-news-elsewhere-and-rejected-250k-deepfakes/
-Headline: Benchmark, Index, others are in a wild unsolicited bidding war over Anysphere, maker of Cursor
-Description: <p>There isn&#8217;t a shortage of AI-powered coding assistance startups. They include Augment, Codeium, Magic, and Poolside. However, Cursor has become one of the most popular. Its developer, Anysphe...
-Link: https://techcrunch.com/2024/11/08/benchmark-index-others-are-in-a-wild-unsolicited-bidding-war-over-anysphere-maker-of-cursor/
-Headline: The Beatles’ AI-assisted track ‘Now and Then’ is nominated for  two Grammy awards
-Description: <p>The Beatles have been nominated for two Grammy awards this year, and no, we did not accidentally fall into a time warp back to the 1960s. The Beatles&#8217; song &#8220;Now and Then,&#8221; refined...
-Link: https://techcrunch.com/2024/11/08/the-beatles-ai-assisted-track-now-and-then-is-nominated-for-two-grammy-awards/
+Headline: Generative disinfo is real — you’re just not the target, warns deepfake tracking nonprofit
+Description: <p>Many feared that the 2024 election would be affected, and perhaps decided, by AI-generated disinformation. While there was some to be found, it was far less than anticipated. But don&#8217;t let th...
+Link: https://techcrunch.com/2024/11/12/generative-disinfo-is-real-youre-just-not-the-target-warns-deepfake-tracking-nonprofit/
+Headline: Anysphere acquires Supermaven to beef up Cursor
+Description: <p>Anysphere, the company behind AI-powered code editor Cursor, has acquired AI coding assistant Supermaven for an undisclosed sum. Anysphere CEO Michael Truell announced the deal in a post on Cursor&...
+Link: https://techcrunch.com/2024/11/12/anysphere-acquires-supermaven-to-beef-up-cursor/
+Headline: Waabi is taking generative AI into the physical world with autonomous long-haul trucks
+Description: <p>This week on Found, we&#8217;re diving into the future of trucking with Raquel Urtasun, CEO and co-founder of Waabi, a company pioneering driverless, long-haul trucks powered by generative AI. Host...
+Link: https://techcrunch.com/podcast/waabi-is-taking-generative-ai-into-the-physical-world-with-autonomous-long-haul-trucks/
+Headline: Particle launches an AI news app to help publishers, instead of just stealing their work
+Description: <p>The media industry today may not have a very favorable view of AI &#8212; a technology that&#8217;s already been used to replace reporters with AI-written copy, while other AI companies have scoope...
+Link: https://techcrunch.com/2024/11/12/particle-launches-an-ai-news-app-to-help-publishers-instead-of-just-stealing-their-work/
+Headline: Generative AI startup Writer raises $200M at a $1.9B valuation
+Description: <p>Writer has raised $200 million at a $1.9 billion valuation to expand its enterprise-focused generative AI platform. The Series C round was co-led by Premji Invest, Radical Ventures, and ICONIQ Grow...
+Link: https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/
+Headline: ScaleOps aims to take the frustration out of cloud management
+Description: <p>ScaleOps, an automated cloud management platform, has closed a $58 million Series B, bringing its total raised to $80 million.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.<...
+Link: https://techcrunch.com/2024/11/12/scaleops-aims-to-take-the-frustration-out-of-cloud-management/
+Headline: Amazon attempts to lure AI researchers with $110M in grants and credits
+Description: <p>There&#8217;s an AI chip battle brewing among the major cloud vendors. Google&#8217;s Trillium, a custom chip for training and running AI models, recently entered preview, and Microsoft&#8217;s Mai...
+Link: https://techcrunch.com/2024/11/12/aws-attempts-to-lure-ai-researchers-with-110m-in-grants-and-credits/
+Headline: Red Hat is acquiring AI optimization startup Neural Magic
+Description: <p>Red Hat, the IBM-owned open source software firm, is acquiring Neural Magic, a startup that optimizes AI models to run faster on commodity processors and GPUs. The terms of the deal weren&#8217;t d...
+Link: https://techcrunch.com/2024/11/12/red-hat-acquires-ai-optimization-startup-neural-magic/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: YouTube is testing music remixes made by AI
+Description: <figure>
+      <img alt="YouTube’s logo with geometric design in the background" src="https://cdn.vox-cdn.com/thumbor/-NUhvB2E77B-asDHXP_PzX3_DJk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus...
+Link: https://www.theverge.com/2024/11/12/24294891/youtube-ai-restyle-music-creators
+Headline: Particle is a new app using AI to organize and summarize the news
+Description: <figure>
+      <img alt="Three screenshots of the Particle news app on an iPhone." src="https://cdn.vox-cdn.com/thumbor/7RmeW4ZthE8S1t2FSgfxlw1kOR0=/0x0:4500x3000/1310x873/cdn.vox-cdn.com/uploads/chor...
+Link: https://www.theverge.com/2024/11/12/24293993/particle-news-app-ai-summaries
+Headline: Apple AI notification summaries exist; rarely useful, often hilarious
+Description: <figure>
+      <img alt="Photo of iPhone 16 running iOS 18.1 on a bench." src="https://cdn.vox-cdn.com/thumbor/rjcFcOaBOZnuTDcXJWnLqEvFNF8=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/...
+Link: https://www.theverge.com/2024/11/12/24289939/apple-intelligence-ai-notification-summaries-awkward-funny-bad
 Headline: Google’s AI ‘learning companion’ takes chatbot answers a step further
 Description: <figure>
       <img alt="site with prompt that asks “why to some sea creatures glow?” with an image of a red orange jellyfish" src="https://cdn.vox-cdn.com/thumbor/z3dVgL3Urdz6qkh-5zqw7klOZjo=/0x0:332...
@@ -57,18 +66,6 @@ Headline: The Beatles’ final song, restored using AI, is up for a Grammy
 Description: <figure>
       <img alt="Glastonbury Festival Day Four" src="https://cdn.vox-cdn.com/thumbor/JyE03rjrSLkP594C6ghDKNMxmxM=/0x0:5000x3333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73710189/140...
 Link: https://www.theverge.com/2024/11/8/24291691/the-beatles-ai-now-and-then-song-grammy-nomination
-Headline: What a second Trump presidency means for tech
-Description: <figure>
-      <img alt="An image showing Donald Trump on a red and green background" src="https://cdn.vox-cdn.com/thumbor/H6f-XTiO1HUzArCyqjbMlzR0exA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/c...
-Link: https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto
-Headline: Google rolls out its Gemini AI-powered video presentation app
-Description: <figure>
-      <img alt="Vids help me create screen with a prompt that says “create a market research overview on Gen Z retail trends using [gen Z research report doc]”" src="https://cdn.vox-cdn.com/t...
-Link: https://www.theverge.com/2024/11/8/24291241/google-vids-ai-presentation-video-general-availability-rollout
-Headline: Google could add AI replies to its handy call-screening feature
-Description: <figure>
-      <img alt="A hands-on photo of Google’s Pixel 9 / 9 Pro 9 / 9 Pro XL." src="https://cdn.vox-cdn.com/thumbor/V631Xks2vRYFkGwVidUD8jiVEfY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/ch...
-Link: https://www.theverge.com/2024/11/7/24290425/google-pixel-phone-ai-replies-call-screening
 
 ---
 
@@ -77,33 +74,33 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: Japan’s Market Innovators Bring Physical AI to Industries With NVIDIA AI and Omniverse
+Description: Robots transporting heavy metal at a Toyota plant. Yaskawa’s robots working alongside human coworkers in factories. To advance efforts like these virtually, Rikei Corporation develops digital twin too...
+Link: https://blogs.nvidia.com/blog/japan-innovators-physical-ai-omniverse/
+Headline: Japan Develops Next-Generation Drug Design, Healthcare Robotics and Digital Health Platforms
+Description: To provide high-quality medical care to its population — around 30% of whom are 65 or older — Japan is pursuing sovereign AI initiatives supporting nearly every aspect of healthcare. AI tools trained ...
+Link: https://blogs.nvidia.com/blog/japan-sovereign-ai-healthcare/
+Headline: Lab Confidential: Japan Research Keeps Healthcare Data Secure
+Description: Established 77 years ago, Mitsui &#38; Co stays vibrant by building businesses and ecosystems with new technologies like generative AI and confidential computing. Digital transformation takes many for...
+Link: https://blogs.nvidia.com/blog/mitsui-xeureka-drug-discovery/
+Headline: NVIDIA and Global Consulting Leaders Speed AI Adoption Across Japan’s Industries
+Description: Consulting giants including Accenture, Deloitte, EY Strategy and Consulting Co., Ltd. (or EY Japan), FPT,  Kyndryl and Tata Consultancy Services Japan (TCS Japan) are working with NVIDIA to establish ...
+Link: https://blogs.nvidia.com/blog/global-consulting-leaders-ai-adoption-japan-industries/
+Headline: Japan’s Startups Drive AI Innovation With NVIDIA Accelerated Computing
+Description: Lifelike digital humans engage with audiences in real time. Autonomous systems streamline complex logistics. And AI-driven language tools break down communication barriers on the fly. This isn’t sci-f...
+Link: https://blogs.nvidia.com/blog/japan-startups-ai-innovation-accelerated-computing/
+Headline: Japan Tech Leaders Supercharge Sovereign AI With NVIDIA AI Enterprise and Omniverse
+Description: From call centers to factories to hospitals, AI is sweeping Japan. Undergirding it all: the exceptional resources of the island nation’s world-class universities and global technology leaders such as ...
+Link: https://blogs.nvidia.com/blog/japan-tech-leaders-sovereign-ai-omniverse/
+Headline: GPU’s Companion: NVIDIA App Supercharges RTX GPUs With AI-Powered Tools and Features
+Description: The NVIDIA app — officially releasing today — is a companion platform for content creators, GeForce gamers and AI enthusiasts using GeForce RTX GPUs.
+Link: https://blogs.nvidia.com/blog/ai-studio-app-geforce-rtx-remix/
 Headline: Jensen Huang to Discuss AI’s Future With Masayoshi Son at AI Summit Japan
 Description: NVIDIA and SoftBank Group CEOs to describe advancements in AI ecosystem, including generative AI, both in Japan and globally, at an exclusive event.
 Link: https://blogs.nvidia.com/blog/ai-summit-japan/
 Headline: NVIDIA Advances Robot Learning and Humanoid Development With New AI and Simulation Tools
 Description: Robotics developers can greatly accelerate their work on AI-enabled robots, including humanoids, using new AI and simulation tools and workflows that NVIDIA revealed this week at the Conference for Ro...
 Link: https://blogs.nvidia.com/blog/robot-learning-humanoid-development/
-Headline: Hugging Face and NVIDIA to Accelerate Open-Source AI Robotics Research and Development
-Description: At the Conference for Robot Learning (CoRL) in Munich, Germany, Hugging Face and NVIDIA announced a collaboration to accelerate robotics research and development by bringing together their open-source...
-Link: https://blogs.nvidia.com/blog/hugging-face-lerobot-open-source-robotics/
-Headline: Get Plugged In: How to Use Generative AI Tools in Obsidian
-Description: As generative AI evolves and accelerates industry, a community of AI enthusiasts is experimenting with ways to integrate the powerful technology into common productivity workflows.
-Link: https://blogs.nvidia.com/blog/ai-decoded-obsidian/
-Headline: Austin Calling: As Texas Absorbs Influx of Residents, Rekor Taps NVIDIA Technology for Roadway Safety, Traffic Relief
-Description: Austin is drawing people to jobs, music venues, comedy clubs, barbecue and more. But with this boom has come a big city blues: traffic jams. Rekor, which offers traffic management and public safety an...
-Link: https://blogs.nvidia.com/blog/rekor-metropolis-ai-jetson-roadway-safety/
-Headline: Give AI a Look: Any Industry Can Now Search and Summarize Vast Volumes of Visual Data
-Description: Enterprises and public sector organizations around the world are developing AI agents to boost the capabilities of workforces that rely on visual information from a growing number of devices — includi...
-Link: https://blogs.nvidia.com/blog/video-search-summarization-ai-agents/
-Headline: Startup Helps Surgeons Target Breast Cancers With AI-Powered 3D Visualizations
-Description: A new AI-powered, imaging-based technology that creates accurate three-dimensional models of tumors, veins and other soft tissue offers a promising new method to help surgeons operate on, and better t...
-Link: https://blogs.nvidia.com/blog/simbiosys-3d-visualizations-breast-cancer-tumors/
-Headline: Scale New Heights With ‘Dragon Age: The Veilguard’ in the Cloud on GeForce NOW
-Description: Even post-spooky season, GFN Thursday has some treats for GeForce NOW members: a new batch of 17 games joining the cloud in November. Catch the five games available to stream this week, including Drag...
-Link: https://blogs.nvidia.com/blog/geforce-now-thursday-november-2024-games-list/
-Headline: Spooks Await at the ‘Haunted Sanctuary,’ Built With RTX and AI
-Description: Among the artists using AI to enhance and accelerate their creative endeavors is Sabour Amirazodi, a creator and tech marketing and workflow specialist at NVIDIA.
-Link: https://blogs.nvidia.com/blog/ai-studio-comfyui-adobe-firefly-photoshop/
 
 ---
 
@@ -112,6 +109,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: OpenAI faces diminishing returns with latest AI model
+Description: <p>OpenAI is facing diminishing returns with its latest AI model while navigating the pressures of recent investments. According to The Information, OpenAI&#8217;s next AI model – codenamed Orion – is...
+Link: https://www.artificialintelligence-news.com/news/openai-faces-diminishing-returns-latest-ai-model/?utm_source=rss&utm_medium=rss&utm_campaign=openai-faces-diminishing-returns-latest-ai-model
 Headline: Understanding AI’s impact on the workforce
 Description: <p>The Tony Blair Institute (TBI) has examined AI&#8217;s impact on the workforce. The report outlines AI’s potential to reshape work environments, boost productivity, and create opportunities—while w...
 Link: https://www.artificialintelligence-news.com/news/understanding-ai-impact-on-the-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-ai-impact-on-the-workforce
@@ -139,9 +139,6 @@ Link: https://www.artificialintelligence-news.com/news/anthropic-urges-ai-regula
 Headline: Industry leaders back open-source AI definition
 Description: <p>The Open Source Initiative (OSI) has unveiled a definition framework to evaluate whether AI systems can be classified as open-source. The announcement of the first Open Source AI Definition (OSAID)...
 Link: https://www.artificialintelligence-news.com/news/industry-leaders-back-open-source-ai-definition/?utm_source=rss&utm_medium=rss&utm_campaign=industry-leaders-back-open-source-ai-definition
-Headline: MIT breakthrough could transform robot training
-Description: <p>MIT researchers have developed a robot training method that reduces time and cost while improving adaptability to new tasks and environments. The approach – called Heterogeneous Pretrained Transfor...
-Link: https://www.artificialintelligence-news.com/news/mit-breakthrough-could-transform-robot-training/?utm_source=rss&utm_medium=rss&utm_campaign=mit-breakthrough-could-transform-robot-training
 
 ---
 
@@ -150,6 +147,12 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: Africa’s AI researchers are ready for takeoff
+Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When we talk about the global race for AI dominance, the conve...
+Link: https://www.technologyreview.com/2024/11/12/1095614/africas-ai-researchers-are-ready-for-takeoff/
+Headline: Generative AI taught a robot dog to scramble around a new environment
+Description: Teaching robots to navigate new environments is tough. You can train them on physical, real-world data taken from recordings made by humans, but that’s scarce and expensive to collect. Digital simulat...
+Link: https://www.technologyreview.com/2024/11/12/1106811/generative-ai-taught-a-robot-dog-to-scramble-around-a-new-environment/
 Headline: What Africa needs to do to become a major AI player
 Description: Kessel Okinga-Koumu paced around a crowded hallway. It was her first time presenting at the Deep Learning Indaba, she told the crowd gathered to hear her, filled with researchers from Africa’s machine...
 Link: https://www.technologyreview.com/2024/11/11/1106762/africa-ai-barriers/
@@ -174,9 +177,6 @@ Link: https://www.technologyreview.com/2024/10/29/1106325/palmer-luckeys-vision-
 Headline: AI will add to the e-waste problem. Here’s what we can do about it.
 Description: Generative AI could account for up to 5 million metric tons of e-waste by 2030, according to a new study. That’s a relatively small fraction of the current global total of over 60 million metric tons ...
 Link: https://www.technologyreview.com/2024/10/28/1106316/ai-e-waste/
-Headline: This AI system makes human tutors better at teaching children math
-Description: The US has a major problem with education inequality. Children from low-income families are less likely to receive high-quality education, partly because poorer districts struggle to retain experience...
-Link: https://www.technologyreview.com/2024/10/28/1106251/this-ai-system-makes-human-tutors-better-at-teaching-children-math/
 
 ---
 
@@ -189,6 +189,12 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Generative AI for agriculture: How Agmatix is improving agriculture with Amazon Bedrock
+Description: This post describes how Agmatix, a pioneering Agtech company powering R&amp;D for input companies and digital agronomic solutions, uses Amazon Bedrock and AWS fully featured services to enhance the re...
+Link: https://aws.amazon.com/blogs/machine-learning/generative-ai-for-agriculture-how-agmatix-is-improving-agriculture-with-amazon-bedrock/
+Headline: Generate financial industry-specific insights using generative AI and in-context fine-tuning
+Description: In this blog post, we demonstrate prompt engineering techniques to generate accurate and relevant analysis of tabular data using industry-specific language. This is done by providing large language mo...
+Link: https://aws.amazon.com/blogs/machine-learning/generate-financial-industry-specific-insights-using-generative-ai-and-in-context-fine-tuning/
 Headline: Fine-tune Meta Llama 3.2 text generation models for generative AI inference using Amazon SageMaker JumpStart
 Description: In this post, we demonstrate how to fine-tune Meta’s latest Llama 3.2 text generation models, Llama 3.2 1B and 3B, using Amazon SageMaker JumpStart for domain-specific applications. By using the pre-b...
 Link: https://aws.amazon.com/blogs/machine-learning/fine-tune-meta-llama-3-2-text-generation-models-for-generative-ai-inference-using-amazon-sagemaker-jumpstart/
@@ -207,50 +213,47 @@ Link: https://aws.amazon.com/blogs/machine-learning/build-a-multi-tenant-generat
 Headline: Enhance customer support with Amazon Bedrock Agents by integrating enterprise data APIs
 Description: Generative AI has transformed customer support, offering businesses the ability to respond faster, more accurately, and with greater personalization. AI agents, powered by large language models (LLMs)...
 Link: https://aws.amazon.com/blogs/machine-learning/enhance-customer-support-with-amazon-bedrock-agents-by-integrating-enterprise-data-apis/
-Headline: Unleash the power of generative AI with Amazon Q Business: How CCoEs can scale cloud governance best practices and drive innovation
-Description: In this post, we share how Hearst, one of the nation’s largest global, diversified information, services, and media companies, overcame these challenges by creating a self-service generative AI conver...
-Link: https://aws.amazon.com/blogs/machine-learning/unleash-the-power-of-generative-ai-with-amazon-q-business-how-ccoes-can-scale-cloud-governance-best-practices-and-drive-innovation/
-Headline: Integrate foundation models into your code with Amazon Bedrock
-Description: The rise of large language models (LLMs) and foundation models (FMs) has revolutionized the field of natural language processing (NLP) and artificial intelligence (AI). These powerful models, trained ...
-Link: https://aws.amazon.com/blogs/machine-learning/integrate-foundation-models-into-your-code-with-amazon-bedrock/
-Headline: Build and deploy a UI for your generative AI applications with AWS and Python
-Description: AWS provides a powerful set of tools and services that simplify the process of building and deploying generative AI applications, even for those with limited experience in frontend and backend develop...
-Link: https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-ui-for-your-generative-ai-applications-with-aws-and-python/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
-Headline: Google DeepMind open-sources AlphaFold 3, ushering in a new era for drug discovery and molecular biology
-Description: Google DeepMind releases AlphaFold 3's source code to academics, marking a significant advance in AI-powered molecular biology and drug discovery, while balancing open science with commercial interest...
-Link: https://venturebeat.com/ai/google-deepmind-open-sources-alphafold-3-ushering-in-a-new-era-for-drug-discovery-and-molecular-biology/
-Headline: Exclusive: Northflank scores $22.3 million to make cloud infrastructure less of a nightmare for developers
-Description: Northflank raises $22.3M to simplify cloud deployment, offering developers a third path between inflexible platforms and costly internal tools, with backing from Bain Capital Ventures.
-Link: https://venturebeat.com/ai/exclusive-northflank-scores-22-3-million-to-make-cloud-infrastructure-less-of-a-nightmare-for-developers/
-Headline: AI’s math problem: FrontierMath benchmark shows how far technology still has to go
-Description: FrontierMath, a new benchmark from Epoch AI, challenges advanced AI systems with complex math problems, revealing how far AI still has to go before achieving true human-level reasoning.
-Link: https://venturebeat.com/ai/ais-math-problem-frontiermath-benchmark-shows-how-far-technology-still-has-to-go/
-Headline: AGI is coming faster than we think — we must get ready now
-Description: As we are on the brink of breakthroughs in AGI and superintelligence, we need to assess whether we are truly ready for this transformation.
-Link: https://venturebeat.com/ai/agi-is-coming-faster-than-we-think-we-must-get-ready-now/
-Headline: Here are 3 critical LLM compression strategies to supercharge AI performance
-Description: How techniques like model pruning, quantization and knowledge distillation can optimize LLMs for faster, cheaper predictions.
-Link: https://venturebeat.com/ai/here-are-3-critical-llm-compression-strategies-to-supercharge-ai-performance/
-Headline: Multimodal RAG is growing, here’s the best way to get started
-Description: Enterprises want to use RAG systems to search for more than just text files, multimodal embeddings models help them do that.
-Link: https://venturebeat.com/ai/multimodal-rag-is-growing-heres-the-best-way-to-get-started/
-Headline: ByteDance’s AI can make your photos act out movie scenes — but is it too real?
-Description: ByteDance’s new AI tool, X-Portrait 2, transforms still photos into realistic video animations of famous movie scenes with uncanny detail, raising questions about the future of AI-driven animation and...
-Link: https://venturebeat.com/ai/bytedances-ai-can-now-turn-your-selfies-into-videos-but-should-we-be-worried/
-Headline: OpenAI’s data scraping wins big as Raw Story’s copyright lawsuit dismissed by NY court
-Description: The dismissal of Raw Story’s lawsuit is more than a win for OpenAI—it’s an indicator of how courts may handle similar copyright claims.
-Link: https://venturebeat.com/ai/openais-data-scraping-wins-big-as-raw-storys-copyright-lawsuit-dismissed-by-ny-court/
-Headline: Puppygraph speeds up LLMs’ access to graph data insights
-Description: While PuppyGraph is less than a year old, it is already witnessing success with several enterprises, including Coinbase, Clarivate, Dawn Capital and Prevelant AI.
-Link: https://venturebeat.com/data-infrastructure/puppygraph-speeds-up-llms-access-to-graph-data-insights/
+Headline: How Writer has built an enterprise platform Blueprint that does the AI for you
+Description: Writer CEO May Habib explains the four things companies need to know before setting off on their agentic AI journey.
+Link: https://venturebeat.com/ai/how-writer-has-built-an-enterprise-platform-blueprint-that-does-the-ai-four-you/
+Headline: How agentic RAG can be a game-changer for data processing and retrieval
+Description: Organizations have already started upgrading from vanilla RAG pipelines to agentic RAG, thanks to the wide availability of large language models with function calling capabilities and new agentic fram...
+Link: https://venturebeat.com/ai/how-agentic-rag-can-be-a-game-changer-for-data-processing-and-retrieval/
+Headline: Qwen2.5-Coder just changed the game for AI programming—and it’s free
+Description: Alibaba's new AI coding assistant, Qwen2.5-Coder, challenges GPT-4o with state-of-the-art code generation, offering free and open-source AI tools to developers worldwide despite U.S. chip restrictions...
+Link: https://venturebeat.com/ai/alibaba-new-ai-can-code-in-92-languages-and-its-completely-free/
+Headline: Box continues to expand beyond just data sharing, with agent-driven enterprise AI studio and no-code apps
+Description: Box debuts its largest set of updates ever, with agent driven enterprise AI data studio and no code apps.
+Link: https://venturebeat.com/ai/box-continues-to-expand-beyond-just-data-sharing-with-agent-driven-enterprise-ai-studio-and-no-code-apps/
+Headline: Magic Story launches AI-based media platform for children to create their own adventures
+Description: Magic Story, an AI-powered media platform for kids to create adventures, has launched its customized books and subscription platform.
+Link: https://venturebeat.com/games/magic-story-launches-ai-based-media-platform-for-children-to-create-their-own-adventures/
+Headline: AMD unveils Versal Premium Series Gen 2 for data center workloads
+Description: Advanced Micro Devices announced its Versal Premium Series Gen 2 chip platform for data center customers doing AI processing and other work.
+Link: https://venturebeat.com/ai/amd-unveils-versal-premium-series-gen-2-for-data-center-workloads/
+Headline: DataRobot launches Enterprise AI Suite to bridge gap between AI development and business value
+Description: DataRobot aims to boost AI success with a new Enterprise Suite featuring pre-built templates, AI agents, observability and governance tools.
+Link: https://venturebeat.com/ai/datarobot-launches-enterprise-ai-suite-to-bridge-gap-between-ai-development-and-business-value/
+Headline: Edge data is critical to AI — here’s how Dell is helping enterprises unlock its value
+Description: In this age of AI, enterprises need to be able to quickly access and extract value from edge data. Here's how Dell is helping them do it.
+Link: https://venturebeat.com/ai/edge-data-is-critical-to-ai-heres-how-dell-is-helping-enterprises-unlock-its-value/
+Headline: Microsoft-backed startup debuts task optimized enterprise AI models that run on CPUs
+Description: Fastino emerges from stealth with $7 million in pre-seed funding to advance task optimized enterprise AI models that don’t require a GPU to run.
+Link: https://venturebeat.com/ai/microsoft-backed-startup-debuts-task-optimized-enterprise-ai-models-that-run-on-cpus/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: What is ChatGPT? How the world's most popular AI chatbot can benefit you
+Description: As the AI chatbot's advanced conversational capabilities continue to generate buzz, here are detailed answers to your most-asked questions.
+Link: https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/
+Headline: Box Apps can transform your files into automated workflows, thanks to AI
+Description: The company's new 'no-code' launch lets users mix and match competing AI models. Here's how.
+Link: https://www.zdnet.com/article/box-apps-can-transform-your-files-into-automated-workflows-thanks-to-ai/
 Headline: The best Black Friday Roborock deals 2024: Early sales available now
 Description: Black Friday and Cyber Monday are right around the corner, but you can already find huge discounts on robot vacuums, including from top brands like Roborock.
 Link: https://www.zdnet.com/article/best-black-friday-roborock-deals-2024/
@@ -269,9 +272,7 @@ Link: https://www.zdnet.com/article/these-4-ai-tools-boost-my-productivity-at-wo
 Headline: AI can drive business growth in Southeast Asia. But some big challenges remain
 Description: Research suggests Southeast Asian markets have already invested heavily in AI. Continued growth will rely on pro-innovation policies.
 Link: https://www.zdnet.com/article/ai-can-drive-business-growth-in-southeast-asia-but-some-big-challenges-remain/
-Headline: Google's new AI tool could be your new favorite learning aid - and it's free
-Description: Part AI chatbot, part search engine, Google's experimental 'Learn About' tool is personalized to your learning needs. How to try it.
-Link: https://www.zdnet.com/article/googles-new-ai-tool-could-be-your-new-favorite-learning-aid-and-its-free/
+
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -321,6 +322,9 @@ Link: https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Giving robots superhuman vision using radio signals
+Description: Researchers have developed PanoRadar, a new tool to give robots superhuman vision by transforming simple radio waves into detailed, 3D views of the environment.
+Link: https://www.sciencedaily.com/releases/2024/11/241112123749.htm
 Headline: AI can detect serious neurologic changes in babies in the NICU using video data alone
 Description: Study findings could serve as a foundation for broader neuro-monitoring applications across intensive care units globally.
 Link: https://www.sciencedaily.com/releases/2024/11/241111212131.htm
@@ -348,13 +352,16 @@ Link: https://www.sciencedaily.com/releases/2024/10/241030150429.htm
 Headline: A navigation system for microswimmers
 Description: By applying an electric field, the movement of microswimmers can be manipulated. Scientists describe the underlying physical principles by comparing experiments and theoretical modeling predictions. T...
 Link: https://www.sciencedaily.com/releases/2024/10/241029143900.htm
-Headline: A faster, better way to train general-purpose robots
-Description: Inspired by large language models, researchers developed a training technique that pools diverse data to teach robots new skills.
-Link: https://www.sciencedaily.com/releases/2024/10/241028164536.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Google Street View helps map how 600,000 trees grow down to the limb
+Description: AI and Google Street View have created 'digital twins' of living trees in North American cities – part of a huge simulation that could help make urban tree planting and trimming decisions
+Link: https://www.newscientist.com/article/2455892-google-street-view-helps-map-how-600000-trees-grow-down-to-the-limb/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: This robot can build anything you ask for out of blocks
+Description: An AI-assisted robot can listen to spoken commands and assemble 3D objects such as chairs and tables out of reusable building blocks
+Link: https://www.newscientist.com/article/2455713-this-robot-can-build-anything-you-ask-for-out-of-blocks/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Audio AIs are trained on data full of bias and offensive language
 Description: Seven major datasets used to train audio-generating AI models are three times more likely to use the words "man" or "men" than "woman" or "women", raising fears of bias
 Link: https://www.newscientist.com/article/2455742-audio-ais-are-trained-on-data-full-of-bias-and-offensive-language/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -379,12 +386,6 @@ Link: https://www.newscientist.com/article/2454256-one-in-20-new-wikipedia-pages
 Headline: How a ride in a friendly Waymo saw me fall for robotaxis
 Description: I have a confession to make. After taking a handful of autonomous taxi rides, I have gone from a hater to a friend of robot cars in just a few weeks, says Annalee Newitz
 Link: https://www.newscientist.com/article/2453802-how-a-ride-in-a-friendly-waymo-saw-me-fall-for-robotaxis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Spies can eavesdrop on phone calls by sensing vibrations with radar
-Description: An off-the-shelf millimetre wave sensor can pick out the tiny vibrations made by a smartphone's speaker, enabling an AI model to transcribe the conversation, even at a distance in a noisy room
-Link: https://www.newscientist.com/article/2453191-spies-can-eavesdrop-on-phone-calls-by-sensing-vibrations-with-radar/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Mountaineering astronauts and bad spelling? It's advertising's future
-Description: Feedback digs into a baffling ad for a mobile game and identifies a new and devilish way to advertise a product online: make it as confusing as possible to encourage people to click (it worked on Feed...
-Link: https://www.newscientist.com/article/mg26435152-300-mountaineering-astronauts-and-bad-spelling-its-advertisings-future/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -397,31 +398,12 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Max Tegmark says we need to draw a line and build only AI that is our tool and not AGI or superintelligence, which is a new species that Alan Turing warned us we would lose control over
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gosi7n/max_tegmark_says_we_need_to_draw_a_line_and_build/"> <img alt="Max Tegmark says we need to draw a line and build only AI ...
-Link: https://www.reddit.com/r/artificial/comments/1gosi7n/max_tegmark_says_we_need_to_draw_a_line_and_build/
-Headline: Anthropic has hired an 'AI welfare' researcher to explore whether we might have moral obligations to AI systems
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1goseej/anthropic_has_hired_an_ai_welfare_researcher_to/"> <img alt="Anthropic has hired an 'AI welfare' researcher to explore wh...
-Link: https://www.reddit.com/r/artificial/comments/1goseej/anthropic_has_hired_an_ai_welfare_researcher_to/
-Headline: OpenAI researcher: "Since joining in Jan I’ve shifted from “this is unproductive hype” to “agi is basically here”. IMHO, what comes next is relatively little new science, but instead years of grindy engineering to try all the newly obvious ideas in the new paradigm, to scale it up and speed it up."
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1got6aj/openai_researcher_since_joining_in_jan_ive/"> <img alt="OpenAI researcher: &quot;Since joining in Jan I’ve shifted from “...
-Link: https://www.reddit.com/r/artificial/comments/1got6aj/openai_researcher_since_joining_in_jan_ive/
-Headline: One-Minute Daily AI News 11/10/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>China develops first AI robot lifeguard to stand 24-hour watch over river.[1]</li> <li>AI Detected Her Early Breast Cancer After Annual Test Came Back as Normal...
-Link: https://www.reddit.com/r/artificial/comments/1goi3c3/oneminute_daily_ai_news_11102024/
-Headline: The AI Machine Gun of the Future Is Already Here
-Description: <!-- SC_OFF --><div class="md"><p>The Pentagon is pursuing every available option to keep US troops safe from the rising tide of adversary drones, including a robotic twist on its standard-issue small...
-Link: https://www.reddit.com/r/artificial/comments/1gopexz/the_ai_machine_gun_of_the_future_is_already_here/
-Headline: AI Generators that convert drawing into digital art?
-Description: <!-- SC_OFF --><div class="md"><p>Are there any free ai art generators that convert drawings into digital images?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user...
-Link: https://www.reddit.com/r/artificial/comments/1gp33tp/ai_generators_that_convert_drawing_into_digital/
-Headline: AI meal planning & grocery shopping app
-Description: <!-- SC_OFF --><div class="md"><p>Hey everyone! I’m developing an AI app for meal planning and grocery shopping. I’m doing it bc me and my gf are eating same meals every day and spending hours on groc...
-Link: https://www.reddit.com/r/artificial/comments/1gov8gr/ai_meal_planning_grocery_shopping_app/
-Headline: AI artwork of Alan Turing sells for $1m at auction
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gp3y35/ai_artwork_of_alan_turing_sells_for_1m_at_auction/"> <img alt="AI artwork of Alan Turing sells for $1m at auction" src="h...
-Link: https://www.reddit.com/r/artificial/comments/1gp3y35/ai_artwork_of_alan_turing_sells_for_1m_at_auction/
-
+Headline: One-Minute Daily AI News 11/11/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Vatican</strong>, <strong>Microsoft</strong> create AI-generated St. Peter’s Basilica to allow virtual visits, log damage.[1]</li> <li><strong>Japan</st...
+Link: https://www.reddit.com/r/artificial/comments/1gpapdy/oneminute_daily_ai_news_11112024/
+Headline: Do you guys think its possible today, or could be in the near future, for an AI to take an image like the following, and identify which species of plants are pictured? Secondary Atlantic Forest. Where should I look for tools to help me do it?
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/Amster2"> /u/Amster2 </a> <br /> <span><a href="https://drive.google.com/file/d/1R08K7ighy-sTrPBzNF5ZK7uNm_4zZieG/view?usp=sharing">[link]...
+Link: https://www.reddit.com/r/artificial/comments/1gpsv5d/do_you_guys_think_its_possible_today_or_could_be/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
