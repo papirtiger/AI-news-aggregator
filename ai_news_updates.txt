@@ -1,6 +1,12 @@
-AI News Updates - 2024-11-16 02:55:08
+AI News Updates - 2024-11-17 03:00:55
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: EU AI Act: Everything you need to know
+Description: <p>The European Union&#8217;s risk-based rulebook for artificial intelligence — aka the EU AI Act — has been years in the making. But expect to hear a lot more about the regulation in the coming month...
+Link: https://techcrunch.com/2024/11/16/eu-ai-act-everything-you-need-to-know/
+Headline: ‘AI Granny’ is happy to talk with phone scammers all day
+Description: <p>On Thursday, the UK’s largest mobile network operator, O2, introduced a chatbot designed to frustrate phone scammers. Called “dAIsy,” it mimics an older woman with all kinds of time to chat – about...
+Link: https://techcrunch.com/2024/11/15/ai-granny-is-happy-to-talk-with-phone-scammers-all-day/
 Headline: OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others
 Description: <p>A lawsuit by the world&#8217;s wealthiest man against one of the fastest growing companies of all time is necessarily interesting stuff. But while the allegations are yet to be proven, the case has...
 Link: https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/
@@ -21,18 +27,6 @@ Link: https://techcrunch.com/2024/11/15/microsoft-bets-a-carbon-removal-bake-off
 Headline: X sues to block California anti-deepfakes bill
 Description: <p>Per Bloomberg, X, Elon Musk&#8217;s social media company, has sued to block California law AB 2655, which requires large online platforms to remove or label AI deepfakes related to elections. X arg...
 Link: https://techcrunch.com/2024/11/15/x-sues-to-block-california-anti-deepfakes-bill/
-Headline: Musk’s amended lawsuit against OpenAI names Microsoft as defendant
-Description: <p>Elon Musk&#8217;s lawsuit against OpenAI accusing the company of abandoning its nonprofit mission was withdrawn in July, only to be revived in August. Now, in an amended complaint, the suit names n...
-Link: https://techcrunch.com/2024/11/14/musks-amended-lawsuit-against-openai-names-microsoft-as-defendant/
-Headline: Sam Altman and Arianna Huffington’s Thrive AI Health assistant has a bare-bones demo
-Description: <p>In a splashy op-ed in Time published this summer, Huffington Post founder Arianna Huffington and OpenAI CEO Sam Altman announced Thrive AI Health, a venture with the goal of building an AI-powered ...
-Link: https://techcrunch.com/2024/11/14/sam-altman-and-arianna-huffingtons-thrive-ai-health-assistant-has-a-bare-bones-demo/
-Headline: ChatGPT can now read some of your Mac’s desktop apps
-Description: <p>OpenAI&#8217;s ChatGPT is starting to work with other apps on your computer. On Thursday, the startup announced the ChatGPT desktop app for macOS can now read code in a handful of developer-focused...
-Link: https://techcrunch.com/2024/11/14/chatgpt-can-now-read-some-of-your-macs-desktop-apps/
-Headline: AI pioneer François Chollet leaves Google
-Description: <p>François Chollet, a leading figure in the AI world, is leaving Google after close to a decade. In a post on X, the 34-year-old French developer said he&#8217;s starting a new company with &#8220;a ...
-Link: https://techcrunch.com/2024/11/14/ai-pioneer-francois-chollet-leaves-google/
 
 ---
 
@@ -114,36 +108,6 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
-Headline: EU introduces draft regulatory guidance for AI models
-Description: <p>The release of the &#8220;First Draft General-Purpose AI Code of Practice&#8221; marks the EU&#8217;s effort to create comprehensive regulatory guidance for general-purpose AI models. The developme...
-Link: https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=eu-introduces-draft-regulatory-guidance-for-ai-models
-Headline: Microsoft tries to convert Google Chrome users
-Description: <p>Microsoft Edge has evolved into more than simply a browser; it is a critical component of Microsoft’s ecosystem, meant to integrate smoothly with Windows and highlight the company’s latest innovati...
-Link: https://www.artificialintelligence-news.com/news/microsoft-tries-to-convert-google-chrome-users/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-tries-to-convert-google-chrome-users
-Headline: Using AI technologies for future asset management
-Description: <p>Did you know that effective asset management practices pose challenges for almost half of small businesses? According to the latest research, 43% of businesses either manually report their inventor...
-Link: https://www.artificialintelligence-news.com/news/using-ai-technologies-for-future-asset-management/?utm_source=rss&utm_medium=rss&utm_campaign=using-ai-technologies-for-future-asset-management
-Headline: NVIDIA AI Summit Japan: NVIDIA’s role in Japan’s big AI ambitions
-Description: <p>Japan is on a mission to become a global AI powerhouse, and it’s starting with some impressive advances in AI-driven language models. Japanese technology experts are developing advanced models that...
-Link: https://www.artificialintelligence-news.com/news/nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-ai-summit-japan-nvidia-role-in-japans-big-ai-ambitions
-Headline: AI courses to boost your skills and stay ahead
-Description: <p>AI continues to transform industries, and having the right skills can make a significant difference to your career. Professionals wishing to get into this evolving field can take advantage of a var...
-Link: https://www.artificialintelligence-news.com/news/ai-courses-to-boost-your-skills-and-stay-ahead-in-a-rapidly-evolving-field/?utm_source=rss&utm_medium=rss&utm_campaign=ai-courses-to-boost-your-skills-and-stay-ahead-in-a-rapidly-evolving-field
-Headline: OpenAI faces diminishing returns with latest AI model
-Description: <p>OpenAI is facing diminishing returns with its latest AI model while navigating the pressures of recent investments. According to The Information, OpenAI&#8217;s next AI model – codenamed Orion – is...
-Link: https://www.artificialintelligence-news.com/news/openai-faces-diminishing-returns-latest-ai-model/?utm_source=rss&utm_medium=rss&utm_campaign=openai-faces-diminishing-returns-latest-ai-model
-Headline: Understanding AI’s impact on the workforce
-Description: <p>The Tony Blair Institute (TBI) has examined AI&#8217;s impact on the workforce. The report outlines AI’s potential to reshape work environments, boost productivity, and create opportunities—while w...
-Link: https://www.artificialintelligence-news.com/news/understanding-ai-impact-on-the-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-ai-impact-on-the-workforce
-Headline: Centralised AI is dangerous: how can we stop it?
-Description: <p>The intelligence displayed by generative AI chatbots like OpenAI&#8217;s ChatGPT has captured the imagination of individuals and corporations, and artificial intelligence has suddenly become the mo...
-Link: https://www.artificialintelligence-news.com/news/centralised-ai-is-dangerous-how-can-we-stop-it/?utm_source=rss&utm_medium=rss&utm_campaign=centralised-ai-is-dangerous-how-can-we-stop-it
-Headline: ASI Alliance launches AIRIS that ‘learns’ in Minecraft
-Description: <p>The ASI Alliance has introduced AIRIS (Autonomous Intelligent Reinforcement Inferred Symbolism) that “learns” within the popular game, Minecraft. AIRIS represents the first proto-AGI (Artificial Ge...
-Link: https://www.artificialintelligence-news.com/news/asi-alliance-launches-airis-learns-minecraft/?utm_source=rss&utm_medium=rss&utm_campaign=asi-alliance-launches-airis-learns-minecraft
-Headline: AI hallucinations gone wrong as Alaska uses fake stats in policy
-Description: <p>The combination of artificial intelligence and policymaking can occasionally have unforeseen repercussions, as seen recently in Alaska. In an unusual turn of events, Alaska legislators reportedly u...
-Link: https://www.artificialintelligence-news.com/news/ai-hallucinations-gone-wrong-as-alaska-uses-fake-stats-in-policy/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hallucinations-gone-wrong-as-alaska-uses-fake-stats-in-policy
 
 ---
 
@@ -222,6 +186,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/revolutionize-trip-planning-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Our brains are vector databases — here’s why that’s helpful when using AI
+Description: Parallels between our brains and vector databases go deeper than retrieval. Both excel at compression, organizing and identifying patterns.
+Link: https://venturebeat.com/ai/our-brains-are-vector-databases-heres-why-thats-helpful-when-using-ai/
 Headline: What Okta’s failures say about the future of identity security in 2025
 Description: 2025 needs to be the year identity providers go all in on improving every aspect of software quality and security, including red teaming.
 Link: https://venturebeat.com/security/what-oktas-failures-say-about-the-future-of-identity-security-in-2025/
@@ -249,22 +216,22 @@ Link: https://venturebeat.com/ai/why-ai-wont-make-you-a-better-writer/
 Headline: Want to easily render 3D environments? Cybever and Cloud Zeta have a way
 Description: The companies also envision a future where 3D tools are more accessible to smaller businesses and non-professional creators.
 Link: https://venturebeat.com/ai/want-to-easily-render-3d-environments-cybever-and-cloud-zeta-have-a-way/
-Headline: OpenAI launches ChatGPT desktop integrations, rivaling Copilot
-Description: ChatGPT on Mac OS can launch VS Code, Xcode, Terminal and iTerm2 straight from the desktop app.
-Link: https://venturebeat.com/ai/openai-launches-chatgpt-desktop-integrations-rivaling-copilot/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: I tested Meta's transparent Ray-Ban smart glasses, and they're a near-perfect accessory for me
+Description: I managed to secure one of the 7,500 pairs of Ray-Bans that Meta recently sold, and they impressed me with their camera, Meta AI responses, and audio playback performance.
+Link: https://www.zdnet.com/article/i-tested-metas-transparent-ray-ban-smart-glasses-and-theyre-a-near-perfect-accessory-for-me/
 Headline: The best Black Friday Roborock deals 2024: Early sales available now
 Description: Black Friday and Cyber Monday are just two weeks away, but you can already find huge discounts on robot vacuums, including from top brands like Roborock.
 Link: https://www.zdnet.com/article/best-black-friday-roborock-deals-2024/
-Headline: Want generative AI LLMs integrated with your business data? You need RAG
-Description: RAG helps turn AI from a generic tool into your specialized assistant. Here's how.
-Link: https://www.zdnet.com/article/want-generative-ai-llms-integrated-with-your-business-data-you-need-rag/
 Headline: AI could alter data science as we know it - here's why
 Description: AI is democratizing software development and could eventually replace it altogether, but will it make data science obsolete?
 Link: https://www.zdnet.com/article/ai-could-alter-data-science-as-we-know-it-heres-why/
+Headline: Want generative AI LLMs integrated with your business data? You need RAG
+Description: RAG helps turn AI from a generic tool into your specialized assistant. Here's how.
+Link: https://www.zdnet.com/article/want-generative-ai-llms-integrated-with-your-business-data-you-need-rag/
 Headline: Can't find the perfect stock photo? Create you own with Getty Images' AI tool
 Description: Supply a text prompt or a photo of your own, and Getty or iStock will generate exactly what you need.
 Link: https://www.zdnet.com/article/cant-find-the-perfect-stock-photo-create-you-own-with-getty-images-ai-tool/
@@ -280,9 +247,6 @@ Link: https://www.zdnet.com/article/how-to-use-ai-for-research-the-right-way-res
 Headline: ChatGPT's Windows app is now available to free-tier users - here's what it can do
 Description: Previously accessible only to ChatGPT subscribers, now free-tier users can chat with the AI directly from Windows 10 or 11 and so, much more.
 Link: https://www.zdnet.com/article/chatgpts-windows-app-is-now-available-to-free-tier-users-heres-what-it-can-do/
-Headline: Gemini Live is available to all iOS and Android users now - for free. How to try it
-Description: Want an AI voice assistant that can naturally converse with you in 10 different languages - for free? Download the Gemini app.
-Link: https://www.zdnet.com/article/gemini-live-is-available-to-all-ios-and-android-users-now-for-free-how-to-try-it/
 
 ---
 
@@ -367,6 +331,9 @@ Link: https://www.sciencedaily.com/releases/2024/10/241031124459.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: People prefer AI-generated poems to Shakespeare and Dickinson
+Description: Readers give higher ratings to AI-generated poetry than the works of poets such as William Shakespeare, Walt Whitman and Emily Dickinson – perhaps because they often have more straightforward themes a...
+Link: https://www.newscientist.com/article/2456291-people-prefer-ai-generated-poems-to-shakespeare-and-dickinson/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Australia wants to ban social media for under-16s, but it won't work
 Description: Attempts to prevent Australian children from accessing social media are likely to fail, and could do more harm than good
 Link: https://www.newscientist.com/article/2456510-australia-wants-to-ban-social-media-for-under-16s-but-it-wont-work/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -394,9 +361,6 @@ Link: https://www.newscientist.com/article/2454587-the-real-reason-var-infuriate
 Headline: The sci-fi films and TV that explore AI in eerily prescient ways
 Description: Hollywood has been imagining the impact AI might have on our lives for decades, but how accurate are these portrayals?
 Link: https://www.newscientist.com/video/2455513-the-sci-fi-films-and-tv-that-explore-ai-in-eerily-prescient-ways/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: AI helps robot dogs navigate the real world
-Description: Four-legged robot dogs learned to perform new tricks by practising in a virtual platform that mimics real-world obstacles – a possible shortcut for training robots faster and more accurately
-Link: https://www.newscientist.com/article/2455418-ai-helps-robot-dogs-navigate-the-real-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -409,33 +373,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: OpenAI resignation letters be like
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gruzk9/openai_resignation_letters_be_like/"> <img alt="OpenAI resignation letters be like" src="https://preview.redd.it/p16xoao7...
-Link: https://www.reddit.com/r/artificial/comments/1gruzk9/openai_resignation_letters_be_like/
-Headline: Anthropic's Chris Olah says "we don't program neural networks, we grow them" and it's like studying biological organisms and very different from regular software engineering
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1grxogg/anthropics_chris_olah_says_we_dont_program_neural/"> <img alt="Anthropic's Chris Olah says &quot;we don't program neural ...
-Link: https://www.reddit.com/r/artificial/comments/1grxogg/anthropics_chris_olah_says_we_dont_program_neural/
-Headline: I am sharing Data Science & AI courses and projects on YouTube
-Description: <!-- SC_OFF --><div class="md"><p>Hello, I wanted to share that I am sharing free courses and projects on my YouTube Channel. I have more than 200 videos and I created playlists for learning Data Scie...
-Link: https://www.reddit.com/r/artificial/comments/1grny51/i_am_sharing_data_science_ai_courses_and_projects/
-Headline: METR report finds no decisive barriers to rogue AI agents multiplying to large populations in the wild and hiding via stealth compute clusters
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1grxe9w/metr_report_finds_no_decisive_barriers_to_rogue/"> <img alt="METR report finds no decisive barriers to rogue AI agents mu...
-Link: https://www.reddit.com/r/artificial/comments/1grxe9w/metr_report_finds_no_decisive_barriers_to_rogue/
-Headline: One-Minute Daily AI News 11/14/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google</strong> AI chatbot responds with a threatening message: “Human … Please die.”[1]</li> <li>AI-powered robot learned to perform surgery by watchin...
-Link: https://www.reddit.com/r/artificial/comments/1grp1iu/oneminute_daily_ai_news_11142024/
-Headline: AI Poetry is No Longer Recognizable From Human Poetry and Is Rated Better
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gs7ynm/ai_poetry_is_no_longer_recognizable_from_human/"> <img alt="AI Poetry is No Longer Recognizable From Human Poetry and Is ...
-Link: https://www.reddit.com/r/artificial/comments/1gs7ynm/ai_poetry_is_no_longer_recognizable_from_human/
-Headline: If AI trained on the internet gives us the base LLM’s we have- would there be value in then training those models specifically on the output of the highest IQ individuals with the most intelligent output?
-Description: <!-- SC_OFF --><div class="md"><p>And if so, presumably the most intelligent people would need to implement this so they can distinguish the quality content at that level </p> </div><!-- SC_ON --> &#3...
-Link: https://www.reddit.com/r/artificial/comments/1grvkwq/if_ai_trained_on_the_internet_gives_us_the_base/
-Headline: AI Searchable Image library
-Description: <!-- SC_OFF --><div class="md"><p>We have a large library of product lifestyle images, and I'm looking for a way to use AI to tag them / make them searchable. Ideally I'd like to be able to say &quot;...
-Link: https://www.reddit.com/r/artificial/comments/1gs600c/ai_searchable_image_library/
-Headline: Why AI could eat quantum computing’s lunch
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1grtput/why_ai_could_eat_quantum_computings_lunch/"> <img alt="Why AI could eat quantum computing’s lunch" src="https://external-...
-Link: https://www.reddit.com/r/artificial/comments/1grtput/why_ai_could_eat_quantum_computings_lunch/
+Headline: Here's what is making news in AI
+Description: <!-- SC_OFF --><div class="md"><p><strong>Spotlight -</strong> Bluesky says it won’t train AI on your posts (source The verge)</p> <p>- AI startup Gendo — the Midjourney for architecture — secures fre...
+Link: https://www.reddit.com/r/artificial/comments/1gsgie9/heres_what_is_making_news_in_ai/
+Headline: Will a masters in AI still get me far in the field? I don’t know if I can do a PhD right away due to personal reasons
+Description: <!-- SC_OFF --><div class="md"><p>I would love to do a PhD in AI, due to some personal reasons and being tied to my current location because of a sick parent, I wouldn’t be able to do a PhD in AI so I...
+Link: https://www.reddit.com/r/artificial/comments/1gsvi2w/will_a_masters_in_ai_still_get_me_far_in_the/
+Headline: One-Minute Daily AI News 11/16/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Elon Musk’s xAI raising up to $6 billion to purchase 100,000 Nvidia chips for Memphis data center.[1]</li> <li>Elon Musk adds Microsoft to lawsuit against ChatG...
+Link: https://www.reddit.com/r/artificial/comments/1gsyyly/oneminute_daily_ai_news_11162024/
+Headline: AI isn’t about unleashing our imaginations, it’s about outsourcing them.
+Description: <!-- SC_OFF --><div class="md"><p>Do you agree or disagree with the above statement? <a href="https://www.theguardian.com/technology/2024/nov/16/ai-isnt-about-unleashing-our-imaginations-its-about-out...
+Link: https://www.reddit.com/r/artificial/comments/1gsyokd/ai_isnt_about_unleashing_our_imaginations_its/
+Headline: Q-Star 2.0 - AI Breakthrough Unlocks New Scaling Law (New Strawberry) - Matthew Berman
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gsy1n6/qstar_20_ai_breakthrough_unlocks_new_scaling_law/"> <img alt="Q-Star 2.0 - AI Breakthrough Unlocks New Scaling Law (New S...
+Link: https://www.reddit.com/r/artificial/comments/1gsy1n6/qstar_20_ai_breakthrough_unlocks_new_scaling_law/
+Headline: ‘Please Die’: Student gets abusive reply from Google's AI chatbot Gemini - CNBC TV18
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gsxvw5/please_die_student_gets_abusive_reply_from/"> <img alt="‘Please Die’: Student gets abusive reply from Google's AI chatbot...
+Link: https://www.reddit.com/r/artificial/comments/1gsxvw5/please_die_student_gets_abusive_reply_from/
 
 ---
 
