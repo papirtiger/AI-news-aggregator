@@ -1,6 +1,9 @@
-AI News Updates - 2024-11-23 02:52:50
+AI News Updates - 2024-11-24 03:02:50
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI accidentally deleted potential evidence in NY Times copyright lawsuit (updated)
+Description: <p>Lawyers for The New York Times and Daily News, which are suing OpenAI for allegedly scraping their works to train its AI models without permission, say OpenAI engineers accidentally deleted data po...
+Link: https://techcrunch.com/2024/11/22/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/
 Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
 Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to hyper-charge productivity through writing essays and code wit...
 Link: https://techcrunch.com/2024/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/
@@ -22,12 +25,6 @@ Link: https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we
 Headline: Taking a cue from X, Threads tests AI-powered summaries of trending topics
 Description: <p>As the Twitter-like social network Bluesky sees a significant surge in users this month, Meta’s own X competitor Threads has been rapidly building out its platform. On Friday, Instagram head Adam M...
 Link: https://techcrunch.com/2024/11/22/taking-a-cue-from-x-threads-tests-ai-powered-summaries-of-trending-topics/
-Headline: Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner
-Description: <p>Anthropic has raised an additional $4 billion from Amazon, and has agreed to train its flagship generative AI models primarily on Amazon Web Services (AWS), Amazon&#8217;s cloud computing division....
-Link: https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/
-Headline: YouTube Shorts’ Dream Screen feature can now generate AI video backgrounds
-Description: <p>YouTube announced on Thursday that its Dream Screen feature for Shorts now lets you create AI-generated video backgrounds. Up until now, Dream Screen could only create image backgrounds. The new ca...
-Link: https://techcrunch.com/2024/11/21/youtube-shorts-dream-screen-feature-can-now-generate-ai-video-backgrounds/
 
 ---
 
@@ -213,6 +210,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/using-responsible-ai-princip
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Getting started with AI agents (part 1): Capturing processes, roles and connections
+Description: To get started with AI agents, we must first identify differences between agents and models and define roles and communication requirements.
+Link: https://venturebeat.com/ai/getting-started-with-ai-agents-part-1-capturing-processes-roles-and-connections/
 Headline: AI2 closes the gap between closed-source and open-source post-training
 Description: Ai2 released Tülu 3, a model that makes fine-tuning open-source LLMs easier and get its performance closer to closed LLMs like GPT-4o.
 Link: https://venturebeat.com/ai/ai2-closes-the-gap-between-closed-source-and-open-source-post-training/
@@ -240,13 +240,13 @@ Link: https://venturebeat.com/ai/google-cloud-launches-ai-agent-space-amid-risin
 Headline: Will Sam Altman always win the OpenAI board fight in an AI agent simulation?
 Description: Fable built its AI Sim Francisco "war game" to find out why OpenAI's behind closed doors board fight turned out the way it did.
 Link: https://venturebeat.com/games/can-sam-altman-win-the-openai-board-fight-in-an-ai-agent-simulation/
-Headline: Ubitium tackles edge AI and more with new universal processor
-Description: With this chip, Ubitium hopes it will be able to replace dedicated processors for specialized computing tasks at the edge, like NPUs for AI.
-Link: https://venturebeat.com/data-infrastructure/ubitium-tackles-edge-ai-and-more-with-new-universal-processor/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: You can add a video of yourself speaking in Google Slides now. Here's how
+Description: Sometimes, the best way to explain something is verbally, and now you can a recording of yourself in your next Google Slides presentation.
+Link: https://www.zdnet.com/article/you-can-add-a-video-of-yourself-speaking-in-google-slides-now-heres-how/
 Headline: The best Black Friday robot vacuum deals 2024: Sales available now
 Description: As a robot vacuum reviewer, I'm always looking for great deals, and I've found some of the best robot vacuum deals you can shop through Black Friday.
 Link: https://www.zdnet.com/article/best-black-friday-robot-vacuum-deals-2024/
@@ -271,9 +271,6 @@ Link: https://www.zdnet.com/article/this-ai-image-generator-that-went-viral-for-
 Headline: Apple reportedly prepping powerful new AI version of Siri for 2026
 Description: Here's what we know about 'LLM Siri.'
 Link: https://www.zdnet.com/article/apple-reportedly-prepping-powerful-new-ai-version-of-siri-for-2026/
-Headline: OpenAI and Wharton launch free ChatGPT course for teachers. Here's how to access it
-Description: ChatGPT can boost your productivity. This course shows educators how they can benefit.
-Link: https://www.zdnet.com/article/openai-and-wharton-launch-free-chatgpt-course-for-teachers-heres-how-to-access-it/
 
 ---
 
@@ -358,6 +355,9 @@ Link: https://www.sciencedaily.com/releases/2024/11/241111123037.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: AI simulations of 1000 people accurately replicate their behaviour
+Description: Using GPT-4o, the model behind ChatGPT, researchers have replicated the personality and behaviour of more than 1000 people, in an effort to create an alternative to focus groups and polling
+Link: https://www.newscientist.com/article/2457233-ai-simulations-of-1000-people-accurately-replicate-their-behaviour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Risk algorithm used widely in US courts is harsher than human judges
 Description: When deciding whether to let people await trial at home or in jail, US judges can use a risk score algorithm. But it often makes harsher recommendations than humans do
 Link: https://www.newscientist.com/article/2456603-risk-algorithm-used-widely-in-us-courts-is-harsher-than-human-judges/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -385,9 +385,6 @@ Link: https://www.newscientist.com/article/2456653-ai-maths-assistant-could-help
 Headline: People prefer AI-generated poems to Shakespeare and Dickinson
 Description: Readers give higher ratings to AI-generated poetry than the works of poets such as William Shakespeare, Walt Whitman and Emily Dickinson – perhaps because they often have more straightforward themes a...
 Link: https://www.newscientist.com/article/2456291-people-prefer-ai-generated-poems-to-shakespeare-and-dickinson/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Australia wants to ban social media for under-16s, but it won't work
-Description: Attempts to prevent Australian children from accessing social media are likely to fail, and could do more harm than good
-Link: https://www.newscientist.com/article/2456510-australia-wants-to-ban-social-media-for-under-16s-but-it-wont-work/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -400,12 +397,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: One-Minute Daily AI News 11/21/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>MIT</strong> researchers develop an efficient way to train more reliable AI agents.[1]</li> <li><strong>Uber</strong> Reportedly Investing in Autonomous...
-Link: https://www.reddit.com/r/artificial/comments/1gx0v9w/oneminute_daily_ai_news_11212024/
-Headline: Applying studio effects to video with AI!
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gxcg53/applying_studio_effects_to_video_with_ai/"> <img alt="Applying studio effects to video with AI!" src="https://external-pr...
-Link: https://www.reddit.com/r/artificial/comments/1gxcg53/applying_studio_effects_to_video_with_ai/
+Headline: Top forecaster significantly shortens his timelines after Claude performs on par with top human AI researchers
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gy1rab/top_forecaster_significantly_shortens_his/"> <img alt="Top forecaster significantly shortens his timelines after Claude p...
+Link: https://www.reddit.com/r/artificial/comments/1gy1rab/top_forecaster_significantly_shortens_his/
+Headline: One-Minute Daily AI News 11/22/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Enveda</strong> Biosciences raises $130M to advance AI-driven drug discovery from natural compounds.[1]</li> <li><strong>OpenAI</strong> is funding rese...
+Link: https://www.reddit.com/r/artificial/comments/1gxsppo/oneminute_daily_ai_news_11222024/
+Headline: Introducing NexAI: An AI-Powered Web Framework 🚀
+Description: <!-- SC_OFF --><div class="md"><p>Hey everyone! 👋</p> <p>I’ve been working with my team on something that I think could make a big difference for developers – <strong>NexAI</strong>, an AI-powered web...
+Link: https://www.reddit.com/r/artificial/comments/1gy00bc/introducing_nexai_an_aipowered_web_framework/
+Headline: How to make more reliable reports using AI — A Technical Guide
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gy245y/how_to_make_more_reliable_reports_using_ai_a/"> <img alt="How to make more reliable reports using AI — A Technical Guide"...
+Link: https://www.reddit.com/r/artificial/comments/1gy245y/how_to_make_more_reliable_reports_using_ai_a/
 
 ---
 
