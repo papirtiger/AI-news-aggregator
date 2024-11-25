@@ -1,6 +1,9 @@
-AI News Updates - 2024-11-24 03:02:50
+AI News Updates - 2024-11-25 03:00:17
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: The curious case of Nebius, the publicly traded AI infrastructure ‘startup’
+Description: <p>On October 21, a new ticker opened to Nasdaq traders: NBIS, a truncation of Nebius, a fledgling player in the AI cloud infrastructure space. Casual observers could be forgiven for wondering where t...
+Link: https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/
 Headline: OpenAI accidentally deleted potential evidence in NY Times copyright lawsuit (updated)
 Description: <p>Lawyers for The New York Times and Daily News, which are suing OpenAI for allegedly scraping their works to train its AI models without permission, say OpenAI engineers accidentally deleted data po...
 Link: https://techcrunch.com/2024/11/22/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/
@@ -22,9 +25,6 @@ Link: https://techcrunch.com/2024/11/22/ai-chip-startup-matx-founded-by-google-a
 Headline: The AI industry’s ‘next big bet,’ and should we just buy Chrome?
 Description: <p>The AI race is taking a detour as developers consider a new path to super-intelligent systems: test-time compute. Not sure what that means? Don’t worry, the Equity pod team breaks it down.&#160; To...
 Link: https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/
-Headline: Taking a cue from X, Threads tests AI-powered summaries of trending topics
-Description: <p>As the Twitter-like social network Bluesky sees a significant surge in users this month, Meta’s own X competitor Threads has been rapidly building out its platform. On Friday, Instagram head Adam M...
-Link: https://techcrunch.com/2024/11/22/taking-a-cue-from-x-threads-tests-ai-powered-summaries-of-trending-topics/
 
 ---
 
@@ -108,36 +108,6 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
-Headline: OpenAI enhances AI safety with new red teaming methods
-Description: <p>A critical part of OpenAI’s safeguarding process is &#8220;red teaming&#8221; — a structured methodology using both human and AI participants to explore potential risks and vulnerabilities in new s...
-Link: https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/?utm_source=rss&utm_medium=rss&utm_campaign=openai-enhances-ai-safety-new-red-teaming-methods
-Headline: Big tech’s AI spending hits new heights
-Description: <p>In 2024, Big Tech is all-in on artificial intelligence, with companies like Microsoft, Amazon, Alphabet, and Meta leading the way. Their combined spending on AI is projected to exceed a jaw-droppin...
-Link: https://www.artificialintelligence-news.com/news/big-tech-ai-spending-hits-new-heights/?utm_source=rss&utm_medium=rss&utm_campaign=big-tech-ai-spending-hits-new-heights
-Headline: Samsung unveils Gauss2 AI model at SDC24 Korea
-Description: <p>Samsung has revealed Gauss2, the second-generation proprietary AI model set to significantly enhance user experiences. Paul Kyungwhoon Cheun, President and CTO of the Device eXperience (DX) Divisio...
-Link: https://www.artificialintelligence-news.com/news/samsung-unveils-gauss2-ai-model-sdc24-korea/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-unveils-gauss2-ai-model-sdc24-korea
-Headline: Boost your ROI: The impact of chatbots on marketing
-Description: <p>Discover how chatbots for marketing can boost your ROI with enhanced engagement and instant customer responses. What are chatbots? Chatbots are automated software applications designed to simulate ...
-Link: https://www.artificialintelligence-news.com/news/boost-your-roi-the-impact-of-chatbots-on-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=boost-your-roi-the-impact-of-chatbots-on-marketing
-Headline: Preparing today for tomorrow’s AI regulations
-Description: <p>AI is rapidly becoming ubiquitous across business systems and IT ecosystems, with adoption and development racing faster than anyone could have expected. Today it seems that everywhere we turn, sof...
-Link: https://www.artificialintelligence-news.com/news/preparing-today-for-tomorrows-ai-regulations/?utm_source=rss&utm_medium=rss&utm_campaign=preparing-today-for-tomorrows-ai-regulations
-Headline: Salesforce launches AI platform for automated task management
-Description: <p>Business Insider’s “CXO AI Playbook” looks at how firms are utilising AI to tackle challenges, scale operations, and plan for the future. The Playbook looks at stories from various industries to se...
-Link: https://www.artificialintelligence-news.com/news/salesforce-launches-ai-platform-for-automated-task-management/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-launches-ai-platform-for-automated-task-management
-Headline: Generative AI: Disparities between C-suite and practitioners
-Description: <p>A report by Publicis Sapient sheds light on the disparities between the C-suite and practitioners, dubbed the &#8220;V-suite,&#8221; in their perceptions and adoption of generative AI. The report r...
-Link: https://www.artificialintelligence-news.com/news/generative-ai-disparities-c-suite-and-practitioners/?utm_source=rss&utm_medium=rss&utm_campaign=generative-ai-disparities-c-suite-and-practitioners
-Headline: EU introduces draft regulatory guidance for AI models
-Description: <p>The release of the &#8220;First Draft General-Purpose AI Code of Practice&#8221; marks the EU&#8217;s effort to create comprehensive regulatory guidance for general-purpose AI models. The developme...
-Link: https://www.artificialintelligence-news.com/news/eu-introduces-draft-regulatory-guidance-for-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=eu-introduces-draft-regulatory-guidance-for-ai-models
-Headline: Microsoft tries to convert Google Chrome users
-Description: <p>Microsoft Edge has evolved into more than simply a browser; it is a critical component of Microsoft’s ecosystem, meant to integrate smoothly with Windows and highlight the company’s latest innovati...
-Link: https://www.artificialintelligence-news.com/news/microsoft-tries-to-convert-google-chrome-users/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-tries-to-convert-google-chrome-users
-Headline: Using AI technologies for future asset management
-Description: <p>Did you know that effective asset management practices pose challenges for almost half of small businesses? According to the latest research, 43% of businesses either manually report their inventor...
-Link: https://www.artificialintelligence-news.com/news/using-ai-technologies-for-future-asset-management/?utm_source=rss&utm_medium=rss&utm_campaign=using-ai-technologies-for-future-asset-management
 
 ---
 
@@ -210,6 +180,12 @@ Link: https://aws.amazon.com/blogs/machine-learning/using-responsible-ai-princip
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Getting started with AI agents (part 2): Autonomy, safeguards and pitfalls
+Description: Success in building AI agents hinges on mapping roles and workflows and establishing safeguards such as human oversight and error checks.
+Link: https://venturebeat.com/ai/getting-started-with-ai-agents-part-2-autonomy-safeguards-and-pitfalls/
+Headline: Microsoft’s 10 new AI agents strengthen its enterprise automation lead
+Description: In a three-part video series with generative AI developer and expert Sam Witteveen, I explore what Microsoft's announcements about AI agents mean for enterprises, why Microsoft is pulling ahead as a l...
+Link: https://venturebeat.com/ai/microsofts-10-new-ai-agents-strengthen-its-enterprise-automation-lead/
 Headline: Getting started with AI agents (part 1): Capturing processes, roles and connections
 Description: To get started with AI agents, we must first identify differences between agents and models and define roles and communication requirements.
 Link: https://venturebeat.com/ai/getting-started-with-ai-agents-part-1-capturing-processes-roles-and-connections/
@@ -234,12 +210,6 @@ Link: https://venturebeat.com/ai/salesforce-launches-agentforce-testing-center-t
 Headline: H2O.ai improves AI agent accuracy with predictive models
 Description: AI agents need to consistent, and H2O.ai believes a mix of generative and predictive AI models is the answer.
 Link: https://venturebeat.com/ai/h20-ai-improves-ai-agent-accuracy-with-predictive-models/
-Headline: Google Cloud launches AI Agent Space amid rising competition
-Description: VentureBeat's viewing of the AI Agent Space revealed only 19 distinct agent models available for use, a fry cry from cloud rivals.
-Link: https://venturebeat.com/ai/google-cloud-launches-ai-agent-space-amid-rising-competition/
-Headline: Will Sam Altman always win the OpenAI board fight in an AI agent simulation?
-Description: Fable built its AI Sim Francisco "war game" to find out why OpenAI's behind closed doors board fight turned out the way it did.
-Link: https://venturebeat.com/games/can-sam-altman-win-the-openai-board-fight-in-an-ai-agent-simulation/
 
 ---
 
@@ -265,12 +235,6 @@ Link: https://www.zdnet.com/article/claude-ai-can-analyze-your-google-docs-and-o
 Headline: Why there could be a new AI chatbot champ by the time you read this
 Description: With AI progress 'now measured in days' Gemini and ChatGPT spent the week one-upping each other. Then this happened.
 Link: https://www.zdnet.com/article/why-there-could-be-a-new-ai-chatbot-champ-by-the-time-you-read-this/
-Headline: This AI image generator that went viral for its realistic images gets a major upgrade
-Description: Black Forest Labs introduces a set of FLUX.1 Tools to edit your images - and it rivals state-of-the-art models.
-Link: https://www.zdnet.com/article/this-ai-image-generator-that-went-viral-for-its-realistic-images-gets-a-major-upgrade/
-Headline: Apple reportedly prepping powerful new AI version of Siri for 2026
-Description: Here's what we know about 'LLM Siri.'
-Link: https://www.zdnet.com/article/apple-reportedly-prepping-powerful-new-ai-version-of-siri-for-2026/
 
 ---
 
@@ -355,6 +319,9 @@ Link: https://www.sciencedaily.com/releases/2024/11/241111123037.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: IBM entangled two quantum chips to work together for the first time
+Description: IBM has bet big on a modular approach to building quantum computers, and now it has successfully linked two quantum chips together to operate as a single device, a key step towards that goal
+Link: https://www.newscientist.com/article/2456542-ibm-entangled-two-quantum-chips-to-work-together-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: AI simulations of 1000 people accurately replicate their behaviour
 Description: Using GPT-4o, the model behind ChatGPT, researchers have replicated the personality and behaviour of more than 1000 people, in an effort to create an alternative to focus groups and polling
 Link: https://www.newscientist.com/article/2457233-ai-simulations-of-1000-people-accurately-replicate-their-behaviour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -382,9 +349,6 @@ Link: https://www.newscientist.com/article/2456779-worlds-new-fastest-supercompu
 Headline: AI maths assistant could help solve problems that humans are stuck on
 Description: Most mathematicians have been reluctant to start working with artificial intelligence, but a new tool developed by researchers at Meta may change that
 Link: https://www.newscientist.com/article/2456653-ai-maths-assistant-could-help-solve-problems-that-humans-are-stuck-on/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: People prefer AI-generated poems to Shakespeare and Dickinson
-Description: Readers give higher ratings to AI-generated poetry than the works of poets such as William Shakespeare, Walt Whitman and Emily Dickinson – perhaps because they often have more straightforward themes a...
-Link: https://www.newscientist.com/article/2456291-people-prefer-ai-generated-poems-to-shakespeare-and-dickinson/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -397,18 +361,6 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Top forecaster significantly shortens his timelines after Claude performs on par with top human AI researchers
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gy1rab/top_forecaster_significantly_shortens_his/"> <img alt="Top forecaster significantly shortens his timelines after Claude p...
-Link: https://www.reddit.com/r/artificial/comments/1gy1rab/top_forecaster_significantly_shortens_his/
-Headline: One-Minute Daily AI News 11/22/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Enveda</strong> Biosciences raises $130M to advance AI-driven drug discovery from natural compounds.[1]</li> <li><strong>OpenAI</strong> is funding rese...
-Link: https://www.reddit.com/r/artificial/comments/1gxsppo/oneminute_daily_ai_news_11222024/
-Headline: Introducing NexAI: An AI-Powered Web Framework 🚀
-Description: <!-- SC_OFF --><div class="md"><p>Hey everyone! 👋</p> <p>I’ve been working with my team on something that I think could make a big difference for developers – <strong>NexAI</strong>, an AI-powered web...
-Link: https://www.reddit.com/r/artificial/comments/1gy00bc/introducing_nexai_an_aipowered_web_framework/
-Headline: How to make more reliable reports using AI — A Technical Guide
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1gy245y/how_to_make_more_reliable_reports_using_ai_a/"> <img alt="How to make more reliable reports using AI — A Technical Guide"...
-Link: https://www.reddit.com/r/artificial/comments/1gy245y/how_to_make_more_reliable_reports_using_ai_a/
 
 ---
 
