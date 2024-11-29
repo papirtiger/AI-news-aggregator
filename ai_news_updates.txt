@@ -1,6 +1,13 @@
-AI News Updates - 2024-11-28 03:01:05
+AI News Updates - 2024-11-29 03:00:50
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Linkup connects LLMs with premium content sources (legally)
+Description: <p>If you’ve used ChatGPT Search or Perplexity, you know that being able to search the web and see citations inline greatly improves these AI chatbots. Results are better when they involve timely info...
+Link: https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/
+Headline: Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation
+Description: <p>/dev/agents, a new company by the developers of Android, believes a new operating system is needed to fully realize the potential of AI agents.</p>
+<p>© 2024 TechCrunch. All rights reserved. For pe...
+Link: https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/
 Headline: Alibaba releases an ‘open’ challenger to OpenAI’s o1 reasoning model
 Description: <p>A new so-called &#8220;reasoning&#8221; AI model, QwQ-32B-Preview, has arrived on the scene. It&#8217;s one of the few to rival OpenAI&#8217;s o1, and it&#8217;s the first available to download und...
 Link: https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/
@@ -25,12 +32,6 @@ Link: https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrap
 Headline: Audio platform Pocket FM taps into AI tools to help it expand its content catalog
 Description: <p>India-based audio platform Pocket FM has more than 200,000 hours of content on the service. However, the company&#8217;s CEO, Rohan Nayak, believes that the platform still has room to grow in terms...
 Link: https://techcrunch.com/2024/11/27/audio-platform-pocket-fm-taps-into-ai-tools-help-it-expand-content-catalog/
-Headline: Ai2 releases new language models competitive with Meta’s Llama
-Description: <p>There&#8217;s a new AI model family on the block, and it&#8217;s one of the few that can be reproduced from scratch. On Tuesday, Ai2, the nonprofit AI research organization founded by the late Micr...
-Link: https://techcrunch.com/2024/11/26/ai2-releases-new-language-models-competitive-with-metas-llama/
-Headline: Trump considers naming an ‘AI czar’
-Description: <p>Incoming president Donald Trump is considering naming an &#8220;AI czar&#8221; in the White House, Axios reports. Should Trump appoint such a policy person, they&#8217;d be charged with helping to ...
-Link: https://techcrunch.com/2024/11/26/trump-considers-naming-an-ai-czar/
 
 ---
 
@@ -108,9 +109,6 @@ Link: https://blogs.nvidia.com/blog/generative-ai-openusd-fuels-3d-product-confi
 Headline: The Need for Speed: NVIDIA Accelerates Majority of World’s Supercomputers to Drive Advancements in Science and Technology
 Description: Starting with the release of CUDA in 2006, NVIDIA has driven advancements in AI and accelerated computing — and the most recent TOP500 list of the world’s most powerful supercomputers highlights the c...
 Link: https://blogs.nvidia.com/blog/top500-supercomputers-sc24/
-Headline: AI at COP29: Balancing Innovation and Sustainability
-Description: As COP29 attendees gather in Baku, Azerbaijan, to tackle climate change, the role AI plays in environmental sustainability is front and center. A panel hosted by Deloitte brought together industry lea...
-Link: https://blogs.nvidia.com/blog/cop29-energy-efficiency-panel/
 
 ---
 
@@ -119,36 +117,6 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
-Headline: Generative AI use soars among brits, but is it sustainable?
-Description: <p>A survey by CloudNine PR shows that 83% of UK adults are aware of generative AI tools, and 45% of those familiar with them want companies to be transparent about the environmental costs associated ...
-Link: https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/?utm_source=rss&utm_medium=rss&utm_campaign=generative-ai-use-soars-among-brits-but-is-it-sustainable
-Headline: Ai2 OLMo 2: Raising the bar for open language models
-Description: <p>Ai2 is releasing OLMo 2, a family of open-source language models that advances the democratisation of AI and narrows the gap between open and proprietary solutions. The new models, available in 7B ...
-Link: https://www.artificialintelligence-news.com/news/ai2-olmo-2-raising-bar-open-language-models/?utm_source=rss&utm_medium=rss&utm_campaign=ai2-olmo-2-raising-bar-open-language-models
-Headline: YeagerAI’s Intelligent Oracle: Built on GenLayer blockchain for real-time data access
-Description: <p>Blockchain AI research lab YeagerAI has announced the launch of the Intelligent Oracle, an AI-powered oracle that aims to provide decentralised applications (DApps) with online data on-chain. The O...
-Link: https://www.artificialintelligence-news.com/news/yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access/?utm_source=rss&utm_medium=rss&utm_campaign=yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access
-Headline: UK establishes LASR to counter AI security threats
-Description: <p>The UK is establishing the Laboratory for AI Security Research (LASR) to help protect Britain and its allies against emerging threats in what officials describe as an &#8220;AI arms race.&#8221; Th...
-Link: https://www.artificialintelligence-news.com/news/uk-establishes-lasr-counter-ai-security-threats/?utm_source=rss&utm_medium=rss&utm_campaign=uk-establishes-lasr-counter-ai-security-threats
-Headline: OpenAI enhances AI safety with new red teaming methods
-Description: <p>A critical part of OpenAI’s safeguarding process is &#8220;red teaming&#8221; — a structured methodology using both human and AI participants to explore potential risks and vulnerabilities in new s...
-Link: https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/?utm_source=rss&utm_medium=rss&utm_campaign=openai-enhances-ai-safety-new-red-teaming-methods
-Headline: Big tech’s AI spending hits new heights
-Description: <p>In 2024, Big Tech is all-in on artificial intelligence, with companies like Microsoft, Amazon, Alphabet, and Meta leading the way. Their combined spending on AI is projected to exceed a jaw-droppin...
-Link: https://www.artificialintelligence-news.com/news/big-tech-ai-spending-hits-new-heights/?utm_source=rss&utm_medium=rss&utm_campaign=big-tech-ai-spending-hits-new-heights
-Headline: Samsung unveils Gauss2 AI model at SDC24 Korea
-Description: <p>Samsung has revealed Gauss2, the second-generation proprietary AI model set to significantly enhance user experiences. Paul Kyungwhoon Cheun, President and CTO of the Device eXperience (DX) Divisio...
-Link: https://www.artificialintelligence-news.com/news/samsung-unveils-gauss2-ai-model-sdc24-korea/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-unveils-gauss2-ai-model-sdc24-korea
-Headline: Boost your ROI: The impact of chatbots on marketing
-Description: <p>Discover how chatbots for marketing can boost your ROI with enhanced engagement and instant customer responses. What are chatbots? Chatbots are automated software applications designed to simulate ...
-Link: https://www.artificialintelligence-news.com/news/boost-your-roi-the-impact-of-chatbots-on-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=boost-your-roi-the-impact-of-chatbots-on-marketing
-Headline: Preparing today for tomorrow’s AI regulations
-Description: <p>AI is rapidly becoming ubiquitous across business systems and IT ecosystems, with adoption and development racing faster than anyone could have expected. Today it seems that everywhere we turn, sof...
-Link: https://www.artificialintelligence-news.com/news/preparing-today-for-tomorrows-ai-regulations/?utm_source=rss&utm_medium=rss&utm_campaign=preparing-today-for-tomorrows-ai-regulations
-Headline: Salesforce launches AI platform for automated task management
-Description: <p>Business Insider’s “CXO AI Playbook” looks at how firms are utilising AI to tackle challenges, scale operations, and plan for the future. The Playbook looks at stories from various industries to se...
-Link: https://www.artificialintelligence-news.com/news/salesforce-launches-ai-platform-for-automated-task-management/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-launches-ai-platform-for-automated-task-management
 
 ---
 
@@ -221,6 +189,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/serving-llms-using-vllm-and-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: OpenAI faces critical test as Chinese models close the gap in AI leadership
+Description: In the fast-moving world of AI, competition is heating up—and nowhere is this more evident than in the battle over advanced reasoning models. In just the past few days, three new AI models from Chines...
+Link: https://venturebeat.com/ai/openai-faces-critical-test-as-chinese-models-close-the-gap-in-ai-leadership/
 Headline: Alibaba researchers unveil Marco-o1, an LLM with advanced reasoning capabilities
 Description: The model uses more cycles during inference to generate more tokens and review responses, improving its performance on reasoning tasks.
 Link: https://venturebeat.com/ai/alibaba-researchers-unveil-marco-o1-an-llm-with-advanced-reasoning-capabilities/
@@ -248,25 +219,25 @@ Link: https://venturebeat.com/ai/getting-started-with-ai-agents-part-2-autonomy-
 Headline: Microsoft’s 10 new AI agents strengthen its enterprise automation lead
 Description: In a three-part video series with generative AI developer and expert Sam Witteveen, I explore what Microsoft's announcements about AI agents mean for enterprises, why Microsoft is pulling ahead as a l...
 Link: https://venturebeat.com/ai/microsofts-10-new-ai-agents-strengthen-its-enterprise-automation-lead/
-Headline: Getting started with AI agents (part 1): Capturing processes, roles and connections
-Description: To get started with AI agents, we must first identify differences between agents and models and define roles and communication requirements.
-Link: https://venturebeat.com/ai/getting-started-with-ai-agents-part-1-capturing-processes-roles-and-connections/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: The 40+ best Black Friday 2024 deals for robot vacuum: Sales are live now
+Description: We've rounded up the best robot vacuums on sale for Black Friday available now.
+Link: https://www.zdnet.com/article/best-black-friday-robot-vacuum-deals-2024-11-28/
 Headline: How I bought the Meta Ray-Bans for 20% off on Black Friday - and got an Amazon gift card too
 Description: Consistent feature updates, a rare discount, and a free $90 Amazon gift card make the Meta Ray-Ban smart glasses a no-brainer purchase for me this holiday season.
-Link: https://www.zdnet.com/article/how-i-bought-the-meta-ray-bans-for-20-off-on-black-friday-and-got-an-amazon-gift-card-too/
+Link: https://www.zdnet.com/article/how-i-bought-the-meta-ray-bans-for-20-off-on-black-friday-and-got-an-amazon-gift-card-too-11-28-2024/
 Headline: Gen AI could speed up coding, but businesses should still consider risks
 Description: Organizations keen to fund gen AI-powered software development for the anticipated benefits should also understand that this may come with adverse effects.
 Link: https://www.zdnet.com/article/gen-ai-could-speed-up-coding-but-businesses-should-still-consider-risks/
-Headline: AI-driven software testing gains more champions but worries persist
-Description: The question is no longer whether gen AI and emerging technologies will elevate the automation of software testing but when and how. However, proponents need to overcome organizational resistance.
-Link: https://www.zdnet.com/article/ai-driven-software-testing-gains-more-champions-but-worries-persist/
 Headline: Gen AI gives software developers surge in productivity - but it's not for everyone
 Description: Generative AI brings productivity benefits, but IT professionals must be wary of wholesale adoption of these tools in their current incarnations.
 Link: https://www.zdnet.com/article/gen-ai-gives-software-developers-surge-in-productivity-but-its-not-for-everyone/
+Headline: AI-driven software testing gains more champions but worries persist
+Description: The question is no longer whether gen AI and emerging technologies will elevate the automation of software testing but when and how. However, proponents need to overcome organizational resistance.
+Link: https://www.zdnet.com/article/ai-driven-software-testing-gains-more-champions-but-worries-persist/
 Headline: 25 AI tips to boost your programming productivity with ChatGPT
 Description: With ChatGPT in your toolkit, coding can be faster and smoother. I share the best ways of using AI to overcome common coding challenges, so you can streamline your development projects.
 Link: https://www.zdnet.com/article/25-ai-tips-to-boost-your-programming-productivity-with-chatgpt/
@@ -360,6 +331,24 @@ Link: https://www.sciencedaily.com/releases/2024/11/241113123308.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: The way Cheerios stick together has inspired a new kind of robot
+Description: Tiny robots designed to carry out environmental or industrial tasks could be powered by tricks involving surface tension
+Link: https://www.newscientist.com/article/2457954-the-way-cheerios-stick-together-has-inspired-a-new-kind-of-robot/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Electric Dreams is past echo of today’s debates on AI-generated art
+Description: Tate Modern exhibition explores past echoes of today’s debates about virtual reality and AI-generated art
+Link: https://www.newscientist.com/video/2458269-electric-dreams-is-past-echo-of-todays-debates-on-ai-generated-art/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Social media algorithms can change your views in just a single day
+Description: The content you see on social media is often determined by an algorithm - and it turns out that these algorithms can rapidly change your views
+Link: https://www.newscientist.com/article/2458226-social-media-algorithms-can-change-your-views-in-just-a-single-day/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: AI can analyse a decomposing body to help pinpoint the time of death
+Description: Determining when someone died based on their decomposing body is a subjective task, but artificial intelligence could bring some objectivity to the process
+Link: https://www.newscientist.com/article/2457953-ai-can-analyse-a-decomposing-body-to-help-pinpoint-the-time-of-death/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: The forgotten civil engineer with a vision we could all learn from
+Description: John "Bud" Benson Wilbur isn't often remembered today, but his ideas about what the distant-future world of 1977 would look like are inspirational, says Annalee Newitz
+Link: https://www.newscientist.com/article/mg26435192-400-the-forgotten-civil-engineer-with-a-vision-we-could-all-learn-from/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Don’t be fooled by Elon Musk’s chatty Optimus robots
+Description: The long history of robotics should teach us to be more sceptical when it comes to autonomous humanoid robots, says Nicole Kobie
+Link: https://www.newscientist.com/article/2457971-dont-be-fooled-by-elon-musks-chatty-optimus-robots/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Robot balloons are snapping centimetre-resolution photos of the US
 Description: Near Space Labs’s autonomous balloon fleet is already taking high-resolution images of the ground, and its range will expand to the entire continental US early next year
 Link: https://www.newscientist.com/article/2457923-robot-balloons-are-snapping-centimetre-resolution-photos-of-the-us/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -372,24 +361,6 @@ Link: https://www.newscientist.com/article/2458117-how-could-ukraine-stop-russia
 Headline: Record-breaking diamond storage can save data for millions of years
 Description: Researchers have used lasers to encode information in diamonds, demonstrating record-breaking data density in an ultra-stable and long-lasting system
 Link: https://www.newscientist.com/article/2457948-record-breaking-diamond-storage-can-save-data-for-millions-of-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Changing a single number among billions can destroy an AI model
-Description: Today's huge AI models are composed of several billion numbers known as weights and changing just one of them can destroy their ability to function, leading to “gibberish” output
-Link: https://www.newscientist.com/article/2456168-changing-a-single-number-among-billions-can-destroy-an-ai-model/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: IBM entangled two quantum chips to work together for the first time
-Description: IBM has bet big on a modular approach to building quantum computers, and now it has successfully linked two quantum chips together to operate as a single device, a key step towards that goal
-Link: https://www.newscientist.com/article/2456542-ibm-entangled-two-quantum-chips-to-work-together-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: AI simulations of 1000 people accurately replicate their behaviour
-Description: Using GPT-4o, the model behind ChatGPT, researchers have replicated the personality and behaviour of more than 1000 people, in an effort to create an alternative to focus groups and polling
-Link: https://www.newscientist.com/article/2457233-ai-simulations-of-1000-people-accurately-replicate-their-behaviour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Risk algorithm used widely in US courts is harsher than human judges
-Description: When deciding whether to let people await trial at home or in jail, US judges can use a risk score algorithm. But it often makes harsher recommendations than humans do
-Link: https://www.newscientist.com/article/2456603-risk-algorithm-used-widely-in-us-courts-is-harsher-than-human-judges/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Majority of people believe their devices spy on them to serve up ads
-Description: There is no evidence that advertisers use covert recordings of conversations to target people with adverts, an accusation widely denied by the industry, and yet this belief persists
-Link: https://www.newscientist.com/article/2457333-majority-of-people-believe-their-devices-spy-on-them-to-serve-up-ads/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Robotic pigeon reveals how birds fly without a vertical tail fin
-Description: A flying robot uses its bird-like tail to maintain stability in flight – a technique that could enable more aerodynamic aircraft designs that use less fuel
-Link: https://www.newscientist.com/article/2456661-robotic-pigeon-reveals-how-birds-fly-without-a-vertical-tail-fin/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -402,30 +373,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: AI can predict neuroscience study results better than human experts, study finds
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h110a1/ai_can_predict_neuroscience_study_results_better/"> <img alt="AI can predict neuroscience study results better than human...
-Link: https://www.reddit.com/r/artificial/comments/1h110a1/ai_can_predict_neuroscience_study_results_better/
-Headline: Artists Beta Testing OpenAI's Sora Video Tool Leak It in Protest Against 'Corporate AI Overlords'
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h1a5ki/artists_beta_testing_openais_sora_video_tool_leak/"> <img alt="Artists Beta Testing OpenAI's Sora Video Tool Leak It in P...
-Link: https://www.reddit.com/r/artificial/comments/1h1a5ki/artists_beta_testing_openais_sora_video_tool_leak/
-Headline: Anybody who says they know for sure that AI will be bad OR good is overconfident
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h19uze/anybody_who_says_they_know_for_sure_that_ai_will/"> <img alt="Anybody who says they know for sure that AI will be bad OR ...
-Link: https://www.reddit.com/r/artificial/comments/1h19uze/anybody_who_says_they_know_for_sure_that_ai_will/
-Headline: Google DeepMind’s AI powered AlphaQubit makes advancements
-Description: <!-- SC_OFF --><div class="md"><p>Google DeepMind and the Quantum AI team have introduced AlphaQubit, an AI-powered system that significantly improves quantum error correction. Highlighted in Nature, ...
-Link: https://www.reddit.com/r/artificial/comments/1h1kg6g/google_deepminds_ai_powered_alphaqubit_makes/
-Headline: Use of AI for Assignment.
-Description: <!-- SC_OFF --><div class="md"><p>I have used AI for generating outline for my assignment and have submitted it. I usually check my AI generated percentage through ZeroGPT and GPTzero. While checking ...
-Link: https://www.reddit.com/r/artificial/comments/1h17h60/use_of_ai_for_assignment/
-Headline: God and Faith in the AI Era
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h16hgb/god_and_faith_in_the_ai_era/"> <img alt="God and Faith in the AI Era" src="https://external-preview.redd.it/HK0os1Ei2iA2z...
-Link: https://www.reddit.com/r/artificial/comments/1h16hgb/god_and_faith_in_the_ai_era/
-Headline: How can I safeguard my job from Artificial Intelligence
-Description: <!-- SC_OFF --><div class="md"><p>Bored Panda( Robyn Smith, Gabija Palsytè) entered following question to a bot instructing ChatGPT to provide a concise under 200 words. </p> <p>&quot;To safeguard you...
-Link: https://www.reddit.com/r/artificial/comments/1h1ip05/how_can_i_safeguard_my_job_from_artificial/
-Headline: What does an AI Fukushima look like?
-Description: <!-- SC_OFF --><div class="md"><p>Presumably it’s not a Skynet scenario, but is it at all predictable from our position?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.c...
-Link: https://www.reddit.com/r/artificial/comments/1h1gahg/what_does_an_ai_fukushima_look_like/
+Headline: In case anyone doubts there has been major progress in AI since GPT-4 launched
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h1xhb9/in_case_anyone_doubts_there_has_been_major/"> <img alt="In case anyone doubts there has been major progress in AI since G...
+Link: https://www.reddit.com/r/artificial/comments/1h1xhb9/in_case_anyone_doubts_there_has_been_major/
+Headline: One-Minute Daily AI News 11/27/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><p>Amazon has developed new generative artificial intelligence that can process images and video in addition to text.[1]</p></li> <li><p>Alibaba releases an ‘op...
+Link: https://www.reddit.com/r/artificial/comments/1h1m2cs/oneminute_daily_ai_news_11272024/
+Headline: Artificial intelligence finds previously undetected historical climate extremes
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h20kyz/artificial_intelligence_finds_previously/"> <img alt="Artificial intelligence finds previously undetected historical clim...
+Link: https://www.reddit.com/r/artificial/comments/1h20kyz/artificial_intelligence_finds_previously/
+Headline: When GPT-4 was asked to help maximize profits, it did that by secretly coordinating with other AIs to keep prices high
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h1x48i/when_gpt4_was_asked_to_help_maximize_profits_it/"> <img alt="When GPT-4 was asked to help maximize profits, it did that b...
+Link: https://www.reddit.com/r/artificial/comments/1h1x48i/when_gpt4_was_asked_to_help_maximize_profits_it/
+Headline: AI Video Editor?
+Description: <!-- SC_OFF --><div class="md"><p>Looking for a video editor that I can put my own clips into, to turn into a full video. </p> <p>So far they all seem to want to generate it themselves, I just want si...
+Link: https://www.reddit.com/r/artificial/comments/1h20b3s/ai_video_editor/
 
 ---
 
