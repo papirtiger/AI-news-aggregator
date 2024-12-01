@@ -1,6 +1,12 @@
-AI News Updates - 2024-11-30 02:55:42
+AI News Updates - 2024-12-01 03:16:18
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Elon Musk files for injunction to halt OpenAI’s transition to a for-profit
+Description: <p>Attorneys for tech billionaire Elon Musk have filed for a preliminary injunction against OpenAI, several of its co-founders, and its investor and close collaborator, Microsoft, to prevent OpenAI an...
+Link: https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/
+Headline: Climate VCs are cautiously optimistic about a second Trump term — here’s why
+Description: <p>President-elect Donald Trump made no secret during his campaigning that he doesn’t think the U.S. should take an aggressive stance on climate change. From leading chants of “drill, baby, drill” to ...
+Link: https://techcrunch.com/2024/11/30/climate-vcs-are-cautiously-optimistic-about-a-second-trump-term-heres-why/
 Headline: Canadian news companies sue OpenAI
 Description: <p>A group of Canadian news and media companies filed a lawsuit Friday against OpenAI, alleging that the ChatGPT maker has infringed their copyrights and unjustly enriched itself at their expense. The...
 Link: https://techcrunch.com/2024/11/29/canadian-news-companies-sue-openai/
@@ -17,16 +23,14 @@ Headline: Why AI agent startup /dev/agents commanded a massive $56M seed round a
 Description: <p>/dev/agents, a new company by the developers of Android, believes a new operating system is needed to fully realize the potential of AI agents.</p>
 <p>© 2024 TechCrunch. All rights reserved. For pe...
 Link: https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/
-Headline: Alibaba releases an ‘open’ challenger to OpenAI’s o1 reasoning model
-Description: <p>A new so-called &#8220;reasoning&#8221; AI model, QwQ-32B-Preview, has arrived on the scene. It&#8217;s one of the few to rival OpenAI&#8217;s o1, and it&#8217;s the first available to download und...
-Link: https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/
-Headline: Google Gemini’s Imagen 3 lets players design their own chess pieces
-Description: <p>Google Labs, the experimental arm of the tech giant, has introduced a new online project that offers an entertaining variation of the game of chess. The web experiment is named GenChess, which, as ...
-Link: https://techcrunch.com/2024/11/27/google-geminis-imagen-3-lets-players-design-their-own-chess-pieces/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Elon Musk targets OpenAI’s for-profit transition in a new filing
+Description: <figure>
+      <img alt="An image of Elon Musk in front of trial scales." src="https://cdn.vox-cdn.com/thumbor/F_ikaHWyT0xQS104hYheJYizHPo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/...
+Link: https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction
 Headline: xAI could soon have its own app
 Description: <figure>
       <img alt="Vector illustration of the xAI logo." src="https://cdn.vox-cdn.com/thumbor/wwdU-3L8GszcO0wNjWxT81f2nWg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73751...
@@ -59,11 +63,6 @@ Headline: Google’s connecting Spotify to its Gemini AI  assistant
 Description: <figure>
       <img alt="Vector illustration of a play button with the Spotify logo." src="https://cdn.vox-cdn.com/thumbor/13D5Ahc6H-Z6xB_NPjiDkonl8-I=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/c...
 Link: https://www.theverge.com/2024/11/26/24306815/google-gemini-spotify-extension-rollout-android
-Headline: Anthropic says Claude AI can match your unique writing style
-Description: <figure>
-      <img alt="" src="https://cdn.vox-cdn.com/thumbor/h_aarEI8E2dTwszUjZUcdhPxA7M=/600x0:7080x4320/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73749030/Style_selector.0.jpg" />
-     ...
-Link: https://www.theverge.com/2024/11/26/24306575/anthropic-claude-ai-custom-style-presets
 
 ---
 
@@ -104,36 +103,6 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
-Headline: Alibaba Marco-o1: Advancing LLM reasoning capabilities
-Description: <p>Alibaba has announced Marco-o1, a large language model (LLM) designed to tackle both conventional and open-ended problem-solving tasks. Marco-o1, from Alibaba’s MarcoPolo team, represents another s...
-Link: https://www.artificialintelligence-news.com/news/alibaba-marco-o1-advancing-llm-reasoning-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=alibaba-marco-o1-advancing-llm-reasoning-capabilities
-Headline: New AI training techniques aim to overcome current challenges
-Description: <p>OpenAI and other leading AI companies are developing new training techniques to overcome limitations of current methods. Addressing unexpected delays and complications in the development of larger,...
-Link: https://www.artificialintelligence-news.com/news/o1-model-llm-ai-openai-training-research-next-generation/?utm_source=rss&utm_medium=rss&utm_campaign=o1-model-llm-ai-openai-training-research-next-generation
-Headline: Generative AI use soars among brits, but is it sustainable?
-Description: <p>A survey by CloudNine PR shows that 83% of UK adults are aware of generative AI tools, and 45% of those familiar with them want companies to be transparent about the environmental costs associated ...
-Link: https://www.artificialintelligence-news.com/news/generative-ai-use-soars-among-brits-but-is-it-sustainable/?utm_source=rss&utm_medium=rss&utm_campaign=generative-ai-use-soars-among-brits-but-is-it-sustainable
-Headline: Ai2 OLMo 2: Raising the bar for open language models
-Description: <p>Ai2 is releasing OLMo 2, a family of open-source language models that advances the democratisation of AI and narrows the gap between open and proprietary solutions. The new models, available in 7B ...
-Link: https://www.artificialintelligence-news.com/news/ai2-olmo-2-raising-bar-open-language-models/?utm_source=rss&utm_medium=rss&utm_campaign=ai2-olmo-2-raising-bar-open-language-models
-Headline: YeagerAI’s Intelligent Oracle: Built on GenLayer blockchain for real-time data access
-Description: <p>Blockchain AI research lab YeagerAI has announced the launch of the Intelligent Oracle, an AI-powered oracle that aims to provide decentralised applications (DApps) with online data on-chain. The O...
-Link: https://www.artificialintelligence-news.com/news/yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access/?utm_source=rss&utm_medium=rss&utm_campaign=yeagerais-intelligent-oracle-built-on-genlayer-blockchain-for-real-time-data-access
-Headline: UK establishes LASR to counter AI security threats
-Description: <p>The UK is establishing the Laboratory for AI Security Research (LASR) to help protect Britain and its allies against emerging threats in what officials describe as an &#8220;AI arms race.&#8221; Th...
-Link: https://www.artificialintelligence-news.com/news/uk-establishes-lasr-counter-ai-security-threats/?utm_source=rss&utm_medium=rss&utm_campaign=uk-establishes-lasr-counter-ai-security-threats
-Headline: OpenAI enhances AI safety with new red teaming methods
-Description: <p>A critical part of OpenAI’s safeguarding process is &#8220;red teaming&#8221; — a structured methodology using both human and AI participants to explore potential risks and vulnerabilities in new s...
-Link: https://www.artificialintelligence-news.com/news/openai-enhances-ai-safety-new-red-teaming-methods/?utm_source=rss&utm_medium=rss&utm_campaign=openai-enhances-ai-safety-new-red-teaming-methods
-Headline: Big tech’s AI spending hits new heights
-Description: <p>In 2024, Big Tech is all-in on artificial intelligence, with companies like Microsoft, Amazon, Alphabet, and Meta leading the way. Their combined spending on AI is projected to exceed a jaw-droppin...
-Link: https://www.artificialintelligence-news.com/news/big-tech-ai-spending-hits-new-heights/?utm_source=rss&utm_medium=rss&utm_campaign=big-tech-ai-spending-hits-new-heights
-Headline: Samsung unveils Gauss2 AI model at SDC24 Korea
-Description: <p>Samsung has revealed Gauss2, the second-generation proprietary AI model set to significantly enhance user experiences. Paul Kyungwhoon Cheun, President and CTO of the Device eXperience (DX) Divisio...
-Link: https://www.artificialintelligence-news.com/news/samsung-unveils-gauss2-ai-model-sdc24-korea/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-unveils-gauss2-ai-model-sdc24-korea
-Headline: Boost your ROI: The impact of chatbots on marketing
-Description: <p>Discover how chatbots for marketing can boost your ROI with enhanced engagement and instant customer responses. What are chatbots? Chatbots are automated software applications designed to simulate ...
-Link: https://www.artificialintelligence-news.com/news/boost-your-roi-the-impact-of-chatbots-on-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=boost-your-roi-the-impact-of-chatbots-on-marketing
 
 ---
 
@@ -205,6 +174,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/create-a-generative-ai-assis
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: AI that clicks for you: Microsoft’s research points to the future of GUI automation
+Description: Microsoft research reveals how AI agents are transforming computer interaction through GUI control, with major tech companies racing to deploy LLM-powered automation tools worth $68.9 billion by 2028.
+Link: https://venturebeat.com/ai/ai-that-clicks-for-you-microsoft-research-points-to-the-future-of-gui-automation/
 Headline: Alibaba releases Qwen with Questions, an open reasoning model that beats o1-preview
 Description: QwQ uses inference-time scaling to solve complex reasoning and planning questions, besting OpenAI's o1 in several benchmarks.
 Link: https://venturebeat.com/ai/alibaba-releases-qwen-with-questions-an-open-reasoning-model-that-beats-o1-preview/
@@ -229,34 +201,31 @@ Link: https://venturebeat.com/data-infrastructure/anthropic-releases-model-conte
 Headline: Thomson Reuters’ CoCounsel redefines legal AI with OpenAI’s o1-mini model
 Description: Thomson Reuters integrates OpenAI's o1-mini model into CoCounsel legal assistant, pioneering a multi-AI approach with Google and Anthropic models for enhanced legal workflows.
 Link: https://venturebeat.com/ai/thomson-reuters-cocounsel-redefines-legal-ai-with-openais-o1-mini-model/
-Headline: Luma expands Dream Machine AI video model into full creative platform, mobile app
-Description: Now available on web and iOS, the new Dream Machine aims to blend simplicity and sophistication across input devices.
-Link: https://venturebeat.com/ai/luma-expands-dream-machine-ai-video-model-into-full-creative-platform-mobile-app/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Best Black Friday robot vacuum deals 2024: 40+ deals still live on Roborock, iRobot and more
+Description: I test robot vacuums, and I found some of the greatest discounts I've seen still available after Black Friday. (Get your hands on the iRobot Roomba Combo j9+ for over $400 off while you still can.)
+Link: https://www.zdnet.com/article/best-black-friday-robot-vacuum-deals-2024-11-30/
 Headline: How I bought the Meta Ray-Bans for 20% off on Black Friday - and got an Amazon gift card too
 Description: Consistent feature updates, a rare discount, and a free $90 Amazon gift card make the Meta Ray-Ban smart glasses a no-brainer purchase for me this holiday season.
 Link: https://www.zdnet.com/article/how-i-bought-the-meta-ray-bans-for-20-off-on-black-friday-and-got-an-amazon-gift-card-too-11-28-2024/
 Headline: Gen AI could speed up coding, but businesses should still consider risks
 Description: Organizations keen to fund gen AI-powered software development for the anticipated benefits should also understand that this may come with adverse effects.
 Link: https://www.zdnet.com/article/gen-ai-could-speed-up-coding-but-businesses-should-still-consider-risks/
-Headline: AI-driven software testing gains more champions but worries persist
-Description: The question is no longer whether gen AI and emerging technologies will elevate the automation of software testing but when and how. However, proponents need to overcome organizational resistance.
-Link: https://www.zdnet.com/article/ai-driven-software-testing-gains-more-champions-but-worries-persist/
 Headline: Gen AI gives software developers surge in productivity - but it's not for everyone
 Description: Generative AI brings productivity benefits, but IT professionals must be wary of wholesale adoption of these tools in their current incarnations.
 Link: https://www.zdnet.com/article/gen-ai-gives-software-developers-surge-in-productivity-but-its-not-for-everyone/
+Headline: AI-driven software testing gains more champions but worries persist
+Description: The question is no longer whether gen AI and emerging technologies will elevate the automation of software testing but when and how. However, proponents need to overcome organizational resistance.
+Link: https://www.zdnet.com/article/ai-driven-software-testing-gains-more-champions-but-worries-persist/
 Headline: 25 AI tips to boost your programming productivity with ChatGPT
 Description: With ChatGPT in your toolkit, coding can be faster and smoother. I share the best ways of using AI to overcome common coding challenges, so you can streamline your development projects.
 Link: https://www.zdnet.com/article/25-ai-tips-to-boost-your-programming-productivity-with-chatgpt/
 Headline: Zoom says it's no longer a video company. What that means for your meetings
 Description: Zoom is implementing a serious injection of AI - which includes your potential 'digital twin.'
 Link: https://www.zdnet.com/article/zoom-says-it-is-no-longer-a-video-company-what-that-means-for-your-meetings/
-Headline: Spotify users can ask Gemini AI to find and play their favorite music now
-Description: Thanks to a new team-up between Spotify and Google, you can request songs by title, artist, album, genre, or playlist. Here's how to get started.
-Link: https://www.zdnet.com/article/spotify-users-can-ask-gemini-ai-to-find-and-play-their-favorite-music-now/
 
 ---
 
@@ -383,22 +352,15 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: One-Minute Daily AI News 11/28/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><p>Microsoft denies training AI models on user data.[1]</p></li> <li><p>360 launches Nano Search, redefining search engines with AI integration.[2]</p></li> <li...
-Link: https://www.reddit.com/r/artificial/comments/1h2cmhx/oneminute_daily_ai_news_11282024/
-Headline: AI Wearable Brings Speech Back to Stroke Survivors
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h2ky0r/ai_wearable_brings_speech_back_to_stroke_survivors/"> <img alt="AI Wearable Brings Speech Back to Stroke Survivors" src="...
-Link: https://www.reddit.com/r/artificial/comments/1h2ky0r/ai_wearable_brings_speech_back_to_stroke_survivors/
-Headline: Why ‘open’ AI systems are actually closed, and why this matters
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetaKnowing"> /u/MetaKnowing </a> <br /> <span><a href="https://www.nature.com/articles/s41586-024-08141-1">[link]</a></span> &#32; <span>...
-Link: https://www.reddit.com/r/artificial/comments/1h2qxii/why_open_ai_systems_are_actually_closed_and_why/
-Headline: Does anyone know of any AI program or website that can take two different Audio clips and then create a 'transition' that makes a semi-reasonable sounding clip between the end of one and the start of the next one?
-Description: <!-- SC_OFF --><div class="md"><p>Say I have Audio Clip A and Audio Clip B.</p> <p>They're both entirely unrelated, but I want to make A transition into B for whatever reason.</p> <p>Is there any webs...
-Link: https://www.reddit.com/r/artificial/comments/1h311k3/does_anyone_know_of_any_ai_program_or_website/
-Headline: the top five ais have already been estimated to earn above-genius-level iq scores. things are about to get very, very interesting.
-Description: <!-- SC_OFF --><div class="md"><p>iq estimates for ais have not yet been formally standardized, but based on their scores on various benchmarks and tests, researchers have approximated their &quot;int...
-Link: https://www.reddit.com/r/artificial/comments/1h2vgdq/the_top_five_ais_have_already_been_estimated_to/
-
+Headline: Due to "unsettling shifts" yet another senior AGI safety researcher has left OpenAI with a warning
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h3r7fa/due_to_unsettling_shifts_yet_another_senior_agi/"> <img alt="Due to &quot;unsettling shifts&quot; yet another senior AGI ...
+Link: https://www.reddit.com/r/artificial/comments/1h3r7fa/due_to_unsettling_shifts_yet_another_senior_agi/
+Headline: YouTubers and streamers using ai characters?
+Description: <!-- SC_OFF --><div class="md"><p>I’ve recently seen a plethora of YouTubers/streamers using AI charecters</p> <p>I have strong doubts these people have coding knowledge so if anyone knows the softwar...
+Link: https://www.reddit.com/r/artificial/comments/1h3sr66/youtubers_and_streamers_using_ai_characters/
+Headline: What problems have you used to stump the top chat bots? They seem unable to solve this train riddle.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h3sgbf/what_problems_have_you_used_to_stump_the_top_chat/"> <img alt="What problems have you used to stump the top chat bots? Th...
+Link: https://www.reddit.com/r/artificial/comments/1h3sgbf/what_problems_have_you_used_to_stump_the_top_chat/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
