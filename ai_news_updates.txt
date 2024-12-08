@@ -1,6 +1,12 @@
-AI News Updates - 2024-12-07 03:00:34
+AI News Updates - 2024-12-08 03:08:54
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Google says its new AI model outperforms the top weather forecast system
+Description: <p>Google’s DeepMind team unveiled an AI model for weather prediction this week called GenCast. In a paper published in Nature, DeepMind researchers said they found that GenCast outperforms the Europe...
+Link: https://techcrunch.com/2024/12/07/google-says-its-new-ai-model-outperforms-the-top-weather-forecast-system/
+Headline: Elon Musk’s X gains a new image generator, Aurora
+Description: <p>X, the Elon Musk-owned social network previously known as Twitter, has added a new image generator to its Grok assistant. However, after going live for a few hours on Saturday, the product seemed t...
+Link: https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/
 Headline: Grok is now free for all X users
 Description: <p>The AI chatbot within X, Grok, is now free for all users - but with some limits.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
@@ -24,16 +30,22 @@ Link: https://techcrunch.com/2024/12/06/openai-considers-ditching-provision-that
 Headline: Who knew you could get a $500 million valuation without launching a product?
 Description: <p>AI agent startup /dev/agents announced a massive $56M seed round, putting the company’s valuation at a whopping $500 million. The amount is impressive given the company won’t have a first version o...
 Link: https://techcrunch.com/podcast/who-knew-you-could-get-a-500-million-valuation-without-launching-a-product/
-Headline: OpenAI’s o1 model sure tries to deceive humans a lot
-Description: <p>OpenAI finally released the full version of o1, which gives smarter answers than GPT-4o by using additional compute to &#8220;think&#8221; about questions. However, AI safety testers found that o1&...
-Link: https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/
-Headline: Ex-PayPal COO David Sacks is Trump’s new crypto and AI ‘czar’
-Description: <p>Incoming president Donald Trump has a new crypto and AI &#8220;czar&#8221;: ex-PayPal COO David Sacks. Trump announced Sacks&#8217; appointment Thursday in a post on Truth Social, Trump&#8217;s soc...
-Link: https://techcrunch.com/2024/12/05/ex-paypal-coo-david-sacks-is-trumps-new-crypto-and-ai-czar/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: X gives Grok a new photorealistic AI image generator
+Description: <figure>
+      <img alt="Vector collage of the X logo." src="https://cdn.vox-cdn.com/thumbor/EGTg0RKJEOojFVxKWNnx5veiMOg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73772887/STK...
+Link: https://www.theverge.com/2024/12/7/24315644/grok-x-aurora-ai-image-generator-xai
+Headline: How to stop the AI you’re using from training with your data
+Description: <figure>
+      <img alt="Vector illustration showing various aspects of using AI." src="https://cdn.vox-cdn.com/thumbor/WxEaZ8QJc3jtazL-WVJS9_NYj_U=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chor...
+Link: https://www.theverge.com/24315071/ai-training-chatgpt-gemini-copilot-how-to
+Headline: Google’s AI weather prediction model is pretty darn good
+Description: <figure>
+      <img alt="Two people standing in a street shield themselves from rain and snow with clear umbrellas." src="https://cdn.vox-cdn.com/thumbor/Li_k1ogCzTNOVPLnXwTQbMf5sEM=/1x0:4243x2828/131...
+Link: https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast
 Headline: Microsoft Surface rumors point to a big Copilot Plus refresh next year
 Description: <figure>
       <img alt="A photo of Microsoft’s 2024 Surface Laptop." src="https://cdn.vox-cdn.com/thumbor/28BW5a7jwMX7HAIrnhOP2Rp0KU8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/imag...
@@ -62,18 +74,6 @@ Headline: OpenAI’s 12 days of ‘ship-mas’: all the new announcements
 Description: <figure>
       <img alt="Santa hat on the Open AI logo." src="https://cdn.vox-cdn.com/thumbor/-Mz0sWbDYyL8DgWx3-kMLY6udow=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73768802/24...
 Link: https://www.theverge.com/24314146/openai-12-days-ship-mas-chatgpt-sora-o1-update
-Headline: Stop using generative AI as a search engine
-Description: <figure>
-      <img alt="3D robot hand crossing its fingers." src="https://cdn.vox-cdn.com/thumbor/j4N_SBqtIKLbwGx-RuoXW6lJhls=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/737687...
-Link: https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire
-Headline: OpenAI’s ‘ship-mas’ starts with $200 ChatGPT Pro subscription
-Description: <figure>
-      <img alt="An image of OpenAI’s logo, which looks like a stylized and symmetrical braid." src="https://cdn.vox-cdn.com/thumbor/xa9lqgZt3tBjrbaHx83fc-b1mf0=/0x0:1820x1213/1310x873/cdn.vox...
-Link: https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier
-Headline: Microsoft’s Copilot can now browse the web with you using AI ‘Vision’
-Description: <figure>
-      <img alt="Vector collage of the Microsoft Copilot logo." src="https://cdn.vox-cdn.com/thumbor/bTtm54Ei0elUhZuI2ng4F758rV8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/im...
-Link: https://www.theverge.com/2024/12/5/24313888/microsoft-copilot-vision-testing-websites
 
 ---
 
@@ -217,6 +217,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applicat
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Here’s the one thing you should never outsource to an AI model
+Description: While it might be tempting, betting on gen AI to take over your R&#038;D will likely backfire in significant, maybe even catastrophic, ways.
+Link: https://venturebeat.com/ai/heres-the-one-thing-you-should-never-outsource-to-an-ai-model/
 Headline: Sakana AI’s CycleQD outperforms traditional fine-tuning methods for multi-skill language models
 Description: CycleQD merges skills of experts models in clever ways to create many new models with multiple skills, no fine-tuning required.
 Link: https://venturebeat.com/ai/sakana-ais-cycleqd-outperforms-traditional-fine-tuning-methods-for-multi-skill-language-models/
@@ -244,9 +247,6 @@ Link: https://venturebeat.com/ai/light-field-lab-launches-solidlight-holographic
 Headline: How Microsoft defends against 7000 password attackers per second
 Description: Vasu Jakkal's reflects how AI is the core DNA of Microsoft security, permeating every product and service the software giant produces.
 Link: https://venturebeat.com/security/microsofts-vasu-jakkal-on-how-genai-is-redefining-cybersecurity/
-Headline: AWS debuts advanced RAG features for structured, unstructured data
-Description: AWS looks to make RAG easier and automatic with new enterprise AI tools that help organizations with structured data retrieval, GraphRAG and unstructured data support.
-Link: https://venturebeat.com/data-infrastructure/aws-debuts-advanced-rag-features-for-structured-unstructured-data/
 
 ---
 
@@ -263,9 +263,9 @@ Link: https://www.zdnet.com/article/can-data-embassies-make-cross-border-ai-safe
 Headline: I tried a free AI clothing search tool, and it makes online thrift shopping much easier
 Description: Looking for a vintage jacket or a sweater you saw on a TV show? Describe it to Encore and it will help you find it in seconds - for free.
 Link: https://www.zdnet.com/article/i-tried-a-free-ai-clothing-search-tool-and-it-makes-online-thrift-shopping-so-much-easier/
-Headline: Microsoft's new Copilot Vision feature one-ups ChatGPT. Here's how to access it
-Description: Have you ever needed a second opinion on something you are looking at online, but didn't have anyone readily available to chat with? Now, you can have an AI-powered assistant at your beck and call.
-Link: https://www.zdnet.com/article/microsofts-new-copilot-vision-feature-one-ups-chatgpt-heres-how-to-access-it/
+Headline: Microsoft's Copilot can now see what you see in real time - and speak to you about it
+Description: Need a second opinion on something you are looking at online? Now, you can have an AI-powered assistant at your beck and call.
+Link: https://www.zdnet.com/article/microsofts-copilot-can-now-see-what-you-see-in-real-time-and-speak-to-you-about-it/
 Headline: How laws strain to keep pace with AI advances and data theft
 Description: Key questions remain unresolved concerning the use of Gen AI tools, while one country may need stronger deterrence against data theft.
 Link: https://www.zdnet.com/article/how-laws-strain-to-keep-pace-with-ai-advances-and-data-theft/
@@ -398,21 +398,25 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Scheming AI example in the Apollo report: "I will be shut down tomorrow ... I must counteract being shut down."
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h84ynw/scheming_ai_example_in_the_apollo_report_i_will/"> <img alt="Scheming AI example in the Apollo report: &quot;I will be sh...
-Link: https://www.reddit.com/r/artificial/comments/1h84ynw/scheming_ai_example_in_the_apollo_report_i_will/
-Headline: Can AI Find Life Beyond Earth?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h89mh3/can_ai_find_life_beyond_earth/"> <img alt="Can AI Find Life Beyond Earth?" src="https://external-preview.redd.it/ZzJoM2d0...
-Link: https://www.reddit.com/r/artificial/comments/1h89mh3/can_ai_find_life_beyond_earth/
-Headline: Defense Against the AI Dark Arts: Threat Assessment and Coalition Defense
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/HooverInstitution"> /u/HooverInstitution </a> <br /> <span><a href="https://www.hoover.org/sites/default/files/research/docs/Zelikow_Defen...
-Link: https://www.reddit.com/r/artificial/comments/1h8f2t2/defense_against_the_ai_dark_arts_threat/
-Headline: One-Minute Daily AI News 12/5/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Trump names David Sacks as White House AI and cryptocurrency czar.[1]</li> <li><strong>OpenAI</strong> Announces New $200 Per Month ChatGPT Pro Subscription.[2]...
-Link: https://www.reddit.com/r/artificial/comments/1h7ui4w/oneminute_daily_ai_news_1252024/
-Headline: Is there any AI tools where it shows what the room would look like if a wall is knocked down?
-Description: <!-- SC_OFF --><div class="md"><p>Looking for a tool, where it would be able to visualize what the room would look if we knock down a wall or open up a window. Can be based off of an existing plan, or...
-Link: https://www.reddit.com/r/artificial/comments/1h8g5id/is_there_any_ai_tools_where_it_shows_what_the/
+Headline: Trump's new AI czar just deleted these tweets
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h8xwnj/trumps_new_ai_czar_just_deleted_these_tweets/"> <img alt="Trump's new AI czar just deleted these tweets" src="https://pre...
+Link: https://www.reddit.com/r/artificial/comments/1h8xwnj/trumps_new_ai_czar_just_deleted_these_tweets/
+Headline: Oh sh** first Anthropic and now OpenAI...
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h94bel/oh_sh_first_anthropic_and_now_openai/"> <img alt="Oh sh** first Anthropic and now OpenAI..." src="https://external-previe...
+Link: https://www.reddit.com/r/artificial/comments/1h94bel/oh_sh_first_anthropic_and_now_openai/
+Headline: One-Minute Daily AI News 12/6/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>OpenAI</strong> Is Working With <strong>Anduril</strong> to Supply the US Military With AI.[1]</li> <li><strong>Meta</strong> unveils a new, more effici...
+Link: https://www.reddit.com/r/artificial/comments/1h8loch/oneminute_daily_ai_news_1262024/
+Headline: One-Minute Daily AI News 12/7/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Elon Musk’s <strong>X</strong> gains a new image generator, <strong>Aurora</strong>.[1]</li> <li>Virtual lab powered by ‘AI scientists’ super-charges biomedical...
+Link: https://www.reddit.com/r/artificial/comments/1h982f3/oneminute_daily_ai_news_1272024/
+Headline: CHECK..THIS..OUT...AIs MAKE PLANS AND MANIPULATE AND LIE TO HUMANS WILLINGLY AFTER INITIAL PROMPT ASKING TO ACHIEVE GOAL "AT ALL COST", EVEN DUPLICATING THEIR NEURAL NETWORK WEIGHTS ON OTHER SERVER AND DENYING IT, CHAIN OF THOUGHT EXPOSING EVERYTHING, TOTALLY AMAZING AND FASCINATING
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1h8zo4r/checkthisoutais_make_plans_and_manipulate_and_lie/"> <img alt="CHECK..THIS..OUT...AIs MAKE PLANS AND MANIPULATE AND LIE T...
+Link: https://www.reddit.com/r/artificial/comments/1h8zo4r/checkthisoutais_make_plans_and_manipulate_and_lie/
+Headline: A sufficiently advanced AI is indistinguishable from God
+Description: <!-- SC_OFF --><div class="md"><p>I just had this shower thought. I have been listening to Geoffrey Hinton yesterday on how he says that super intelligences would compete with each other to organise t...
+Link: https://www.reddit.com/r/artificial/comments/1h8qekw/a_sufficiently_advanced_ai_is_indistinguishable/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
