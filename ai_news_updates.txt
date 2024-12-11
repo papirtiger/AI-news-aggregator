@@ -1,30 +1,59 @@
-AI News Updates - 2024-12-10 03:05:13
+AI News Updates - 2024-12-11 03:02:51
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: Here’s how OpenAI’s fresh new Sora interface looks
-Description: <p>OpenAI&#8216;s video generator is here. ChatGPT subscribers can use Sora to generate videos from text, bring images to life, and extend, remix, or blend already existing videos. Here&#8217;s what i...
-Link: https://techcrunch.com/video/heres-how-openais-fresh-new-sora-interface-looks/
-Headline: Amazon forms a new AI agent-focused lab led by Adept co-founder
-Description: <p>Amazon says that it&#8217;s establishing a new R&#38;D lab in San Francisco, the Amazon AGI SF Lab, to focus on building &#8220;foundational&#8221; capabilities for AI agents. The Amazon AGI SF Lab...
-Link: https://techcrunch.com/2024/12/09/amazon-forms-a-new-ai-agent-focused-lab-led-by-adept-co-founder/
-Headline: Why OpenAI is only letting some Sora users create videos of real people
-Description: <p>OpenAI launched its video-generating tool, Sora, on Monday. But the company&#8217;s opting not to release a key feature for most users pending further testing. The feature in question generates a v...
-Link: https://techcrunch.com/2024/12/09/openai-is-only-letting-some-sora-users-create-videos-of-real-people/
-Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
-Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to hyper-charge productivity through writing essays and code wit...
-Link: https://techcrunch.com/2024/12/09/chatgpt-everything-to-know-about-the-ai-chatbot/
-Headline: OpenAI’s Sora video generator is launching for ChatGPT Pro and Plus subscribers — but not in the EU
-Description: <p>Subscribers to OpenAI&#8217;s ChatGPT Pro and Plus plans will get access to Sora, OpenAI&#8217;s video generator, starting today — but only if they live in certain countries. During a livestream Mo...
-Link: https://techcrunch.com/2024/12/09/openais-sora-video-generator-might-not-be-available-in-the-eu-at-launch/
-Headline: OpenAI’s Sora is launching today — here are highlights from the first review
-Description: <p>Sora, OpenAI&#8217;s video generator, is launching Monday — at least for some users. YouTuber Marques Brownlee revealed the news in a video published to his channel Monday morning. Brownlee got ear...
-Link: https://techcrunch.com/2024/12/09/openais-sora-is-launching-today-heres-highlights-from-the-first-review/
+Headline: ElevenLabs’ AI voice generation ‘very likely’ used in a Russian influence operation
+Description: <p>Generative AI has a plethora of well-documented misuses, and now, it appears to be cropping up in state influence operations.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</...
+Link: https://techcrunch.com/2024/12/10/elevenlabs-ai-voice-generation-very-likely-used-in-a-russian-influence-operation/
+Headline: YouTube’s new auto-dubbing feature is now available for knowledge-focused content
+Description: <p>YouTube announced on Tuesday that its auto-dubbing feature, which allows creators to generate translated audio tracks for their videos, is now rolling out to hundreds of thousands more channels.  Y...
+Link: https://techcrunch.com/2024/12/10/youtubes-new-auto-dubbing-feature-is-now-available-for-knowledge-focused-content/
+Headline: HarperCollins CEO touts Spotify’s audiobooks entry, AI’s impact on publishing
+Description: <p>The future of audiobooks and AI&#8217;s impact on the publishing industry were points of discussion for HarperCollins, whose CEO, Brian Murray, spoke at the UBS Global Media and Communications Conf...
+Link: https://techcrunch.com/2024/12/10/harpercollins-ceo-touts-spotifys-audiobooks-entry-ais-impact-on-publishing/
 Headline: OpenAI 2024 event: How to watch new ChatGPT product reveals and demos
-Description: <p>OpenAI is in the holiday spirit, it seems. The ChatGPT series of reveals, called “12 Days of OpenAI,” will be livestreamed at 10 a.m. PT each weekday through December 23. Day one of the event saw t...
-Link: https://techcrunch.com/2024/12/09/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/
+Description: <p>OpenAI is in the holiday spirit, it seems. The ChatGPT series of reveals, called “12 Days of OpenAI,” will be livestreamed at 10 a.m. PT each weekday through December 23. So far, we&#8217;ve seen t...
+Link: https://techcrunch.com/2024/12/10/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/
+Headline: Google kicks off $20B renewable energy building spree to power AI
+Description: <p>Google signed a deal with Intersect Power and TPG Rise Climate to spin up enough carbon-free power to drive several gigawatt-scale data centers.</p>
+<p>© 2024 TechCrunch. All rights reserved. For p...
+Link: https://techcrunch.com/2024/12/10/google-kicks-off-20b-renewable-energy-building-spree-to-power-ai/
+Headline: Stainless helps build SDKs for OpenAI, Anthropic, and Meta
+Description: <p>Devs expect tech vendors to supply software development kits, or SDKs, alongside their products to make it easier to create apps using those products. But many vendors only offer APIs, which are si...
+Link: https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/
+Headline: OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud
+Description: <p>Languages are typically taught by first exposing you to reading and writing, but native speakers always start learning languages by hearing and talking. Speak has built a platform to teach language...
+Link: https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/
+Headline: Yelp adds AI-powered review insights to restaurants
+Description: <p>Yelp is releasing several new features as part of its year-end release, including AI-powered review insights, a personalized home feed with new content types, and a redesigned inbox for business ow...
+Link: https://techcrunch.com/2024/12/10/yelp-adds-ai-powered-review-insights-to-restaurants/
+Headline: Aqemia raises $38M to find new drugs by meshing theoretical physics with GenAI
+Description: <p>Aqemia, a French startup that&#8217;s meshing &#8220;quantum-inspired physics&#8221; with machine learning to find new drugs, has raised $38 million in a fresh round of funding led by San Francisco...
+Link: https://techcrunch.com/2024/12/10/aqemia-raises-38m-to-find-new-drugs-by-meshing-theoretical-physics-with-genai/
+Headline: Software testing platform LambdaTest secures $38M for AI push
+Description: <p>LambdaTest, a cloud-based software testing platform, has raised $38 million to advance its AI capabilities.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/12/10/software-testing-platform-lambdatest-secures-38-million-in-ai-push/
+
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: YouTube’s AI-powered dubbing is now available to many more creators
+Description: <figure>
+      <img alt="Illustration of a YouTube logo with geometric background" src="https://cdn.vox-cdn.com/thumbor/m7FnufI4KCL9MPr3ADkiRWxdFTU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chor...
+Link: https://www.theverge.com/2024/12/10/24318309/youtube-partners-ai-auto-dubbing-translation-knowledge-information-videos
+Headline: Character.AI sued again over ‘harmful’ messages sent to teens
+Description: <figure>
+      <img alt="Vector illustration of the Character.ai logo." src="https://cdn.vox-cdn.com/thumbor/J9XSE7xmrRwf5WNJbZ8VY9zeivM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/im...
+Link: https://www.theverge.com/2024/12/10/24317839/character-ai-lawsuit-teen-harmful-messages-mental-health
+Headline: Solos challenges Meta’s Ray-Bans with $299 ChatGPT smart glasses
+Description: <figure>
+      <img alt="The Solos AirGo Vision smart glasses in the krypton 1 frame style." src="https://cdn.vox-cdn.com/thumbor/U3zCm7bc-loXzewOTl25ad4e0Yw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/up...
+Link: https://www.theverge.com/2024/12/10/24317805/solos-airgo-vision-chatgpt-ai-smart-glasses-price-availability
+Headline: Yelp’s new AI-powered review filters will show more of what you want to know
+Description: <figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/YPAKY0KUhQjt-fni0jyfE4LvyS8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73777744/Yelp_AI_review_insights.0.jpg" /...
+Link: https://www.theverge.com/2024/12/10/24317749/yelp-ai-powered-review-insights-filters-availability
 Headline: Manchester City is letting fans design its new kit with AI
 Description: <figure>
       <img alt="A screenshot of an AI-generated soccer uniform design" src="https://cdn.vox-cdn.com/thumbor/4es_ATglVmgGU7a4RbnMGOdmv6A=/0x0:984x656/1310x873/cdn.vox-cdn.com/uploads/chorus_im...
@@ -41,26 +70,6 @@ Headline: OpenAI’s video generator Sora is launching today
 Description: <figure>
       <img alt="Vector illustration of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/JTeGcPZIan729gl8v_ZS8Vck4W4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/...
 Link: https://www.theverge.com/2024/12/9/24317090/openai-sora-text-to-video-ai-generator-confirmed-release
-Headline: China opens an antitrust investigation into Nvidia
-Description: <figure>
-      <img alt="Vector collage of the Ndivia logo." src="https://cdn.vox-cdn.com/thumbor/hbv7vgApbWFtXTlHVchpaJAgpzs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7377622...
-Link: https://www.theverge.com/2024/12/9/24317016/nvidia-mellanox-antitrust-china-ai-chips
-Headline: Friend’s AI chatbots have issues — and they want your help
-Description: <figure>
-      <img alt="Photo collage of Avi Schiffmann." src="https://cdn.vox-cdn.com/thumbor/llVR16sQtOrAf1lhKu458Ui5CR8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73776190/...
-Link: https://www.theverge.com/2024/12/9/24315126/friend-pendant-artificial-intelligence-companionship-avi-schiffmann
-Headline: Microsoft’s AI boss and Sam Altman disagree on what it takes to get to AGI
-Description: <figure>
-      <img alt="Photo of Mustafa Suleyman." src="https://cdn.vox-cdn.com/thumbor/PJ2O3LHT5CSz75MyWBg7UG8l674=/0x0:3321x2214/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73775996/175729...
-Link: https://www.theverge.com/2024/12/9/24316969/mustafa-suleyman-sam-altman-microsoft-openai-agi
-Headline: Microsoft AI chief Mustafa Suleyman says conversational AI is the next web browser
-Description: <figure>
-      <img alt="A photo illustration of Microsoft AI CEO Mustafa Suleyman." src="https://cdn.vox-cdn.com/thumbor/p2APKjGCjcYQwCiSocIE9V9rgNU=/1x0:2760x1839/1310x873/cdn.vox-cdn.com/uploads/ch...
-Link: https://www.theverge.com/24314821/microsoft-ai-ceo-mustafa-suleyman-google-deepmind-openai-inflection-agi-decoder-podcast
-Headline: Reddit’s new AI search tool helps you find Reddit answers without Google
-Description: <figure>
-      <img alt="An image showing the Reddit logo on a red and white background" src="https://cdn.vox-cdn.com/thumbor/lLYKIbCvk9SbeF-SSYa1hLYpTHI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/upload...
-Link: https://www.theverge.com/2024/12/9/24314445/reddit-answers-ai-powered-search-tool
 
 ---
 
@@ -69,6 +78,9 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: AI Pioneers Win Nobel Prizes for Physics and Chemistry
+Description: Artificial intelligence, once the realm of science fiction, claimed its place at the pinnacle of scientific achievement Monday in Sweden. In a historic ceremony at Stockholm’s iconic Konserthuset, Joh...
+Link: https://blogs.nvidia.com/blog/ai-nobel-physics-chemistry/
 Headline: Crowning Achievement: NVIDIA Research Model Enables Fast, Efficient Dynamic Scene Reconstruction
 Description: Content streaming and engagement are entering a new dimension with QUEEN, an AI model by NVIDIA Research and the University of Maryland that makes it possible to stream free-viewpoint video, which let...
 Link: https://blogs.nvidia.com/blog/neurips-2024-research/
@@ -90,12 +102,6 @@ Link: https://blogs.nvidia.com/blog/physical-ai-robotics-isaac-sim-aws/
 Headline: New NVIDIA Certifications Expand Professionals’ Credentials in AI Infrastructure and Operations
 Description: As generative AI continues to grow, implementing and managing the right infrastructure becomes even more critical to ensure the secure and efficient development and deployment of AI-based solutions. T...
 Link: https://blogs.nvidia.com/blog/professional-certification-ai-infrastructure-operations/
-Headline: How AI Can Enhance Disability Inclusion and Education
-Description: A recent survey from the Special Olympics Global Center for Inclusion in Education shows that while a majority of students with an intellectual and developmental disability (IDD) and their parents vie...
-Link: https://blogs.nvidia.com/blog/how-everyone-benefits-from-disability-inclusion/
-Headline: Siemens Healthineers Adopts MONAI Deploy for Medical Imaging AI
-Description: 3.6 billion. That’s about how many medical imaging tests are performed annually worldwide to diagnose, monitor and treat various conditions. Speeding up the processing and evaluation of all these X-ra...
-Link: https://blogs.nvidia.com/blog/rsna-siemens-healthineers-monai-medical-imaging-ai/
 
 ---
 
@@ -104,6 +110,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Machine unlearning: Researchers make AI models ‘forget’ data
+Description: <p>Researchers from the Tokyo University of Science (TUS) have developed a method to enable large-scale AI models to selectively &#8220;forget&#8221; specific classes of data. Progress in AI has provi...
+Link: https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/?utm_source=rss&utm_medium=rss&utm_campaign=machine-unlearning-researchers-ai-models-forget-data
 Headline: Narrowing the confidence gap for wider AI adoption
 Description: <p>Artificial intelligence entered the market with a splash, driving massive buzz and adoption. But now the pace is faltering. Business leaders still talk the talk about embracing AI, because they wan...
 Link: https://www.artificialintelligence-news.com/news/narrowing-the-confidence-gap-for-wider-ai-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=narrowing-the-confidence-gap-for-wider-ai-adoption
@@ -131,9 +140,6 @@ Link: https://www.artificialintelligence-news.com/news/ai-agents-and-ecosystems-
 Headline: Salesforce: UK set to lead agentic AI revolution
 Description: <p>Salesforce has unveiled the findings of its UK AI Readiness Index, signalling the nation is in a position to spearhead the next wave of AI innovation, also known as agentic AI. The report places th...
 Link: https://www.artificialintelligence-news.com/news/salesforce-uk-set-lead-agentic-ai-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-uk-set-lead-agentic-ai-revolution
-Headline: Alibaba Marco-o1: Advancing LLM reasoning capabilities
-Description: <p>Alibaba has announced Marco-o1, a large language model (LLM) designed to tackle both conventional and open-ended problem-solving tasks. Marco-o1, from Alibaba’s MarcoPolo team, represents another s...
-Link: https://www.artificialintelligence-news.com/news/alibaba-marco-o1-advancing-llm-reasoning-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=alibaba-marco-o1-advancing-llm-reasoning-capabilities
 
 ---
 
@@ -142,6 +148,12 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: AI’s hype and antitrust problem is coming under scrutiny
+Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. The AI sector is plagued by a lack of competition and a lot of...
+Link: https://www.technologyreview.com/2024/12/10/1108141/ais-hype-and-antitrust-problem-is-coming-under-scrutiny/
+Headline: We saw a demo of the new AI system powering Anduril’s vision for war
+Description: One afternoon in late November, I visited a weapons test site in the foothills east of San Clemente, California, operated by Anduril, a maker of AI-powered drones and missiles that recently announced ...
+Link: https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/
 Headline: How to use Sora, OpenAI’s new video generating tool
 Description: MIT Technology Review’s How To series helps you get things done.  Today, OpenAI released its video generation model Sora to the public. The announcement comes on the fifth day of the company’s “shipma...
 Link: https://www.technologyreview.com/2024/12/09/1108309/how-to-use-sora-openais-new-video-generating-tool/
@@ -166,12 +178,6 @@ Link: https://www.technologyreview.com/2024/12/02/1106689/moving-generative-ai-i
 Headline: This manga publisher is using Anthropic’s AI to translate Japanese comics into English
 Description: A Japanese publishing startup is using Anthropic’s flagship large language model Claude to help translate manga into English, allowing the company to churn out a new title for a Western audience in ju...
 Link: https://www.technologyreview.com/2024/12/02/1107562/this-manga-publisher-is-using-anthropics-ai-to-translate-japanese-comics-into-english/
-Headline: What the departing White House chief tech advisor has to say on AI
-Description: President Biden’s administration will end within two months, and likely to depart with him is Arati Prabhakar, the top mind for science and technology in his cabinet. She has served as director of the...
-Link: https://www.technologyreview.com/2024/12/02/1107534/what-the-departing-white-house-chief-tech-advisor-has-to-say-on-ai/
-Headline: These AI Minecraft characters did weirdly human stuff all on their own
-Description: Left to their own devices, an army of AI characters didn’t just survive—they thrived. They developed in-game jobs, shared memes, voted on tax reforms, and even spread a religion. The experiment played...
-Link: https://www.technologyreview.com/2024/11/27/1107377/a-minecraft-town-of-ai-characters-made-friends-invented-jobs-and-spread-religion/
 
 ---
 
@@ -184,6 +190,12 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Pixtral 12B is now available on Amazon SageMaker JumpStart
+Description: Today, we are excited to announce that Pixtral 12B (pixtral-12b-2409), a state-of-the-art vision language model (VLM) from Mistral AI that excels in both text-only and multimodal tasks, is available f...
+Link: https://aws.amazon.com/blogs/machine-learning/pixtral-12b-is-now-available-on-amazon-sagemaker-jumpstart/
+Headline: Automate actions across enterprise applications using Amazon Q Business plugins
+Description: Amazon Q Business is a generative AI-powered assistant that enhances employee productivity by solving problems, generating content, and providing insights across enterprise data sources. Beyond search...
+Link: https://aws.amazon.com/blogs/machine-learning/automate-actions-across-enterprise-applications-using-amazon-q-business-plugins/
 Headline: Accelerating ML experimentation with enhanced security: AWS PrivateLink support for Amazon SageMaker with MLflow
 Description: With access to a wide range of generative AI&nbsp;foundation models (FM) and the ability to build and train their own machine learning (ML) models in Amazon&nbsp;SageMaker, users want a seamless and s...
 Link: https://aws.amazon.com/blogs/machine-learning/accelerating-ml-experimentation-with-enhanced-security-aws-privatelink-support-for-amazon-sagemaker-with-mlflow/
@@ -202,16 +214,31 @@ Link: https://aws.amazon.com/blogs/machine-learning/speed-up-your-cluster-procur
 Headline: Real value, real time: Production AI with Amazon SageMaker and Tecton
 Description: In this post, we discuss how Amazon SageMaker and Tecton work together to simplify the development and deployment of production-ready AI applications, particularly for real-time use cases like fraud d...
 Link: https://aws.amazon.com/blogs/machine-learning/real-value-real-time-production-ai-with-amazon-sagemaker-and-tecton/
-Headline: Use Amazon Bedrock tooling with Amazon SageMaker JumpStart models
-Description: In this post, we explore how to deploy AI models from SageMaker JumpStart and use them with Amazon Bedrock's powerful features. Users can combine SageMaker JumpStart's model hosting with Bedrock's sec...
-Link: https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-tooling-with-amazon-sagemaker-jumpstart-models/
-Headline: Build generative AI applications quickly with Amazon Bedrock IDE in Amazon SageMaker Unified Studio
-Description: In this post, we'll show how anyone in your company can use Amazon Bedrock IDE to quickly create a generative AI chat agent application that analyzes sales performance data. Through simple conversatio...
-Link: https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-quickly-with-amazon-bedrock-ide-in-amazon-sagemaker-unified-studio/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Singapore startup Sapient enters global enterprise AI race with new model architectures
+Description: Central to Sapient’s success is its hybrid architecture that blends transformer components with recurrent neural network structures.
+Link: https://venturebeat.com/ai/singapore-startup-sapient-enters-global-enterprise-ai-race-with-new-model-architectures/
+Headline: OpenAI’s o1 model doesn’t show its thinking, giving open source an advantage
+Description: o1 does not reveal its reasoning chain, which makes it difficult to get consistent results and correct the model's responses and logic.
+Link: https://venturebeat.com/ai/heres-how-openai-o1-might-lose-ground-to-open-source-models/
+Headline: OpenAI expands ChatGPT Canvas to all users
+Description: Canvas, OpenAI's text and code editor, is now available for all ChatGPT users. It also now lets people run Python code.
+Link: https://venturebeat.com/ai/openai-expands-chatgpt-canvas-to-all-users/
+Headline: Realtime AI video analysis app Lloyd will offer developer kit after passing 50,000 users
+Description: Cost-efficiency is achieved without sacrificing accuracy, setting Lloyd apart from competitors that rely on reduced frame rates or lower res.
+Link: https://venturebeat.com/ai/realtime-ai-video-analysis-app-lloyd-will-offer-developer-kit-after-passing-50000-users/
+Headline: ServiceNow open sources Fast-LLM in a bid to help enterprises train AI models 20% quicker
+Description: ServiceNow open sources AI training breakthrough with Fast-LLM framework promising lower risk, higher experimentation.
+Link: https://venturebeat.com/ai/servicenow-open-sources-fast-llm-in-a-bid-to-help-enterprises-train-ai-models-20x-quicker/
+Headline: Lam Research launches collaborative robots to optimize critical maintenance in chip factories
+Description: Lam Research introduced Dextro, the chip industry’s first collaborative robot designed to optimize maintenance in chip factories.
+Link: https://venturebeat.com/ai/lam-research-launches-collaborative-robots-to-optimize-critical-maintenance-in-chip-factories/
+Headline: Solos launches AirGo Vision — ChatGPT-enabled AI smart glasses with a camera
+Description: Solos announced that is launching AirGo Vision, the first smart glasses with ChatGPT-enabled AI and a camera.
+Link: https://venturebeat.com/ai/solos-launches-airgo-vision-chatgpt-enabled-ai-smart-glasses-with-a-camera/
 Headline: Defending SOCs Under Siege: Battling Adversarial AI Attacks
 Description: With 77% of enterprises victimized by adversarial AI, the question isn't if your Security Operations Center (SOC) will be targeted—it's when.
 Link: https://venturebeat.com/security/defending-socs-battling-adversarial-attacks/
@@ -221,39 +248,30 @@ Link: https://venturebeat.com/ai/open-ai-sora-launches/
 Headline: A new benchmark for AI investment: Swift Ventures unveils system to separate talk from action
 Description: Swift Ventures launches an index of public companies truly investing in AI, showing 37% annual growth and outperforming the Nasdaq and S&#038;P.
 Link: https://venturebeat.com/ai/swift-ventures-ai-index-finds-the-companies-actually-driving-the-tech/
-Headline: How Databricks is using synthetic data to simplify evaluation of AI agents
-Description: Multiple enterprises are using Databricks' synthetic data API, seeing a significant time reduction to improve agent quality and deployment.
-Link: https://venturebeat.com/data-infrastructure/databricks-makes-ai-agent-evaluation-a-breeze-with-new-synthetic-data-capabilities/
-Headline: Adobe brings generative AI and real-time personalization to AWS: Here’s what’s next
-Description: Adobe expands Experience Platform to AWS in landmark partnership, revolutionizing enterprise AI and customer data management with advanced personalization capabilities and reduced cloud complexity.
-Link: https://venturebeat.com/ai/adobe-partners-with-amazon-web-services-to-supercharge-ai-driven-customer-experiences/
-Headline: ChatGPT’s second birthday: What will gen AI (and the world) look like in another 2 years?
-Description: We've come a long way in 2 years. Gen AI is the future, but how is it reshaping enterprise? And when will we reach AGI and superintelligence?
-Link: https://venturebeat.com/ai/chatgpts-second-birthday-what-will-gen-ai-and-the-world-look-like-in-another-2-years/
-Headline: Here’s the one thing you should never outsource to an AI model
-Description: While it might be tempting, betting on gen AI to take over your R&#038;D will likely backfire in significant, maybe even catastrophic, ways.
-Link: https://venturebeat.com/ai/heres-the-one-thing-you-should-never-outsource-to-an-ai-model/
-Headline: Sakana AI’s CycleQD outperforms traditional fine-tuning methods for multi-skill language models
-Description: CycleQD merges skills of experts models in clever ways to create many new models with multiple skills, no fine-tuning required.
-Link: https://venturebeat.com/ai/sakana-ais-cycleqd-outperforms-traditional-fine-tuning-methods-for-multi-skill-language-models/
-Headline: Meta launches open source Llama 3.3, shrinking powerful bigger model into smaller size
-Description: The 70B-Llama 3.3 is specifically optimized for cost-effective inference, with token generation costs as low as $0.01 per million tokens.
-Link: https://venturebeat.com/ai/meta-launches-open-source-llama-3-3-shrinking-powerful-bigger-model-into-smaller-size/
-Headline: Microsoft Copilot Vision is here, letting AI see what you do online
-Description: In the long run, the company may even expand these capabilities to other products in its ecosystem, allowing enterprise users to work and make decisions more easily.
-Link: https://venturebeat.com/ai/microsoft-copilot-vision-is-here-letting-ai-see-what-you-do-online/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: OpenAI rolls out Canvas to all ChatGPT users - and it's a powerful productivity tool
+Description: For 12 days, the OpenAI daily live stream is unveiling 'new things, big and small.' Here's what's new today.
+Link: https://www.zdnet.com/article/openai-rolls-out-canvas-to-all-chatgpt-users-and-its-a-powerful-productivity-tool/
+Headline: How Cerebras boosted Meta's Llama to 'frontier model' performance
+Description: The company also demonstrates initial training of a one-trillion-parameter AI model on a single machine using conventional DDR5 memory chips.
+Link: https://www.zdnet.com/article/how-cerebras-boosted-metas-llama-to-frontier-model-performance/
+Headline: Is this the end of Google? This new AI tool isn't just competing, it's winning
+Description: I have 75 million reasons why the future of search isn't who you think it is.
+Link: https://www.zdnet.com/article/is-this-the-end-of-google-this-new-ai-tool-isnt-just-competing-its-winning/
+Headline: Reddit's latest AI update makes finding the answers you want much easier
+Description: With the help of AI, Reddit Answers populates the content you need for any question you ask.
+Link: https://www.zdnet.com/article/reddits-latest-ai-update-makes-finding-the-answers-you-want-much-easier/
+Headline: All X users can access Grok AI chatbot and its new image generator now - for free
+Description: Grok gears up to become a more serious competitor in the AI space.
+Link: https://www.zdnet.com/article/all-x-users-can-now-access-grok-ai-chatbot-and-its-new-image-generator-for-free/
 Headline: OpenAI's Sora AI video generator is here - how to try it
 Description: After a 10-month wait, Sora has arrived. Here's why it's had so many on the edge of their seats.
 Link: https://www.zdnet.com/article/openais-sora-ai-video-generator-is-here-how-to-try-it/
-Headline: Video model Sora drops on day 3 of OpenAI's 12 days of products and demos
-Description: The OpenAI daily live stream is unveiling 'new things, big and small.'
-Link: https://www.zdnet.com/article/video-model-sora-drops-on-day-3-of-openais-12-days-of-products-and-demos/
 Headline: OpenAI's o1 lies more than any major AI model. Why that matters
-Description: Several popular models 'readily engage' in deceptive tactics, researchers find. See who was the last to confess.
+Description: Several popular models 'readily engage' in deceptive tactics, researchers find. See which was the last to confess.
 Link: https://www.zdnet.com/article/openais-o1-out-schemes-every-major-ai-model-why-that-matters/
 Headline: Amazon's newest Kindle Scribe is better than ever - but I'd recommend this model instead
 Description: Amazon's software upgrades for the first-generation Kindle Scribe brings new AI-powered features to the 2022 model. Here's how to get them on your device for free.
@@ -264,15 +282,6 @@ Link: https://www.zdnet.com/article/your-iphones-ios-18-2-update-is-likely-comin
 Headline: What is ChatGPT Pro? Here's what $200 per month gets you
 Description: At 10 times the price of the regular ChatGPT Plus subscription, you get access to all of OpenAI's latest and greatest.
 Link: https://www.zdnet.com/article/openai-introduces-the-new-chatgpt-pro-200-per-month-plan-heres-what-you-get/
-Headline: Can data embassies make cross-border AI safer?
-Description: Inconsistent data laws across the world are pushing organizations to think of diplomatic privacy solutions.
-Link: https://www.zdnet.com/article/can-data-embassies-make-cross-border-ai-safer/
-Headline: I tried a free AI clothing search tool, and it makes online thrift shopping much easier
-Description: Looking for a vintage jacket or a sweater you saw on a TV show? Describe it to Encore and it will help you find it in seconds - for free.
-Link: https://www.zdnet.com/article/i-tried-a-free-ai-clothing-search-tool-and-it-makes-online-thrift-shopping-so-much-easier/
-Headline: Microsoft's Copilot can now see what you see in real time - and speak to you about it
-Description: Need a second opinion on something you are looking at online? Now, you can have an AI-powered assistant at your beck and call.
-Link: https://www.zdnet.com/article/microsofts-copilot-can-now-see-what-you-see-in-real-time-and-speak-to-you-about-it/
 
 ---
 
@@ -323,6 +332,15 @@ Link: https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Empowering older adults with home-care robots
+Description: The rapidly increasing aging population will lead to a shortage of care providers in the future. While robotic technologies are a potential alternative, their widespread use is limited by poor accepta...
+Link: https://www.sciencedaily.com/releases/2024/12/241210115425.htm
+Headline: Scientists create AI that 'watches' videos by mimicking the brain
+Description: Imagine an artificial intelligence (AI) model that can watch and understand moving images with the subtlety of a human brain. Now, scientists have made this a reality by creating MovieNet: an innovati...
+Link: https://www.sciencedaily.com/releases/2024/12/241209163200.htm
+Headline: Not so simple machines: Cracking the code for materials that can learn
+Description: Physicists have devised an algorithm that provides a mathematical framework for how learning works in lattices called mechanical neural networks.
+Link: https://www.sciencedaily.com/releases/2024/12/241209122941.htm
 Headline: Bird-inspired drone can jump for take-off
 Description: Researchers have built a drone that can walk, hop, and jump into flight with the aid of birdlike legs, greatly expanding the range of potential environments accessible to unmanned aerial vehicles.
 Link: https://www.sciencedaily.com/releases/2024/12/241206111951.htm
@@ -344,22 +362,16 @@ Link: https://www.sciencedaily.com/releases/2024/11/241126135834.htm
 Headline: Researchers highlight Nobel-winning AI breakthroughs and call for interdisciplinary innovation
 Description: A new article examines the convergence of physics, chemistry, and AI, highlighted by recent Nobel Prizes. It traces the historical development of neural networks, emphasizing the role of interdiscipli...
 Link: https://www.sciencedaily.com/releases/2024/11/241126134826.htm
-Headline: The future of edge AI: Dye-sensitized solar cell-based synaptic device
-Description: Physical reservoir computing (PRC) utilizing synaptic devices shows significant promise for edge AI. Researchers from the Tokyo University of Science have introduced a novel self-powered dye-sensitize...
-Link: https://www.sciencedaily.com/releases/2024/11/241125125125.htm
-Headline: The next evolution of AI begins with ours
-Description: The genome has space for only a small fraction of the information needed to control complex behaviors. So then how, for example, does a newborn sea turtle instinctually know to follow the moonlight? N...
-Link: https://www.sciencedaily.com/releases/2024/11/241125125041.htm
-Headline: Hear this! Transforming health care with speech-to-text technology
-Description: Researchers study the importance of enunciation when using speech-to-text software in medical situations.
-Link: https://www.sciencedaily.com/releases/2024/11/241121165447.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
-Headline: Is Google's new quantum computer a big deal?
-Description: Google has unveiled a new quantum computer that excels at a benchmarking problem, but it still isn't clear whether these machines can serve a practical purpose
-Link: https://www.newscientist.com/article/2459318-is-googles-new-quantum-computer-a-big-deal/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Energy-hungry AI is already harming health – and it's getting worse
+Description: The electricity required to support AI could contribute to approximately 600,000 asthma cases and create a $20 billion public health burden by 2030
+Link: https://www.newscientist.com/article/2459657-energy-hungry-ai-is-already-harming-health-and-its-getting-worse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Is Google's new Willow quantum computer really such a big deal?
+Description: Google has unveiled a new quantum computer called Willow that excels at a benchmarking problem, but it still isn't clear whether these machines can serve a practical purpose
+Link: https://www.newscientist.com/article/2459318-is-googles-new-willow-quantum-computer-really-such-a-big-deal/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Chips linked with light could train AI faster while using less energy
 Description: A technology that packs more optical fibre connections onto chips could let them transmit 80 times as much information, speeding up AI training and slashing data centre energy costs
 Link: https://www.newscientist.com/article/2459368-chips-linked-with-light-could-train-ai-faster-while-using-less-energy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -384,9 +396,6 @@ Link: https://www.newscientist.com/article/2458531-chatbot-gives-medical-advice-
 Headline: Temporary scalp tattoo can be used to record brain activity
 Description: EEG recordings used in neurology could be made simpler by replacing the usual electrodes, wires and gels with a tattoo printed onto the scalp
 Link: https://www.newscientist.com/article/2458409-temporary-scalp-tattoo-can-be-used-to-record-brain-activity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Swarms of cyborg cockroaches could be manufactured by robots
-Description: Robotic equipment can implant electrodes into cockroaches and connect them to an electronic backpack, making it feasible to mass-produce biorobots for search missions
-Link: https://www.newscientist.com/article/2458397-swarms-of-cyborg-cockroaches-could-be-manufactured-by-robots/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
