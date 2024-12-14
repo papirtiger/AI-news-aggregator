@@ -1,79 +1,71 @@
-AI News Updates - 2024-12-13 03:04:32
+AI News Updates - 2024-12-14 02:58:05
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: Microsoft debuts Phi-4, a new generative AI model, in research preview
-Description: <p>Microsoft has announced the newest addition to its Phi family of generative AI models. Called Phi-4, the model is improved in several areas over its predecessors, Microsoft claims — in particular m...
-Link: https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/
-Headline: Meta debuts a tool for watermarking AI-generated videos
-Description: <p>Meta is open sourcing a method to watermark AI-generated videos. Called Meta Video Seal, the company says it's robust against compression and edits.</p>
-<p>© 2024 TechCrunch. All rights reserved. F...
-Link: https://techcrunch.com/2024/12/12/meta-releases-a-tool-for-watermarking-ai-generated-videos/
-Headline: Google Gemini: Everything you need to know about the generative AI models
-Description: <p>Gemini is Google’s long-promised, next-gen generative AI model family.</p>
+Headline: OpenAI co-founder Ilya Sutskever believes superintelligent AI will be ‘unpredictable’
+Description: <p>OpenAI co-founder Ilya Sutskever spoke on a range of topics at NeurIPS, the annual AI conference, Friday afternoon before accepting an award for his contributions to the field. Sutskever gave his p...
+Link: https://techcrunch.com/2024/12/13/openai-co-founder-ilya-sutskever-believes-superintelligent-ai-will-be-unpredictable/
+Headline: OpenAI whistleblower found dead at 26 in San Francisco apartment
+Description: <p>A former OpenAI employee, Suchir Balaji, was recently found dead in his San Francisco apartment, according to the San Francisco Office of the Chief Medical Examiner. In October, the 26-year-old AI ...
+Link: https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/
+Headline: AI helps Telegram remove 15 million suspect groups and channels in 2024
+Description: <p>Telegram launched a new page touting its moderation efforts, which have spiked since its founder's arrest.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/12/12/what-is-google-gemini-ai/
-Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
-Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with...
-Link: https://techcrunch.com/2024/12/12/chatgpt-everything-to-know-about-the-ai-chatbot/
-Headline: You can make ChatGPT sound like Santa Claus for the holidays
-Description: <p>OpenAI is making ChatGPT sound like Santa for the holidays. The startup announced on Thursday that ChatGPT users could access a new &#8220;Santa Mode&#8221; voice for the month of December. The fea...
-Link: https://techcrunch.com/2024/12/12/you-can-make-chatgpt-sound-like-santa-claus-for-the-holidays/
-Headline: ChatGPT now understands real-time video, seven months after OpenAI first demoed it
-Description: <p>OpenAI has finally released the real-time video capabilities for ChatGPT that it demoed nearly seven months ago. On Thursday during a livestream, the company said that Advanced Voice Mode, its huma...
-Link: https://techcrunch.com/2024/12/12/chatgpt-now-understands-real-time-video-seven-months-after-openai-first-demoed-it/
+Link: https://techcrunch.com/2024/12/13/ai-helps-telegram-remove-15-million-suspect-groups-and-channels-in-2024/
+Headline: Exxon can’t resist the AI power gold rush
+Description: <p>The oil and gas company announced that it’s planning to build a massive power plant for data centers. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2024/12/13/exxon-cant-resist-the-ai-power-gold-rush/
+Headline: OpenAI fires back against Musk, claims he wanted an OpenAI for-profit
+Description: <p>OpenAI fired back at billionaire Elon Musk on Friday, publishing a series of emails and texts that the company claims show Musk&#8217;s lawsuit against it is misleading. Musk’s legal battle with Op...
+Link: https://techcrunch.com/2024/12/13/openai-fires-back-against-musk-claims-he-wanted-an-openai-for-profit/
+Headline: Google’s NotebookLM now lets you talk to its AI podcast hosts
+Description: <p>A few months ago, Google&#8217;s NotebookLM note-taking app debuted an Audio Overviews feature that generates a podcast with AI virtual hosts based on information you have shared with the app. Now ...
+Link: https://techcrunch.com/2024/12/13/googles-notebooklm-now-lets-you-to-talk-to-its-ai-podcast-hosts/
 Headline: OpenAI 2024 event: How to watch new ChatGPT product reveals and demos
 Description: <p>OpenAI is in the holiday spirit, it seems. The ChatGPT series of reveals, called “12 Days of OpenAI,” will be streamed live at 10 a.m. PT each weekday through December 23. So far, we&#8217;ve seen ...
-Link: https://techcrunch.com/2024/12/12/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/
-Headline: Google wants to sell those Project Astra AR glasses some day, but it won’t be today
-Description: <p>Google is slowly peeling back the curtain on its vision to, one day, sell you glasses with augmented reality and multimodal AI capabilities. The company&#8217;s plans for those glasses, however, ar...
-Link: https://techcrunch.com/2024/12/12/google-wants-to-sell-those-project-astra-ar-glasses-some-day-but-it-wont-be-today/
-Headline: Anthropic’s 3.5 Haiku model comes to Claude users
-Description: <p>Anthropic has released one of its newest AI models, Claude 3.5 Haiku, for users of its AI chatbot platform, Claude. Reports of 3.5 Haiku&#8217;s launch in Claude began rolling in Thursday morning o...
-Link: https://techcrunch.com/2024/12/12/anthropics-3-5-haiku-model-comes-to-claude-users/
-Headline: Twelve Labs is building AI that can analyze and search through videos
-Description: <p>AI models that understand videos as well as text can unlock powerful new applications. At least, that&#8217;s what Jae Lee, the co-founder of Twelve Labs, believes. Granted, Lee&#8217;s a little bi...
-Link: https://techcrunch.com/2024/12/12/twelve-labs-is-building-ai-that-can-analyze-and-search-through-videos/
-
+Link: https://techcrunch.com/2024/12/13/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/
+Headline: Liquid AI just raised $250M to develop a more efficient type of AI model
+Description: <p>Liquid AI, an AI startup co-founded by robotics luminary Daniela Rus, has raised $250 million in a Series A led by AMD. Per Bloomberg, the round values Liquid AI at over $2 billion. Liquid AI aims ...
+Link: https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Meta asks the US government to block OpenAI’s switch to a for-profit
+Description: <figure>
+      <img alt="Graphic collage of Mark Zuckerberg." src="https://cdn.vox-cdn.com/thumbor/LMZ_JLx4WMUwBHissCZiV_u5sx4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/737857...
+Link: https://www.theverge.com/2024/12/13/24320880/meta-california-ag-letter-openai-non-profit-elon-musk
+Headline: OpenAI cofounder Ilya Sutskever says the way AI is built is about to change
+Description: <figure>
+      <img alt="ISRAEL-SCIENCE-TECHNOLOGY-AI" src="https://cdn.vox-cdn.com/thumbor/wR6VAU0BQc36iZY_fqY-Uc5cXvk=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73785683/1258...
+Link: https://www.theverge.com/2024/12/13/24320811/what-ilya-sutskever-sees-openai-model-data-training
+Headline: ChatGPT Projects are fancy folders for your AI chats
+Description: <figure>
+      <img alt="Vector illustration of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/hxak_i4fOCXutmqgDlVulre2MAs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/...
+Link: https://www.theverge.com/2024/12/13/24320800/openai-chatgpt-projects-folders-ai-chats
+Headline: A Gemini-boosted Google Assistant is now available on some Nest speakers
+Description: <figure>
+      <img alt="A picture of two Google Nest Audio speakers sitting on a piece of furniture." src="https://cdn.vox-cdn.com/thumbor/R7npU_J_0VsV-ap8S5ACDg1331I=/0x0:6000x4000/1310x873/cdn.vox-...
+Link: https://www.theverge.com/2024/12/13/24320673/gemini-google-assistant-available-nest-smart-speakers
+Headline: Apple’s AI summary mangled a BBC headline about Luigi Mangione
+Description: <figure>
+      <img alt="An image showing a robot performing various tasks" src="https://cdn.vox-cdn.com/thumbor/fopkJi9I6EVXRjeBc6fMD_35gh0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_imag...
+Link: https://www.theverge.com/2024/12/13/24320689/apple-intelligence-summary-bbc-news-unitedhealthcare-luigi-mangione
+Headline: OpenAI just dropped new Elon Musk receipts: ‘You can’t sue your way to AGI’
+Description: <figure>
+      <img alt="Elon Musk and Sam Altman overlayed in a collage." src="https://cdn.vox-cdn.com/thumbor/fHJN7RTGoDKaCpVSAfzvyu505N4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image...
+Link: https://www.theverge.com/2024/12/13/24320632/openai-elon-musk-lawsuit-sam-altman
+Headline: Google’s NotebookLM AI podcast hosts can now talk to you, too
+Description: <figure>
+      <img alt="An illustration of Google’s multicolor “G” logo" src="https://cdn.vox-cdn.com/thumbor/A7MocGwsGzQ7kBVrAabktih_ChM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/...
+Link: https://www.theverge.com/2024/12/13/24318099/google-notebooklm-audio-overviews-talk-plus
+Headline: Searching for the first great AI app
+Description: <figure>
+      <img alt="Photos of Google’s Project Astra, on a Vergecast background." src="https://cdn.vox-cdn.com/thumbor/L5ha3aQC583pqkeZ5INarnmTKwQ=/1x0:2040x1359/1310x873/cdn.vox-cdn.com/uploads/...
+Link: https://www.theverge.com/2024/12/13/24320342/ai-killer-app-gemini-chatgpt-vergecast
 Headline: Amazon’s Prime Video pushes ‘AI Topics’ instead of the old algorithms
 Description: <figure>
       <img alt="An image showing AI Topics on Prime Video" src="https://cdn.vox-cdn.com/thumbor/op8dPlxCYgZAv2LQoY6i6FuUC_w=/372x38:1230x610/1310x873/cdn.vox-cdn.com/uploads/chorus_image/imag...
 Link: https://www.theverge.com/2024/12/12/24319824/amazon-prime-video-ai-topics-old-algorithms
-Headline: Gemini AI can now summarize what’s in your Google Drive folders
-Description: <figure>
-      <img alt="An image showing the Google Drive logo on a blue background" src="https://cdn.vox-cdn.com/thumbor/Wn8t47xjU3y_zc7inwS5pMH3K90=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/c...
-Link: https://www.theverge.com/2024/12/12/24319697/gemini-ai-summarize-google-drive-folders
-Headline: Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more
-Description: <figure>
-      <img alt="Image of the Apple logo surrounded by gray, pink, and green outlines" src="https://cdn.vox-cdn.com/thumbor/KfWeKom2KbBmYe3DQryTNPfWG-Q=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/...
-Link: https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16
-Headline: Sora’s AI video revolution is still a ways off
-Description: <figure>
-      <img alt="A screenshot taken from an AI-generated video showing a woman eating a pastry." src="https://cdn.vox-cdn.com/thumbor/wn2l4IMwyMmSIqCFStL-KB7YnW8=/0x127:1870x1374/1310x873/cdn....
-Link: https://www.theverge.com/2024/12/12/24318924/openai-sora-ai-video-generator-hands-on
-Headline: Character.AI has retrained its chatbots to stop chatting up teens
-Description: <figure>
-      <img alt="Vector illustration of the Character.ai logo." src="https://cdn.vox-cdn.com/thumbor/VpUUGUEWuS37DptiFmyqBCtPrec=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/im...
-Link: https://www.theverge.com/2024/12/12/24319050/character-ai-chatbots-teen-model-training-parental-controls
-Headline: With iOS 18.2, Apple completes its AI starter kit
-Description: <figure>
-      <img alt="Photo of visual intelligence identifying a houseplant." src="https://cdn.vox-cdn.com/thumbor/TRJg4N5piKqghRkb4R-YFc5VAZc=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus...
-Link: https://www.theverge.com/2024/12/12/24318840/ios-18-2-apple-intelligence-chatgpt-genmoji-image-playground
-Headline: Inside the launch — and future — of ChatGPT
-Description: <figure>
-      <img alt="Photo illustration of hands typing on a laptop in front of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/pPbQ7HF-_GvgBGAXMul8tBL_mKI=/0x0:2040x1360/1310x873/cdn.vox...
-Link: https://www.theverge.com/2024/12/12/24318650/chatgpt-openai-history-two-year-anniversary
-Headline: Watching sports: a special series from The Verge
-Description: <figure>
-      <img alt="" src="https://cdn.vox-cdn.com/thumbor/VEs66v2ZHv5-ZmGQO2yiSfdnxgg=/0x65:3000x2065/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73780769/headere__1_.5.png" />
-    </fig...
-Link: https://www.theverge.com/c/24312149/sports-gymnastics-tennis-surveillance-ai
-Headline: Google’s AI enters its ‘agentic era’
-Description: <figure>
-      <img alt="A photo of a person holding a phone up to a bus." src="https://cdn.vox-cdn.com/thumbor/slHPE0UxRvPK3vr21WUSDgtuB80=/300x0:1920x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_ima...
-Link: https://www.theverge.com/2024/12/11/24317436/google-deepmind-project-astra-mariner-ai-agent
 
 ---
 
@@ -103,6 +95,7 @@ Link: https://blogs.nvidia.com/blog/thailand-vietnam-sovereign-ai/
 Headline: 2025 Predictions: Enterprises, Researchers and Startups Home In on Humanoids, AI Agents as Generative AI Crosses the Chasm
 Description: From boardroom to break room, generative AI took this year by storm, stirring discussion across industries about how to best harness the technology to enhance innovation and creativity, improve custom...
 Link: https://blogs.nvidia.com/blog/generative-ai-predictions-2025-humanoids-agents/
+
 ---
 
 From source: https://openai.com/blog/rss.xml
@@ -110,36 +103,6 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
-Headline: The ongoing AI revolution is reshaping the world, one algorithm at a time
-Description: <p>In just a few years, the realm of AI has transcended its initial computational boundaries, emerging as one of the transformative forces of the 21st century, permeating virtually every major economi...
-Link: https://www.artificialintelligence-news.com/news/the-ongoing-ai-revolution-is-reshaping-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=the-ongoing-ai-revolution-is-reshaping-the-world
-Headline: Gemini 2.0: Google ushers in the agentic AI era
-Description: <p>Google CEO Sundar Pichai has announced the launch of Gemini 2.0, a model that represents the next step in Google’s ambition to revolutionise AI. A year after introducing the Gemini 1.0 model, this ...
-Link: https://www.artificialintelligence-news.com/news/gemini-2-0-google-ushers-in-agentic-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=gemini-2-0-google-ushers-in-agentic-ai-era
-Headline: Keys to AI success: Security, sustainability, and overcoming silos
-Description: <p>NetApp has shed light on the pressing issues faced by organisations globally as they strive to optimise their strategies for AI success. “2025 is shaping up to be a defining year for AI, as organis...
-Link: https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/?utm_source=rss&utm_medium=rss&utm_campaign=keys-ai-success-security-sustainability-overcoming-silos
-Headline: Machine unlearning: Researchers make AI models ‘forget’ data
-Description: <p>Researchers from the Tokyo University of Science (TUS) have developed a method to enable large-scale AI models to selectively &#8220;forget&#8221; specific classes of data. Progress in AI has provi...
-Link: https://www.artificialintelligence-news.com/news/machine-unlearning-researchers-ai-models-forget-data/?utm_source=rss&utm_medium=rss&utm_campaign=machine-unlearning-researchers-ai-models-forget-data
-Headline: Narrowing the confidence gap for wider AI adoption
-Description: <p>Artificial intelligence entered the market with a splash, driving massive buzz and adoption. But now the pace is faltering. Business leaders still talk the talk about embracing AI, because they wan...
-Link: https://www.artificialintelligence-news.com/news/narrowing-the-confidence-gap-for-wider-ai-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=narrowing-the-confidence-gap-for-wider-ai-adoption
-Headline: Why QwQ-32B-Preview is the reasoning AI to watch
-Description: <p>There’s a new contender in the AI space that’s making waves: QwQ-32B-Preview. This so-called “reasoning” AI model is being compared to OpenAI o1, and it’s one of the few you can download under a pe...
-Link: https://www.artificialintelligence-news.com/news/why-qwq-32b-preview-is-the-reasoning-ai-to-watch/?utm_source=rss&utm_medium=rss&utm_campaign=why-qwq-32b-preview-is-the-reasoning-ai-to-watch
-Headline: Chromia’s Asgard upgrade launches: “New era for DeFi and AI”
-Description: <p>The Chromia blockchain development team has announced the successful completion of its Asgard mainnet upgrade that introduces new features and capabilities for the platform. The new features enhanc...
-Link: https://www.artificialintelligence-news.com/news/chromias-asgard-upgrade-launches-new-era-for-defi-and-ai/?utm_source=rss&utm_medium=rss&utm_campaign=chromias-asgard-upgrade-launches-new-era-for-defi-and-ai
-Headline: Amazon Bedrock gains new AI models, tools, and features
-Description: <p>Amazon Web Services (AWS) has announced improvements to bolster Bedrock, its fully managed generative AI service. The updates include new foundational models from several AI pioneers, enhanced data...
-Link: https://www.artificialintelligence-news.com/news/amazon-bedrock-gains-new-ai-models-tools-and-features/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-bedrock-gains-new-ai-models-tools-and-features
-Headline: MHRA pilots ‘AI Airlock’ to accelerate healthcare adoption
-Description: <p>The Medicines and Healthcare products Regulatory Agency (MHRA) has announced the selection of five healthcare technologies for its ‘AI Airlock’ scheme. AI Airlock aims to refine the process of regu...
-Link: https://www.artificialintelligence-news.com/news/mhra-pilots-ai-airlock-accelerate-healthcare-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=mhra-pilots-ai-airlock-accelerate-healthcare-adoption
-Headline: Google launches Veo and Imagen 3 generative AI models
-Description: <p>Google Cloud has launched two generative AI models on its Vertex AI platform, Veo and Imagen 3, amid reports of surging revenue growth among enterprises leveraging the technology. According to Goog...
-Link: https://www.artificialintelligence-news.com/news/google-launches-veo-and-imagen-3-generative-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=google-launches-veo-and-imagen-3-generative-ai-models
 
 ---
 
@@ -148,6 +111,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: AI’s emissions are about to skyrocket even further
+Description: It’s no secret that the current AI boom is using up immense amounts of energy. Now we have a better idea of how much.&#160; A new paper, from a team at the Harvard T.H. Chan School of Public Health, e...
+Link: https://www.technologyreview.com/2024/12/13/1108719/ais-emissions-are-about-to-skyrocket-even-further/
 Headline: Google’s new Project Astra could be generative AI’s killer app
 Description: Google DeepMind has announced an impressive grab bag of new products and prototypes that may just let it seize back its lead in the race to turn generative artificial intelligence into a mass-market c...
 Link: https://www.technologyreview.com/2024/12/11/1108493/googles-new-project-astra-could-be-generative-ais-killer-app/
@@ -172,9 +138,6 @@ Link: https://www.technologyreview.com/2024/12/04/1107892/google-deepminds-new-a
 Headline: The search startup trying to turn the web into a database
 Description: A startup called Exa is pitching a new spin on generative search. It uses the tech behind large language models to return lists of results that it claims are more on point than those from its rivals, ...
 Link: https://www.technologyreview.com/2024/12/03/1107726/the-startup-trying-to-turn-the-web-into-a-database/
-Headline: How US AI policy might change under Trump
-Description: This story is from The Algorithm, our weekly newsletter on AI. To get it in your inbox first,&#160;sign up here. President Biden first witnessed the capabilities of ChatGPT in 2022 during a demo from ...
-Link: https://www.technologyreview.com/2024/12/03/1107704/departing-ai-white-house-advisor/
 
 ---
 
@@ -187,6 +150,15 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: How Amazon trains sequential ensemble models at scale with Amazon SageMaker Pipelines
+Description: Ensemble models are becoming popular within the ML communities. They generate more accurate predictions through combining the predictions of multiple models. Pipelines can quickly be used to create an...
+Link: https://aws.amazon.com/blogs/machine-learning/how-amazon-trains-sequential-ensemble-models-at-scale-with-amazon-sagemaker-pipelines/
+Headline: Implementing login node load balancing in SageMaker HyperPod for enhanced multi-user experience
+Description: In this post, we explore a solution for implementing load balancing across login nodes in Slurm-based HyperPod clusters. By distributing user activity evenly across all available nodes, this approach ...
+Link: https://aws.amazon.com/blogs/machine-learning/implementing-login-node-load-balancing-in-sagemaker-hyperpod-for-enhanced-multi-user-experience/
+Headline: How Clearwater Analytics is revolutionizing investment management with generative AI and Amazon SageMaker JumpStart
+Description: In this post, we explore Clearwater Analytics’ foray into generative AI, how they’ve architected their solution with Amazon SageMaker, and dive deep into how Clearwater Analytics is using LLMs to take...
+Link: https://aws.amazon.com/blogs/machine-learning/how-clearwater-analytics-is-revolutionizing-investment-management-with-generative-ai-and-amazon-sagemaker-jumpstart/
 Headline: Accelerate your ML lifecycle using the new and improved Amazon SageMaker Python SDK – Part 2: ModelBuilder
 Description: In Part 1 of this series, we introduced the newly launched ModelTrainer class on the Amazon SageMaker Python SDK and its benefits, and showed you how to fine-tune a Meta Llama 3.1 8B model on a custom...
 Link: https://aws.amazon.com/blogs/machine-learning/accelerate-your-ml-lifecycle-using-the-new-and-improved-amazon-sagemaker-python-sdk-part-2-modelbuilder/
@@ -199,20 +171,33 @@ Link: https://aws.amazon.com/blogs/machine-learning/amazon-q-apps-supports-custo
 Headline: How AWS sales uses Amazon Q Business for customer engagement
 Description: In April 2024, we launched our AI sales assistant, which we call Field Advisor, making it available to AWS employees in the Sales, Marketing, and Global Services organization, powered by Amazon Q Busi...
 Link: https://aws.amazon.com/blogs/machine-learning/how-aws-sales-uses-amazon-q-business-for-customer-engagement/
-Headline: How Tealium built a chatbot evaluation platform with Ragas and Auto-Instruct using AWS generative AI services
-Description: In this post, we illustrate the importance of generative AI in the collaboration between Tealium and the AWS Generative AI Innovation Center (GenAIIC) team by automating the following: 1/ Evaluating t...
-Link: https://aws.amazon.com/blogs/machine-learning/how-tealium-built-a-chatbot-evaluation-platform-with-ragas-and-auto-instruct-using-aws-generative-ai-services/
-Headline: EBSCOlearning scales assessment generation for their online learning content with generative AI
-Description: In this post, we illustrate how EBSCOlearning partnered with AWS Generative AI Innovation Center (GenAIIC) to use the power of generative AI in revolutionizing their learning assessment process. We ex...
-Link: https://aws.amazon.com/blogs/machine-learning/ebscolearning-scales-assessment-generation-for-their-online-learning-content-with-generative-ai/
-Headline: Pixtral 12B is now available on Amazon SageMaker JumpStart
-Description: Today, we are excited to announce that Pixtral 12B (pixtral-12b-2409), a state-of-the-art vision language model (VLM) from Mistral AI that excels in both text-only and multimodal tasks, is available f...
-Link: https://aws.amazon.com/blogs/machine-learning/pixtral-12b-is-now-available-on-amazon-sagemaker-jumpstart/
+
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Cohere’s smallest, fastest R-series model excels at RAG, reasoning in 23 languages
+Description: Cohere's Command R7B uses RAG, features a context length of 128K, supports 23 languages and outperforms Gemma, Llama and Ministral.
+Link: https://venturebeat.com/ai/coheres-smallest-fastest-r-series-model-excels-at-rag-reasoning-in-23-languages/
+Headline: OpenAI launches ChatGPT Projects, letting you organize files, chats in groups
+Description: Projects in ChatGPT allows users to create folders and add conversations and documents, bringing these capabilities together in one place.
+Link: https://venturebeat.com/ai/openai-launches-chatgpt-projects-letting-you-organize-files-chats-in-groups/
+Headline: Shutterstock pioneers ‘research license’ model with Lightricks, lowering barriers to AI training data
+Description: Shutterstock launches innovative "research license" model with Lightricks, making ethical AI training data more accessible for startups while ensuring fair compensation for creators.
+Link: https://venturebeat.com/ai/shutterstock-pioneers-research-license-model-with-lightricks-lowering-barriers-to-ai-training-data/
+Headline: Pika 2.0 launches in wake of Sora, integrating your own characters, objects, scenes in new AI videos
+Description: Advanced image recognition tech ensures these components are seamlessly integrated into AI generated videos, giving creators more control.
+Link: https://venturebeat.com/ai/pika-2-0-launches-in-wake-of-sora-integrating-your-own-characters-objects-scenes-in-new-ai-videos/
+Headline: NotebookLM updates Business to Plus with more audio, lets all users interact with AI hosts
+Description: Google releases a new paid version of NotebookLM to enterprises, teams and power users, and offers new interactions with its audio feature.
+Link: https://venturebeat.com/ai/notebooklm-updates-business-to-plus-more-audio-all-users-interact-with-ai-hosts/
+Headline: Gemini 2.0 Flash ushers in a new era of real-time multimodal AI
+Description: Google’s release of Gemini 2.0 Flash this week, offering users a way to interact live with video of their surroundings, has set the stage for what could be a pivotal shift in how enterprises and consu...
+Link: https://venturebeat.com/ai/gemini-2-0-flash-ushers-in-a-new-era-of-real-time-multimodal-ai/
+Headline: New LLM optimization technique slashes memory costs up to 75%
+Description: Universal Transformer Memory uses neural networks to determine which tokens in the LLM's context window are useful or redundant.
+Link: https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/
 Headline: Microsoft’s smaller AI model beats the big guys: Meet Phi-4, the efficiency king
-Description: Microsoft’s new AI model, Phi-4, outperforms larger competitors like Google’s Gemini Pro with superior mathematical reasoning while using fewer resources, signaling a revolutionary shift in AI develop...
+Description: Microsoft’s new AI model, Phi-4, outperforms larger competitors like Google’s Gemini Pro with superior mathematical reasoning while using fewer resources.
 Link: https://venturebeat.com/ai/microsofts-smaller-ai-model-beats-the-big-guys-meet-phi-4-the-efficiency-king/
 Headline: ChatGPT gets screensharing and real-time video analysis, rivaling Gemini 2
 Description: OpenAI now lets users video chat with ChatGPT in advanced voice mode, and the chatbot will respond to real-time images.
@@ -220,37 +205,31 @@ Link: https://venturebeat.com/ai/chatgpt-gets-screensharing-and-real-time-video-
 Headline: Protected: Nvidia unveils next-gen AI and industrial digitalization capabilities at Microsoft Ignite
 Description: Together, Nvidia and Microsoft are helping businesses unleash the full potential of AI, driving more efficiencies and transformation.
 Link: https://venturebeat.com/ai/nvidia-unveils-next-gen-ai-and-industrial-digitalization-capabilities-at-microsoft-ignite/
-Headline: Lambda launches ‘inference-as-a-service’ API claiming lowest costs in AI industry
-Description: This GPU advantage enables the platform to support scaling to trillions of tokens monthly, providing flexibility for devs and enterprises.
-Link: https://venturebeat.com/ai/lambda-launches-inference-as-a-service-api-claiming-lowest-costs/
-Headline: Anthropic’s fastest model, Claude 3.5 Haiku, now generally available
-Description: With features like image and file analysis, robust coding capabilities, and integration with Artifacts, Claude 3.5 Haiku is a powerful tool.
-Link: https://venturebeat.com/ai/claude-3-5-haiku-chatbot-now-generally-available/
-Headline: IP Copilot wants to use AI to turn your Slack messages into patents
-Description: IP Copilot raises $4.2M to transform enterprise patent discovery with AI technology that monitors workplace communications and identifies patentable innovations in real time, helping companies build s...
-Link: https://venturebeat.com/ai/ip-copilot-wants-to-use-ai-to-turn-your-slack-messages-into-patents/
-Headline: Pin thinks AI can fix recruitment’s biggest problems — and it has the numbers to prove it
-Description: Pin emerges from stealth with $3M funding to transform AI-powered recruitment, achieving 70% candidate match rates and reducing hiring time from 60 days to two weeks through proprietary machine learni...
-Link: https://venturebeat.com/ai/pin-thinks-ai-can-fix-recruitments-biggest-problems-and-it-has-the-numbers-to-prove-it/
-Headline: OpenAI rolls out ChatGPT for iPhone in landmark AI integration with Apple
-Description: Apple and OpenAI are partnering to bring ChatGPT to iPhone, transforming Siri, camera and productivity features in iOS 18.2.
-Link: https://venturebeat.com/ai/openai-rolls-out-chatgpt-for-iphone-in-landmark-ai-integration-with-apple/
-Headline: Midjourney is launching a multiplayer collaborative worldbuilding tool called ‘Patchwork’
-Description: The news comes as other AI researchers and big tech companies seek to develop AI that can create 3D immersive, navigable worlds.
-Link: https://venturebeat.com/ai/midjourney-is-launching-a-multiplayer-collaborative-worldbuilding-tool/
-Headline: ‘Not there yet’: Sora rollout receives mixed response from AI filmmakers citing inconsistent results, content restrictions
-Description: Is Sora worth it now at $20/$200 a month, or are other AI generators with similar or less-expensive pricing structures a better deal?
-Link: https://venturebeat.com/ai/not-there-yet-sora-rollout-receives-mixed-response-from-ai-filmmakers-citing-inconsistent-results-content-restrictions/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: The best AI chatbots of 2024: ChatGPT, Copilot, and notable alternatives
+Description: I've spent the last two years testing AI chatbots and honing my list of the ones I recommend. Whether you're new to AI or a regular user, I guarantee these top AI chatbots can help you save time and g...
+Link: https://www.zdnet.com/article/best-ai-chatbot/
+Headline: Prime Video's new AI will help you figure out what to watch next
+Description: Finding TV shows and movies to watch on Amazon's video streaming service is about to get a little easier.
+Link: https://www.zdnet.com/article/prime-videos-new-ai-will-help-you-figure-out-what-to-watch-next/
+Headline: ChatGPT finally gets easier to organize on the 7th day of OpenAI
+Description: For 12 days, the OpenAI daily live stream is unveiling 'new things, big and small.' Here's what's new today.
+Link: https://www.zdnet.com/article/chatgpt-finally-gets-easier-to-organize-on-the-7th-day-of-openai/
+Headline: Secret Agentspace: Google announces new AI tool to help enterprises turn silos into lakes
+Description: Google's new enterprise offering provides a fresh way to blend data silos and extract business value from previously barricaded data. Here's why it could be a game changer for your business.
+Link: https://www.zdnet.com/article/secret-agentspace-google-announces-new-ai-tool-to-help-enterprises-turn-silos-into-lakes/
+Headline: You can talk to the AI hosts of your NotebookLM podcast now
+Description: Google's NotebookLM gets a redesign that lets users interact with its AI-generated podcasts in a whole new way.
+Link: https://www.zdnet.com/article/you-can-talk-to-the-ai-hosts-of-your-notebooklm-podcast-now/
+Headline: 10 ways AI chatbots can help you with holiday tasks - and 30 sample prompts
+Description: AI can help you maximize your holiday cheer and minimize the chaos. Use these 30 AI prompts to tackle everything from meal planning to travel stress, all while staying on budget and organized.
+Link: https://www.zdnet.com/article/10-ways-ai-chatbots-can-help-you-with-holiday-tasks-and-30-sample-prompts/
 Headline: Claude 3.5 Haiku now available to all users - how to try it
 Description: While the model's release was spotted by several outlets and users, Anthropic hasn't yet announced its broader release. Even Claude seems confused.
 Link: https://www.zdnet.com/article/claude-3-5-haiku-now-available-to-all-users-how-to-try-it/
-Headline: ChatGPT's Advanced Voice Mode finally gets visual context on the 6th day of OpenAI
-Description: For 12 days, the OpenAI daily live stream is unveiling 'new things, big and small.' Here's what's new today.
-Link: https://www.zdnet.com/article/chatgpts-advanced-voice-mode-finally-gets-visual-context-on-the-6th-day-of-openai/
 Headline: How Fiverr's new AI tool could help you land a freelancing job
 Description: Exclusive: Dynamic Matching uses AI and people skills to link projects with ideal candidates. Here's what you should know.
 Link: https://www.zdnet.com/article/how-fiverrs-new-ai-tool-could-help-you-land-a-freelancing-job/
@@ -260,21 +239,6 @@ Link: https://www.zdnet.com/article/what-is-googles-project-mariner-this-ai-agen
 Headline: 5 reasons why Google's Trillium could transform AI and cloud computing - and 2 obstacles
 Description: Google's sixth-generation TPU claims major cost and performance gains, but its single-cloud reliance faces stiff competition from NVIDIA GPUs and Amazon's Trainium.
 Link: https://www.zdnet.com/article/5-reasons-why-googles-trillium-could-transform-ai-and-cloud-computing-and-2-obstacles/
-Headline: Google Labs just got a redesign. Here are 6 reasons to check it out
-Description: Google has plenty of experimental generative AI tools, including the newly updated NotebookLM, which you can start testing for free now.
-Link: https://www.zdnet.com/article/google-labs-just-got-a-redesign-here-are-6-reasons-to-check-it-out/
-Headline: Gemini's new Deep Research feature searches the web for you - like an assistant
-Description: Google's new agentic AI feature even provides a digestible report to help you better understand complex topics.
-Link: https://www.zdnet.com/article/google-geminis-new-deep-research-feature-searches-the-web-for-you-like-an-assistant/
-Headline: Google's Gemini 2.0 AI promises to be faster and smarter via agentic advances
-Description: Google's Gemini 2.0 brings advanced features like multimodal outputs, long context understanding, and native tool use. Can this agentic AI model surpass its rivals and lead the next AI wave?
-Link: https://www.zdnet.com/article/googles-gemini-2-0-ai-promises-to-be-faster-and-smarter-via-agentic-advances/
-Headline: AI is moving undercover at work in 2025, according to Deloitte's Tech Trends report
-Description: The 16th annual Deloitte Tech Trends Report analyzes the many changes across the AI landscape during the past year and offers guidance on what to expect in the next 18-24 months.
-Link: https://www.zdnet.com/article/ai-is-moving-undercover-at-work-in-2025-according-to-deloittes-tech-trends-report/
-Headline: iOS 18.2 rolls out to iPhones: Try these 6 new AI features today
-Description: You can access ChatGPT's native integrations, Genmoji, Visual Intelligence, and more today. Here's how.
-Link: https://www.zdnet.com/article/ios-18-2-rolls-out-to-iphones-try-these-6-new-ai-features-today/
 
 ---
 
@@ -291,6 +255,9 @@ From source: https://garymarcus.substack.com/feed
 ---
 
 From source: https://www.aisnakeoil.com/feed
+Headline: We Looked at 78 Election Deepfakes. Political Misinformation is not an AI Problem.
+Description: Technology Isn&#8217;t the Problem&#8212;or the Solution.
+Link: https://www.aisnakeoil.com/p/we-looked-at-78-election-deepfakes
 Headline: Does the UK’s liver transplant matching algorithm systematically exclude younger patients?
 Description: Seemingly minor technical decisions can have life-or-death effects
 Link: https://www.aisnakeoil.com/p/does-the-uks-liver-transplant-matching
@@ -318,9 +285,6 @@ Link: https://www.aisnakeoil.com/p/ai-scaling-myths
 Headline: Scientists should use AI as a tool, not an oracle
 Description: How AI hype leads to flawed research that fuels more hype
 Link: https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool
-Headline: AI leaderboards are no longer useful. It's time to switch to Pareto curves.
-Description: What spending $2,000 can tell us about evaluating AI agents
-Link: https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful
 
 ---
 
@@ -359,6 +323,12 @@ Link: https://www.sciencedaily.com/releases/2024/11/241126135834.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Why AI must learn to admit ignorance and say 'I don't know'
+Description: The ability to admit ignorance could be a sign of truly intelligent AI, and a new quiz of unsolved or perhaps even unsolvable questions aims to put this idea to the test
+Link: https://www.newscientist.com/article/2457739-why-ai-must-learn-to-admit-ignorance-and-say-i-dont-know/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Over 70 per cent of students in US survey use AI for school work
+Description: Many children in the US seem to be using a chatbot to help them with their work, despite the risks of errors and often in defiance of school rules
+Link: https://www.newscientist.com/article/2460254-over-70-per-cent-of-students-in-us-survey-use-ai-for-school-work/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: The US Navy wants to use quantum computers for war games and much more
 Description: The US Navy has many tasks it wants quantum devices to tackle, from setting maintenance schedules to enabling nearly unhackable communication
 Link: https://www.newscientist.com/article/2460443-the-us-navy-wants-to-use-quantum-computers-for-war-games-and-much-more/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -383,12 +353,6 @@ Link: https://www.newscientist.com/article/2459657-energy-hungry-ai-is-already-h
 Headline: Is Google's new Willow quantum computer really such a big deal?
 Description: Google has unveiled a new quantum computer called Willow that excels at a benchmarking problem, but it still isn't clear whether these machines can serve a practical purpose
 Link: https://www.newscientist.com/article/2459318-is-googles-new-willow-quantum-computer-really-such-a-big-deal/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Chips linked with light could train AI faster while using less energy
-Description: A technology that packs more optical fibre connections onto chips could let them transmit 80 times as much information, speeding up AI training and slashing data centre energy costs
-Link: https://www.newscientist.com/article/2459368-chips-linked-with-light-could-train-ai-faster-while-using-less-energy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Tencent seems unaffected by US AI chip export ban, research shows
-Description: A US ban on exporting high-end chips used for AI development to China doesn't seem to have affected Tencent, as US researchers suggest they may have found signs of the tech giant still using the chips
-Link: https://www.newscientist.com/article/2458860-tencent-seems-unaffected-by-us-ai-chip-export-ban-research-shows/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -401,24 +365,7 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: One-Minute Daily AI News 12/11/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google</strong> Unveils A.I. Agent Based on Gemini 2.0.[1]</li> <li><strong>Apple</strong> working with Broadcom to develop AI chip.[2]</li> <li><strong...
-Link: https://www.reddit.com/r/artificial/comments/1hcamin/oneminute_daily_ai_news_12112024/
-Headline: A website that uses AI to generate appeals to insurance coverage denial
-Description: <!-- SC_OFF --><div class="md"><p>Fighthealthinsurance.com</p> <p>I'm trying to spread this site around as much as possible. It's a free website where if your insurance company denies your claim, you ...
-Link: https://www.reddit.com/r/artificial/comments/1hcxvqr/a_website_that_uses_ai_to_generate_appeals_to/
-Headline: OpenAI introduces “Santa Mode” to ChatGPT for ho-ho-ho voice chats
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hct555/openai_introduces_santa_mode_to_chatgpt_for/"> <img alt="OpenAI introduces “Santa Mode” to ChatGPT for ho-ho-ho voice cha...
-Link: https://www.reddit.com/r/artificial/comments/1hct555/openai_introduces_santa_mode_to_chatgpt_for/
-Headline: China Unveils Sci-Fi Inspired Spherical AI Police Robot To Tackle Crime
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hcg2tn/china_unveils_scifi_inspired_spherical_ai_police/"> <img alt="China Unveils Sci-Fi Inspired Spherical AI Police Robot To ...
-Link: https://www.reddit.com/r/artificial/comments/1hcg2tn/china_unveils_scifi_inspired_spherical_ai_police/
-Headline: Teen victim of graphic deepfake pornography works with senators to pass AI crime bill
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hd0m60/teen_victim_of_graphic_deepfake_pornography_works/"> <img alt="Teen victim of graphic deepfake pornography works with sen...
-Link: https://www.reddit.com/r/artificial/comments/1hd0m60/teen_victim_of_graphic_deepfake_pornography_works/
-Headline: Think of AI as a child
-Description: <!-- SC_OFF --><div class="md"><p>I’m not a programmer but I am just thinking we should reframe how we look at AI.</p> <p>It is a new type of intelligence, it’s like a tool.</p> <p>But it’s to a tool ...
-Link: https://www.reddit.com/r/artificial/comments/1hczdwx/think_of_ai_as_a_child/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
