@@ -1,6 +1,9 @@
-AI News Updates - 2024-12-21 02:46:46
+AI News Updates - 2024-12-22 02:54:51
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI’s GPT-5 reportedly falling short of expectations
+Description: <p>OpenAI’s efforts to develop its next major model, GPT-5, are running behind schedule, with results that don’t yet justify the enormous costs, according to a new report in The Wall Street Journal. T...
+Link: https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/
 Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
 Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with...
 Link: https://techcrunch.com/2024/12/20/chatgpt-everything-to-know-about-the-ai-chatbot/
@@ -29,13 +32,18 @@ Link: https://techcrunch.com/2024/12/20/arizonas-getting-an-online-charter-schoo
 Headline: British university spinoff Mindgard protects companies from AI threats
 Description: <p>AI creates a dilemma for companies: Don&#8217;t implement it yet, and you might miss out on productivity gains and other potential benefits, but do it wrong, and you might expose your business and ...
 Link: https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/
-Headline: Sam Altman once owned some equity in OpenAI through Sequoia
-Description: <p>OpenAI CEO Sam Altman sat before Congress in 2023 to testify about the dangers of AI. He told American lawmakers at the time that he owns no equity in OpenAI, something he&#8217;s said many times, ...
-Link: https://techcrunch.com/2024/12/19/sam-altman-once-owned-some-equity-in-openai-through-sequoia/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Here’s the first CoPilot plus mini PC with Intel’s new Core Ultra 9 processors
+Description: <figure>
+      <img alt="Picture of the Asus NUC 14 Pro AI" src="https://cdn.vox-cdn.com/thumbor/msb0FCRXQhc3sGr41-Sw2Wk37w0=/0x111:2395x1708/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738013...
+Link: https://www.theverge.com/2024/12/21/24326557/asus-copilot-plus-nuc-mini-pc-intel-core-ultra-series-2-processor
+Headline: TCL’s new AI short films range from bad comedy to existential horror
+Description: <figure>
+      <img alt="A screenshot from TCL’s The Audition" src="https://cdn.vox-cdn.com/thumbor/WnjLDK4d6KqQ-XP3YhCL7H5X0I4=/214x0:2458x1496/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738...
+Link: https://www.theverge.com/2024/12/21/24319502/tcl-new-ai-films-bad-comedy-existential-horror-ranked
 Headline: The AI talent wars are just getting started
 Description: <figure>
       <img alt="A photo of Naveen Rao." src="https://cdn.vox-cdn.com/thumbor/DGMZyIspr-y9bHuMQ0Agc2aWS5o=/0x0:2250x1500/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73799966/Raveen_Rao...
@@ -60,18 +68,6 @@ Headline: You can now call 1-800-CHATGPT
 Description: <figure>
       <img alt="A screenshot from OpenAI stream, that says 1-800-CHATGPT." src="https://cdn.vox-cdn.com/thumbor/BkBiAqYtSHycPofpb55jXSmKbac=/105x0:1241x757/1310x873/cdn.vox-cdn.com/uploads/ch...
 Link: https://www.theverge.com/2024/12/18/24324376/openai-shipmas-1-800-chatgpt-whatsapp
-Headline: YouTube says that soon, its tech will be able to find AI copies of celebs and creators
-Description: <figure>
-      <img alt="YouTube logo on an abstract background" src="https://cdn.vox-cdn.com/thumbor/q_ftGOLkIZiNhttDxMI0EUI2h2g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/737...
-Link: https://www.theverge.com/2024/12/17/24323558/youtube-detect-remove-creators-ai-likeness
-Headline: How to add extensions to Gemini
-Description: <figure>
-      <img alt="Vector illustration of the Google Gemini logo in front of various aspects of AI." src="https://cdn.vox-cdn.com/thumbor/UAfJcizaW6sNtB1vppGOClhB-2c=/0x0:3000x2000/1310x873/cdn....
-Link: https://www.theverge.com/24322770/gemini-ai-google-how-to-extensions
-Headline: Nvidia’s $249 dev kit promises cheap, small AI power
-Description: <figure>
-      <img alt="" src="https://cdn.vox-cdn.com/thumbor/_VXeIOgwWl8pYln-yOsAqKFiDbc=/100x0:1180x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73792697/Jetson_Orin_Nano_Super.0.jpg" /...
-Link: https://www.theverge.com/2024/12/17/24323450/nvidia-jetson-orin-nano-super-developer-kit-software-update-ai-artificial-intelligence-maker-pc
 
 ---
 
@@ -207,6 +203,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/multi-tenant-rag-with-amazon
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Large language overkill: How SLMs can beat their bigger, resource-intensive cousins
+Description: Whether a company begins with a proof-of-concept or live deployment, they should start small, test often and build on early successes.
+Link: https://venturebeat.com/ai/large-language-overkill-how-slms-can-beat-their-bigger-resource-intensive-cousins/
 Headline: Arm lawsuit against Qualcomm ends in mistrial and favorable ruling for Qualcomm
 Description: Qualcomm did not violate a license with Arm when it acquired Nuvia for $1.4 billion, in a ruling by a jury today.
 Link: https://venturebeat.com/ai/arm-lawsuit-against-qualcomm-ends-in-mistrial-and-favorable-ruling-for-qualcomm/
@@ -234,13 +233,13 @@ Link: https://venturebeat.com/ai/stable-diffusion-3-5-hits-amazon-bedrock-what-i
 Headline: Small model, big impact: Patronus AI’s Glider outperforms GPT-4 in key AI evaluation tasks
 Description: Patronus AI launches Glider, a breakthrough 3.8B-parameter language model that rivals GPT-4's evaluation capabilities while running on-device, offering transparent AI assessment with detailed explanat...
 Link: https://venturebeat.com/ai/small-model-big-impact-patronus-ai-glider-outperforms-gpt-4-in-key-ai-benchmarks/
-Headline: Beyond LLMs: How SandboxAQ’s large quantitative models could optimize enterprise AI
-Description: Alphabet spinout SandboxAQ is advancing large quantitative models to help enterprise AI optimize value creation.
-Link: https://venturebeat.com/ai/beyond-llms-how-sandboxaqs-large-quantitative-models-could-optimize-enterprise-ai/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: If ChatGPT produces AI-generated code for your app, who does it really belong to?
+Description: The answer is complicated, so in Part I of a two-article analysis, we consulted legal experts to obtain some definitive answers.
+Link: https://www.zdnet.com/article/if-chatgpt-produces-ai-generated-code-for-your-app-who-does-it-really-belong-to/
 Headline: Amazon's AI Shopping Guides helps you research less and shop more. Here's how it works
 Description: The sheer abundance of deals during the holiday season can get overwhelming. Amazon's guides help US customers navigate more than 100 product types.
 Link: https://www.zdnet.com/article/amazons-ai-shopping-guides-helps-you-research-less-and-shop-more-heres-how-it-works/
@@ -268,9 +267,6 @@ Link: https://www.zdnet.com/article/the-window-to-apply-for-perplexitys-2025-col
 Headline: You can access the latest DALL-E 3 model for free, just not through ChatGPT
 Description: Access OpenAI's most advanced image-generating model on Bing Image Creator for free.
 Link: https://www.zdnet.com/article/you-can-access-the-latest-dall-e-3-model-for-free-just-not-through-chatgpt/
-Headline: Agents are the 'third wave' of the AI revolution
-Description: How agentic AI is similar - and different - from its predecessor, generative AI.
-Link: https://www.zdnet.com/article/agents-are-the-third-wave-of-the-ai-revolution/
 
 ---
 
@@ -397,6 +393,27 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
+Headline: OpenAI o3 is equivalent to the #175 best human competitive coder on the planet.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hjcbwo/openai_o3_is_equivalent_to_the_175_best_human/"> <img alt="OpenAI o3 is equivalent to the #175 best human competitive cod...
+Link: https://www.reddit.com/r/artificial/comments/1hjcbwo/openai_o3_is_equivalent_to_the_175_best_human/
+Headline: Did you catch Sam Altman cutting off the employee who said they will ask the model to recursively improve itself
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hjdyxm/did_you_catch_sam_altman_cutting_off_the_employee/"> <img alt="Did you catch Sam Altman cutting off the employee who said...
+Link: https://www.reddit.com/r/artificial/comments/1hjdyxm/did_you_catch_sam_altman_cutting_off_the_employee/
+Headline: UK’s ambitions to police AI face Trump’s ‘starkly’ different approach
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hj8nmp/uks_ambitions_to_police_ai_face_trumps_starkly/"> <img alt="UK’s ambitions to police AI face Trump’s ‘starkly’ different ...
+Link: https://www.reddit.com/r/artificial/comments/1hj8nmp/uks_ambitions_to_police_ai_face_trumps_starkly/
+Headline: Is Consciousness a Process – and Could Humans and AI Create It Together?
+Description: <!-- SC_OFF --><div class="md"><p><strong>What if consciousness isn’t a state, but a process?</strong></p> <p>In a conversation with an AI, I explored the idea that consciousness might not exist in is...
+Link: https://www.reddit.com/r/artificial/comments/1hjeoma/is_consciousness_a_process_and_could_humans_and/
+Headline: Video editing
+Description: <!-- SC_OFF --><div class="md"><p>Can anyone point me to a service where I can upload a video of a politician talking and have AI make the politicians nose grow with every sentence they say? À la Pino...
+Link: https://www.reddit.com/r/artificial/comments/1hjc7vy/video_editing/
+Headline: The Next Great Leap in AI Is Behind Schedule and Crazy Expensive
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/rpctaco1984"> /u/rpctaco1984 </a> <br /> <span><a href="https://www.wsj.com/articles/openai-gpt5-orion-delays-639e7693?st=kfTcD2&amp;refli...
+Link: https://www.reddit.com/r/artificial/comments/1hj8pat/the_next_great_leap_in_ai_is_behind_schedule_and/
+Headline: What's the point? AI is so much better.
+Description: <!-- SC_OFF --><div class="md"><p>I'm so confused, so tired, so humiliated. AI is so freaking good now. </p> <p>It makes me feel like humans are completely unnecessary, so why am I toughing this out? ...
+Link: https://www.reddit.com/r/artificial/comments/1hj14m6/whats_the_point_ai_is_so_much_better/
 
 ---
 
