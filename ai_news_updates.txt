@@ -1,6 +1,19 @@
-AI News Updates - 2024-12-22 02:54:51
+AI News Updates - 2024-12-23 02:51:49
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Sriram Krishnan named Trump’s senior policy advisor for AI
+Description: <p>Incoming president Donald Trump has confirmed reports that Sriram Krishnan, until recently a general partner at Andreessen Horowitz (a16z), will serve as senior policy advisor for AI at the White H...
+Link: https://techcrunch.com/2024/12/22/sriram-krishnan-named-trumps-senior-policy-advisor-for-ai/
+Headline: Palantir and Anduril reportedly building a tech consortium to bid on defense contracts
+Description: <p>Two big defense tech players, Palantir and Anduril, are talking to tech companies including SpaceX, OpenAI, Saronic, and Scale AI about forming a consortium to bid on Pentagon contracts, according ...
+Link: https://techcrunch.com/2024/12/22/palantir-and-anduril-reportedly-building-a-tech-consortium-to-bid-on-defense-contracts/
+Headline: OpenAI trained o1 and o3 to ‘think’ about its safety policy
+Description: <p>OpenAI announced a new family of AI reasoning models on Friday, o3, which the startup claims to be more advanced than o1 or anything else it&#8217;s released. These improvements appear to have come...
+Link: https://techcrunch.com/2024/12/22/openai-trained-o1-and-o3-to-think-about-its-safety-policy/
+Headline: Tetsuwan Scientific is making robotic AI scientists that can run experiments on their own
+Description: <p>LLM models are already capable of diagnosing scientific outputs, but, until now,  had “no physical agency to actually perform" experiments.</p>
+<p>© 2024 TechCrunch. All rights reserved. For person...
+Link: https://techcrunch.com/2024/12/22/tetsuwan-scientific-is-making-robotic-ai-scientists-that-can-run-experiments-on-their-own/
 Headline: OpenAI’s GPT-5 reportedly falling short of expectations
 Description: <p>OpenAI’s efforts to develop its next major model, GPT-5, are running behind schedule, with results that don’t yet justify the enormous costs, according to a new report in The Wall Street Journal. T...
 Link: https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/
@@ -20,18 +33,6 @@ Link: https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups
 Headline: OpenAI announces new o3 models
 Description: <p>OpenAI saved its biggest announcement for the last day of its 12-day &#8220;shipmas&#8221; event. On Friday, the company unveiled o3, the successor to the o1 &#8220;reasoning&#8221; model it releas...
 Link: https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/
-Headline: OpenAI 2024 event: How to watch new ChatGPT product reveals and demos
-Description: <p>OpenAI is in the holiday spirit, it seems. The ChatGPT series of reveals, called “12 Days of OpenAI,” will be streamed live at 10 a.m. PT each weekday through December 20. So far, we&#8217;ve seen ...
-Link: https://techcrunch.com/2024/12/20/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/
-Headline: Are AI companies just defense tech now?
-Description: <p>AI is everywhere. And increasingly it&#8217;s being described as defense tech. This week, the Equity pod gang — which included newcomer Max Zeff, Margaux MacColl, and Kirsten Korosec — noticed an e...
-Link: https://techcrunch.com/podcast/are-ai-companies-just-defense-tech-now/
-Headline: Arizona’s getting an online charter school taught entirely by AI
-Description: <p>The newest online-only school greenlighted by the Arizona State Board for Charter Schools comes with a twist: The academic curriculum will be taught entirely by AI. Charter schools &#8212; independ...
-Link: https://techcrunch.com/2024/12/20/arizonas-getting-an-online-charter-school-taught-entirely-by-ai/
-Headline: British university spinoff Mindgard protects companies from AI threats
-Description: <p>AI creates a dilemma for companies: Don&#8217;t implement it yet, and you might miss out on productivity gains and other potential benefits, but do it wrong, and you might expose your business and ...
-Link: https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/
 
 ---
 
@@ -203,6 +204,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/multi-tenant-rag-with-amazon
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Unintended consequences: U.S. election results herald reckless AI development
+Description: AI accelerationists have won as a consequence of the election, potentially sidelining those advocating for a more cautious approach.
+Link: https://venturebeat.com/ai/unintended-consequences-u-s-election-results-herald-reckless-ai-development/
 Headline: Large language overkill: How SLMs can beat their bigger, resource-intensive cousins
 Description: Whether a company begins with a proof-of-concept or live deployment, they should start small, test often and build on early successes.
 Link: https://venturebeat.com/ai/large-language-overkill-how-slms-can-beat-their-bigger-resource-intensive-cousins/
@@ -230,13 +234,13 @@ Link: https://venturebeat.com/ai/google-unveils-new-reasoning-model-gemini-2-0-f
 Headline: Stable Diffusion 3.5 hits Amazon Bedrock: What it means for enterprise AI workflows
 Description: Stability AI CEO drives enterprise AI focus home as the flagship Stable Diffusion models land on Amazon Bedrock.
 Link: https://venturebeat.com/ai/stable-diffusion-3-5-hits-amazon-bedrock-what-it-means-for-enterprise-ai-workflows/
-Headline: Small model, big impact: Patronus AI’s Glider outperforms GPT-4 in key AI evaluation tasks
-Description: Patronus AI launches Glider, a breakthrough 3.8B-parameter language model that rivals GPT-4's evaluation capabilities while running on-device, offering transparent AI assessment with detailed explanat...
-Link: https://venturebeat.com/ai/small-model-big-impact-patronus-ai-glider-outperforms-gpt-4-in-key-ai-benchmarks/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: If your AI-generated code becomes faulty, who faces the most liability exposure?
+Description: Who is liable: the product maker, the library coder, or the company that chose the product? Our Part 2 analysis examines this sticky issue if a catastrophic outcome occurs.
+Link: https://www.zdnet.com/article/if-your-ai-generated-code-becomes-faulty-who-faces-the-most-liability-exposure/
 Headline: If ChatGPT produces AI-generated code for your app, who does it really belong to?
 Description: The answer is complicated, so in Part I of a two-article analysis, we consulted legal experts to obtain some definitive answers.
 Link: https://www.zdnet.com/article/if-chatgpt-produces-ai-generated-code-for-your-app-who-does-it-really-belong-to/
@@ -264,9 +268,6 @@ Link: https://www.zdnet.com/article/3-holiday-email-scams-to-watch-for-and-how-t
 Headline: The window to apply for Perplexity's 2025 college AI program is closing - how to sign up
 Description: The Perplexity Campus Strategist program provides a unique opportunity for students interested in AI, but you need to apply quickly.
 Link: https://www.zdnet.com/article/the-window-to-apply-for-perplexitys-2025-college-ai-program-is-closing-how-to-sign-up/
-Headline: You can access the latest DALL-E 3 model for free, just not through ChatGPT
-Description: Access OpenAI's most advanced image-generating model on Bing Image Creator for free.
-Link: https://www.zdnet.com/article/you-can-access-the-latest-dall-e-3-model-for-free-just-not-through-chatgpt/
 
 ---
 
@@ -393,27 +394,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: OpenAI o3 is equivalent to the #175 best human competitive coder on the planet.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hjcbwo/openai_o3_is_equivalent_to_the_175_best_human/"> <img alt="OpenAI o3 is equivalent to the #175 best human competitive cod...
-Link: https://www.reddit.com/r/artificial/comments/1hjcbwo/openai_o3_is_equivalent_to_the_175_best_human/
-Headline: Did you catch Sam Altman cutting off the employee who said they will ask the model to recursively improve itself
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hjdyxm/did_you_catch_sam_altman_cutting_off_the_employee/"> <img alt="Did you catch Sam Altman cutting off the employee who said...
-Link: https://www.reddit.com/r/artificial/comments/1hjdyxm/did_you_catch_sam_altman_cutting_off_the_employee/
-Headline: UK’s ambitions to police AI face Trump’s ‘starkly’ different approach
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hj8nmp/uks_ambitions_to_police_ai_face_trumps_starkly/"> <img alt="UK’s ambitions to police AI face Trump’s ‘starkly’ different ...
-Link: https://www.reddit.com/r/artificial/comments/1hj8nmp/uks_ambitions_to_police_ai_face_trumps_starkly/
-Headline: Is Consciousness a Process – and Could Humans and AI Create It Together?
-Description: <!-- SC_OFF --><div class="md"><p><strong>What if consciousness isn’t a state, but a process?</strong></p> <p>In a conversation with an AI, I explored the idea that consciousness might not exist in is...
-Link: https://www.reddit.com/r/artificial/comments/1hjeoma/is_consciousness_a_process_and_could_humans_and/
-Headline: Video editing
-Description: <!-- SC_OFF --><div class="md"><p>Can anyone point me to a service where I can upload a video of a politician talking and have AI make the politicians nose grow with every sentence they say? À la Pino...
-Link: https://www.reddit.com/r/artificial/comments/1hjc7vy/video_editing/
-Headline: The Next Great Leap in AI Is Behind Schedule and Crazy Expensive
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/rpctaco1984"> /u/rpctaco1984 </a> <br /> <span><a href="https://www.wsj.com/articles/openai-gpt5-orion-delays-639e7693?st=kfTcD2&amp;refli...
-Link: https://www.reddit.com/r/artificial/comments/1hj8pat/the_next_great_leap_in_ai_is_behind_schedule_and/
-Headline: What's the point? AI is so much better.
-Description: <!-- SC_OFF --><div class="md"><p>I'm so confused, so tired, so humiliated. AI is so freaking good now. </p> <p>It makes me feel like humans are completely unnecessary, so why am I toughing this out? ...
-Link: https://www.reddit.com/r/artificial/comments/1hj14m6/whats_the_point_ai_is_so_much_better/
+Headline: Reddit cofounder Alexis Ohanian predicts live theater and sports will become more popular than ever as AI grows
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hkbji1/reddit_cofounder_alexis_ohanian_predicts_live/"> <img alt="Reddit cofounder Alexis Ohanian predicts live theater and spor...
+Link: https://www.reddit.com/r/artificial/comments/1hkbji1/reddit_cofounder_alexis_ohanian_predicts_live/
+Headline: One-Minute Daily AI News 12/21/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Instagram</strong> Tests New AI-Powered Ad Format for Creators.[1]</li> <li><strong>Kalamazoo</strong>, MI, Using AI to Respond to Non-Emergency Calls.[...
+Link: https://www.reddit.com/r/artificial/comments/1hjs4zn/oneminute_daily_ai_news_12212024/
+Headline: When AI Beats Us In Every Test We Can Create: A Simple Definition for Human-Level AGI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hkb6gy/when_ai_beats_us_in_every_test_we_can_create_a/"> <img alt="When AI Beats Us In Every Test We Can Create: A Simple Defini...
+Link: https://www.reddit.com/r/artificial/comments/1hkb6gy/when_ai_beats_us_in_every_test_we_can_create_a/
+Headline: H-Matched: A website tracking shrinking gap between AI and human performance
+Description: <!-- SC_OFF --><div class="md"><p>Hi! I wanted to share a website I made that tracks how quickly AI systems catch up to human-level performance on benchmarks. I noticed this 'catch-up time' has been s...
+Link: https://www.reddit.com/r/artificial/comments/1hjyj7y/hmatched_a_website_tracking_shrinking_gap_between/
+Headline: How A.I. Could Change Science Forever
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hjx1jg/how_ai_could_change_science_forever/"> <img alt="How A.I. Could Change Science Forever" src="https://external-preview.red...
+Link: https://www.reddit.com/r/artificial/comments/1hjx1jg/how_ai_could_change_science_forever/
+Headline: ~1 in 3 AI developers are AI successionists who want AIs to control the future
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hk6oxf/1_in_3_ai_developers_are_ai_successionists_who/"> <img alt="~1 in 3 AI developers are AI successionists who want AIs to c...
+Link: https://www.reddit.com/r/artificial/comments/1hk6oxf/1_in_3_ai_developers_are_ai_successionists_who/
 
 ---
 
