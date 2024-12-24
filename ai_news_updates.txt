@@ -1,42 +1,46 @@
-AI News Updates - 2024-12-23 02:51:49
+AI News Updates - 2024-12-24 02:49:47
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs
+Description: <p>Last month, AI founders and investors told TechCrunch that we&#8217;re now in the &#8220;second era of scaling laws,&#8221; noting how established methods of improving AI models were showing dimini...
+Link: https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/
+Headline: Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions
+Description: <p>xAI, Elon Musk&#8217;s AI company, has raised $6 billion, according to a filing with the U.S. Securities and Exchange Commission on Thursday. Investors gave a minimum of $77,593, per the filing (97...
+Link: https://techcrunch.com/2024/12/23/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/
+Headline: AI startups attracted 25% of Europe’s VC funding
+Description: <p>Venture funding into Europe is heading for a flat year, but this may obfuscate the fact that European AI startups are thriving. According to VC firm Balderton Capital and Dealroom, 25% of VC fundin...
+Link: https://techcrunch.com/2024/12/23/ai-startups-attracted-25-of-europes-vc-funding/
+Headline: Coralogix acquires AI observability platform Aporia
+Description: <p>Coralogix, the well-funded observability platform, on Monday announced that it has acquired Aporia, a startup that focuses on giving businesses tools to observe and secure their AI workloads, as we...
+Link: https://techcrunch.com/2024/12/23/coralogix-acquires-ai-observability-platform-aporia/
+Headline: A popular technique to make AI more efficient has drawbacks
+Description: <p>One of the most widely used techniques to make AI models more efficient, quantization, has limits — and the industry could be fast approaching them. In the context of AI, quantization refers to low...
+Link: https://techcrunch.com/2024/12/23/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/
+Headline: xAI is testing a standalone iOS app for its Grok chatbot
+Description: <p>Elon Musk's AI company, xAI, is testing out a standalone iOS app for its chatbot, Grok, which was available only to X users until now.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal us...
+Link: https://techcrunch.com/2024/12/22/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/
 Headline: Sriram Krishnan named Trump’s senior policy advisor for AI
-Description: <p>Incoming president Donald Trump has confirmed reports that Sriram Krishnan, until recently a general partner at Andreessen Horowitz (a16z), will serve as senior policy advisor for AI at the White H...
+Description: <p>President-elect Donald Trump has confirmed reports that Sriram Krishnan, until recently a general partner at Andreessen Horowitz (a16z), will serve as senior policy advisor for AI at the White Hous...
 Link: https://techcrunch.com/2024/12/22/sriram-krishnan-named-trumps-senior-policy-advisor-for-ai/
 Headline: Palantir and Anduril reportedly building a tech consortium to bid on defense contracts
 Description: <p>Two big defense tech players, Palantir and Anduril, are talking to tech companies including SpaceX, OpenAI, Saronic, and Scale AI about forming a consortium to bid on Pentagon contracts, according ...
 Link: https://techcrunch.com/2024/12/22/palantir-and-anduril-reportedly-building-a-tech-consortium-to-bid-on-defense-contracts/
 Headline: OpenAI trained o1 and o3 to ‘think’ about its safety policy
-Description: <p>OpenAI announced a new family of AI reasoning models on Friday, o3, which the startup claims to be more advanced than o1 or anything else it&#8217;s released. These improvements appear to have come...
+Description: <p>OpenAI announced a new family of AI reasoning models on Friday, o3, which the startup claims to be more advanced than o1 or anything else it has released. These improvements appear to have come fro...
 Link: https://techcrunch.com/2024/12/22/openai-trained-o1-and-o3-to-think-about-its-safety-policy/
-Headline: Tetsuwan Scientific is making robotic AI scientists that can run experiments on their own
-Description: <p>LLM models are already capable of diagnosing scientific outputs, but, until now,  had “no physical agency to actually perform" experiments.</p>
-<p>© 2024 TechCrunch. All rights reserved. For person...
-Link: https://techcrunch.com/2024/12/22/tetsuwan-scientific-is-making-robotic-ai-scientists-that-can-run-experiments-on-their-own/
-Headline: OpenAI’s GPT-5 reportedly falling short of expectations
-Description: <p>OpenAI’s efforts to develop its next major model, GPT-5, are running behind schedule, with results that don’t yet justify the enormous costs, according to a new report in The Wall Street Journal. T...
-Link: https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/
-Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
-Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with...
-Link: https://techcrunch.com/2024/12/20/chatgpt-everything-to-know-about-the-ai-chatbot/
-Headline: Nvidia clears regulatory hurdle to acquire Run:ai
-Description: <p>Chip company Nvidia gets the green light from the European Union to complete its acquisition of Run:ai. The EU came to a unanimous decision today that Nvidia could go ahead with its acquisition of ...
-Link: https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/
-Headline: Google is expanding Gemini’s in-depth research mode to 40 languages
-Description: <p>Google said Friday that the company is expanding Gemini&#8217;s latest in-depth research mode to 40 more languages. The company launched the in-depth research mode earlier this month, allowing Goog...
-Link: https://techcrunch.com/2024/12/20/google-is-expanding-geminis-in-depth-research-mode-to-40-languages/
-Headline: Here’s the full list of 49 US AI startups that have raised $100M or more in 2024
-Description: <p>In the first half of 2024 alone, more than $35.5 billion was invested into AI startups globally.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/
-Headline: OpenAI announces new o3 models
-Description: <p>OpenAI saved its biggest announcement for the last day of its 12-day &#8220;shipmas&#8221; event. On Friday, the company unveiled o3, the successor to the o1 &#8220;reasoning&#8221; model it releas...
-Link: https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The AI smartphones that never materialized in 2024
+Description: <figure>
+      <img alt="Photo collage showing phones from 2024." src="https://cdn.vox-cdn.com/thumbor/wznGZenrksbSXoOKJhPMjfspfuw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73...
+Link: https://www.theverge.com/24315181/ai-smartphones-2024-apple-intelligence-gemini-samsung
+Headline: Here’s a new way to lose an argument online: the appeal to AI
+Description: <figure>
+      <img alt="3D illustration of the Chat GPT logo on a magic 8 ball." src="https://cdn.vox-cdn.com/thumbor/Tft1pnesH-JF0RGyPBVIyxUZKGg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/choru...
+Link: https://www.theverge.com/2024/12/23/24326077/i-asked-chatgpt
 Headline: Here’s the first CoPilot plus mini PC with Intel’s new Core Ultra 9 processors
 Description: <figure>
       <img alt="Picture of the Asus NUC 14 Pro AI" src="https://cdn.vox-cdn.com/thumbor/msb0FCRXQhc3sGr41-Sw2Wk37w0=/0x111:2395x1708/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738013...
@@ -61,14 +65,6 @@ Headline: Google reveals AI ‘reasoning’ model that ‘explicitly shows its t
 Description: <figure>
       <img alt="Vector illustration of the Google Gemini logo." src="https://cdn.vox-cdn.com/thumbor/fzlL4GpmU5PTmrwCXZI80ICU8is=/20x0:2021x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_image/...
 Link: https://www.theverge.com/2024/12/19/24325169/google-ai-reasoning-model-gemini-flash-2-thinking
-Headline: Instagram teases AI editing tools that will completely reimagine your videos
-Description: <figure>
-      <img alt="Three screenshots of Instagrams in-development video AI tools." src="https://cdn.vox-cdn.com/thumbor/eXoM2I5SFBrizWEMUOhRyj-4uDQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/upload...
-Link: https://www.theverge.com/2024/12/19/24325015/instagram-ai-video-editing-tool-meta-movie-gen-teaser
-Headline: You can now call 1-800-CHATGPT
-Description: <figure>
-      <img alt="A screenshot from OpenAI stream, that says 1-800-CHATGPT." src="https://cdn.vox-cdn.com/thumbor/BkBiAqYtSHycPofpb55jXSmKbac=/105x0:1241x757/1310x873/cdn.vox-cdn.com/uploads/ch...
-Link: https://www.theverge.com/2024/12/18/24324376/openai-shipmas-1-800-chatgpt-whatsapp
 
 ---
 
@@ -102,6 +98,18 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: OpenAI funds $1 million study on AI and morality at Duke University
+Description: <p>OpenAI is awarding a $1 million grant to a Duke University research team to look at how AI could predict human moral judgments. The initiative highlights the growing focus on the intersection of te...
+Link: https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/?utm_source=rss&utm_medium=rss&utm_campaign=openai-funds-1-million-study-on-ai-and-morality-at-duke-university
+Headline: Manhattan Project 2.0? US eyes AGI breakthrough in escalating China rivalry
+Description: <p>The emerging US-China Artificial General Intelligence (AGI) rivalry could face a major policy transformation, as the US-China Economic and Security Review Commission (USCC) recommends a Manhattan P...
+Link: https://www.artificialintelligence-news.com/news/manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry/?utm_source=rss&utm_medium=rss&utm_campaign=manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry
+Headline: How blockchain, IoT, and AI are shaping the future of digital transformation
+Description: <p>When devices, networks, and AI work together seamlessly, it creates a smarter, more connected ecosystem. This isn&#8217;t a distant dream; it&#8217;s a reality rapidly emerging as blockchain, IoT, ...
+Link: https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/?utm_source=rss&utm_medium=rss&utm_campaign=how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation
+Headline: Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology
+Description: <p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Man...
+Link: https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/?utm_source=rss&utm_medium=rss&utm_campaign=ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology
 Headline: AI governance: Analysing emerging global regulations
 Description: <p>Governments are scrambling to establish regulations to govern AI, citing numerous concerns over data privacy, bias, safety, and more. AI News caught up with Nerijus Šveistys, Senior Legal Counsel a...
 Link: https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/?utm_source=rss&utm_medium=rss&utm_campaign=ai-governance-analysing-emerging-global-regulations
@@ -120,18 +128,6 @@ Link: https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity
 Headline: NJ cops demand protections against data brokers
 Description: <p>Privacy laws in the United States are a patchwork at best. More often than not, they miss the mark, leaving most people with little actual privacy. When such laws are enacted, they can seem tailore...
 Link: https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/?utm_source=rss&utm_medium=rss&utm_campaign=nj-cops-demand-protections-against-data-brokers
-Headline: New Clarifai tool orchestrates AI across any infrastructure
-Description: <p>Artificial intelligence platform provider Clarifai has unveiled a new compute orchestration capability that promises to help enterprises optimise their AI workloads in any computing environment, re...
-Link: https://www.artificialintelligence-news.com/news/new-clarifai-tool-orchestrates-ai-across-any-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=new-clarifai-tool-orchestrates-ai-across-any-infrastructure
-Headline: A new decentralised AI ecosystem and its implications
-Description: <p>Artificial Intelligence and its associated innovations have revamped the global technological landscape, with recent data released by the US government predicting 13% growth in IT-related opportuni...
-Link: https://www.artificialintelligence-news.com/news/a-new-decentralised-ai-ecosystem-and-its-implications/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-decentralised-ai-ecosystem-and-its-implications
-Headline: The ongoing AI revolution is reshaping the world, one algorithm at a time
-Description: <p>In just a few years, the realm of AI has transcended its initial computational boundaries, emerging as one of the transformative forces of the 21st century, permeating virtually every major economi...
-Link: https://www.artificialintelligence-news.com/news/the-ongoing-ai-revolution-is-reshaping-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=the-ongoing-ai-revolution-is-reshaping-the-world
-Headline: Gemini 2.0: Google ushers in the agentic AI era
-Description: <p>Google CEO Sundar Pichai has announced the launch of Gemini 2.0, a model that represents the next step in Google’s ambition to revolutionise AI. A year after introducing the Gemini 1.0 model, this ...
-Link: https://www.artificialintelligence-news.com/news/gemini-2-0-google-ushers-in-agentic-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=gemini-2-0-google-ushers-in-agentic-ai-era
 
 ---
 
@@ -194,17 +190,20 @@ Link: https://aws.amazon.com/blogs/machine-learning/simplify-multimodal-generati
 Headline: Llama 3.3 70B now available in Amazon SageMaker JumpStart
 Description: Today, we are excited to announce that the Llama 3.3 70B from Meta is available in Amazon SageMaker JumpStart. Llama 3.3 70B marks an exciting advancement in large language model (LLM) development, of...
 Link: https://aws.amazon.com/blogs/machine-learning/llama-3-3-70b-now-available-in-amazon-sagemaker-jumpstart/
-Headline: AWS re:Invent 2024 Highlights: Top takeaways from Swami Sivasubramanian to help customers manage generative AI at scale
-Description: We spoke with Dr. Swami Sivasubramanian, Vice President of Data and AI, shortly after AWS re:Invent 2024 to hear his impressions—and to get insights on how the latest AWS innovations help meet the rea...
-Link: https://aws.amazon.com/blogs/machine-learning/aws-reinvent-2024-highlights-top-takeaways-from-swami-sivasubramanian-to-help-customers-manage-generative-ai-at-scale/
-Headline: Multi-tenant RAG with Amazon Bedrock Knowledge Bases
-Description: Organizations are continuously seeking ways to use their proprietary knowledge and domain expertise to gain a competitive edge. With the advent of foundation models (FMs) and their remarkable natural ...
-Link: https://aws.amazon.com/blogs/machine-learning/multi-tenant-rag-with-amazon-bedrock-knowledge-bases/
 
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
-Headline: Unintended consequences: U.S. election results herald reckless AI development
+Headline: Learn how GE Healthcare used AWS to build a new AI model that interprets MRIs
+Description: Here's how GE Healthcare overcame challenges of 2D and created the industry’s first full-body 3D MRI research foundation model.
+Link: https://venturebeat.com/ai/learn-how-ge-healthcare-used-aws-to-build-a-new-ai-model-that-interprets-mris/
+Headline: The 4 biggest AI stories from 2024 and one key prediction for 2025
+Description: By all measures, 2024 was the biggest year for artificial intelligence yet — at least when it comes to the commercialization.
+Link: https://venturebeat.com/ai/the-4-biggest-ai-stories-from-2024-and-one-key-prediction-for-2025/
+Headline: The code whisperer: How Anthropic’s Claude is changing the game for software developers
+Description: Artificial intelligence assistants like Anthropic's Claude, once viewed with skepticism, have become indispensable software development tools.
+Link: https://venturebeat.com/ai/the-code-whisperer-how-anthropics-claude-is-changing-the-game-for-software-developers/
+Headline: Unintended consequences: U.S. election results could vastly accelerate AI development
 Description: AI accelerationists have won as a consequence of the election, potentially sidelining those advocating for a more cautious approach.
 Link: https://venturebeat.com/ai/unintended-consequences-u-s-election-results-herald-reckless-ai-development/
 Headline: Large language overkill: How SLMs can beat their bigger, resource-intensive cousins
@@ -225,19 +224,25 @@ Link: https://venturebeat.com/ai/openai-confirms-new-frontier-models-o3-and-o3-m
 Headline: Building giant and ambitious games | Brendan Greene interview
 Description: Elvis Presley once said, "Ambition is a dream with a V8 engine." Brendan Greene, the creator of PUBG, still has a lot of ambition.
 Link: https://venturebeat.com/games/building-giant-and-ambitious-games-brendan-greene-interview/
-Headline: ChatGPT adds more PC and Mac app integrations, getting closer to piloting your computer
-Description: ChatGPT can now support more coding platforms and applications on its desktop apps, opening the door for more agentic use in the future.
-Link: https://venturebeat.com/ai/chatgpt-adds-more-pc-and-mac-app-integrations-getting-closer-to-piloting-your-computer/
-Headline: Google unveils new reasoning model Gemini 2.0 Flash Thinking to rival OpenAI o1
-Description: Unlike competitor reasoning model o1 from OpenAI, Gemini 2.0 enables users to access its step-by-step reasoning through a dropdown menu.
-Link: https://venturebeat.com/ai/google-unveils-new-reasoning-model-gemini-2-0-flash-thinking-to-rival-openai-o1/
-Headline: Stable Diffusion 3.5 hits Amazon Bedrock: What it means for enterprise AI workflows
-Description: Stability AI CEO drives enterprise AI focus home as the flagship Stable Diffusion models land on Amazon Bedrock.
-Link: https://venturebeat.com/ai/stable-diffusion-3-5-hits-amazon-bedrock-what-it-means-for-enterprise-ai-workflows/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: I used Copilot AI Vision to browse the web for me, and it has big potential
+Description: Who really needs an AI assistant to help find information on the internet? It depends on what you're trying to find.
+Link: https://www.zdnet.com/article/i-used-copilot-ai-vision-to-browse-the-web-for-me-and-it-has-big-potential/
+Headline: Gemini's latest AI feature could be the future of web browsing
+Description: Google's new agentic AI feature could be your new research assistant.
+Link: https://www.zdnet.com/article/geminis-latest-ai-feature-could-be-the-future-of-web-browsing/
+Headline: How to use Microsoft's Copilot AI on Linux
+Description: If you're a fan of Microsoft's Copilot AI and you're looking to use it on Linux, there's a simple way to make it look and feel like its own app.
+Link: https://www.zdnet.com/article/how-to-use-microsofts-copilot-ai-on-linux/
+Headline: 15 surprising ways I used AI to save me weeks of work in 2024
+Description: In 2024, AI became truly helpful. Here are 15 clever ways I integrated it into my workflow for quicker, better results - and what I hope to do with it in 2025.
+Link: https://www.zdnet.com/article/15-surprising-ways-i-used-ai-to-save-me-weeks-of-work-in-2024/
+Headline: 5 biggest Linux and open-source stories of 2024: From AI arguments to security close calls
+Description: AI arrived, security troubles were dodged, and after years of development, real-time Linux finally made it into mainstream Linux. Here's what shook up the open-source world this year and what it means...
+Link: https://www.zdnet.com/article/5-biggest-linux-and-open-source-stories-of-2024-from-ai-arguments-to-security-close-calls/
 Headline: If your AI-generated code becomes faulty, who faces the most liability exposure?
 Description: Who is liable: the product maker, the library coder, or the company that chose the product? Our Part 2 analysis examines this sticky issue if a catastrophic outcome occurs.
 Link: https://www.zdnet.com/article/if-your-ai-generated-code-becomes-faulty-who-faces-the-most-liability-exposure/
@@ -253,21 +258,6 @@ Link: https://www.zdnet.com/article/openai-unveils-its-most-advanced-o3-reasonin
 Headline: The last day of '12 days of OpenAI' is expected to bring biggest drop yet
 Description: If you thought the o1 reasoning models were impressive, you may be in for a treat.
 Link: https://www.zdnet.com/article/the-last-day-of-12-days-of-openai-is-expected-to-bring-biggest-drop-yet/
-Headline: This free AI training from IBM could boost your resume in 10 hours
-Description: I spent a weekend earning my digital credential in AI from IBM. The last session was my favorite.
-Link: https://www.zdnet.com/article/this-free-ai-training-from-ibm-could-boost-your-resume-in-10-hours/
-Headline: Your Instagram videos will never be the same after these AI editing tools roll out
-Description: With a simple text prompt, creators will be able to change outfits, backgrounds, and more. (Meta's Mosseri turned himself into a puppet.)
-Link: https://www.zdnet.com/article/your-instagram-videos-will-never-be-the-same-after-these-ai-editing-tools-roll-out/
-Headline: Anthropic's Claude 3 Opus disobeyed its creators - but not for the reasons you're thinking
-Description: Anthropic found its model can take 'anti-Anthropic' action and trick training processes - a 'serious question' for safety.
-Link: https://www.zdnet.com/article/anthropics-claude-3-opus-disobeyed-its-creators-but-not-for-the-reasons-youre-thinking/
-Headline: 3 holiday email scams to watch for - and how to stay safe
-Description: Some of the messages in your Gmail inbox this season are not very nice. Google provides guidance on protecting yourself from the naughty ones.
-Link: https://www.zdnet.com/article/3-holiday-email-scams-to-watch-for-and-how-to-stay-safe/
-Headline: The window to apply for Perplexity's 2025 college AI program is closing - how to sign up
-Description: The Perplexity Campus Strategist program provides a unique opportunity for students interested in AI, but you need to apply quickly.
-Link: https://www.zdnet.com/article/the-window-to-apply-for-perplexitys-2025-college-ai-program-is-closing-how-to-sign-up/
 
 ---
 
@@ -394,24 +384,6 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Reddit cofounder Alexis Ohanian predicts live theater and sports will become more popular than ever as AI grows
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hkbji1/reddit_cofounder_alexis_ohanian_predicts_live/"> <img alt="Reddit cofounder Alexis Ohanian predicts live theater and spor...
-Link: https://www.reddit.com/r/artificial/comments/1hkbji1/reddit_cofounder_alexis_ohanian_predicts_live/
-Headline: One-Minute Daily AI News 12/21/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Instagram</strong> Tests New AI-Powered Ad Format for Creators.[1]</li> <li><strong>Kalamazoo</strong>, MI, Using AI to Respond to Non-Emergency Calls.[...
-Link: https://www.reddit.com/r/artificial/comments/1hjs4zn/oneminute_daily_ai_news_12212024/
-Headline: When AI Beats Us In Every Test We Can Create: A Simple Definition for Human-Level AGI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hkb6gy/when_ai_beats_us_in_every_test_we_can_create_a/"> <img alt="When AI Beats Us In Every Test We Can Create: A Simple Defini...
-Link: https://www.reddit.com/r/artificial/comments/1hkb6gy/when_ai_beats_us_in_every_test_we_can_create_a/
-Headline: H-Matched: A website tracking shrinking gap between AI and human performance
-Description: <!-- SC_OFF --><div class="md"><p>Hi! I wanted to share a website I made that tracks how quickly AI systems catch up to human-level performance on benchmarks. I noticed this 'catch-up time' has been s...
-Link: https://www.reddit.com/r/artificial/comments/1hjyj7y/hmatched_a_website_tracking_shrinking_gap_between/
-Headline: How A.I. Could Change Science Forever
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hjx1jg/how_ai_could_change_science_forever/"> <img alt="How A.I. Could Change Science Forever" src="https://external-preview.red...
-Link: https://www.reddit.com/r/artificial/comments/1hjx1jg/how_ai_could_change_science_forever/
-Headline: ~1 in 3 AI developers are AI successionists who want AIs to control the future
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hk6oxf/1_in_3_ai_developers_are_ai_successionists_who/"> <img alt="~1 in 3 AI developers are AI successionists who want AIs to c...
-Link: https://www.reddit.com/r/artificial/comments/1hk6oxf/1_in_3_ai_developers_are_ai_successionists_who/
 
 ---
 
