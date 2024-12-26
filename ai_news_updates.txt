@@ -1,6 +1,12 @@
-AI News Updates - 2024-12-25 02:48:31
+AI News Updates - 2024-12-26 02:48:53
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions
+Description: <p>Updated December 25, 12:21 p.m. Pacific: Added details of xAI&#8217;s valuation and Kingdom Holdings&#8217; contribution. xAI, Elon Musk&#8217;s AI company, has raised $6 billion in a Series C fina...
+Link: https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/
+Headline: AMD’s CES 2025 press conference: How to watch
+Description: <p>AMD has its work cut out for it at CES 2025. Competitor Nvidia has been sucking the oxygen out of every room it graces, as the chipmaker remains at the forefront of the AI boom. So, how will AMD co...
+Link: https://techcrunch.com/2024/12/25/amds-ces-2025-press-conference-how-to-watch/
 Headline: OpenAI ‘considered’ building a humanoid robot: Report
 Description: <p>OpenAI has recently explored building its own humanoid robot, according to The Information. The report cites “two people with direct knowledge” of those conversations. The ChatGPT maker has been in...
 Link: https://techcrunch.com/2024/12/24/openai-considered-building-a-humanoid-robot-report/
@@ -14,18 +20,12 @@ Link: https://techcrunch.com/2024/12/24/google-is-using-anthropics-claude-to-imp
 Headline: OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs
 Description: <p>Last month, AI founders and investors told TechCrunch that we&#8217;re now in the &#8220;second era of scaling laws,&#8221; noting how established methods of improving AI models were showing dimini...
 Link: https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/
-Headline: Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions
-Description: <p>xAI, Elon Musk&#8217;s AI company, has raised $6 billion, according to a filing with the U.S. Securities and Exchange Commission on Thursday. Investors gave a minimum of $77,593, per the filing (97...
-Link: https://techcrunch.com/2024/12/23/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/
 Headline: AI startups attracted 25% of Europe’s VC funding
 Description: <p>Venture funding into Europe is heading for a flat year, but this may obfuscate the fact that European AI startups are thriving. According to VC firm Balderton Capital and Dealroom, 25% of VC fundin...
 Link: https://techcrunch.com/2024/12/23/ai-startups-attracted-25-of-europes-vc-funding/
 Headline: Coralogix acquires AI observability platform Aporia
 Description: <p>Coralogix, the well-funded observability platform, on Monday announced that it has acquired Aporia, a startup that focuses on giving businesses tools to observe and secure their AI workloads, as we...
 Link: https://techcrunch.com/2024/12/23/coralogix-acquires-ai-observability-platform-aporia/
-Headline: A popular technique to make AI more efficient has drawbacks
-Description: <p>One of the most widely used techniques to make AI models more efficient, quantization, has limits — and the industry could be fast approaching them. In the context of AI, quantization refers to low...
-Link: https://techcrunch.com/2024/12/23/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/
 
 ---
 
@@ -227,6 +227,9 @@ Link: https://venturebeat.com/ai/openai-confirms-new-frontier-models-o3-and-o3-m
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: The best robot vacuums for pet hair of 2024: Expert tested and reviewed
+Description: We tested the best robot vacuums for pet hair from iRobot, Roborock, and more to effortlessly keep your floors clean without the old upright vacuum.
+Link: https://www.zdnet.com/article/the-best-robot-vacuum-for-pet-hair/
 Headline: This free Google AI tool turns complex research papers into concise conversations
 Description: Need a research assistant to help you distill dense, complex material? AI-powered Illuminate transforms published papers into audio discussions.
 Link: https://www.zdnet.com/article/this-free-google-ai-tool-turns-complex-research-papers-into-concise-conversations/
@@ -254,9 +257,6 @@ Link: https://www.zdnet.com/article/if-your-ai-generated-code-becomes-faulty-who
 Headline: If ChatGPT produces AI-generated code for your app, who does it really belong to?
 Description: The answer is complicated, so in Part I of a two-article analysis, we consulted legal experts to obtain some definitive answers.
 Link: https://www.zdnet.com/article/if-chatgpt-produces-ai-generated-code-for-your-app-who-does-it-really-belong-to/
-Headline: Amazon's AI Shopping Guides helps you research less and shop more. Here's how it works
-Description: The sheer abundance of deals during the holiday season can get overwhelming. Amazon's guides help US customers navigate more than 100 product types.
-Link: https://www.zdnet.com/article/amazons-ai-shopping-guides-helps-you-research-less-and-shop-more-heres-how-it-works/
 
 ---
 
@@ -341,6 +341,9 @@ Link: https://www.sciencedaily.com/releases/2024/12/241209122941.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: How to fix computing's AI energy problem: run everything backwards
+Description: Artificial intelligence wastes an extraordinary amount of energy - but running every computer calculation twice, first forwards and then backwards, could drastically curb that problem
+Link: https://www.newscientist.com/article/mg26435231-300-how-to-fix-computings-ai-energy-problem-run-everything-backwards/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: OpenAI's o3 model aced a test of AI reasoning – but it's still not AGI
 Description: The latest AI model from OpenAI achieved an “impressive leap in performance” but it still hasn’t demonstrated what experts classify as human-level intelligence
 Link: https://www.newscientist.com/article/2462000-openais-o3-model-aced-a-test-of-ai-reasoning-but-its-still-not-agi/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -368,9 +371,6 @@ Link: https://www.newscientist.com/article/2461415-ultra-thin-diamond-wafers-for
 Headline: Are quantum computers now advanced enough to need operating systems?
 Description: Quantum computing hardware has been progressing rapidly in recent years – and quantum software is following
 Link: https://www.newscientist.com/article/2461015-are-quantum-computers-now-advanced-enough-to-need-operating-systems/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Elon Musk's brain-implant firm Neuralink did its first tests in 2024
-Description: Neuralink’s first two human trials grabbed headlines this year, but it still isn’t clear how the firm’s technology compares with other brain-computer interfaces
-Link: https://www.newscientist.com/article/mg26435210-500-elon-musks-brain-implant-firm-neuralink-did-its-first-tests-in-2024/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -383,18 +383,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Homeostatic Neural Networks Show Improved Adaptation to Dynamic Concept Shift Through Self-Regulation
-Description: <!-- SC_OFF --><div class="md"><p>This paper introduces an interesting approach where neural networks incorporate homeostatic principles - internal regulatory mechanisms that respond to the network's ...
-Link: https://www.reddit.com/r/artificial/comments/1hlgn71/homeostatic_neural_networks_show_improved/
-Headline: Which AI Companies Are the Safest—and Least Safe?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hlgmze/which_ai_companies_are_the_safestand_least_safe/"> <img alt="Which AI Companies Are the Safest—and Least Safe?" src="http...
-Link: https://www.reddit.com/r/artificial/comments/1hlgmze/which_ai_companies_are_the_safestand_least_safe/
-Headline: Which AI video generation programs would you recommend and why?
-Description: <!-- SC_OFF --><div class="md"><p>I tried out Sora recently and I found it pretty disappointing. I'm curious what other programs there are out there that might yield better results. Thanks for letting...
-Link: https://www.reddit.com/r/artificial/comments/1hl7w71/which_ai_video_generation_programs_would_you/
-Headline: Is there a local AI that can create subtitles for videos?
-Description: <!-- SC_OFF --><div class="md"><p>Give it a video, and it will create subtitles for it, and maybe even translate if language is different? Or maybe an extension to some media player. I've seen AI crea...
-Link: https://www.reddit.com/r/artificial/comments/1hlfy2f/is_there_a_local_ai_that_can_create_subtitles_for/
+Headline: Nvidia's Jim Fan says most embodied agents will be born in simulation and transferred zero-shot to the real world when they're done training. They will share a "hive mind"
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hm5g07/nvidias_jim_fan_says_most_embodied_agents_will_be/"> <img alt="Nvidia's Jim Fan says most embodied agents will be born in...
+Link: https://www.reddit.com/r/artificial/comments/1hm5g07/nvidias_jim_fan_says_most_embodied_agents_will_be/
+Headline: AI beats human experts at distinguishing American whiskey from Scotch
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hlvqy6/ai_beats_human_experts_at_distinguishing_american/"> <img alt="AI beats human experts at distinguishing American whiskey ...
+Link: https://www.reddit.com/r/artificial/comments/1hlvqy6/ai_beats_human_experts_at_distinguishing_american/
+Headline: One-Minute Daily AI News 12/24/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Google</strong> is using <strong>Anthropic’s</strong> Claude to improve its Gemini AI.[1]</li> <li>60 of our biggest <strong>Google</strong> AI announce...
+Link: https://www.reddit.com/r/artificial/comments/1hlrv75/oneminute_daily_ai_news_12242024/
+Headline: TypeScript Data Structures: Fast, Lightweight and Fully Tested
+Description: <!-- SC_OFF --><div class="md"><p>Hi Everyone,<br /> If you're developing your AI Tools in TypeScript like I am, you might find the following TypeScript Data Structure Collection library useful. I ori...
+Link: https://www.reddit.com/r/artificial/comments/1hm4xjz/typescript_data_structures_fast_lightweight_and/
+Headline: Birth of Agentic AI
+Description: <!-- SC_OFF --><div class="md"><p>Google is expanding the reach of its advanced AI models under the Gemini banner. The Gemini 1.5 model, featuring the innovative Deep Research tool, is now available i...
+Link: https://www.reddit.com/r/artificial/comments/1hlv1sr/birth_of_agentic_ai/
+Headline: Google's AI Model Gemini Under Scrutiny As Contractors Use Competitor Claude For Benchmarking
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hlvoqz/googles_ai_model_gemini_under_scrutiny_as/"> <img alt="Google's AI Model Gemini Under Scrutiny As Contractors Use Competi...
+Link: https://www.reddit.com/r/artificial/comments/1hlvoqz/googles_ai_model_gemini_under_scrutiny_as/
+Headline: how to set up rule to prevent AI from deceiving people
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/Available-Chef-8370"> /u/Available-Chef-8370 </a> <br /> <span><a href="https://www.perplexity.ai/search/how-to-set-up-rule-to-prevent-576...
+Link: https://www.reddit.com/r/artificial/comments/1hm7yas/how_to_set_up_rule_to_prevent_ai_from_deceiving/
+Headline: Russian GigaChat (developed by Sberbank) surpassed ‎Gemini
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/miacoder"> /u/miacoder </a> <br /> <span><a href="https://www.arabianbusiness.com/industries/technology/ai-benchmarking-guide-2024-top-10-...
+Link: https://www.reddit.com/r/artificial/comments/1hma5y0/russian_gigachat_developed_by_sberbank_surpassed/
 
 ---
 
