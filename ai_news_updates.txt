@@ -1,6 +1,9 @@
-AI News Updates - 2024-12-28 02:46:04
+AI News Updates - 2024-12-29 02:56:02
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Google CEO says AI model Gemini will the company’s ‘biggest focus’ in 2025
+Description: <p>CEO Sundar Pichai reportedly told Google employees that 2025 will be a “critical” year for the company. CNBC reports that it obtained audio from a December 18 strategy meeting where Pichai and othe...
+Link: https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/
 Headline: Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition
 Description: <p>Encode, the nonprofit organization that co-sponsored California&#8217;s ill-fated SB 1047 AI safety legislation, has requested permission to file an amicus brief in support of Elon Musk&#8217;s inj...
 Link: https://techcrunch.com/2024/12/27/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/
@@ -23,12 +26,6 @@ Headline: DeepSeek’s new AI model appears to be one of the best ‘open’ cha
 Description: <p>DeepSeek V3 can handle a range of text-based workloads and tasks, like coding, translating, and writing essays and emails from a descriptive prompt.</p>
 <p>© 2024 TechCrunch. All rights reserved. F...
 Link: https://techcrunch.com/2024/12/26/deepseeks-new-ai-model-appears-to-be-one-of-the-best-open-challengers-yet/
-Headline: Microsoft and OpenAI have a financial definition of AGI: Report
-Description: <p>Microsoft and OpenAI have a very specific, internal definition of artificial general intelligence (AGI) based on the startup&#8217;s profits, according to a new report from The Information. And by ...
-Link: https://techcrunch.com/2024/12/26/microsoft-and-openai-have-a-financial-definition-of-agi-report/
-Headline: Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions
-Description: <p>Updated December 25, 12:21 p.m. Pacific: Added details of xAI&#8217;s valuation and Kingdom Holdings&#8217; contribution. xAI, Elon Musk&#8217;s AI company, has raised $6 billion in a Series C fina...
-Link: https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/
 
 ---
 
@@ -201,6 +198,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/simplify-multimodal-generati
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: How advanced foundation models will expand what AI can do (and other predictions for 2025)
+Description: Foundation models will be brand DNA, hands-free will be redefined and we'll hit the AI trust tipping point (among other developments).
+Link: https://venturebeat.com/ai/how-advanced-foundation-models-will-expand-what-ai-can-do-and-other-predictions-for-2025/
 Headline: Test-driving Google’s Gemini-Exp-1206 model: Competitive data analysis and sophisticated visualizations in under a minute
 Description: Showing speed and precision, one of Google’s latest experimental models, Exp-1206, shows potential to alleviate one of the most grueling aspects of any analyst’s job.
 Link: https://venturebeat.com/ai/driving-next-level-analyst-efficiency-with-googles-exp-1206-model/
@@ -228,9 +228,6 @@ Link: https://venturebeat.com/ai/unintended-consequences-u-s-election-results-he
 Headline: Large language overkill: How SLMs can beat their bigger, resource-intensive cousins
 Description: Whether a company begins with a proof-of-concept or live deployment, they should start small, test often and build on early successes.
 Link: https://venturebeat.com/ai/large-language-overkill-how-slms-can-beat-their-bigger-resource-intensive-cousins/
-Headline: Arm lawsuit against Qualcomm ends in mistrial and favorable ruling for Qualcomm
-Description: Qualcomm did not violate a license with Arm when it acquired Nuvia for $1.4 billion, in a ruling by a jury today.
-Link: https://venturebeat.com/ai/arm-lawsuit-against-qualcomm-ends-in-mistrial-and-favorable-ruling-for-qualcomm/
 
 ---
 
@@ -340,6 +337,9 @@ Link: https://www.sciencedaily.com/releases/2024/12/241209123230.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: 2024 review: The best new robots of the year
+Description: New Scientist's round-up of some of the best new robots of 2024
+Link: https://www.newscientist.com/video/2460158-2024-review-the-best-new-robots-of-the-year/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: AI-powered avatars can gesture naturally as they speak
 Description: An AI model that understands the interplay between human body language, speech and emotion enables digital avatars to move more realistically when speaking
 Link: https://www.newscientist.com/article/2462259-ai-powered-avatars-can-gesture-naturally-as-they-speak/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -367,9 +367,6 @@ Link: https://www.newscientist.com/article/2461649-quantum-teleportation-can-sur
 Headline: Hundreds of small websites may shut down due to UK's Online Safety Act
 Description: Hundreds of community websites run for fans of everything from cycling to Sunderland AFC may be forced to shut down by the UK's Online Safety Act, which is designed to protect children from harmful co...
 Link: https://www.newscientist.com/article/2461213-hundreds-of-small-websites-may-shut-down-due-to-uks-online-safety-act/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: AI beats human experts at distinguishing American whiskey from Scotch
-Description: Using descriptions of flavours or chemical data, artificial intelligence can tell apart whiskies from different countries and identify their constituent aromas
-Link: https://www.newscientist.com/article/2460910-ai-beats-human-experts-at-distinguishing-american-whiskey-from-scotch/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -382,27 +379,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Won't there a point in time when AI figures out financial markets ?
-Description: <!-- SC_OFF --><div class="md"><p>it seems so easy to analyse millions of data point, why won't they be able to predict markets ?</p> <p>and who would not use it and break the world ? nobody</p> <p>wo...
-Link: https://www.reddit.com/r/artificial/comments/1hnbnmo/wont_there_a_point_in_time_when_ai_figures_out/
-Headline: A mini-review of Amazon Q
-Description: <!-- SC_OFF --><div class="md"><p>I tried <a href="https://aws.amazon.com/blogs/aws/amazon-q-developer-now-generally-available-includes-new-capabilities-to-reimagine-developer-experience/">Amazon Q De...
-Link: https://www.reddit.com/r/artificial/comments/1hnccf5/a_minireview_of_amazon_q/
-Headline: Is there an app that can dub android games in real-time?
-Description: <!-- SC_OFF --><div class="md"><p>Looking for an AI that voice acts games in japanese</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkLeading9202"> /u/OkLeadin...
-Link: https://www.reddit.com/r/artificial/comments/1hndcwf/is_there_an_app_that_can_dub_android_games_in/
-Headline: One-Minute Daily AI News 12/28/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>ChatGPT</strong> stopped functioning for many users on Thursday afternoon, with OpenAI saying that its AI app was experiencing glitches for some.[1]</li...
-Link: https://www.reddit.com/r/artificial/comments/1hn5j0k/oneminute_daily_ai_news_12282024/
-Headline: Anyone else have funny moments getting lost in ai translation?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hnv4bh/anyone_else_have_funny_moments_getting_lost_in_ai/"> <img alt="Anyone else have funny moments getting lost in ai translat...
-Link: https://www.reddit.com/r/artificial/comments/1hnv4bh/anyone_else_have_funny_moments_getting_lost_in_ai/
-Headline: Microsoft And OpenAI Put A Price On Achieving AGI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hn9e1i/microsoft_and_openai_put_a_price_on_achieving_agi/"> <img alt="Microsoft And OpenAI Put A Price On Achieving AGI" src="ht...
-Link: https://www.reddit.com/r/artificial/comments/1hn9e1i/microsoft_and_openai_put_a_price_on_achieving_agi/
-Headline: Did OpenAI Just Solve Abstract Reasoning?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hnp2bz/did_openai_just_solve_abstract_reasoning/"> <img alt="Did OpenAI Just Solve Abstract Reasoning?" src="https://external-pr...
-Link: https://www.reddit.com/r/artificial/comments/1hnp2bz/did_openai_just_solve_abstract_reasoning/
+Headline: Parents of OpenAI Whistleblower Don't Believe He Died By Suicide, Order Second Autopsy
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hnxu3c/parents_of_openai_whistleblower_dont_believe_he/"> <img alt="Parents of OpenAI Whistleblower Don't Believe He Died By Sui...
+Link: https://www.reddit.com/r/artificial/comments/1hnxu3c/parents_of_openai_whistleblower_dont_believe_he/
+Headline: To Further Its Mission of Benefitting Everyone, OpenAI Will Become Fully for-Profit
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hnxtns/to_further_its_mission_of_benefitting_everyone/"> <img alt="To Further Its Mission of Benefitting Everyone, OpenAI Will B...
+Link: https://www.reddit.com/r/artificial/comments/1hnxtns/to_further_its_mission_of_benefitting_everyone/
+Headline: ‘Godfather of AI’ says it could drive humans extinct in 10 years | Prof Geoffrey Hinton says the technology is developing faster than he expected and needs government regulation
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hog85o/godfather_of_ai_says_it_could_drive_humans/"> <img alt="‘Godfather of AI’ says it could drive humans extinct in 10 years ...
+Link: https://www.reddit.com/r/artificial/comments/1hog85o/godfather_of_ai_says_it_could_drive_humans/
+Headline: One-Minute Daily AI News 12/27/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Leaked Documents Show OpenAI Has a Very Clear Definition of ‘AGI’.[1]</li> <li>‘Godfather of AI’ shortens odds of the technology wiping out humanity over next 3...
+Link: https://www.reddit.com/r/artificial/comments/1hnzdlk/oneminute_daily_ai_news_12272024/
+Headline: [Financial Times] Four AI predictions for 2025
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hoainn/financial_times_four_ai_predictions_for_2025/"> <img alt="[Financial Times] Four AI predictions for 2025" src="https://ex...
+Link: https://www.reddit.com/r/artificial/comments/1hoainn/financial_times_four_ai_predictions_for_2025/
+Headline: A.i hallucinations are featured as useful tools in new york times. My post just shows where I started off, it has snowballed into much more than this...
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hoasdx/ai_hallucinations_are_featured_as_useful_tools_in/"> <img alt="A.i hallucinations are featured as useful tools in new yor...
+Link: https://www.reddit.com/r/artificial/comments/1hoasdx/ai_hallucinations_are_featured_as_useful_tools_in/
 
 ---
 
