@@ -1,7 +1,13 @@
-AI News Updates - 2024-12-29 02:56:02
+AI News Updates - 2024-12-30 02:52:26
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: Google CEO says AI model Gemini will the company’s ‘biggest focus’ in 2025
+Headline: AI data centers could be ‘distorting’ the US power grid
+Description: <p>The proliferation of data centers aiming to meet the computational needs of AI could be bad news for the US power grid, according to a new report in Bloomberg. Using the 1 million residential senso...
+Link: https://techcrunch.com/2024/12/29/ai-data-centers-could-be-distorting-the-us-power-grid/
+Headline: Permira’s Brian Ruder talks AI, Squarespace acquisition, and the value of co-leadership
+Description: <p>It has been a busy year in the private equity realm, with countless big-money acquisitions unfolding. The take-private space specifically has seen some sizable transactions, with private equity fir...
+Link: https://techcrunch.com/2024/12/29/permiras-brian-ruder-talks-ai-squarespace-acquisition-and-the-value-of-co-leadership/
+Headline: Google CEO says AI model Gemini will be the company’s ‘biggest focus’ in 2025
 Description: <p>CEO Sundar Pichai reportedly told Google employees that 2025 will be a “critical” year for the company. CNBC reports that it obtained audio from a December 18 strategy meeting where Pichai and othe...
 Link: https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/
 Headline: Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition
@@ -19,14 +25,6 @@ Link: https://techcrunch.com/2024/12/27/openai-lays-out-its-for-profit-transitio
 Headline: AI sales rep startups are booming. So why are VCs wary?
 Description: <p>When you really probe venture capitalists about investing in AI startups, they&#8217;ll tell you that businesses are experimenting wildly but are very slow to add AI solutions into their ongoing bu...
 Link: https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/
-Headline: ChatGPT and Sora went down for the second time this month
-Description: <p>ChatGPT, Sora, and OpenAI&#8217;s developer-facing API were down on Thursday for more than four hours. OpenAI says it started experiencing a major outage at 11 a.m. PT, but now says its services ar...
-Link: https://techcrunch.com/2024/12/26/chatgpt-and-sora-went-down-for-the-second-time-this-month/
-Headline: DeepSeek’s new AI model appears to be one of the best ‘open’ challengers yet
-Description: <p>DeepSeek V3 can handle a range of text-based workloads and tasks, like coding, translating, and writing essays and emails from a descriptive prompt.</p>
-<p>© 2024 TechCrunch. All rights reserved. F...
-Link: https://techcrunch.com/2024/12/26/deepseeks-new-ai-model-appears-to-be-one-of-the-best-open-challengers-yet/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -58,10 +56,6 @@ Headline: The AI talent wars are just getting started
 Description: <figure>
       <img alt="A photo of Naveen Rao." src="https://cdn.vox-cdn.com/thumbor/DGMZyIspr-y9bHuMQ0Agc2aWS5o=/0x0:2250x1500/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73799966/Raveen_Rao...
 Link: https://www.theverge.com/2024/12/20/24326135/ai-talent-wars-databricks-interview
-Headline: OpenAI teases new reasoning model—but don’t expect to try it soon
-Description: <figure>
-      <img alt="An OpenAI logo over an illustration of its o1 model." src="https://cdn.vox-cdn.com/thumbor/O9-Lqzl0cLNqouiEVOFU-mL8J-M=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_i...
-Link: https://www.theverge.com/2024/12/20/24326036/openai-o1-o2-o3-reasoning-model-testing
 
 ---
 
@@ -99,36 +93,6 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
-Headline: OpenAI funds $1 million study on AI and morality at Duke University
-Description: <p>OpenAI is awarding a $1 million grant to a Duke University research team to look at how AI could predict human moral judgments. The initiative highlights the growing focus on the intersection of te...
-Link: https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/?utm_source=rss&utm_medium=rss&utm_campaign=openai-funds-1-million-study-on-ai-and-morality-at-duke-university
-Headline: Manhattan Project 2.0? US eyes AGI breakthrough in escalating China rivalry
-Description: <p>The emerging US-China Artificial General Intelligence (AGI) rivalry could face a major policy transformation, as the US-China Economic and Security Review Commission (USCC) recommends a Manhattan P...
-Link: https://www.artificialintelligence-news.com/news/manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry/?utm_source=rss&utm_medium=rss&utm_campaign=manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry
-Headline: How blockchain, IoT, and AI are shaping the future of digital transformation
-Description: <p>When devices, networks, and AI work together seamlessly, it creates a smarter, more connected ecosystem. This isn&#8217;t a distant dream; it&#8217;s a reality rapidly emerging as blockchain, IoT, ...
-Link: https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/?utm_source=rss&utm_medium=rss&utm_campaign=how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation
-Headline: Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology
-Description: <p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Man...
-Link: https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/?utm_source=rss&utm_medium=rss&utm_campaign=ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology
-Headline: AI governance: Analysing emerging global regulations
-Description: <p>Governments are scrambling to establish regulations to govern AI, citing numerous concerns over data privacy, bias, safety, and more. AI News caught up with Nerijus Šveistys, Senior Legal Counsel a...
-Link: https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/?utm_source=rss&utm_medium=rss&utm_campaign=ai-governance-analysing-emerging-global-regulations
-Headline: What might happen if AI can feel emotions?
-Description: <p>In a world where artificial intelligence is becoming omnipresent, it&#8217;s fascinating to think about the prospect of AI-powered robots and digital avatars that can experience emotions, similar t...
-Link: https://www.artificialintelligence-news.com/news/what-might-happen-if-ai-can-feel-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=what-might-happen-if-ai-can-feel-emotions
-Headline: UK wants to prove AI can modernise public services responsibly
-Description: <p>The UK Government wants to prove that AI is being deployed responsibly within public services to speed up decision-making, reduce backlogs, and enhance support for citizens. New records, part of th...
-Link: https://www.artificialintelligence-news.com/news/uk-wants-prove-ai-can-modernise-public-services-responsibly/?utm_source=rss&utm_medium=rss&utm_campaign=uk-wants-prove-ai-can-modernise-public-services-responsibly
-Headline: Amazon stakes $4bn more in Anthropic–the next tech arms race?
-Description: <p>Amazon has announced an additional $4 billion investment in Anthropic, bringing the company&#8217;s total commitment to $8 billion, part of its expanding artificial intelligence strategy. The inves...
-Link: https://www.artificialintelligence-news.com/news/amazon-stakes-4bn-more-in-anthropic-the-next-tech-arms-race/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-stakes-4bn-more-in-anthropic-the-next-tech-arms-race
-Headline: CrowdStrike: Cybersecurity pros want safer, specialist GenAI tools
-Description: <p>CrowdStrike commissioned a survey of 1,022 cybersecurity professionals worldwide to assess their views on generative AI (GenAI) adoption and its implications. The findings reveal enthusiasm for Gen...
-Link: https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=crowdstrike-cybersecurity-pros-safer-specialist-genai-tools
-Headline: NJ cops demand protections against data brokers
-Description: <p>Privacy laws in the United States are a patchwork at best. More often than not, they miss the mark, leaving most people with little actual privacy. When such laws are enacted, they can seem tailore...
-Link: https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/?utm_source=rss&utm_medium=rss&utm_campaign=nj-cops-demand-protections-against-data-brokers
 
 ---
 
@@ -198,6 +162,12 @@ Link: https://aws.amazon.com/blogs/machine-learning/simplify-multimodal-generati
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Despite intense AI arms race, we’re in for a multi-modal future
+Description: There will be no single model that will rule the universe, neither next year nor next decade. Instead, the future of AI will be multi-model.
+Link: https://venturebeat.com/ai/despite-heated-ai-arms-race-were-in-for-a-multi-modal-future/
+Headline: Five breakthroughs that make OpenAI’s o3 a turning point for AI — and one big challenge
+Description: OpenAI’s o3 tackles specific hurdles in reasoning and adaptability that have long stymied large language models. At the same time, it exposes challenges, including the high costs and efficiency bottle...
+Link: https://venturebeat.com/ai/five-breakthroughs-that-make-openais-o3-a-turning-point-for-ai-and-one-big-challenge/
 Headline: How advanced foundation models will expand what AI can do (and other predictions for 2025)
 Description: Foundation models will be brand DNA, hands-free will be redefined and we'll hit the AI trust tipping point (among other developments).
 Link: https://venturebeat.com/ai/how-advanced-foundation-models-will-expand-what-ai-can-do-and-other-predictions-for-2025/
@@ -222,12 +192,6 @@ Link: https://venturebeat.com/ai/the-4-biggest-ai-stories-from-2024-and-one-key-
 Headline: The code whisperer: How Anthropic’s Claude is changing the game for software developers
 Description: Artificial intelligence assistants like Anthropic's Claude, once viewed with skepticism, have become indispensable software development tools.
 Link: https://venturebeat.com/ai/the-code-whisperer-how-anthropics-claude-is-changing-the-game-for-software-developers/
-Headline: Unintended consequences: U.S. election results could vastly accelerate AI development
-Description: AI accelerationists have won as a consequence of the election, potentially sidelining those advocating for a more cautious approach.
-Link: https://venturebeat.com/ai/unintended-consequences-u-s-election-results-herald-reckless-ai-development/
-Headline: Large language overkill: How SLMs can beat their bigger, resource-intensive cousins
-Description: Whether a company begins with a proof-of-concept or live deployment, they should start small, test often and build on early successes.
-Link: https://venturebeat.com/ai/large-language-overkill-how-slms-can-beat-their-bigger-resource-intensive-cousins/
 
 ---
 
@@ -250,9 +214,6 @@ Link: https://www.zdnet.com/article/why-ethics-is-becoming-ais-biggest-challenge
 Headline: How to generate your own music with the AI-powered Suno
 Description: Suno will use its AI skills to create a song based on your description of a specific genre and topic.
 Link: https://www.zdnet.com/article/how-to-generate-your-own-music-with-the-ai-powered-suno/
-Headline: The best robot vacuums for pet hair of 2024: Expert tested and reviewed
-Description: We tested the best robot vacuums for pet hair from iRobot, Roborock, and more to effortlessly keep your floors clean without the old upright vacuum.
-Link: https://www.zdnet.com/article/the-best-robot-vacuum-for-pet-hair/
 
 ---
 
@@ -379,24 +340,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Parents of OpenAI Whistleblower Don't Believe He Died By Suicide, Order Second Autopsy
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hnxu3c/parents_of_openai_whistleblower_dont_believe_he/"> <img alt="Parents of OpenAI Whistleblower Don't Believe He Died By Sui...
-Link: https://www.reddit.com/r/artificial/comments/1hnxu3c/parents_of_openai_whistleblower_dont_believe_he/
-Headline: To Further Its Mission of Benefitting Everyone, OpenAI Will Become Fully for-Profit
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hnxtns/to_further_its_mission_of_benefitting_everyone/"> <img alt="To Further Its Mission of Benefitting Everyone, OpenAI Will B...
-Link: https://www.reddit.com/r/artificial/comments/1hnxtns/to_further_its_mission_of_benefitting_everyone/
-Headline: ‘Godfather of AI’ says it could drive humans extinct in 10 years | Prof Geoffrey Hinton says the technology is developing faster than he expected and needs government regulation
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hog85o/godfather_of_ai_says_it_could_drive_humans/"> <img alt="‘Godfather of AI’ says it could drive humans extinct in 10 years ...
-Link: https://www.reddit.com/r/artificial/comments/1hog85o/godfather_of_ai_says_it_could_drive_humans/
-Headline: One-Minute Daily AI News 12/27/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Leaked Documents Show OpenAI Has a Very Clear Definition of ‘AGI’.[1]</li> <li>‘Godfather of AI’ shortens odds of the technology wiping out humanity over next 3...
-Link: https://www.reddit.com/r/artificial/comments/1hnzdlk/oneminute_daily_ai_news_12272024/
-Headline: [Financial Times] Four AI predictions for 2025
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hoainn/financial_times_four_ai_predictions_for_2025/"> <img alt="[Financial Times] Four AI predictions for 2025" src="https://ex...
-Link: https://www.reddit.com/r/artificial/comments/1hoainn/financial_times_four_ai_predictions_for_2025/
-Headline: A.i hallucinations are featured as useful tools in new york times. My post just shows where I started off, it has snowballed into much more than this...
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hoasdx/ai_hallucinations_are_featured_as_useful_tools_in/"> <img alt="A.i hallucinations are featured as useful tools in new yor...
-Link: https://www.reddit.com/r/artificial/comments/1hoasdx/ai_hallucinations_are_featured_as_useful_tools_in/
+Headline: AI development is very different from the Manhattan Project
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hp5l3h/ai_development_is_very_different_from_the/"> <img alt="AI development is very different from the Manhattan Project" src="...
+Link: https://www.reddit.com/r/artificial/comments/1hp5l3h/ai_development_is_very_different_from_the/
+Headline: One-Minute Daily AI News 12/28/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>AI data centers reportedly cause power problems in residential areas — decreased power quality in homes near data centers causes reduced lifespan for electrical...
+Link: https://www.reddit.com/r/artificial/comments/1hom2jp/oneminute_daily_ai_news_12282024/
+Headline: How to bypass AI Detection
+Description: <!-- SC_OFF --><div class="md"><p>What sort of prompting would be necessary to bypass Originality(dot)ai or other such AI detectors?<br /> Is it even possible, via the LLM itself or would it have to b...
+Link: https://www.reddit.com/r/artificial/comments/1hp3tp4/how_to_bypass_ai_detection/
+Headline: I would really appreciate a basic rundown of the best AI video generators
+Description: <!-- SC_OFF --><div class="md"><p>I have SORA and it's unable to do what a lot of video generators can do with AI. I've heard runway's excellent. Can someone please list some of the video generators o...
+Link: https://www.reddit.com/r/artificial/comments/1hoznne/i_would_really_appreciate_a_basic_rundown_of_the/
 
 ---
 
