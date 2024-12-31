@@ -1,30 +1,31 @@
-AI News Updates - 2024-12-30 02:52:26
+AI News Updates - 2024-12-31 02:48:52
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: From AI agents to enterprise budgets, 20 VCs share their predictions on enterprise tech in 2025
+Description: <p>While AI is lauded by some as the biggest technological breakthrough since the industrial revolution, enterprises — arguably the tech&#8217;s biggest potential customer base — have been slow to ado...
+Link: https://techcrunch.com/2024/12/30/from-ai-agents-to-enterprise-budgets-20-vcs-share-their-predictions-on-enterprise-tech-in-2025/
+Headline: Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition
+Description: <p>Encode, the nonprofit organization that co-sponsored California&#8217;s ill-fated SB 1047 AI safety legislation, has requested permission to file an amicus brief in support of Elon Musk&#8217;s inj...
+Link: https://techcrunch.com/2024/12/30/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/
+Headline: Nvidia completes acquisition of AI infrastructure startup Run:ai
+Description: <p>Nvidia has completed its acquisition of Run:ai, an Israeli startup that helps manage and optimize AI hardware infrastructure. As part of the merger, Run:ai said its software, which currently only w...
+Link: https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/
+Headline: Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare
+Description: <p>AI holds huge promise for healthcare, but not just on the medical side; many startups are convinced machine learning-based systems can do a lot of good on adjacent tasks such as appointment schedul...
+Link: https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/
 Headline: AI data centers could be ‘distorting’ the US power grid
-Description: <p>The proliferation of data centers aiming to meet the computational needs of AI could be bad news for the US power grid, according to a new report in Bloomberg. Using the 1 million residential senso...
+Description: <p>The proliferation of data centers aiming to meet the computational needs of AI could be bad news for the U.S. power grid, according to a new report in Bloomberg. Using the 1 million residential sen...
 Link: https://techcrunch.com/2024/12/29/ai-data-centers-could-be-distorting-the-us-power-grid/
 Headline: Permira’s Brian Ruder talks AI, Squarespace acquisition, and the value of co-leadership
 Description: <p>It has been a busy year in the private equity realm, with countless big-money acquisitions unfolding. The take-private space specifically has seen some sizable transactions, with private equity fir...
 Link: https://techcrunch.com/2024/12/29/permiras-brian-ruder-talks-ai-squarespace-acquisition-and-the-value-of-co-leadership/
 Headline: Google CEO says AI model Gemini will be the company’s ‘biggest focus’ in 2025
-Description: <p>CEO Sundar Pichai reportedly told Google employees that 2025 will be a “critical” year for the company. CNBC reports that it obtained audio from a December 18 strategy meeting where Pichai and othe...
+Description: <p>Google CEO Sundar Pichai reportedly told Google employees that 2025 will be a “critical” year for the company. CNBC reports that it obtained audio from a December 18 strategy meeting where Pichai a...
 Link: https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/
-Headline: Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition
-Description: <p>Encode, the nonprofit organization that co-sponsored California&#8217;s ill-fated SB 1047 AI safety legislation, has requested permission to file an amicus brief in support of Elon Musk&#8217;s inj...
-Link: https://techcrunch.com/2024/12/27/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/
 Headline: Why DeepSeek’s new AI model thinks it’s ChatGPT
 Description: <p>Earlier this week, DeepSeek, a well-funded Chinese AI lab, released an &#8220;open&#8221; AI model that beats many rivals on popular benchmarks. The model, DeepSeek V3, is large but efficient, hand...
 Link: https://techcrunch.com/2024/12/27/why-deepseeks-new-ai-model-thinks-its-chatgpt/
-Headline: 2024: Founder mode, AI, and the ‘Rise of the Broligarchs’
-Description: <p>From AI advancements and CrowdStrike&#8217;s crash to WordPress drama and which startups VCs have their eyes on next, TechCrunch’s Equity podcast is saying goodbye to 2024 with a look back at the y...
-Link: https://techcrunch.com/podcast/2024-founder-mode-ai-and-the-rise-of-the-broligarchs/
-Headline: OpenAI lays out its for-profit transition plans
-Description: <p>OpenAI says its corporate structure must evolve to advance its mission of ensuring artificial general intelligence (AGI) — AI that can complete most tasks humans can — benefits all humanity. The co...
-Link: https://techcrunch.com/2024/12/27/openai-lays-out-its-for-profit-transition-plans/
-Headline: AI sales rep startups are booming. So why are VCs wary?
-Description: <p>When you really probe venture capitalists about investing in AI startups, they&#8217;ll tell you that businesses are experimenting wildly but are very slow to add AI solutions into their ongoing bu...
-Link: https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/
+
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -64,6 +65,12 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: Dancing on Their Own: NVIDIA-Powered Robots to Adore From 2024
+Description: Artificial intelligence made big moves this year — as did the robots the technology is working behind. From Silicon Valley to India, Boston to Japan, here are some of the autonomous machines and robot...
+Link: https://blogs.nvidia.com/blog/robots-of-2024/
+Headline: Research Galore From 2024: Recapping AI Advancements in 3D Simulation, Climate Science and Audio Engineering
+Description: The pace of technology innovation has accelerated in the past year, most dramatically in AI. And in 2024, there was no better place to be a part of creating those breakthroughs than NVIDIA Research. N...
+Link: https://blogs.nvidia.com/blog/ai-research-2024/
 Headline: Have You Heard? 5 AI Podcast Episodes Listeners Loved in 2024
 Description: NVIDIA’s AI Podcast gives listeners the inside scoop on the ways AI is transforming nearly every industry.  Since the show’s debut in 2016, it’s garnered more than 6 million listens across 200-plus ep...
 Link: https://blogs.nvidia.com/blog/ai-podcast-2024-highlights/
@@ -79,13 +86,6 @@ Link: https://blogs.nvidia.com/blog/how-to-build-smarter-ai-agents/
 Headline: AI at Your Service: Digital Avatars With Speech Capabilities Offer Interactive Customer Experiences
 Description: To enhance productivity and upskill workers, organizations worldwide are seeking ways to provide consistent, around-the-clock customer service with greater speed, accuracy and scale.
 Link: https://blogs.nvidia.com/blog/digital-avatars-interactive-customer-experiences/
-Headline: AI in Your Own Words: NVIDIA Debuts NeMo Retriever Microservices for Multilingual Generative AI Fueled by Data
-Description: In enterprise AI, understanding and working across multiple languages is no longer optional — it’s essential for meeting the needs of employees, customers and users worldwide. Multilingual information...
-Link: https://blogs.nvidia.com/blog/nemo-retriever-nim/
-Headline: NVIDIA Unveils Its Most Affordable Generative AI Supercomputer
-Description: NVIDIA is taking the wraps off a new compact generative AI supercomputer, offering increased performance at a lower price with a software upgrade. The new NVIDIA Jetson Orin Nano Super Developer Kit, ...
-Link: https://blogs.nvidia.com/blog/jetson-generative-ai-supercomputer/
-
 ---
 
 From source: https://openai.com/blog/rss.xml
@@ -93,6 +93,36 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: OpenAI funds $1 million study on AI and morality at Duke University
+Description: <p>OpenAI is awarding a $1 million grant to a Duke University research team to look at how AI could predict human moral judgments. The initiative highlights the growing focus on the intersection of te...
+Link: https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/?utm_source=rss&utm_medium=rss&utm_campaign=openai-funds-1-million-study-on-ai-and-morality-at-duke-university
+Headline: Manhattan Project 2.0? US eyes AGI breakthrough in escalating China rivalry
+Description: <p>The emerging US-China Artificial General Intelligence (AGI) rivalry could face a major policy transformation, as the US-China Economic and Security Review Commission (USCC) recommends a Manhattan P...
+Link: https://www.artificialintelligence-news.com/news/manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry/?utm_source=rss&utm_medium=rss&utm_campaign=manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry
+Headline: How blockchain, IoT, and AI are shaping the future of digital transformation
+Description: <p>When devices, networks, and AI work together seamlessly, it creates a smarter, more connected ecosystem. This isn&#8217;t a distant dream; it&#8217;s a reality rapidly emerging as blockchain, IoT, ...
+Link: https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/?utm_source=rss&utm_medium=rss&utm_campaign=how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation
+Headline: Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology
+Description: <p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Man...
+Link: https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/?utm_source=rss&utm_medium=rss&utm_campaign=ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology
+Headline: AI governance: Analysing emerging global regulations
+Description: <p>Governments are scrambling to establish regulations to govern AI, citing numerous concerns over data privacy, bias, safety, and more. AI News caught up with Nerijus Šveistys, Senior Legal Counsel a...
+Link: https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/?utm_source=rss&utm_medium=rss&utm_campaign=ai-governance-analysing-emerging-global-regulations
+Headline: What might happen if AI can feel emotions?
+Description: <p>In a world where artificial intelligence is becoming omnipresent, it&#8217;s fascinating to think about the prospect of AI-powered robots and digital avatars that can experience emotions, similar t...
+Link: https://www.artificialintelligence-news.com/news/what-might-happen-if-ai-can-feel-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=what-might-happen-if-ai-can-feel-emotions
+Headline: UK wants to prove AI can modernise public services responsibly
+Description: <p>The UK Government wants to prove that AI is being deployed responsibly within public services to speed up decision-making, reduce backlogs, and enhance support for citizens. New records, part of th...
+Link: https://www.artificialintelligence-news.com/news/uk-wants-prove-ai-can-modernise-public-services-responsibly/?utm_source=rss&utm_medium=rss&utm_campaign=uk-wants-prove-ai-can-modernise-public-services-responsibly
+Headline: Amazon stakes $4bn more in Anthropic–the next tech arms race?
+Description: <p>Amazon has announced an additional $4 billion investment in Anthropic, bringing the company&#8217;s total commitment to $8 billion, part of its expanding artificial intelligence strategy. The inves...
+Link: https://www.artificialintelligence-news.com/news/amazon-stakes-4bn-more-in-anthropic-the-next-tech-arms-race/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-stakes-4bn-more-in-anthropic-the-next-tech-arms-race
+Headline: CrowdStrike: Cybersecurity pros want safer, specialist GenAI tools
+Description: <p>CrowdStrike commissioned a survey of 1,022 cybersecurity professionals worldwide to assess their views on generative AI (GenAI) adoption and its implications. The findings reveal enthusiasm for Gen...
+Link: https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=crowdstrike-cybersecurity-pros-safer-specialist-genai-tools
+Headline: NJ cops demand protections against data brokers
+Description: <p>Privacy laws in the United States are a patchwork at best. More often than not, they miss the mark, leaving most people with little actual privacy. When such laws are enacted, they can seem tailore...
+Link: https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/?utm_source=rss&utm_medium=rss&utm_campaign=nj-cops-demand-protections-against-data-brokers
 
 ---
 
@@ -162,7 +192,19 @@ Link: https://aws.amazon.com/blogs/machine-learning/simplify-multimodal-generati
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
-Headline: Despite intense AI arms race, we’re in for a multi-modal future
+Headline: Why 2025 will redefine data infrastructure: 11 expert insights on sovereign clouds, exploding data, PaaS and more
+Description: Key predictions from data infrastructure industry experts and vendors to help enterprises tap the AI opportunity for growth in 2025.
+Link: https://venturebeat.com/data-infrastructure/why-2025-will-redefine-data-infrastructure-11-expert-insights-on-sovereign-clouds-exploding-data-paas-and-more/
+Headline: Forrester on cybersecurity budgeting: 2025 will be the year of CISO fiscal accountability
+Description: With 90% of cybersecurity and risk leaders predicting they'll see budget increases in 2025, many are facing a new era of accountability.
+Link: https://venturebeat.com/ai/forrester-cybersecurity-budgeting-2025-ciso-fiscal-accountability/
+Headline: Why 2025 will be the year of AI orchestration
+Description: For many, 2025 will be the year of AI agents, when pilot programs, experiments and use cases converge into something resembling ROI.
+Link: https://venturebeat.com/ai/three-ways-2025-will-be-the-year-of-agentic-productivity/
+Headline: Nvidia to open-source Run:ai, the software it acquired for $700M to help companies manage GPUs for AI
+Description: Nvidia has completed its acquisition of Run:ai, a software company that makes it easier for customers to orchestrate GPU clouds for AI.
+Link: https://venturebeat.com/ai/nvidia-acquires-software-maker-runai-to-orchestrate-gpu-clouds-for-ai/
+Headline: Despite intense AI arms race, we’re in for a multi-model future
 Description: There will be no single model that will rule the universe, neither next year nor next decade. Instead, the future of AI will be multi-model.
 Link: https://venturebeat.com/ai/despite-heated-ai-arms-race-were-in-for-a-multi-modal-future/
 Headline: Five breakthroughs that make OpenAI’s o3 a turning point for AI — and one big challenge
@@ -180,22 +222,13 @@ Link: https://venturebeat.com/ai/ces-2025-tips-and-tricks-a-guide-to-techs-bigge
 Headline: DeepSeek-V3, ultra-large open-source AI, outperforms Llama and Qwen on launch
 Description: The new model shows open-source closing in on closed-source models, suggesting reduced chances of one big AI player ruling the game.
 Link: https://venturebeat.com/ai/deepseek-v3-ultra-large-open-source-ai-outperforms-llama-and-qwen-on-launch/
-Headline: OpenAI’s o3 shows remarkable progress on ARC-AGI, sparking debate on AI reasoning
-Description: o3 solved one of the most difficult AI challenges, scoring 75.7% on the ARC-AGI benchmark. But does it really mean we're closer to AGI?
-Link: https://venturebeat.com/ai/openais-o3-shows-remarkable-progress-on-arc-agi-sparking-debate-on-ai-reasoning/
-Headline: Learn how GE Healthcare used AWS to build a new AI model that interprets MRIs
-Description: Here's how GE Healthcare overcame challenges of 2D and created the industry’s first full-body 3D MRI research foundation model.
-Link: https://venturebeat.com/ai/learn-how-ge-healthcare-used-aws-to-build-a-new-ai-model-that-interprets-mris/
-Headline: The 4 biggest AI stories from 2024 and one key prediction for 2025
-Description: By all measures, 2024 was the biggest year for artificial intelligence yet — at least when it comes to the commercialization.
-Link: https://venturebeat.com/ai/the-4-biggest-ai-stories-from-2024-and-one-key-prediction-for-2025/
-Headline: The code whisperer: How Anthropic’s Claude is changing the game for software developers
-Description: Artificial intelligence assistants like Anthropic's Claude, once viewed with skepticism, have become indispensable software development tools.
-Link: https://venturebeat.com/ai/the-code-whisperer-how-anthropics-claude-is-changing-the-game-for-software-developers/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: AI agents might be the new workforce, but they still need a manager
+Description: AI agents keep getting smarter and more independent. But there is still work to be done before an agentic AI-driven workforce can truly assume a broad range of tasks.
+Link: https://www.zdnet.com/article/ai-agents-might-be-the-new-workforce-but-they-still-need-a-manager/
 Headline: AI data centers are becoming 'mind-blowingly large'
 Description: Clusters of GPU chips in coming years will have to connect over distances longer than a mile, says the CEO of this fiber-optics firm.
 Link: https://www.zdnet.com/article/ai-data-centers-are-becoming-mind-blowingly-large/
@@ -211,10 +244,6 @@ Link: https://www.zdnet.com/article/15-ways-ai-saved-me-time-at-work-in-2024-and
 Headline: Why ethics is becoming AI's biggest challenge
 Description: Teams designing AI should include linguistics and philosophy experts, parents, young people, everyday people with different life experiences from different socio-economic backgrounds.
 Link: https://www.zdnet.com/article/why-ethics-is-becoming-ais-biggest-challenge/
-Headline: How to generate your own music with the AI-powered Suno
-Description: Suno will use its AI skills to create a song based on your description of a specific genre and topic.
-Link: https://www.zdnet.com/article/how-to-generate-your-own-music-with-the-ai-powered-suno/
-
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -298,6 +327,12 @@ Link: https://www.sciencedaily.com/releases/2024/12/241209123230.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: IBM will release the largest ever quantum computer in 2025
+Description: Following successful early demonstrations of linking two quantum computing chips, IBM is aiming to break records for the largest quantum computer yet by combining many of them in parallel
+Link: https://www.newscientist.com/article/2457325-ibm-will-release-the-largest-ever-quantum-computer-in-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: How to fix computing's AI energy problem: run everything backwards
+Description: Artificial intelligence wastes an extraordinary amount of energy - but running every computer calculation twice, first forwards and then backwards, could drastically curb that problem
+Link: https://www.newscientist.com/article/mg26435231-300-how-to-fix-computings-ai-energy-problem-run-everything-backwards/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: 2024 review: The best new robots of the year
 Description: New Scientist's round-up of some of the best new robots of 2024
 Link: https://www.newscientist.com/video/2460158-2024-review-the-best-new-robots-of-the-year/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -313,9 +348,6 @@ Link: https://www.newscientist.com/article/2461315-is-googles-approach-to-error-
 Headline: Should chatbots have rights – and should we care?
 Description: Some prominent researchers argue that we should pay heed to the welfare of AIs. Are they right, wonders Alex Wilkins
 Link: https://www.newscientist.com/article/mg26435233-300-should-chatbots-have-rights-and-should-we-care/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: How to fix computing's AI energy problem: run everything backwards
-Description: Artificial intelligence wastes an extraordinary amount of energy - but running every computer calculation twice, first forwards and then backwards, could drastically curb that problem
-Link: https://www.newscientist.com/article/mg26435231-300-how-to-fix-computings-ai-energy-problem-run-everything-backwards/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: OpenAI's o3 model aced a test of AI reasoning – but it's still not AGI
 Description: The latest AI model from OpenAI achieved an “impressive leap in performance” but it still hasn’t demonstrated what experts classify as human-level intelligence
 Link: https://www.newscientist.com/article/2462000-openais-o3-model-aced-a-test-of-ai-reasoning-but-its-still-not-agi/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -325,9 +357,6 @@ Link: https://www.newscientist.com/article/2461713-how-the-us-supreme-court-and-
 Headline: Quantum teleportation can survive through busy internet cables
 Description: An experiment showing that quantum and classical communication can be carried out through the same fibre at the same time may open the door to building a quantum internet with existing infrastructure
 Link: https://www.newscientist.com/article/2461649-quantum-teleportation-can-survive-through-busy-internet-cables/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Hundreds of small websites may shut down due to UK's Online Safety Act
-Description: Hundreds of community websites run for fans of everything from cycling to Sunderland AFC may be forced to shut down by the UK's Online Safety Act, which is designed to protect children from harmful co...
-Link: https://www.newscientist.com/article/2461213-hundreds-of-small-websites-may-shut-down-due-to-uks-online-safety-act/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -340,18 +369,6 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: AI development is very different from the Manhattan Project
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hp5l3h/ai_development_is_very_different_from_the/"> <img alt="AI development is very different from the Manhattan Project" src="...
-Link: https://www.reddit.com/r/artificial/comments/1hp5l3h/ai_development_is_very_different_from_the/
-Headline: One-Minute Daily AI News 12/28/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>AI data centers reportedly cause power problems in residential areas — decreased power quality in homes near data centers causes reduced lifespan for electrical...
-Link: https://www.reddit.com/r/artificial/comments/1hom2jp/oneminute_daily_ai_news_12282024/
-Headline: How to bypass AI Detection
-Description: <!-- SC_OFF --><div class="md"><p>What sort of prompting would be necessary to bypass Originality(dot)ai or other such AI detectors?<br /> Is it even possible, via the LLM itself or would it have to b...
-Link: https://www.reddit.com/r/artificial/comments/1hp3tp4/how_to_bypass_ai_detection/
-Headline: I would really appreciate a basic rundown of the best AI video generators
-Description: <!-- SC_OFF --><div class="md"><p>I have SORA and it's unable to do what a lot of video generators can do with AI. I've heard runway's excellent. Can someone please list some of the video generators o...
-Link: https://www.reddit.com/r/artificial/comments/1hoznne/i_would_really_appreciate_a_basic_rundown_of_the/
 
 ---
 
