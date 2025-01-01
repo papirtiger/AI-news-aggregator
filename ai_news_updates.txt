@@ -1,6 +1,9 @@
-AI News Updates - 2024-12-31 02:48:52
+AI News Updates - 2025-01-01 02:56:50
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Will Smith eating spaghetti and other weird AI benchmarks that took off in 2024
+Description: <p>When a company releases a new AI video generator, it&#8217;s not long before someone uses it to make a video of actor Will Smith eating spaghetti. It&#8217;s become something of a meme as well as a...
+Link: https://techcrunch.com/2024/12/31/will-smith-eating-spaghetti-and-other-weird-ai-benchmarks-that-took-off-in-2024/
 Headline: From AI agents to enterprise budgets, 20 VCs share their predictions on enterprise tech in 2025
 Description: <p>While AI is lauded by some as the biggest technological breakthrough since the industrial revolution, enterprises — arguably the tech&#8217;s biggest potential customer base — have been slow to ado...
 Link: https://techcrunch.com/2024/12/30/from-ai-agents-to-enterprise-budgets-20-vcs-share-their-predictions-on-enterprise-tech-in-2025/
@@ -22,9 +25,6 @@ Link: https://techcrunch.com/2024/12/29/permiras-brian-ruder-talks-ai-squarespac
 Headline: Google CEO says AI model Gemini will be the company’s ‘biggest focus’ in 2025
 Description: <p>Google CEO Sundar Pichai reportedly told Google employees that 2025 will be a “critical” year for the company. CNBC reports that it obtained audio from a December 18 strategy meeting where Pichai a...
 Link: https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/
-Headline: Why DeepSeek’s new AI model thinks it’s ChatGPT
-Description: <p>Earlier this week, DeepSeek, a well-funded Chinese AI lab, released an &#8220;open&#8221; AI model that beats many rivals on popular benchmarks. The model, DeepSeek V3, is large but efficient, hand...
-Link: https://techcrunch.com/2024/12/27/why-deepseeks-new-ai-model-thinks-its-chatgpt/
 
 ---
 
@@ -65,9 +65,6 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
-Headline: Dancing on Their Own: NVIDIA-Powered Robots to Adore From 2024
-Description: Artificial intelligence made big moves this year — as did the robots the technology is working behind. From Silicon Valley to India, Boston to Japan, here are some of the autonomous machines and robot...
-Link: https://blogs.nvidia.com/blog/robots-of-2024/
 Headline: Research Galore From 2024: Recapping AI Advancements in 3D Simulation, Climate Science and Audio Engineering
 Description: The pace of technology innovation has accelerated in the past year, most dramatically in AI. And in 2024, there was no better place to be a part of creating those breakthroughs than NVIDIA Research. N...
 Link: https://blogs.nvidia.com/blog/ai-research-2024/
@@ -86,6 +83,10 @@ Link: https://blogs.nvidia.com/blog/how-to-build-smarter-ai-agents/
 Headline: AI at Your Service: Digital Avatars With Speech Capabilities Offer Interactive Customer Experiences
 Description: To enhance productivity and upskill workers, organizations worldwide are seeking ways to provide consistent, around-the-clock customer service with greater speed, accuracy and scale.
 Link: https://blogs.nvidia.com/blog/digital-avatars-interactive-customer-experiences/
+Headline: AI in Your Own Words: NVIDIA Debuts NeMo Retriever Microservices for Multilingual Generative AI Fueled by Data
+Description: In enterprise AI, understanding and working across multiple languages is no longer optional — it’s essential for meeting the needs of employees, customers and users worldwide. Multilingual information...
+Link: https://blogs.nvidia.com/blog/nemo-retriever-nim/
+
 ---
 
 From source: https://openai.com/blog/rss.xml
@@ -131,6 +132,12 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: The biggest AI flops of 2024
+Description: The past 12 months have been undeniably busy for those working in AI. There have been more successful product launches than we can count, and even Nobel Prizes. But it hasn’t always been smooth sailin...
+Link: https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/
+Headline: The AI Hype Index: Robot pets, simulated humans, and Apple’s AI text summaries
+Description: Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. ...
+Link: https://www.technologyreview.com/2024/12/31/1108640/ai-hype-index-apple-google-deepmind-openai-meta/
 Headline: The humans behind the robots
 Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Here’s a question. Imagine that, for $15,000, you could purcha...
 Link: https://www.technologyreview.com/2024/12/24/1109523/the-humans-behind-the-robots/
@@ -155,9 +162,6 @@ Link: https://www.technologyreview.com/2024/12/13/1108719/ais-emissions-are-abou
 Headline: Google’s new Project Astra could be generative AI’s killer app
 Description: Google DeepMind has announced an impressive grab bag of new products and prototypes that may just let it seize back its lead in the race to turn generative artificial intelligence into a mass-market c...
 Link: https://www.technologyreview.com/2024/12/11/1108493/googles-new-project-astra-could-be-generative-ais-killer-app/
-Headline: AI’s hype and antitrust problem is coming under scrutiny
-Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. The AI sector is plagued by a lack of competition and a lot of...
-Link: https://www.technologyreview.com/2024/12/10/1108141/ais-hype-and-antitrust-problem-is-coming-under-scrutiny/
 
 ---
 
@@ -192,6 +196,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/simplify-multimodal-generati
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Inside the AI agent revolution: How data-driven automation transformed the enterprise in 2024
+Description: In a recent survey, 82% of tech executives said they intend to integrate AI agents across their stacks within the next three years.
+Link: https://venturebeat.com/data-infrastructure/unlocking-value-from-data-how-ai-agents-conquered-2024/
 Headline: Why 2025 will redefine data infrastructure: 11 expert insights on sovereign clouds, exploding data, PaaS and more
 Description: Key predictions from data infrastructure industry experts and vendors to help enterprises tap the AI opportunity for growth in 2025.
 Link: https://venturebeat.com/data-infrastructure/why-2025-will-redefine-data-infrastructure-11-expert-insights-on-sovereign-clouds-exploding-data-paas-and-more/
@@ -219,13 +226,16 @@ Link: https://venturebeat.com/ai/driving-next-level-analyst-efficiency-with-goog
 Headline: CES 2025 tips and tricks: A guide to tech’s biggest trade show
 Description: CES 2025 is coming to Las Vegas during the week of January 5, and it will be one of the biggest tech expos in the world again.
 Link: https://venturebeat.com/ai/ces-2025-tips-and-tricks-a-guide-to-techs-biggest-trade-show/
-Headline: DeepSeek-V3, ultra-large open-source AI, outperforms Llama and Qwen on launch
-Description: The new model shows open-source closing in on closed-source models, suggesting reduced chances of one big AI player ruling the game.
-Link: https://venturebeat.com/ai/deepseek-v3-ultra-large-open-source-ai-outperforms-llama-and-qwen-on-launch/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: The upcoming Samsung Galaxy S25 phones may come with this major AI upgrade for free
+Description: A new leak reveals Google will offer a $200+ bonus to customers who purchase a new Samsung phone.
+Link: https://www.zdnet.com/article/the-upcoming-samsung-galaxy-s25-phones-may-come-with-this-major-ai-upgrade-for-free/
+Headline: LG announced its new lineup of 'Hybrid AI' Gram laptops, and they're thinner than ever
+Description: LG's 2025 Gram Pro laptops include the company's first-ever Copilot+ PC, armed with the 'Lunar Lake' Intel Core Ultra processor.
+Link: https://www.zdnet.com/article/lg-announces-new-lineup-of-hybrid-ai-gram-laptops/
 Headline: AI agents might be the new workforce, but they still need a manager
 Description: AI agents keep getting smarter and more independent. But there is still work to be done before an agentic AI-driven workforce can truly assume a broad range of tasks.
 Link: https://www.zdnet.com/article/ai-agents-might-be-the-new-workforce-but-they-still-need-a-manager/
@@ -238,12 +248,7 @@ Link: https://www.zdnet.com/article/openais-o3-isnt-agi-yet-but-it-just-did-some
 Headline: AI isn't the next big thing - here's what is
 Description: Here's what you should be focusing on instead.
 Link: https://www.zdnet.com/article/ai-isnt-the-next-big-thing-heres-what-is/
-Headline: 15 ways AI saved me time at work in 2024 - and how I plan to use it in 2025
-Description: In 2024, AI became truly helpful. Here are 15 clever ways I integrated it into my workflow for quicker, better results - and how you can too.
-Link: https://www.zdnet.com/article/15-ways-ai-saved-me-time-at-work-in-2024-and-how-i-plan-to-use-it-in-2025/
-Headline: Why ethics is becoming AI's biggest challenge
-Description: Teams designing AI should include linguistics and philosophy experts, parents, young people, everyday people with different life experiences from different socio-economic backgrounds.
-Link: https://www.zdnet.com/article/why-ethics-is-becoming-ais-biggest-challenge/
+
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -327,6 +332,9 @@ Link: https://www.sciencedaily.com/releases/2024/12/241209123230.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Humanoid robots will march into factories and homes in 2025
+Description: A robotic boom could see thousands of humanoid units entering workplaces and more in 2025, but whether they will have staying power remains to be seen
+Link: https://www.newscientist.com/article/mg26435232-600-humanoid-robots-will-march-into-factories-and-homes-in-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: IBM will release the largest ever quantum computer in 2025
 Description: Following successful early demonstrations of linking two quantum computing chips, IBM is aiming to break records for the largest quantum computer yet by combining many of them in parallel
 Link: https://www.newscientist.com/article/2457325-ibm-will-release-the-largest-ever-quantum-computer-in-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -354,9 +362,6 @@ Link: https://www.newscientist.com/article/2462000-openais-o3-model-aced-a-test-
 Headline: How the US Supreme Court and Trump could stop a TikTok ban
 Description: A US ban on the video-sharing app TikTok is set to take effect in early 2025 – but the country's Supreme Court and President-elect Donald Trump could still change that
 Link: https://www.newscientist.com/article/2461713-how-the-us-supreme-court-and-trump-could-stop-a-tiktok-ban/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Quantum teleportation can survive through busy internet cables
-Description: An experiment showing that quantum and classical communication can be carried out through the same fibre at the same time may open the door to building a quantum internet with existing infrastructure
-Link: https://www.newscientist.com/article/2461649-quantum-teleportation-can-survive-through-busy-internet-cables/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -369,6 +374,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
+Headline: Argentina's Nuclear Plan to Fuel AI Development
+Description: <!-- SC_OFF --><div class="md"><p>Argentina has announced a bold initiative to position itself as a global leader in artificial intelligence (AI) and sustainable energy through its new Nuclear Plan. T...
+Link: https://www.reddit.com/r/artificial/comments/1hqp037/argentinas_nuclear_plan_to_fuel_ai_development/
+Headline: Will AI cheats kill online multiplayer games as we know them?
+Description: <!-- SC_OFF --><div class="md"><p>I was thinking about the trajectory of AI and how it relates to multiplayer games, namely within the context of cheats. Nowadays aimbots, wallhacks, and such are stil...
+Link: https://www.reddit.com/r/artificial/comments/1hqn7gg/will_ai_cheats_kill_online_multiplayer_games_as/
+Headline: Which AI tools have the biggest impact on your productivity?
+Description: <!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>For a bit of context, we are writing a free <a href="https://synaptiks.ai/">newsletter </a>on AI, with the goal of helping people understand AI a...
+Link: https://www.reddit.com/r/artificial/comments/1hqlivs/which_ai_tools_have_the_biggest_impact_on_your/
+Headline: Tiktok algorithm listening to you?
+Description: <!-- SC_OFF --><div class="md"><p>I stumbled across this Tiktok without any tags and with some cryptic caption stating that &quot;this video is meant for you&quot;. He is saying that there is an AI in...
+Link: https://www.reddit.com/r/artificial/comments/1hqdtk3/tiktok_algorithm_listening_to_you/
+Headline: Buyer beware: OpenAI’s o1 reasoning model is an entirely different beast
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hqmalb/buyer_beware_openais_o1_reasoning_model_is_an/"> <img alt="Buyer beware: OpenAI’s o1 reasoning model is an entirely diffe...
+Link: https://www.reddit.com/r/artificial/comments/1hqmalb/buyer_beware_openais_o1_reasoning_model_is_an/
 
 ---
 
