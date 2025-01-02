@@ -1,6 +1,12 @@
-AI News Updates - 2025-01-01 02:56:50
+AI News Updates - 2025-01-02 02:48:43
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI failed to deliver the opt-out tool it promised by 2025
+Description: <p>Back in May, OpenAI said it was developing a tool to let creators specify how they want their works to be included in — or excluded from — its AI training data. But 7 months later, this feature has...
+Link: https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/
+Headline: Silicon Valley stifled the AI doom movement in 2024
+Description: <p>For several years now, technologists have rung alarm bells about the potential for advanced AI systems to cause catastrophic damage to the human race. But in 2024, those warning calls were drowned ...
+Link: https://techcrunch.com/2025/01/01/2024-the-year-silicon-valley-stifled-the-ai-doom-movement/
 Headline: Will Smith eating spaghetti and other weird AI benchmarks that took off in 2024
 Description: <p>When a company releases a new AI video generator, it&#8217;s not long before someone uses it to make a video of actor Will Smith eating spaghetti. It&#8217;s become something of a meme as well as a...
 Link: https://techcrunch.com/2024/12/31/will-smith-eating-spaghetti-and-other-weird-ai-benchmarks-that-took-off-in-2024/
@@ -19,12 +25,6 @@ Link: https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup
 Headline: AI data centers could be ‘distorting’ the US power grid
 Description: <p>The proliferation of data centers aiming to meet the computational needs of AI could be bad news for the U.S. power grid, according to a new report in Bloomberg. Using the 1 million residential sen...
 Link: https://techcrunch.com/2024/12/29/ai-data-centers-could-be-distorting-the-us-power-grid/
-Headline: Permira’s Brian Ruder talks AI, Squarespace acquisition, and the value of co-leadership
-Description: <p>It has been a busy year in the private equity realm, with countless big-money acquisitions unfolding. The take-private space specifically has seen some sizable transactions, with private equity fir...
-Link: https://techcrunch.com/2024/12/29/permiras-brian-ruder-talks-ai-squarespace-acquisition-and-the-value-of-co-leadership/
-Headline: Google CEO says AI model Gemini will be the company’s ‘biggest focus’ in 2025
-Description: <p>Google CEO Sundar Pichai reportedly told Google employees that 2025 will be a “critical” year for the company. CNBC reports that it obtained audio from a December 18 strategy meeting where Pichai a...
-Link: https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/
 
 ---
 
@@ -332,6 +332,9 @@ Link: https://www.sciencedaily.com/releases/2024/12/241209123230.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Flying electric taxis look set to finally take off in 2025
+Description: Electric vertical take-off and landing (eVTOL) aircraft are on track to start commercial passenger carrying services in 2025, but can they stand out from conventional helicopters?
+Link: https://www.newscientist.com/article/2459466-flying-electric-taxis-look-set-to-finally-take-off-in-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Humanoid robots will march into factories and homes in 2025
 Description: A robotic boom could see thousands of humanoid units entering workplaces and more in 2025, but whether they will have staying power remains to be seen
 Link: https://www.newscientist.com/article/mg26435232-600-humanoid-robots-will-march-into-factories-and-homes-in-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -359,9 +362,6 @@ Link: https://www.newscientist.com/article/mg26435233-300-should-chatbots-have-r
 Headline: OpenAI's o3 model aced a test of AI reasoning – but it's still not AGI
 Description: The latest AI model from OpenAI achieved an “impressive leap in performance” but it still hasn’t demonstrated what experts classify as human-level intelligence
 Link: https://www.newscientist.com/article/2462000-openais-o3-model-aced-a-test-of-ai-reasoning-but-its-still-not-agi/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: How the US Supreme Court and Trump could stop a TikTok ban
-Description: A US ban on the video-sharing app TikTok is set to take effect in early 2025 – but the country's Supreme Court and President-elect Donald Trump could still change that
-Link: https://www.newscientist.com/article/2461713-how-the-us-supreme-court-and-trump-could-stop-a-tiktok-ban/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -374,21 +374,15 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Argentina's Nuclear Plan to Fuel AI Development
-Description: <!-- SC_OFF --><div class="md"><p>Argentina has announced a bold initiative to position itself as a global leader in artificial intelligence (AI) and sustainable energy through its new Nuclear Plan. T...
-Link: https://www.reddit.com/r/artificial/comments/1hqp037/argentinas_nuclear_plan_to_fuel_ai_development/
-Headline: Will AI cheats kill online multiplayer games as we know them?
-Description: <!-- SC_OFF --><div class="md"><p>I was thinking about the trajectory of AI and how it relates to multiplayer games, namely within the context of cheats. Nowadays aimbots, wallhacks, and such are stil...
-Link: https://www.reddit.com/r/artificial/comments/1hqn7gg/will_ai_cheats_kill_online_multiplayer_games_as/
-Headline: Which AI tools have the biggest impact on your productivity?
-Description: <!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>For a bit of context, we are writing a free <a href="https://synaptiks.ai/">newsletter </a>on AI, with the goal of helping people understand AI a...
-Link: https://www.reddit.com/r/artificial/comments/1hqlivs/which_ai_tools_have_the_biggest_impact_on_your/
-Headline: Tiktok algorithm listening to you?
-Description: <!-- SC_OFF --><div class="md"><p>I stumbled across this Tiktok without any tags and with some cryptic caption stating that &quot;this video is meant for you&quot;. He is saying that there is an AI in...
-Link: https://www.reddit.com/r/artificial/comments/1hqdtk3/tiktok_algorithm_listening_to_you/
-Headline: Buyer beware: OpenAI’s o1 reasoning model is an entirely different beast
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hqmalb/buyer_beware_openais_o1_reasoning_model_is_an/"> <img alt="Buyer beware: OpenAI’s o1 reasoning model is an entirely diffe...
-Link: https://www.reddit.com/r/artificial/comments/1hqmalb/buyer_beware_openais_o1_reasoning_model_is_an/
+Headline: Silicone Photonics breakthrough by TSMC could help AI
+Description: <!-- SC_OFF --><div class="md"><p>Silicone Photonics - The next chapter of AI computing? </p> <p>TSMC has achieved a milestone in silicon photonics, integrating co-packaged optics (CPO) with advanced ...
+Link: https://www.reddit.com/r/artificial/comments/1hr2800/silicone_photonics_breakthrough_by_tsmc_could/
+Headline: AI specialists/data analysts/ML engineers, what is the most rewarding thing about your job?
+Description: <!-- SC_OFF --><div class="md"><p>Most web articles I read mentioned a lot about a good paycheck, but I think that depends on where you work at. Is there more than just money?</p> </div><!-- SC_ON -->...
+Link: https://www.reddit.com/r/artificial/comments/1hr4gw2/ai_specialistsdata_analystsml_engineers_what_is/
+Headline: One-Minute Daily AI News 12/31/2024
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Will Smith eating spaghetti and other weird AI benchmarks that took off in 2024.[1]</li> <li>Introducing smolagents, a simple library to build agents.[2]</li> <...
+Link: https://www.reddit.com/r/artificial/comments/1hqwd5z/oneminute_daily_ai_news_12312024/
 
 ---
 
