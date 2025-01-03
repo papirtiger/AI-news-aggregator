@@ -1,8 +1,14 @@
-AI News Updates - 2025-01-02 02:48:43
+AI News Updates - 2025-01-03 02:50:00
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: xAI’s next-gen AI model didn’t arrive on time, adding to a trend
+Description: <p>The list of flagship AI models that missed their promised launch windows continues to grow. Last summer, billionaire Elon Musk, the founder and CEO of AI company xAI, said that Grok 3, xAI&#8217;s ...
+Link: https://techcrunch.com/2025/01/02/xais-next-gen-grok-model-didnt-arrive-on-time-adding-to-a-trend/
+Headline: Apheris rethinks the AI data bottleneck in life science with federated computing
+Description: <p>AI is fundamentally dependent on data, but the vast majority of health data goes unused for understandable reasons — chiefly patient privacy, regulation, and IP protection. “This is the core underl...
+Link: https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/
 Headline: OpenAI failed to deliver the opt-out tool it promised by 2025
-Description: <p>Back in May, OpenAI said it was developing a tool to let creators specify how they want their works to be included in — or excluded from — its AI training data. But 7 months later, this feature has...
+Description: <p>Back in May, OpenAI said it was developing a tool to let creators specify how they want their works to be included in — or excluded from — its AI training data. But seven months later, this feature...
 Link: https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/
 Headline: Silicon Valley stifled the AI doom movement in 2024
 Description: <p>For several years now, technologists have rung alarm bells about the potential for advanced AI systems to cause catastrophic damage to the human race. But in 2024, those warning calls were drowned ...
@@ -10,22 +16,6 @@ Link: https://techcrunch.com/2025/01/01/2024-the-year-silicon-valley-stifled-the
 Headline: Will Smith eating spaghetti and other weird AI benchmarks that took off in 2024
 Description: <p>When a company releases a new AI video generator, it&#8217;s not long before someone uses it to make a video of actor Will Smith eating spaghetti. It&#8217;s become something of a meme as well as a...
 Link: https://techcrunch.com/2024/12/31/will-smith-eating-spaghetti-and-other-weird-ai-benchmarks-that-took-off-in-2024/
-Headline: From AI agents to enterprise budgets, 20 VCs share their predictions on enterprise tech in 2025
-Description: <p>While AI is lauded by some as the biggest technological breakthrough since the industrial revolution, enterprises — arguably the tech&#8217;s biggest potential customer base — have been slow to ado...
-Link: https://techcrunch.com/2024/12/30/from-ai-agents-to-enterprise-budgets-20-vcs-share-their-predictions-on-enterprise-tech-in-2025/
-Headline: Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition
-Description: <p>Encode, the nonprofit organization that co-sponsored California&#8217;s ill-fated SB 1047 AI safety legislation, has requested permission to file an amicus brief in support of Elon Musk&#8217;s inj...
-Link: https://techcrunch.com/2024/12/30/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/
-Headline: Nvidia completes acquisition of AI infrastructure startup Run:ai
-Description: <p>Nvidia has completed its acquisition of Run:ai, an Israeli startup that helps manage and optimize AI hardware infrastructure. As part of the merger, Run:ai said its software, which currently only w...
-Link: https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/
-Headline: Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare
-Description: <p>AI holds huge promise for healthcare, but not just on the medical side; many startups are convinced machine learning-based systems can do a lot of good on adjacent tasks such as appointment schedul...
-Link: https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/
-Headline: AI data centers could be ‘distorting’ the US power grid
-Description: <p>The proliferation of data centers aiming to meet the computational needs of AI could be bad news for the U.S. power grid, according to a new report in Bloomberg. Using the 1 million residential sen...
-Link: https://techcrunch.com/2024/12/29/ai-data-centers-could-be-distorting-the-us-power-grid/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -45,7 +35,7 @@ Headline: Here’s a new way to lose an argument online: the appeal to AI
 Description: <figure>
       <img alt="3D illustration of the Chat GPT logo on a magic 8 ball." src="https://cdn.vox-cdn.com/thumbor/Tft1pnesH-JF0RGyPBVIyxUZKGg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/choru...
 Link: https://www.theverge.com/2024/12/23/24326077/i-asked-chatgpt
-Headline: Here’s the first CoPilot plus mini PC with Intel’s new Core Ultra 9 processors
+Headline: Here’s the first Copilot Plus mini PC with Intel’s new Core Ultra 9 processors
 Description: <figure>
       <img alt="Picture of the Asus NUC 14 Pro AI" src="https://cdn.vox-cdn.com/thumbor/msb0FCRXQhc3sGr41-Sw2Wk37w0=/0x111:2395x1708/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738013...
 Link: https://www.theverge.com/2024/12/21/24326557/asus-copilot-plus-nuc-mini-pc-intel-core-ultra-series-2-processor
@@ -65,6 +55,12 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: How AI Is Helping Us Do Better—for the Planet and for Each Other
+Description: Artificial intelligence and accelerated computing are being used to help solve the world’s greatest challenges. NVIDIA has reinvented the computing stack — spanning GPUs, CPUs, DPUs, networking and so...
+Link: https://blogs.nvidia.com/blog/ai-social-impact-2024/
+Headline: GeForce NOW Rings in the New Year With 14 New Games
+Description: GeForce NOW is kicking off 2025 by delivering 14 games to the cloud this month, with two available to stream this week so members can get started on their New Year’s gaming resolutions. This year’s CE...
+Link: https://blogs.nvidia.com/blog/geforce-now-thursday-january-2025/
 Headline: Research Galore From 2024: Recapping AI Advancements in 3D Simulation, Climate Science and Audio Engineering
 Description: The pace of technology innovation has accelerated in the past year, most dramatically in AI. And in 2024, there was no better place to be a part of creating those breakthroughs than NVIDIA Research. N...
 Link: https://blogs.nvidia.com/blog/ai-research-2024/
@@ -83,9 +79,6 @@ Link: https://blogs.nvidia.com/blog/how-to-build-smarter-ai-agents/
 Headline: AI at Your Service: Digital Avatars With Speech Capabilities Offer Interactive Customer Experiences
 Description: To enhance productivity and upskill workers, organizations worldwide are seeking ways to provide consistent, around-the-clock customer service with greater speed, accuracy and scale.
 Link: https://blogs.nvidia.com/blog/digital-avatars-interactive-customer-experiences/
-Headline: AI in Your Own Words: NVIDIA Debuts NeMo Retriever Microservices for Multilingual Generative AI Fueled by Data
-Description: In enterprise AI, understanding and working across multiple languages is no longer optional — it’s essential for meeting the needs of employees, customers and users worldwide. Multilingual information...
-Link: https://blogs.nvidia.com/blog/nemo-retriever-nim/
 
 ---
 
@@ -94,6 +87,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Rethinking video surveillance: The case for smarter, more flexible solutions
+Description: <p>Video surveillance has come a long way from simple CCTV setups. Today&#8217;s businesses demand more – smarter analytics, enhanced security, and seamless scalability. As organisations adopt AI and ...
+Link: https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions
 Headline: OpenAI funds $1 million study on AI and morality at Duke University
 Description: <p>OpenAI is awarding a $1 million grant to a Duke University research team to look at how AI could predict human moral judgments. The initiative highlights the growing focus on the intersection of te...
 Link: https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/?utm_source=rss&utm_medium=rss&utm_campaign=openai-funds-1-million-study-on-ai-and-morality-at-duke-university
@@ -121,9 +117,6 @@ Link: https://www.artificialintelligence-news.com/news/amazon-stakes-4bn-more-in
 Headline: CrowdStrike: Cybersecurity pros want safer, specialist GenAI tools
 Description: <p>CrowdStrike commissioned a survey of 1,022 cybersecurity professionals worldwide to assess their views on generative AI (GenAI) adoption and its implications. The findings reveal enthusiasm for Gen...
 Link: https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=crowdstrike-cybersecurity-pros-safer-specialist-genai-tools
-Headline: NJ cops demand protections against data brokers
-Description: <p>Privacy laws in the United States are a patchwork at best. More often than not, they miss the mark, leaving most people with little actual privacy. When such laws are enacted, they can seem tailore...
-Link: https://www.artificialintelligence-news.com/news/nj-cops-demand-protections-against-data-brokers/?utm_source=rss&utm_medium=rss&utm_campaign=nj-cops-demand-protections-against-data-brokers
 
 ---
 
@@ -230,6 +223,12 @@ Link: https://venturebeat.com/ai/ces-2025-tips-and-tricks-a-guide-to-techs-bigge
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: How I easily added AI to my favorite Microsoft Office alternative
+Description: If you're a fan of OnlyOffice Desktop Editors and AI, you'll be thrilled to know those two things have come together to make your life a bit easier. Here's how I did it in four easy steps.
+Link: https://www.zdnet.com/article/how-i-easily-added-ai-to-my-favorite-microsoft-office-alternative/
+Headline: Where AI educators are replacing teachers - and how that'll work
+Description: Unbound Academy is introducing a virtual school-without-teacher model. A handful of human 'guides' are standing by just in case.
+Link: https://www.zdnet.com/article/where-ai-educators-are-replacing-teachers-and-how-thatll-work/
 Headline: The upcoming Samsung Galaxy S25 phones may come with this major AI upgrade for free
 Description: A new leak reveals Google will offer a $200+ bonus to customers who purchase a new Samsung phone.
 Link: https://www.zdnet.com/article/the-upcoming-samsung-galaxy-s25-phones-may-come-with-this-major-ai-upgrade-for-free/
@@ -239,15 +238,6 @@ Link: https://www.zdnet.com/article/lg-announces-new-lineup-of-hybrid-ai-gram-la
 Headline: AI agents might be the new workforce, but they still need a manager
 Description: AI agents keep getting smarter and more independent. But there is still work to be done before an agentic AI-driven workforce can truly assume a broad range of tasks.
 Link: https://www.zdnet.com/article/ai-agents-might-be-the-new-workforce-but-they-still-need-a-manager/
-Headline: AI data centers are becoming 'mind-blowingly large'
-Description: Clusters of GPU chips in coming years will have to connect over distances longer than a mile, says the CEO of this fiber-optics firm.
-Link: https://www.zdnet.com/article/ai-data-centers-are-becoming-mind-blowingly-large/
-Headline: OpenAI's o3 isn't AGI yet but it just did something no other AI has done
-Description: The new AI model 'is doing something completely different from the GPT series.'
-Link: https://www.zdnet.com/article/openais-o3-isnt-agi-yet-but-it-just-did-something-no-other-ai-has-done/
-Headline: AI isn't the next big thing - here's what is
-Description: Here's what you should be focusing on instead.
-Link: https://www.zdnet.com/article/ai-isnt-the-next-big-thing-heres-what-is/
 
 ---
 
@@ -332,6 +322,15 @@ Link: https://www.sciencedaily.com/releases/2024/12/241209123230.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Crystal-based cooling could make fridges more sustainable
+Description: A new type of crystal that absorbs heat when released from extreme pressure could lead to climate-friendly refrigerators and air conditioners
+Link: https://www.newscientist.com/article/2462370-crystal-based-cooling-could-make-fridges-more-sustainable/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Delicate robot hands know just how hard to squeeze
+Description: A robotic hand uses fingertip sensors and AI to determine how firmly to grip before closing in on an object, overcoming a persistent problem for prosthetics
+Link: https://www.newscientist.com/article/2458259-delicate-robot-hands-know-just-how-hard-to-squeeze/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: AI chatbots fail to diagnose patients by talking with them
+Description: Although popular AI models score highly on medical exams, their accuracy drops significantly when making a diagnosis based on a conversation with a simulated patient
+Link: https://www.newscientist.com/article/2462356-ai-chatbots-fail-to-diagnose-patients-by-talking-with-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Flying electric taxis look set to finally take off in 2025
 Description: Electric vertical take-off and landing (eVTOL) aircraft are on track to start commercial passenger carrying services in 2025, but can they stand out from conventional helicopters?
 Link: https://www.newscientist.com/article/2459466-flying-electric-taxis-look-set-to-finally-take-off-in-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -353,15 +352,6 @@ Link: https://www.newscientist.com/article/2462259-ai-powered-avatars-can-gestur
 Headline: Supersonic flight will see a dramatic return in 2025 with new aircraft
 Description: Several prototype aircraft that are intended to bring back commercial supersonic travel have been making big strides in recent years – but it is unknown how well the return of Concorde-like flights wi...
 Link: https://www.newscientist.com/article/2451666-supersonic-flight-will-see-a-dramatic-return-in-2025-with-new-aircraft/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Is Google's approach to error-free quantum computers already outdated?
-Description: The coding that forms the basis of Google’s recent breakthrough in error-correcting quantum computers is facing fierce competition
-Link: https://www.newscientist.com/article/2461315-is-googles-approach-to-error-free-quantum-computers-already-outdated/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Should chatbots have rights – and should we care?
-Description: Some prominent researchers argue that we should pay heed to the welfare of AIs. Are they right, wonders Alex Wilkins
-Link: https://www.newscientist.com/article/mg26435233-300-should-chatbots-have-rights-and-should-we-care/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: OpenAI's o3 model aced a test of AI reasoning – but it's still not AGI
-Description: The latest AI model from OpenAI achieved an “impressive leap in performance” but it still hasn’t demonstrated what experts classify as human-level intelligence
-Link: https://www.newscientist.com/article/2462000-openais-o3-model-aced-a-test-of-ai-reasoning-but-its-still-not-agi/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -374,15 +364,6 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Silicone Photonics breakthrough by TSMC could help AI
-Description: <!-- SC_OFF --><div class="md"><p>Silicone Photonics - The next chapter of AI computing? </p> <p>TSMC has achieved a milestone in silicon photonics, integrating co-packaged optics (CPO) with advanced ...
-Link: https://www.reddit.com/r/artificial/comments/1hr2800/silicone_photonics_breakthrough_by_tsmc_could/
-Headline: AI specialists/data analysts/ML engineers, what is the most rewarding thing about your job?
-Description: <!-- SC_OFF --><div class="md"><p>Most web articles I read mentioned a lot about a good paycheck, but I think that depends on where you work at. Is there more than just money?</p> </div><!-- SC_ON -->...
-Link: https://www.reddit.com/r/artificial/comments/1hr4gw2/ai_specialistsdata_analystsml_engineers_what_is/
-Headline: One-Minute Daily AI News 12/31/2024
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Will Smith eating spaghetti and other weird AI benchmarks that took off in 2024.[1]</li> <li>Introducing smolagents, a simple library to build agents.[2]</li> <...
-Link: https://www.reddit.com/r/artificial/comments/1hqwd5z/oneminute_daily_ai_news_12312024/
 
 ---
 
