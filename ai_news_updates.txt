@@ -1,24 +1,39 @@
-AI News Updates - 2025-01-03 02:50:00
+AI News Updates - 2025-01-04 02:47:10
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
+Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with...
+Link: https://techcrunch.com/2025/01/03/chatgpt-everything-to-know-about-the-ai-chatbot/
+Headline: Generative AI funding reached new heights in 2024
+Description: <p>If there was any doubt, the generative AI bubble did not burst in 2024. Investments in generative AI, which encompasses a range of AI-powered apps, tools, and services to generate text, images, vid...
+Link: https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/
+Headline: Microsoft to spend $80 billion in FY’25 on data centers for AI
+Description: <p>Microsoft has earmarked $80 billion in fiscal 2025 to build data centers designed to handle artificial intelligence workloads, according to a company blog post. Specifically, the tech giant plans t...
+Link: https://techcrunch.com/2025/01/03/microsoft-to-spend-80-billion-in-fy25-on-data-centers-for-ai/
+Headline: FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising
+Description: <p>The U.S. Federal Trade Commission has fined accessiBe, a startup that claims to make websites more compatible with the screen readers blind people rely on to access the internet, for false advertis...
+Link: https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/
 Headline: xAI’s next-gen AI model didn’t arrive on time, adding to a trend
 Description: <p>The list of flagship AI models that missed their promised launch windows continues to grow. Last summer, billionaire Elon Musk, the founder and CEO of AI company xAI, said that Grok 3, xAI&#8217;s ...
 Link: https://techcrunch.com/2025/01/02/xais-next-gen-grok-model-didnt-arrive-on-time-adding-to-a-trend/
 Headline: Apheris rethinks the AI data bottleneck in life science with federated computing
 Description: <p>AI is fundamentally dependent on data, but the vast majority of health data goes unused for understandable reasons — chiefly patient privacy, regulation, and IP protection. “This is the core underl...
 Link: https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/
-Headline: OpenAI failed to deliver the opt-out tool it promised by 2025
-Description: <p>Back in May, OpenAI said it was developing a tool to let creators specify how they want their works to be included in — or excluded from — its AI training data. But seven months later, this feature...
-Link: https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/
 Headline: Silicon Valley stifled the AI doom movement in 2024
 Description: <p>For several years now, technologists have rung alarm bells about the potential for advanced AI systems to cause catastrophic damage to the human race. But in 2024, those warning calls were drowned ...
 Link: https://techcrunch.com/2025/01/01/2024-the-year-silicon-valley-stifled-the-ai-doom-movement/
-Headline: Will Smith eating spaghetti and other weird AI benchmarks that took off in 2024
-Description: <p>When a company releases a new AI video generator, it&#8217;s not long before someone uses it to make a video of actor Will Smith eating spaghetti. It&#8217;s become something of a meme as well as a...
-Link: https://techcrunch.com/2024/12/31/will-smith-eating-spaghetti-and-other-weird-ai-benchmarks-that-took-off-in-2024/
+
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Meta’s AI-generated bot profiles are not being received well
+Description: <figure>
+      <img alt="Photo illustration of a helpful chatbot." src="https://cdn.vox-cdn.com/thumbor/Zw3rhSM7R3D94owILOs5MHJmny8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
+Link: https://www.theverge.com/2025/1/3/24334946/meta-ai-profiles-instagram-facebook-bots
+Headline: Anthropic reaches deal with music publishers over lyric dispute
+Description: <figure>
+      <img alt="An image showing a slightly off-kilter grid of happy-looking robot faces with speech bubbles containing music notes." src="https://cdn.vox-cdn.com/thumbor/_Vx--hdWqSfDP05o-O4M...
+Link: https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal
 Headline: OpenAI announces plan to transform into a for-profit company
 Description: <figure>
       <img alt="Vector illustration of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/vHK2RqySNwYO-4Sh_usC9FrjkMI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/...
@@ -39,14 +54,6 @@ Headline: Here’s the first Copilot Plus mini PC with Intel’s new Core Ultra 
 Description: <figure>
       <img alt="Picture of the Asus NUC 14 Pro AI" src="https://cdn.vox-cdn.com/thumbor/msb0FCRXQhc3sGr41-Sw2Wk37w0=/0x111:2395x1708/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738013...
 Link: https://www.theverge.com/2024/12/21/24326557/asus-copilot-plus-nuc-mini-pc-intel-core-ultra-series-2-processor
-Headline: TCL’s new AI short films range from bad comedy to existential horror
-Description: <figure>
-      <img alt="A screenshot from TCL’s The Audition" src="https://cdn.vox-cdn.com/thumbor/WnjLDK4d6KqQ-XP3YhCL7H5X0I4=/214x0:2458x1496/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738...
-Link: https://www.theverge.com/2024/12/21/24319502/tcl-new-ai-films-bad-comedy-existential-horror-ranked
-Headline: The AI talent wars are just getting started
-Description: <figure>
-      <img alt="A photo of Naveen Rao." src="https://cdn.vox-cdn.com/thumbor/DGMZyIspr-y9bHuMQ0Agc2aWS5o=/0x0:2250x1500/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73799966/Raveen_Rao...
-Link: https://www.theverge.com/2024/12/20/24326135/ai-talent-wars-databricks-interview
 
 ---
 
@@ -125,6 +132,18 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: Small language models: 10 Breakthrough Technologies 2025
+Description: WHO Allen Institute for Artificial Intelligence, Anthropic, Google, Meta, Microsoft, OpenAI WHEN Now Make no mistake: Size matters in the AI world. When OpenAI launched GPT-3 back in 2020, it was the ...
+Link: https://www.technologyreview.com/2025/01/03/1108800/small-language-models-ai-breakthrough-technologies-2025/
+Headline: Generative AI search: 10 Breakthrough Technologies 2025
+Description: WHO Apple, Google, Meta, Microsoft, OpenAI, Perplexity WHEN Now Google’s introduction of AI Overviews, powered by its Gemini language model, will alter how billions of people search the internet. And ...
+Link: https://www.technologyreview.com/2025/01/03/1108820/generative-ai-search-apple-google-microsoft-breakthrough-technologies-2025/
+Headline: Fast-learning robots: 10 Breakthrough Technologies 2025
+Description: WHO Agility, Amazon, Covariant, Robust, Toyota Research Institute WHEN Now Generative AI is causing a paradigm shift in how robots are trained. It’s now clear how we might finally build the sort of tr...
+Link: https://www.technologyreview.com/2025/01/03/1108937/fast-learning-robots-generative-ai-breakthrough-technologies-2025/
+Headline: Robotaxis: 10 Breakthrough Technologies 2025
+Description: WHO Baidu, Pony AI, Waymo, Wayve, Zoox WHEN Now If you live in certain cities in America or China, you’ve probably spotted driverless cars dropping off passengers. Perhaps you’ve even ridden in one yo...
+Link: https://www.technologyreview.com/2025/01/03/1108950/robotaxis-driverless-cars-breakthrough-technologies-2025/
 Headline: The biggest AI flops of 2024
 Description: The past 12 months have been undeniably busy for those working in AI. There have been more successful product launches than we can count, and even Nobel Prizes. But it hasn’t always been smooth sailin...
 Link: https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/
@@ -143,18 +162,6 @@ Link: https://www.technologyreview.com/2024/12/19/1109043/accelerating-ai-innova
 Headline: This is where the data to build AI comes from
 Description: AI is all about data. Reams and reams of data are needed to train algorithms to do what we want, and what goes into the AI models determines what comes out. But here’s the problem: AI developers and r...
 Link: https://www.technologyreview.com/2024/12/18/1108796/this-is-where-the-data-to-build-ai-comes-from/
-Headline: AI is changing how we study bird migration
-Description: A small songbird soars above Ithaca, New York, on a September night. He is one of 4 billion birds, a great annual river of feathered migration across North America. Midair, he lets out what ornitholog...
-Link: https://www.technologyreview.com/2024/12/18/1108423/bird-migration-ai-machine-learning-ecology-research/
-Headline: AI’s search for more energy is growing more urgent
-Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. If you drove by one of the 2,990 data centers in the United St...
-Link: https://www.technologyreview.com/2024/12/17/1108894/ais-search-for-more-energy-is-growing-more-urgent/
-Headline: AI’s emissions are about to skyrocket even further
-Description: It’s no secret that the current AI boom is using up immense amounts of energy. Now we have a better idea of how much.&#160; A new paper, from teams at the Harvard T.H. Chan School of Public Health and...
-Link: https://www.technologyreview.com/2024/12/13/1108719/ais-emissions-are-about-to-skyrocket-even-further/
-Headline: Google’s new Project Astra could be generative AI’s killer app
-Description: Google DeepMind has announced an impressive grab bag of new products and prototypes that may just let it seize back its lead in the race to turn generative artificial intelligence into a mass-market c...
-Link: https://www.technologyreview.com/2024/12/11/1108493/googles-new-project-astra-could-be-generative-ais-killer-app/
 
 ---
 
@@ -189,6 +196,18 @@ Link: https://aws.amazon.com/blogs/machine-learning/simplify-multimodal-generati
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: How to map OpenAI’s ChatGPT Advanced Voice Mode to your iPhone action button
+Description: Mapping ChatGPT Advanced Voice Mode to the new physical Action Button on the side of newer iPhones, just above the volume up and down.
+Link: https://venturebeat.com/ai/how-to-map-openais-chatgpt-advanced-voice-mode-to-your-iphone-action-button/
+Headline: CES 2025 preview: What to expect at tech’s biggest show | The DeanBeat
+Description: Next week at the CES 2025 trade show in Las Vegas, we'll once again be able to see and hear about the latest tech trends in person.
+Link: https://venturebeat.com/ai/ces-2025-preview-what-to-expect-at-techs-biggest-show-the-deanbeat/
+Headline: How Meta’s latest research proves you can use generative AI to understand user intent
+Description: By thinking about recommendation as a generative problem, you can tackle it from new angles and use LLMs to better understand user intent.
+Link: https://venturebeat.com/ai/how-meta-leverages-generative-ai-to-understand-user-intent/
+Headline: Swave Photonics raises $28.3M for 3D holographic smartglasses and displays
+Description: Swave Photonics, a holographic display company, has raised $28.27 million in funding as it prepares components for AI-powered smart glasses.
+Link: https://venturebeat.com/ai/swave-photonics-raises-28-3m-for-3d-holographic-smartglasses-and-displays/
 Headline: Inside the AI agent revolution: How data-driven automation transformed the enterprise in 2024
 Description: In a recent survey, 82% of tech executives said they intend to integrate AI agents across their stacks within the next three years.
 Link: https://venturebeat.com/data-infrastructure/unlocking-value-from-data-how-ai-agents-conquered-2024/
@@ -207,38 +226,28 @@ Link: https://venturebeat.com/ai/nvidia-acquires-software-maker-runai-to-orchest
 Headline: Despite intense AI arms race, we’re in for a multi-model future
 Description: There will be no single model that will rule the universe, neither next year nor next decade. Instead, the future of AI will be multi-model.
 Link: https://venturebeat.com/ai/despite-heated-ai-arms-race-were-in-for-a-multi-modal-future/
-Headline: Five breakthroughs that make OpenAI’s o3 a turning point for AI — and one big challenge
-Description: OpenAI’s o3 tackles specific hurdles in reasoning and adaptability that have long stymied large language models. At the same time, it exposes challenges, including the high costs and efficiency bottle...
-Link: https://venturebeat.com/ai/five-breakthroughs-that-make-openais-o3-a-turning-point-for-ai-and-one-big-challenge/
-Headline: How advanced foundation models will expand what AI can do (and other predictions for 2025)
-Description: Foundation models will be brand DNA, hands-free will be redefined and we'll hit the AI trust tipping point (among other developments).
-Link: https://venturebeat.com/ai/how-advanced-foundation-models-will-expand-what-ai-can-do-and-other-predictions-for-2025/
-Headline: Test-driving Google’s Gemini-Exp-1206 model: Competitive data analysis and sophisticated visualizations in under a minute
-Description: Showing speed and precision, one of Google’s latest experimental models, Exp-1206, shows potential to alleviate one of the most grueling aspects of any analyst’s job.
-Link: https://venturebeat.com/ai/driving-next-level-analyst-efficiency-with-googles-exp-1206-model/
-Headline: CES 2025 tips and tricks: A guide to tech’s biggest trade show
-Description: CES 2025 is coming to Las Vegas during the week of January 5, and it will be one of the biggest tech expos in the world again.
-Link: https://venturebeat.com/ai/ces-2025-tips-and-tricks-a-guide-to-techs-biggest-trade-show/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: How I easily added AI to my favorite Microsoft Office alternative
-Description: If you're a fan of OnlyOffice Desktop Editors and AI, you'll be thrilled to know those two things have come together to make your life a bit easier. Here's how I did it in four easy steps.
-Link: https://www.zdnet.com/article/how-i-easily-added-ai-to-my-favorite-microsoft-office-alternative/
-Headline: Where AI educators are replacing teachers - and how that'll work
-Description: Unbound Academy is introducing a virtual school-without-teacher model. A handful of human 'guides' are standing by just in case.
-Link: https://www.zdnet.com/article/where-ai-educators-are-replacing-teachers-and-how-thatll-work/
-Headline: The upcoming Samsung Galaxy S25 phones may come with this major AI upgrade for free
-Description: A new leak reveals Google will offer a $200+ bonus to customers who purchase a new Samsung phone.
-Link: https://www.zdnet.com/article/the-upcoming-samsung-galaxy-s25-phones-may-come-with-this-major-ai-upgrade-for-free/
-Headline: LG announced its new lineup of 'Hybrid AI' Gram laptops, and they're thinner than ever
-Description: LG's 2025 Gram Pro laptops include the company's first-ever Copilot+ PC, armed with the 'Lunar Lake' Intel Core Ultra processor.
-Link: https://www.zdnet.com/article/lg-announces-new-lineup-of-hybrid-ai-gram-laptops/
-Headline: AI agents might be the new workforce, but they still need a manager
-Description: AI agents keep getting smarter and more independent. But there is still work to be done before an agentic AI-driven workforce can truly assume a broad range of tasks.
-Link: https://www.zdnet.com/article/ai-agents-might-be-the-new-workforce-but-they-still-need-a-manager/
-
+Headline: LG's new Gram Pro laptops compete with MacBook Air with thinner-than-ever designs
+Description: LG's 2025 Gram Pro laptops feature the company's first-ever Copilot+ PC, armed with the 'Lunar Lake' Intel Core Ultra processor.
+Link: https://www.zdnet.com/article/lgs-new-gram-pro-laptops-compete-with-macbook-air-with-thinner-than-ever-designs/
+Headline: Samsung's smart fridges can soon add items to your Instacart order
+Description: Samsung teams up with Instacart to let you place a grocery order directly from your AI-enabled refrigerator's screen.
+Link: https://www.zdnet.com/article/samsungs-smart-fridges-can-soon-add-items-to-your-instacart-order/
+Headline: Could AI make you a billionaire in 2025?
+Description: Sam Altman recently said we could soon see a one-person billion-dollar company. I did some research, and what I found might surprise you.
+Link: https://www.zdnet.com/article/could-ai-make-you-a-billionaire/
+Headline: How IBM's blueprint for industry transformation leverages AI, 5G, and collaboration
+Description: In this exclusive talk with a senior IBM executive, learn about how AI, 5G, and groundbreaking partnerships are reshaping global industries.
+Link: https://www.zdnet.com/article/how-ibms-blueprint-for-industry-transformation-leverages-ai-5g-and-collaboration/
+Headline: Siri's secret recordings lead to a $95 million settlement. Could you get a share?
+Description: The class action privacy suit contends that Siri recorded and shared Apple users' conversations. Apple isn't the only tech giant in the crosshairs of such legal action.
+Link: https://www.zdnet.com/article/siris-secret-recordings-lead-to-a-95-million-settlement-could-you-get-a-share/
+Headline: How to program your iPhone's Action Button to summon ChatGPT's voice assistant
+Description: Unlike Siri, OpenAI Advanced Voice uses your phone's camera to understand your surroundings. If you have one of these iPhone models, here's how to get started.
+Link: https://www.zdnet.com/article/how-to-program-your-iphones-action-button-to-summon-chatgpts-voice-assistant/
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -288,6 +297,9 @@ Link: https://www.aisnakeoil.com/p/ai-scaling-myths
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Artificial intelligence: Algorithms improve medical image analysis
+Description: Artificial intelligence has the potential to improve the analysis of medical image data. For example, algorithms based on deep learning can determine the location and size of tumors. This is the resul...
+Link: https://www.sciencedaily.com/releases/2025/01/250102162630.htm
 Headline: Crossing the Uncanny Valley: Breakthrough in technology for lifelike facial expressions in androids
 Description: Even highly realistic androids can cause unease when their facial expressions lack emotional consistency. Traditionally, a 'patchwork method' has been used for facial movements, but it comes with prac...
 Link: https://www.sciencedaily.com/releases/2024/12/241223135211.htm
@@ -315,13 +327,13 @@ Link: https://www.sciencedaily.com/releases/2024/12/241210115425.htm
 Headline: Scientists create AI that 'watches' videos by mimicking the brain
 Description: Imagine an artificial intelligence (AI) model that can watch and understand moving images with the subtlety of a human brain. Now, scientists have made this a reality by creating MovieNet: an innovati...
 Link: https://www.sciencedaily.com/releases/2024/12/241209163200.htm
-Headline: Black-box forgetting: A new method for tailoring large AI models
-Description: Pretrained large-scale AI models need to 'forget' specific information for privacy and computational efficiency, but no methods exist for doing so in black-box vision-language models, where internal d...
-Link: https://www.sciencedaily.com/releases/2024/12/241209123230.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Glowing biological quantum sensor could track how cells form
+Description: A quantum sensor based on a protein from bioluminescent jellyfish can be made by the body itself and it may be able to help us track how cells form or detect disease at an early stage
+Link: https://www.newscientist.com/article/2461697-glowing-biological-quantum-sensor-could-track-how-cells-form/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Crystal-based cooling could make fridges more sustainable
 Description: A new type of crystal that absorbs heat when released from extreme pressure could lead to climate-friendly refrigerators and air conditioners
 Link: https://www.newscientist.com/article/2462370-crystal-based-cooling-could-make-fridges-more-sustainable/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -349,9 +361,6 @@ Link: https://www.newscientist.com/video/2460158-2024-review-the-best-new-robots
 Headline: AI-powered avatars can gesture naturally as they speak
 Description: An AI model that understands the interplay between human body language, speech and emotion enables digital avatars to move more realistically when speaking
 Link: https://www.newscientist.com/article/2462259-ai-powered-avatars-can-gesture-naturally-as-they-speak/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Supersonic flight will see a dramatic return in 2025 with new aircraft
-Description: Several prototype aircraft that are intended to bring back commercial supersonic travel have been making big strides in recent years – but it is unknown how well the return of Concorde-like flights wi...
-Link: https://www.newscientist.com/article/2451666-supersonic-flight-will-see-a-dramatic-return-in-2025-with-new-aircraft/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -364,6 +373,33 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
+Headline: AI Can ‘Hear’ When a Lithium Battery Is About to Catch Fire
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hsvzhg/ai_can_hear_when_a_lithium_battery_is_about_to/"> <img alt="AI Can ‘Hear’ When a Lithium Battery Is About to Catch Fire" ...
+Link: https://www.reddit.com/r/artificial/comments/1hsvzhg/ai_can_hear_when_a_lithium_battery_is_about_to/
+Headline: People is going to need to be more wary of AI interactions now
+Description: <!-- SC_OFF --><div class="md"><p>This is not something many people talk about when it comes to AI. With agents now booming, it will be even more easier to make a bot to interact in the comments on Yo...
+Link: https://www.reddit.com/r/artificial/comments/1hsbk7a/people_is_going_to_need_to_be_more_wary_of_ai/
+Headline: Microsoft plans to invest $80 billion on AI-enabled data centers in fiscal 2025
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ht1fnt/microsoft_plans_to_invest_80_billion_on_aienabled/"> <img alt="Microsoft plans to invest $80 billion on AI-enabled data c...
+Link: https://www.reddit.com/r/artificial/comments/1ht1fnt/microsoft_plans_to_invest_80_billion_on_aienabled/
+Headline: One-Minute Daily AI News 1/2/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Elon Musk’s <strong>Grok</strong> AI can now decode images: From analysing medical tests to video games.[1]</li> <li><strong>Samsung</strong> Electronics to unv...
+Link: https://www.reddit.com/r/artificial/comments/1hsezaw/oneminute_daily_ai_news_122025/
+Headline: How I use HeyGen to create my virtual clone that speaks any language
+Description: <!-- SC_OFF --><div class="md"><p>Hi everyone, I hope you are all well. Over the last few months I have been researching some AI solutions to create a digital clone capable of speaking multiple langua...
+Link: https://www.reddit.com/r/artificial/comments/1ht2crk/how_i_use_heygen_to_create_my_virtual_clone_that/
+Headline: Redefining Intelligence: Exploring Dynamic Relationships as the Core of AI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ht3emk/redefining_intelligence_exploring_dynamic/"> <img alt="Redefining Intelligence: Exploring Dynamic Relationships as the Co...
+Link: https://www.reddit.com/r/artificial/comments/1ht3emk/redefining_intelligence_exploring_dynamic/
+Headline: One-Minute Daily AI News 1/3/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Resource-efficient photonic networks for next-generation AI computing.[1]</li> <li><strong>Microsoft</strong> offers incoming Trump administration suggestions o...
+Link: https://www.reddit.com/r/artificial/comments/1ht324r/oneminute_daily_ai_news_132025/
+Headline: Turn family photo into simpsons style?
+Description: <!-- SC_OFF --><div class="md"><p>I have 3 diff photos , would it be possible to ask AI or how do i merge the people from 3 different photos into 1 family portrait in simpsons style cartoon?</p> </div...
+Link: https://www.reddit.com/r/artificial/comments/1hss0o3/turn_family_photo_into_simpsons_style/
+Headline: Block character.ai and other pretend character chats on network?
+Description: <!-- SC_OFF --><div class="md"><p>I want to block all traffic on my network to sites like Character.ai and Chai. I'm already blocking the character.ai domain in my router (through the hosts file so it...
+Link: https://www.reddit.com/r/artificial/comments/1hsmlkn/block_characterai_and_other_pretend_character/
 
 ---
 
