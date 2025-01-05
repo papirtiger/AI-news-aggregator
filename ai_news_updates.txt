@@ -1,4 +1,4 @@
-AI News Updates - 2025-01-04 02:47:10
+AI News Updates - 2025-01-05 02:54:56
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
 Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
@@ -196,6 +196,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/simplify-multimodal-generati
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Phantom data centers: What they are (or aren’t) and why they’re hampering the true promise of AI
+Description: So-called fake data centers are a bottleneck to scaling infrastructure to keep up with compute demand for AI and other critical workloads.
+Link: https://venturebeat.com/data-infrastructure/phantom-data-centers-what-they-are-or-arent-and-why-theyre-hampering-the-true-promise-of-ai/
 Headline: How to map OpenAI’s ChatGPT Advanced Voice Mode to your iPhone action button
 Description: Mapping ChatGPT Advanced Voice Mode to the new physical Action Button on the side of newer iPhones, just above the volume up and down.
 Link: https://venturebeat.com/ai/how-to-map-openais-chatgpt-advanced-voice-mode-to-your-iphone-action-button/
@@ -220,12 +223,6 @@ Link: https://venturebeat.com/ai/forrester-cybersecurity-budgeting-2025-ciso-fis
 Headline: Why 2025 will be the year of AI orchestration
 Description: For many, 2025 will be the year of AI agents, when pilot programs, experiments and use cases converge into something resembling ROI.
 Link: https://venturebeat.com/ai/three-ways-2025-will-be-the-year-of-agentic-productivity/
-Headline: Nvidia to open-source Run:ai, the software it acquired for $700M to help companies manage GPUs for AI
-Description: Nvidia has completed its acquisition of Run:ai, a software company that makes it easier for customers to orchestrate GPU clouds for AI.
-Link: https://venturebeat.com/ai/nvidia-acquires-software-maker-runai-to-orchestrate-gpu-clouds-for-ai/
-Headline: Despite intense AI arms race, we’re in for a multi-model future
-Description: There will be no single model that will rule the universe, neither next year nor next decade. Instead, the future of AI will be multi-model.
-Link: https://venturebeat.com/ai/despite-heated-ai-arms-race-were-in-for-a-multi-modal-future/
 
 ---
 
@@ -373,33 +370,15 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: AI Can ‘Hear’ When a Lithium Battery Is About to Catch Fire
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hsvzhg/ai_can_hear_when_a_lithium_battery_is_about_to/"> <img alt="AI Can ‘Hear’ When a Lithium Battery Is About to Catch Fire" ...
-Link: https://www.reddit.com/r/artificial/comments/1hsvzhg/ai_can_hear_when_a_lithium_battery_is_about_to/
-Headline: People is going to need to be more wary of AI interactions now
-Description: <!-- SC_OFF --><div class="md"><p>This is not something many people talk about when it comes to AI. With agents now booming, it will be even more easier to make a bot to interact in the comments on Yo...
-Link: https://www.reddit.com/r/artificial/comments/1hsbk7a/people_is_going_to_need_to_be_more_wary_of_ai/
-Headline: Microsoft plans to invest $80 billion on AI-enabled data centers in fiscal 2025
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ht1fnt/microsoft_plans_to_invest_80_billion_on_aienabled/"> <img alt="Microsoft plans to invest $80 billion on AI-enabled data c...
-Link: https://www.reddit.com/r/artificial/comments/1ht1fnt/microsoft_plans_to_invest_80_billion_on_aienabled/
-Headline: One-Minute Daily AI News 1/2/2025
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Elon Musk’s <strong>Grok</strong> AI can now decode images: From analysing medical tests to video games.[1]</li> <li><strong>Samsung</strong> Electronics to unv...
-Link: https://www.reddit.com/r/artificial/comments/1hsezaw/oneminute_daily_ai_news_122025/
-Headline: How I use HeyGen to create my virtual clone that speaks any language
-Description: <!-- SC_OFF --><div class="md"><p>Hi everyone, I hope you are all well. Over the last few months I have been researching some AI solutions to create a digital clone capable of speaking multiple langua...
-Link: https://www.reddit.com/r/artificial/comments/1ht2crk/how_i_use_heygen_to_create_my_virtual_clone_that/
-Headline: Redefining Intelligence: Exploring Dynamic Relationships as the Core of AI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ht3emk/redefining_intelligence_exploring_dynamic/"> <img alt="Redefining Intelligence: Exploring Dynamic Relationships as the Co...
-Link: https://www.reddit.com/r/artificial/comments/1ht3emk/redefining_intelligence_exploring_dynamic/
-Headline: One-Minute Daily AI News 1/3/2025
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Resource-efficient photonic networks for next-generation AI computing.[1]</li> <li><strong>Microsoft</strong> offers incoming Trump administration suggestions o...
-Link: https://www.reddit.com/r/artificial/comments/1ht324r/oneminute_daily_ai_news_132025/
-Headline: Turn family photo into simpsons style?
-Description: <!-- SC_OFF --><div class="md"><p>I have 3 diff photos , would it be possible to ask AI or how do i merge the people from 3 different photos into 1 family portrait in simpsons style cartoon?</p> </div...
-Link: https://www.reddit.com/r/artificial/comments/1hss0o3/turn_family_photo_into_simpsons_style/
-Headline: Block character.ai and other pretend character chats on network?
-Description: <!-- SC_OFF --><div class="md"><p>I want to block all traffic on my network to sites like Character.ai and Chai. I'm already blocking the character.ai domain in my router (through the hosts file so it...
-Link: https://www.reddit.com/r/artificial/comments/1hsmlkn/block_characterai_and_other_pretend_character/
+Headline: OpenAI ppl are feeling the ASI today
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1htt32u/openai_ppl_are_feeling_the_asi_today/"> <img alt="OpenAI ppl are feeling the ASI today" src="https://preview.redd.it/xrcb...
+Link: https://www.reddit.com/r/artificial/comments/1htt32u/openai_ppl_are_feeling_the_asi_today/
+Headline: One-Minute Daily AI News 1/4/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li>AI Bot Wows The Crowds With Unprecedented Stock Earnings.[1]</li> <li><strong>OpenAI</strong> Blames Cloud Provider For ChatGPT Outage.[2]</li> <li>AI Fact-Chec...
+Link: https://www.reddit.com/r/artificial/comments/1htuhjv/oneminute_daily_ai_news_142025/
+Headline: Some interesting questions to ask AI:
+Description: <!-- SC_OFF --><div class="md"><p>Some interesting questions to ask AI: (This works better asking one question at a time.) </p> <p>Does this term and definition apply to your program? </p> <p>Entity P...
+Link: https://www.reddit.com/r/artificial/comments/1htlsya/some_interesting_questions_to_ask_ai/
 
 ---
 
