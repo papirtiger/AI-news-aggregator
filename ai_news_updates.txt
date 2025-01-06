@@ -1,6 +1,18 @@
-AI News Updates - 2025-01-05 02:54:56
+AI News Updates - 2025-01-06 02:54:33
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: OpenAI is beginning to turn its attention to ‘superintelligence’
+Description: <p>In a post on his personal blog, OpenAI CEO Sam Altman said that he believes OpenAI &#8220;know[s] how to build [artificial general intelligence]&#8221; as it has traditionally understood it — and i...
+Link: https://techcrunch.com/2025/01/05/openai-is-beginning-to-turn-its-attention-to-superintelligence/
+Headline: Timekettle’s new earbuds offer real-time translation on calls
+Description: <p>Timekettle unveiled its latest earbuds, the W4 Pro, this week at CES 2025 in Las Vegas. The product aims to up the ante on the startup’s focus by bringing real-time two-way translation to phone and...
+Link: https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/
+Headline: Sam Altman has choice words for the OpenAI board members who fired him
+Description: <p>OpenAI CEO Sam Altman has strong words for the former board members who abruptly fired him late last November. &#8220;[A]ll those people that I feel, like, really f&#8212;ed me and f&#8212;ed the c...
+Link: https://techcrunch.com/2025/01/05/sam-altman-has-choice-words-for-the-openai-board-members-who-fired-him/
+Headline: AMD’s CES 2025 press conference: How to watch
+Description: <p>AMD has its work cut out for it at CES 2025. Competitor Nvidia has been sucking the oxygen out of every room it graces, as the chipmaker remains at the forefront of the AI boom. So, how will AMD co...
+Link: https://techcrunch.com/2025/01/05/amds-ces-2025-press-conference-how-to-watch/
 Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
 Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with...
 Link: https://techcrunch.com/2025/01/03/chatgpt-everything-to-know-about-the-ai-chatbot/
@@ -13,19 +25,13 @@ Link: https://techcrunch.com/2025/01/03/microsoft-to-spend-80-billion-in-fy25-on
 Headline: FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising
 Description: <p>The U.S. Federal Trade Commission has fined accessiBe, a startup that claims to make websites more compatible with the screen readers blind people rely on to access the internet, for false advertis...
 Link: https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/
-Headline: xAI’s next-gen AI model didn’t arrive on time, adding to a trend
-Description: <p>The list of flagship AI models that missed their promised launch windows continues to grow. Last summer, billionaire Elon Musk, the founder and CEO of AI company xAI, said that Grok 3, xAI&#8217;s ...
-Link: https://techcrunch.com/2025/01/02/xais-next-gen-grok-model-didnt-arrive-on-time-adding-to-a-trend/
-Headline: Apheris rethinks the AI data bottleneck in life science with federated computing
-Description: <p>AI is fundamentally dependent on data, but the vast majority of health data goes unused for understandable reasons — chiefly patient privacy, regulation, and IP protection. “This is the core underl...
-Link: https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/
-Headline: Silicon Valley stifled the AI doom movement in 2024
-Description: <p>For several years now, technologists have rung alarm bells about the potential for advanced AI systems to cause catastrophic damage to the human race. But in 2024, those warning calls were drowned ...
-Link: https://techcrunch.com/2025/01/01/2024-the-year-silicon-valley-stifled-the-ai-doom-movement/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: These smart glasses have a tiny little screen hidden in the frame
+Description: <figure>
+      <img alt="The built-in near eye display on the Halliday Glasses." src="https://cdn.vox-cdn.com/thumbor/PtzHTdc8aPylFrS-d859KM3cWCU=/61x0:4000x2626/1310x873/cdn.vox-cdn.com/uploads/choru...
+Link: https://www.theverge.com/2025/1/5/24334030/halliday-smart-glasses-ai-tiny-display-frame-availability-price-ces
 Headline: Meta’s AI-generated bot profiles are not being received well
 Description: <figure>
       <img alt="Photo illustration of a helpful chatbot." src="https://cdn.vox-cdn.com/thumbor/Zw3rhSM7R3D94owILOs5MHJmny8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
@@ -50,11 +56,6 @@ Headline: Here’s a new way to lose an argument online: the appeal to AI
 Description: <figure>
       <img alt="3D illustration of the Chat GPT logo on a magic 8 ball." src="https://cdn.vox-cdn.com/thumbor/Tft1pnesH-JF0RGyPBVIyxUZKGg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/choru...
 Link: https://www.theverge.com/2024/12/23/24326077/i-asked-chatgpt
-Headline: Here’s the first Copilot Plus mini PC with Intel’s new Core Ultra 9 processors
-Description: <figure>
-      <img alt="Picture of the Asus NUC 14 Pro AI" src="https://cdn.vox-cdn.com/thumbor/msb0FCRXQhc3sGr41-Sw2Wk37w0=/0x111:2395x1708/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738013...
-Link: https://www.theverge.com/2024/12/21/24326557/asus-copilot-plus-nuc-mini-pc-intel-core-ultra-series-2-processor
-
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -196,6 +197,24 @@ Link: https://aws.amazon.com/blogs/machine-learning/simplify-multimodal-generati
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Halliday unveils AI smart glasses with lens-free AR viewing
+Description: Halliday has come up with eyewear we didn't know we needed: smart glasses with no lenses. Welcome to the age of AI smart glasses.
+Link: https://venturebeat.com/ai/halliday-unveils-lens-free-ai-smart-glasses/
+Headline: Timekettle unveils Babel OS for AI simultaneous interpretation in language translation earbuds
+Description: Timekettle has unveiled the Babel OS, its first-ever operating system designed to redefine its language translation earbuds.
+Link: https://venturebeat.com/ai/timekettle-unveils-babel-os-for-ai-simultaneous-interpretation-in-language-translation-earbuds/
+Headline: Eli Health introduces Hormometer to test your hormones on a smartphone
+Description: This is how smart your smartphone is getting. Now it will be able to analyze your saliva and do a real-time hormone test.
+Link: https://venturebeat.com/ai/eli-health-introduces-hormometer-to-test-your-hormones-on-a-smartphone/
+Headline: Lymow unveils smart robotic mower with mulching blades and tracked threads
+Description: Lymow said the Lymow One is the world's first smart robotic mower with mulching blades and tracked threads.
+Link: https://venturebeat.com/ai/lymow-unveils-smart-robotic-mower-with-mulching-blades-and-tracked-threads/
+Headline: Tech trends at CES 2025 favor growth, so long as trade war doesn’t start | CTA
+Description: The tech market in the U.S. is expected to grow a few percent in 2025 to $537 billion, so long as there isn't a trade war.
+Link: https://venturebeat.com/ai/tech-trends-at-ces-2025-favor-growth-so-long-as-trade-war-doesnt-start-cta/
+Headline: Why context-aware AI agents will give us superpowers in 2025
+Description: In 2025, augmented mentality will emerge from the convergence of AI agents, conversational computing and augmented reality.
+Link: https://venturebeat.com/ai/why-context-aware-ai-agents-will-give-us-superpowers-in-2025/
 Headline: Phantom data centers: What they are (or aren’t) and why they’re hampering the true promise of AI
 Description: So-called fake data centers are a bottleneck to scaling infrastructure to keep up with compute demand for AI and other critical workloads.
 Link: https://venturebeat.com/data-infrastructure/phantom-data-centers-what-they-are-or-arent-and-why-theyre-hampering-the-true-promise-of-ai/
@@ -205,28 +224,16 @@ Link: https://venturebeat.com/ai/how-to-map-openais-chatgpt-advanced-voice-mode-
 Headline: CES 2025 preview: What to expect at tech’s biggest show | The DeanBeat
 Description: Next week at the CES 2025 trade show in Las Vegas, we'll once again be able to see and hear about the latest tech trends in person.
 Link: https://venturebeat.com/ai/ces-2025-preview-what-to-expect-at-techs-biggest-show-the-deanbeat/
-Headline: How Meta’s latest research proves you can use generative AI to understand user intent
-Description: By thinking about recommendation as a generative problem, you can tackle it from new angles and use LLMs to better understand user intent.
-Link: https://venturebeat.com/ai/how-meta-leverages-generative-ai-to-understand-user-intent/
-Headline: Swave Photonics raises $28.3M for 3D holographic smartglasses and displays
-Description: Swave Photonics, a holographic display company, has raised $28.27 million in funding as it prepares components for AI-powered smart glasses.
-Link: https://venturebeat.com/ai/swave-photonics-raises-28-3m-for-3d-holographic-smartglasses-and-displays/
-Headline: Inside the AI agent revolution: How data-driven automation transformed the enterprise in 2024
-Description: In a recent survey, 82% of tech executives said they intend to integrate AI agents across their stacks within the next three years.
-Link: https://venturebeat.com/data-infrastructure/unlocking-value-from-data-how-ai-agents-conquered-2024/
-Headline: Why 2025 will redefine data infrastructure: 11 expert insights on sovereign clouds, exploding data, PaaS and more
-Description: Key predictions from data infrastructure industry experts and vendors to help enterprises tap the AI opportunity for growth in 2025.
-Link: https://venturebeat.com/data-infrastructure/why-2025-will-redefine-data-infrastructure-11-expert-insights-on-sovereign-clouds-exploding-data-paas-and-more/
-Headline: Forrester on cybersecurity budgeting: 2025 will be the year of CISO fiscal accountability
-Description: With 90% of cybersecurity and risk leaders predicting they'll see budget increases in 2025, many are facing a new era of accountability.
-Link: https://venturebeat.com/ai/forrester-cybersecurity-budgeting-2025-ciso-fiscal-accountability/
-Headline: Why 2025 will be the year of AI orchestration
-Description: For many, 2025 will be the year of AI agents, when pilot programs, experiments and use cases converge into something resembling ROI.
-Link: https://venturebeat.com/ai/three-ways-2025-will-be-the-year-of-agentic-productivity/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: This AI mirror could track your weight, blood pressure, sleep, and more
+Description: Mirror, mirror, on the wall, how is my cholesterol?
+Link: https://www.zdnet.com/article/this-ai-mirror-could-track-your-weight-blood-pressure-sleep-and-more/
+Headline: What is an AI PC exactly? And should you buy one in 2025?
+Description: How does a computer built to handle artificial intelligence tasks differ from a regular PC? Who's making them? And where do Windows and MacOS fit in? We answer all your burning questions.
+Link: https://www.zdnet.com/article/what-is-an-ai-pc-exactly-and-should-you-buy-one-in-2025/
 Headline: LG's new Gram Pro laptops compete with MacBook Air with thinner-than-ever designs
 Description: LG's 2025 Gram Pro laptops feature the company's first-ever Copilot+ PC, armed with the 'Lunar Lake' Intel Core Ultra processor.
 Link: https://www.zdnet.com/article/lgs-new-gram-pro-laptops-compete-with-macbook-air-with-thinner-than-ever-designs/
@@ -242,9 +249,7 @@ Link: https://www.zdnet.com/article/how-ibms-blueprint-for-industry-transformati
 Headline: Siri's secret recordings lead to a $95 million settlement. Could you get a share?
 Description: The class action privacy suit contends that Siri recorded and shared Apple users' conversations. Apple isn't the only tech giant in the crosshairs of such legal action.
 Link: https://www.zdnet.com/article/siris-secret-recordings-lead-to-a-95-million-settlement-could-you-get-a-share/
-Headline: How to program your iPhone's Action Button to summon ChatGPT's voice assistant
-Description: Unlike Siri, OpenAI Advanced Voice uses your phone's camera to understand your surroundings. If you have one of these iPhone models, here's how to get started.
-Link: https://www.zdnet.com/article/how-to-program-your-iphones-action-button-to-summon-chatgpts-voice-assistant/
+
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -370,16 +375,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: OpenAI ppl are feeling the ASI today
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1htt32u/openai_ppl_are_feeling_the_asi_today/"> <img alt="OpenAI ppl are feeling the ASI today" src="https://preview.redd.it/xrcb...
-Link: https://www.reddit.com/r/artificial/comments/1htt32u/openai_ppl_are_feeling_the_asi_today/
-Headline: One-Minute Daily AI News 1/4/2025
-Description: <!-- SC_OFF --><div class="md"><ol> <li>AI Bot Wows The Crowds With Unprecedented Stock Earnings.[1]</li> <li><strong>OpenAI</strong> Blames Cloud Provider For ChatGPT Outage.[2]</li> <li>AI Fact-Chec...
-Link: https://www.reddit.com/r/artificial/comments/1htuhjv/oneminute_daily_ai_news_142025/
-Headline: Some interesting questions to ask AI:
-Description: <!-- SC_OFF --><div class="md"><p>Some interesting questions to ask AI: (This works better asking one question at a time.) </p> <p>Does this term and definition apply to your program? </p> <p>Entity P...
-Link: https://www.reddit.com/r/artificial/comments/1htlsya/some_interesting_questions_to_ask_ai/
-
+Headline: How AI is unlocking ancient texts — and could rewrite history
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1huaewr/how_ai_is_unlocking_ancient_texts_and_could/"> <img alt="How AI is unlocking ancient texts — and could rewrite history" s...
+Link: https://www.reddit.com/r/artificial/comments/1huaewr/how_ai_is_unlocking_ancient_texts_and_could/
+Headline: Reflecting on o3 "beating ARC": are we reliving the ImageNet 2012 moment again?
+Description: <!-- SC_OFF --><div class="md"><p>AlexNet came and blown everything out of the water. Then you can reflect how much [a lot] progress there has been since 2012 till now just on this little dataset.</p>...
+Link: https://www.reddit.com/r/artificial/comments/1hugtlk/reflecting_on_o3_beating_arc_are_we_reliving_the/
+Headline: Google Gemini Live to appear in Windows taskbar
+Description: <!-- SC_OFF --><div class="md"><p>Google’s Gemini Live AI assistant may soon expand beyond Chrome's address bar to become a prominent feature on Windows taskbars. A recent Chromium patch hints at a st...
+Link: https://www.reddit.com/r/artificial/comments/1hujbmx/google_gemini_live_to_appear_in_windows_taskbar/
+Headline: Technological Talismans: Where Esoteric Art Meets Cutting-Edge Tech
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShelterCorrect"> /u/ShelterCorrect </a> <br /> <span><a href="https://www.perplexity.ai/search/the-amethyst-tablet-pdf-wSFKHIw3R9CFnbPRI3V...
+Link: https://www.reddit.com/r/artificial/comments/1hu3bdo/technological_talismans_where_esoteric_art_meets/
+Headline: Samsung AI Fridges To Order Groceries Automatically With Instacart Integration
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hu90s5/samsung_ai_fridges_to_order_groceries/"> <img alt="Samsung AI Fridges To Order Groceries Automatically With Instacart Int...
+Link: https://www.reddit.com/r/artificial/comments/1hu90s5/samsung_ai_fridges_to_order_groceries/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
