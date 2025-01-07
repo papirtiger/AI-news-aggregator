@@ -1,33 +1,45 @@
-AI News Updates - 2025-01-06 02:54:33
+AI News Updates - 2025-01-07 02:51:46
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: OpenAI is beginning to turn its attention to ‘superintelligence’
-Description: <p>In a post on his personal blog, OpenAI CEO Sam Altman said that he believes OpenAI &#8220;know[s] how to build [artificial general intelligence]&#8221; as it has traditionally understood it — and i...
-Link: https://techcrunch.com/2025/01/05/openai-is-beginning-to-turn-its-attention-to-superintelligence/
-Headline: Timekettle’s new earbuds offer real-time translation on calls
-Description: <p>Timekettle unveiled its latest earbuds, the W4 Pro, this week at CES 2025 in Las Vegas. The product aims to up the ante on the startup’s focus by bringing real-time two-way translation to phone and...
-Link: https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/
-Headline: Sam Altman has choice words for the OpenAI board members who fired him
-Description: <p>OpenAI CEO Sam Altman has strong words for the former board members who abruptly fired him late last November. &#8220;[A]ll those people that I feel, like, really f&#8212;ed me and f&#8212;ed the c...
-Link: https://techcrunch.com/2025/01/05/sam-altman-has-choice-words-for-the-openai-board-members-who-fired-him/
-Headline: AMD’s CES 2025 press conference: How to watch
-Description: <p>AMD has its work cut out for it at CES 2025. Competitor Nvidia has been sucking the oxygen out of every room it graces, as the chipmaker remains at the forefront of the AI boom. So, how will AMD co...
-Link: https://techcrunch.com/2025/01/05/amds-ces-2025-press-conference-how-to-watch/
-Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
-Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with...
-Link: https://techcrunch.com/2025/01/03/chatgpt-everything-to-know-about-the-ai-chatbot/
-Headline: Generative AI funding reached new heights in 2024
-Description: <p>If there was any doubt, the generative AI bubble did not burst in 2024. Investments in generative AI, which encompasses a range of AI-powered apps, tools, and services to generate text, images, vid...
-Link: https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/
-Headline: Microsoft to spend $80 billion in FY’25 on data centers for AI
-Description: <p>Microsoft has earmarked $80 billion in fiscal 2025 to build data centers designed to handle artificial intelligence workloads, according to a company blog post. Specifically, the tech giant plans t...
-Link: https://techcrunch.com/2025/01/03/microsoft-to-spend-80-billion-in-fy25-on-data-centers-for-ai/
-Headline: FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising
-Description: <p>The U.S. Federal Trade Commission has fined accessiBe, a startup that claims to make websites more compatible with the screen readers blind people rely on to access the internet, for false advertis...
-Link: https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/
+Headline: Google unveils an AI-powered TV that summarizes the news for you at CES 2025
+Description: <p>Long gone are the days of simply watching the news. Google unveiled the latest version of its TV operating system at CES 2025 on Monday. It uses the company&#8217;s Gemini AI assistant to summarize...
+Link: https://techcrunch.com/2025/01/06/google-unveils-an-ai-powered-tv-that-summarizes-the-news-for-you-at-ces-2025/
+Headline: Google is forming a new team to build AI that can simulate the physical world
+Description: <p>Google is forming a new team to work on AI models that can simulate the physical world. Tim Brooks — one of the co-leads on OpenAI’s video generator, Sora, who left for Google&#8217;s AI research l...
+Link: https://techcrunch.com/2025/01/06/google-is-forming-a-new-team-to-build-ai-that-can-simulate-the-physical-world/
+Headline: Therabody launches Coach, an AI-powered digital recovery platform
+Description: <p>Therabody, the maker of popular massage guns and other wellness devices, announced at CES 2025 that it&#8217;s launching a new AI-powered digital recovery platform called Coach. The new platform is...
+Link: https://techcrunch.com/2025/01/06/therabody-launches-coach-an-ai-powered-digital-recovery-app/
+Headline: UK uses AI to tackle ‘bid-rigging’ collusion in public procurement contracts
+Description: <p>The U.K.&#8217;s competition authority already has a lot on its plate in terms of tackling Big Tech&#8217;s growing reach across the technological spectrum, but closer to home it&#8217;s dealing wi...
+Link: https://techcrunch.com/2025/01/06/uk-uses-ai-to-tackle-bid-rigging-collusion-in-public-procurement-contracts/
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Apple says it will ‘clarify’ AI summaries after botching BBC headlines
+Description: <figure>
+      <img alt="A graphic showing a robot performing multiple functions" src="https://cdn.vox-cdn.com/thumbor/ufaJVkaJnjjgkstelyyLxG3qZO4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/choru...
+Link: https://www.theverge.com/2025/1/6/24337681/apple-intelligence-summary-bbc-news-luigi-mangione-response
+Headline: Samsung claims its Ballie AI robot will actually be released this year
+Description: <figure>
+      <img alt="A photo of Samsung’s Ballie robot at CES 2025." src="https://cdn.vox-cdn.com/thumbor/I8PmTrrLjoEFvbYzY-A9AgVIjMU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/i...
+Link: https://www.theverge.com/2025/1/6/24337478/samsung-ballie-robot-release-date-features-2025
+Headline: Acer brings AMD chips to its Swift Go Copilot Plus laptops
+Description: <figure>
+      <img alt="An image showing the Acer Swift Go 16 AI" src="https://cdn.vox-cdn.com/thumbor/AI_9zovbjCSRXT_63duhozlPzvw=/0x50:900x650/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73...
+Link: https://www.theverge.com/2025/1/6/24335105/acer-amd-chips-swift-go-copilot-plus-laptops-ces-2025
+Headline: OpenAI’s Sam Altman says ‘we know how to build AGI’
+Description: <figure>
+      <img alt="Photo collage of Sam Altman in front of the OpenAI logo." src="https://cdn.vox-cdn.com/thumbor/KaCzBMQhOAfmGFiENVSxIoGyOco=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chor...
+Link: https://www.theverge.com/2025/1/6/24337106/sam-altman-says-openai-knows-how-to-build-agi-blog-post
+Headline: This $400 Brisk It smart grill has generative AI
+Description: <figure>
+      <img alt="The Zelos 450 AI smart grill by Brisk It, being used outside to cook a variety of BBQ foods." src="https://cdn.vox-cdn.com/thumbor/ONPrKdKis_vyVgnZDIm0X-rrdnE=/0x0:8688x5792/1...
+Link: https://www.theverge.com/2025/1/6/24336539/brisk-it-zelos-450-smart-grill-generative-ai-price-availability
+Headline: LG and Samsung are adding Microsoft’s Copilot AI assistant to their TVs
+Description: <figure>
+      <img alt="Vector illustration of the Microsoft Copilot logo." src="https://cdn.vox-cdn.com/thumbor/6ZmOIy6fIbjq1PJea25PLWU23ic=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_ima...
+Link: https://www.theverge.com/2025/1/6/24337033/lg-samsung-microsoft-copilot-smart-tvs-ces-2025
 Headline: These smart glasses have a tiny little screen hidden in the frame
 Description: <figure>
       <img alt="The built-in near eye display on the Halliday Glasses." src="https://cdn.vox-cdn.com/thumbor/PtzHTdc8aPylFrS-d859KM3cWCU=/61x0:4000x2626/1310x873/cdn.vox-cdn.com/uploads/choru...
@@ -40,22 +52,6 @@ Headline: Anthropic reaches deal with music publishers over lyric dispute
 Description: <figure>
       <img alt="An image showing a slightly off-kilter grid of happy-looking robot faces with speech bubbles containing music notes." src="https://cdn.vox-cdn.com/thumbor/_Vx--hdWqSfDP05o-O4M...
 Link: https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal
-Headline: OpenAI announces plan to transform into a for-profit company
-Description: <figure>
-      <img alt="Vector illustration of the Chat GPT logo." src="https://cdn.vox-cdn.com/thumbor/vHK2RqySNwYO-4Sh_usC9FrjkMI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/...
-Link: https://www.theverge.com/2024/12/27/24330131/openai-plan-transform-for-profit-company
-Headline: ChatGPT access has recovered after an outage Thursday afternoon
-Description: <figure>
-      <img alt="Vector illustration of the ChatGPT logo." src="https://cdn.vox-cdn.com/thumbor/nD4kZA9HXrr1Klpbo8AAAotIxTY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
-Link: https://www.theverge.com/2024/12/26/24329760/chatgpt-down-outage-error-sora-openai
-Headline: The AI smartphones that never materialized in 2024
-Description: <figure>
-      <img alt="Photo collage showing phones from 2024." src="https://cdn.vox-cdn.com/thumbor/wznGZenrksbSXoOKJhPMjfspfuw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73...
-Link: https://www.theverge.com/24315181/ai-smartphones-2024-apple-intelligence-gemini-samsung
-Headline: Here’s a new way to lose an argument online: the appeal to AI
-Description: <figure>
-      <img alt="3D illustration of the Chat GPT logo on a magic 8 ball." src="https://cdn.vox-cdn.com/thumbor/Tft1pnesH-JF0RGyPBVIyxUZKGg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/choru...
-Link: https://www.theverge.com/2024/12/23/24326077/i-asked-chatgpt
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -95,36 +91,6 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
-Headline: Rethinking video surveillance: The case for smarter, more flexible solutions
-Description: <p>Video surveillance has come a long way from simple CCTV setups. Today&#8217;s businesses demand more – smarter analytics, enhanced security, and seamless scalability. As organisations adopt AI and ...
-Link: https://www.artificialintelligence-news.com/news/rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=rethinking-video-surveillance-the-case-for-smarter-more-flexible-solutions
-Headline: OpenAI funds $1 million study on AI and morality at Duke University
-Description: <p>OpenAI is awarding a $1 million grant to a Duke University research team to look at how AI could predict human moral judgments. The initiative highlights the growing focus on the intersection of te...
-Link: https://www.artificialintelligence-news.com/news/openai-funds-1-million-study-on-ai-and-morality-at-duke-university/?utm_source=rss&utm_medium=rss&utm_campaign=openai-funds-1-million-study-on-ai-and-morality-at-duke-university
-Headline: Manhattan Project 2.0? US eyes AGI breakthrough in escalating China rivalry
-Description: <p>The emerging US-China Artificial General Intelligence (AGI) rivalry could face a major policy transformation, as the US-China Economic and Security Review Commission (USCC) recommends a Manhattan P...
-Link: https://www.artificialintelligence-news.com/news/manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry/?utm_source=rss&utm_medium=rss&utm_campaign=manhattan-project-2-0-us-eyes-agi-breakthrough-in-escalating-china-rivalry
-Headline: How blockchain, IoT, and AI are shaping the future of digital transformation
-Description: <p>When devices, networks, and AI work together seamlessly, it creates a smarter, more connected ecosystem. This isn&#8217;t a distant dream; it&#8217;s a reality rapidly emerging as blockchain, IoT, ...
-Link: https://www.artificialintelligence-news.com/news/how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation/?utm_source=rss&utm_medium=rss&utm_campaign=how-blockchain-iot-and-ai-are-shaping-the-future-of-digital-transformation
-Headline: Ordnance Survey: Navigating the role of AI and ethical considerations in geospatial technology
-Description: <p>As we approach a new year filled with potential, the landscape of technology, particularly artificial intelligence (AI) and machine learning (ML), is on the brink of significant transformation. Man...
-Link: https://www.artificialintelligence-news.com/news/ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology/?utm_source=rss&utm_medium=rss&utm_campaign=ordnance-survey-navigating-the-role-of-ai-and-ethical-considerations-in-geospatial-technology
-Headline: AI governance: Analysing emerging global regulations
-Description: <p>Governments are scrambling to establish regulations to govern AI, citing numerous concerns over data privacy, bias, safety, and more. AI News caught up with Nerijus Šveistys, Senior Legal Counsel a...
-Link: https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/?utm_source=rss&utm_medium=rss&utm_campaign=ai-governance-analysing-emerging-global-regulations
-Headline: What might happen if AI can feel emotions?
-Description: <p>In a world where artificial intelligence is becoming omnipresent, it&#8217;s fascinating to think about the prospect of AI-powered robots and digital avatars that can experience emotions, similar t...
-Link: https://www.artificialintelligence-news.com/news/what-might-happen-if-ai-can-feel-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=what-might-happen-if-ai-can-feel-emotions
-Headline: UK wants to prove AI can modernise public services responsibly
-Description: <p>The UK Government wants to prove that AI is being deployed responsibly within public services to speed up decision-making, reduce backlogs, and enhance support for citizens. New records, part of th...
-Link: https://www.artificialintelligence-news.com/news/uk-wants-prove-ai-can-modernise-public-services-responsibly/?utm_source=rss&utm_medium=rss&utm_campaign=uk-wants-prove-ai-can-modernise-public-services-responsibly
-Headline: Amazon stakes $4bn more in Anthropic–the next tech arms race?
-Description: <p>Amazon has announced an additional $4 billion investment in Anthropic, bringing the company&#8217;s total commitment to $8 billion, part of its expanding artificial intelligence strategy. The inves...
-Link: https://www.artificialintelligence-news.com/news/amazon-stakes-4bn-more-in-anthropic-the-next-tech-arms-race/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-stakes-4bn-more-in-anthropic-the-next-tech-arms-race
-Headline: CrowdStrike: Cybersecurity pros want safer, specialist GenAI tools
-Description: <p>CrowdStrike commissioned a survey of 1,022 cybersecurity professionals worldwide to assess their views on generative AI (GenAI) adoption and its implications. The findings reveal enthusiasm for Gen...
-Link: https://www.artificialintelligence-news.com/news/crowdstrike-cybersecurity-pros-safer-specialist-genai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=crowdstrike-cybersecurity-pros-safer-specialist-genai-tools
 
 ---
 
@@ -133,6 +99,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: AI means the end of internet search as we’ve known it
+Description: We all know what it means, colloquially, to google something. You pop a few relevant words in a search box and in return get a list of blue links to the most relevant results. Maybe some quick explana...
+Link: https://www.technologyreview.com/2025/01/06/1108679/ai-generative-search-internet-breakthroughs/
 Headline: Small language models: 10 Breakthrough Technologies 2025
 Description: WHO Allen Institute for Artificial Intelligence, Anthropic, Google, Meta, Microsoft, OpenAI WHEN Now Make no mistake: Size matters in the AI world. When OpenAI launched GPT-3 back in 2020, it was the ...
 Link: https://www.technologyreview.com/2025/01/03/1108800/small-language-models-ai-breakthrough-technologies-2025/
@@ -160,9 +129,6 @@ Link: https://www.technologyreview.com/2024/12/20/1109183/the-next-generation-of
 Headline: Accelerating AI innovation through application modernization
 Description: Business applications powered by AI are revolutionizing customer experiences, accelerating the speed of business, and driving employee productivity. In fact, according to research firm Frost &#38; Sul...
 Link: https://www.technologyreview.com/2024/12/19/1109043/accelerating-ai-innovation-through-application-modernization/
-Headline: This is where the data to build AI comes from
-Description: AI is all about data. Reams and reams of data are needed to train algorithms to do what we want, and what goes into the AI models determines what comes out. But here’s the problem: AI developers and r...
-Link: https://www.technologyreview.com/2024/12/18/1108796/this-is-where-the-data-to-build-ai-comes-from/
 
 ---
 
@@ -175,6 +141,9 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Efficiently build and tune custom log anomaly detection models with Amazon SageMaker
+Description: In this post, we walk you through the process to build an automated mechanism using Amazon SageMaker to process your log data, run training iterations over it to obtain the best-performing anomaly det...
+Link: https://aws.amazon.com/blogs/machine-learning/efficiently-build-and-tune-custom-log-anomaly-detection-models-with-amazon-sagemaker/
 Headline: Optimizing costs of generative AI applications on AWS
 Description: Optimizing costs of generative AI applications on AWS is critical for realizing the full potential of this transformative technology. The post outlines key cost optimization pillars, including model s...
 Link: https://aws.amazon.com/blogs/machine-learning/optimizing-costs-of-generative-ai-applications-on-aws/
@@ -190,65 +159,58 @@ Link: https://aws.amazon.com/blogs/machine-learning/an-introduction-to-preparing
 Headline: How Fastweb fine-tuned the Mistral model using Amazon SageMaker HyperPod as a first step to build an Italian large language model
 Description: Fastweb, one of Italy’s leading telecommunications operators, recognized the immense potential of AI technologies early on and began investing in this area in 2019. In this post, we explore how Fastwe...
 Link: https://aws.amazon.com/blogs/machine-learning/how-fastweb-fine-tuned-the-mistral-model-using-amazon-sagemaker-hyperpod-as-a-first-step-to-build-an-italian-large-language-model/
-Headline: Simplify multimodal generative AI with Amazon Bedrock Data Automation
-Description: Amazon Bedrock Data Automation in public preview, offers a unified experience for developers of all skillsets to easily automate the extraction, transformation, and generation of relevant insights fro...
-Link: https://aws.amazon.com/blogs/machine-learning/simplify-multimodal-generative-ai-with-amazon-bedrock-data-automation/
-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
-Headline: Halliday unveils AI smart glasses with lens-free AR viewing
-Description: Halliday has come up with eyewear we didn't know we needed: smart glasses with no lenses. Welcome to the age of AI smart glasses.
-Link: https://venturebeat.com/ai/halliday-unveils-lens-free-ai-smart-glasses/
-Headline: Timekettle unveils Babel OS for AI simultaneous interpretation in language translation earbuds
-Description: Timekettle has unveiled the Babel OS, its first-ever operating system designed to redefine its language translation earbuds.
-Link: https://venturebeat.com/ai/timekettle-unveils-babel-os-for-ai-simultaneous-interpretation-in-language-translation-earbuds/
-Headline: Eli Health introduces Hormometer to test your hormones on a smartphone
-Description: This is how smart your smartphone is getting. Now it will be able to analyze your saliva and do a real-time hormone test.
-Link: https://venturebeat.com/ai/eli-health-introduces-hormometer-to-test-your-hormones-on-a-smartphone/
-Headline: Lymow unveils smart robotic mower with mulching blades and tracked threads
-Description: Lymow said the Lymow One is the world's first smart robotic mower with mulching blades and tracked threads.
-Link: https://venturebeat.com/ai/lymow-unveils-smart-robotic-mower-with-mulching-blades-and-tracked-threads/
-Headline: Tech trends at CES 2025 favor growth, so long as trade war doesn’t start | CTA
-Description: The tech market in the U.S. is expected to grow a few percent in 2025 to $537 billion, so long as there isn't a trade war.
-Link: https://venturebeat.com/ai/tech-trends-at-ces-2025-favor-growth-so-long-as-trade-war-doesnt-start-cta/
-Headline: Why context-aware AI agents will give us superpowers in 2025
-Description: In 2025, augmented mentality will emerge from the convergence of AI agents, conversational computing and augmented reality.
-Link: https://venturebeat.com/ai/why-context-aware-ai-agents-will-give-us-superpowers-in-2025/
-Headline: Phantom data centers: What they are (or aren’t) and why they’re hampering the true promise of AI
-Description: So-called fake data centers are a bottleneck to scaling infrastructure to keep up with compute demand for AI and other critical workloads.
-Link: https://venturebeat.com/data-infrastructure/phantom-data-centers-what-they-are-or-arent-and-why-theyre-hampering-the-true-promise-of-ai/
-Headline: How to map OpenAI’s ChatGPT Advanced Voice Mode to your iPhone action button
-Description: Mapping ChatGPT Advanced Voice Mode to the new physical Action Button on the side of newer iPhones, just above the volume up and down.
-Link: https://venturebeat.com/ai/how-to-map-openais-chatgpt-advanced-voice-mode-to-your-iphone-action-button/
-Headline: CES 2025 preview: What to expect at tech’s biggest show | The DeanBeat
-Description: Next week at the CES 2025 trade show in Las Vegas, we'll once again be able to see and hear about the latest tech trends in person.
-Link: https://venturebeat.com/ai/ces-2025-preview-what-to-expect-at-techs-biggest-show-the-deanbeat/
+Headline: Sony is making a location-based experience based on The Last of Us
+Description: Neil Druckmann of Naughty Dog announced that Sony is working on a location-based physical entertainment experience based on The Last of Us.
+Link: https://venturebeat.com/ai/sony-is-making-a-location-based-experience-based-on-the-last-of-us/
+Headline: OpenAI begins 2025 with massive hype for AGI, superintelligence
+Description: The AGI and superintelligence hype has hit a fever pitch unlike any I've seen in my 15 years writing about technology.
+Link: https://venturebeat.com/ai/openai-begins-2025-with-massive-hype-for-agi-superintelligence/
+Headline: Google maps the future of AI agents: Five lessons for businesses
+Description: Google's groundbreaking white paper reveals how AI agents leverage advanced reasoning, real-time data access and autonomous decision-making.
+Link: https://venturebeat.com/ai/google-maps-the-future-of-ai-agents-five-lessons-for-businesses/
+Headline: Acer unveils Acer Swift Go and Aspire Vero 16 laptops with latest chips and up to 99 TOPS AI
+Description: Acer unveiled new models in its Acer Swift Go and Acer Aspire Vero laptop families with the latest components from Intel and AMD.
+Link: https://venturebeat.com/ai/acer-unveils-acer-swift-go-and-aspire-vero-16-laptops-with-latest-chips-and-better-ai/
+Headline: AMD’s Ryzen 9 9950X3D — best processor for gamers and creators — is among many new chips coming
+Description: Lisa Su, CEO of AMD, said at CES 2025 that the AMD Ryzen 9 9950X3D is the best processor for gamers and creators.
+Link: https://venturebeat.com/ai/amd-2/
+Headline: HP unveils a range of AI desktops and laptops at AMD/Intel events at CES
+Description: HP announced a number of new AI and gaming computers during the Advanced Micro Devices and Intel press events at CES 2025 today.
+Link: https://venturebeat.com/games/hp-unveils-a-range-of-ai-desktops-and-laptops-at-amd-intel-events-at-ces/
+Headline: 2025 playbook for enterprise AI success, from agents to evals
+Description: From scaling AI agents to evals, to inference reasoning, optimizing costs, and personalization, here are the five critical areas enterprises should prioritize for their AI strategy this year.
+Link: https://venturebeat.com/ai/2025-playbook-for-enterprise-ai-success-from-agents-to-evals/
+Headline: John Deere unveils more autonomous farm machines to address skill labor shortage
+Description: John Deere has revealed a new line of autonomous machines and tech across agriculture, construction and commercial landscaping.
+Link: https://venturebeat.com/ai/john-deere-unveils-more-autonomous-farm-machines-to-address-skill-labor-shortage/
+Headline: OpenAI’s red teaming innovations define new essentials for security leaders in the AI era
+Description: Red teaming has become the go-to technique for iteratively testing AI models to simulate diverse, lethal, unpredictable attacks.
+Link: https://venturebeat.com/ai/openai-red-team-innovations-new-essentials-security-leaders/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: This AI mirror could track your weight, blood pressure, sleep, and more
-Description: Mirror, mirror, on the wall, how is my cholesterol?
-Link: https://www.zdnet.com/article/this-ai-mirror-could-track-your-weight-blood-pressure-sleep-and-more/
-Headline: What is an AI PC exactly? And should you buy one in 2025?
-Description: How does a computer built to handle artificial intelligence tasks differ from a regular PC? Who's making them? And where do Windows and MacOS fit in? We answer all your burning questions.
-Link: https://www.zdnet.com/article/what-is-an-ai-pc-exactly-and-should-you-buy-one-in-2025/
-Headline: LG's new Gram Pro laptops compete with MacBook Air with thinner-than-ever designs
-Description: LG's 2025 Gram Pro laptops feature the company's first-ever Copilot+ PC, armed with the 'Lunar Lake' Intel Core Ultra processor.
-Link: https://www.zdnet.com/article/lgs-new-gram-pro-laptops-compete-with-macbook-air-with-thinner-than-ever-designs/
-Headline: Samsung's smart fridges can soon add items to your Instacart order
-Description: Samsung teams up with Instacart to let you place a grocery order directly from your AI-enabled refrigerator's screen.
-Link: https://www.zdnet.com/article/samsungs-smart-fridges-can-soon-add-items-to-your-instacart-order/
-Headline: Could AI make you a billionaire in 2025?
-Description: Sam Altman recently said we could soon see a one-person billion-dollar company. I did some research, and what I found might surprise you.
-Link: https://www.zdnet.com/article/could-ai-make-you-a-billionaire/
-Headline: How IBM's blueprint for industry transformation leverages AI, 5G, and collaboration
-Description: In this exclusive talk with a senior IBM executive, learn about how AI, 5G, and groundbreaking partnerships are reshaping global industries.
-Link: https://www.zdnet.com/article/how-ibms-blueprint-for-industry-transformation-leverages-ai-5g-and-collaboration/
-Headline: Siri's secret recordings lead to a $95 million settlement. Could you get a share?
-Description: The class action privacy suit contends that Siri recorded and shared Apple users' conversations. Apple isn't the only tech giant in the crosshairs of such legal action.
-Link: https://www.zdnet.com/article/siris-secret-recordings-lead-to-a-95-million-settlement-could-you-get-a-share/
+Headline: Acer's refreshed laptops may be the most versatile devices I've seen at CES 2025
+Description: The latest models, including updated Aspire, Vero, and Swift laptops, leverage both Nvidia and AMD processors for enhanced AI computing.
+Link: https://www.zdnet.com/article/acers-refreshed-laptops-may-be-the-most-versatile-devices-ive-seen-at-ces-2025/
+Headline: McAfee's new AI tool detects email and text scams before you fall for them
+Description: Current McAfee customers won't have to do a thing to utilize the new feature, introduced this week at CES 2025.
+Link: https://www.zdnet.com/article/mcafees-new-ai-tool-detects-email-and-text-scams-before-you-fall-for-them/
+Headline: LG drops 5 new AI features for 2025 TVs (and older ones, too)
+Description: The AI TV features keep coming - and you may not even have to upgrade your TV to enjoy them.
+Link: https://www.zdnet.com/article/lg-drops-5-new-ai-features-for-2025-tvs-and-older-ones-too/
+Headline: X's Grok did surprisingly well in my AI coding tests
+Description: Does Grok grok code? Pretty much, yeah. Dig in to read the full story and find out the one challenge that Grok couldn't fully grok.
+Link: https://www.zdnet.com/article/xs-grok-did-surprisingly-well-in-my-ai-coding-tests/
+Headline: This award-winning AI sleep wearable aims to help you focus better - here's how
+Description: The Frenz Brainband by Earable just pulled off a CES award 'hat trick' for its approach to sleep wellness.
+Link: https://www.zdnet.com/article/this-award-winning-ai-sleep-wearable-aims-to-help-you-focus-better-heres-how/
+Headline: Apple Intelligence now needs 7GB of storage, up from 4GB - here's why
+Description: You may need to free up some space on your iPhone, iPad, or Mac to run all the AI features that Apple has introduced.
+Link: https://www.zdnet.com/article/apple-intelligence-now-needs-7gb-of-storage-up-from-4gb-heres-why/
 
 ---
 
@@ -299,9 +261,15 @@ Link: https://www.aisnakeoil.com/p/ai-scaling-myths
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: AI slashes cost and time for chip design, but that is not all
+Description: Researchers have harnessed artificial intelligence to take a key step toward slashing the time and cost of designing new wireless chips and discovering new functionalities to meet expanding demands fo...
+Link: https://www.sciencedaily.com/releases/2025/01/250106195930.htm
 Headline: Artificial intelligence: Algorithms improve medical image analysis
 Description: Artificial intelligence has the potential to improve the analysis of medical image data. For example, algorithms based on deep learning can determine the location and size of tumors. This is the resul...
 Link: https://www.sciencedaily.com/releases/2025/01/250102162630.htm
+Headline: Wind sensing by biomimetic flexible flapping wing with strain sensors
+Description: Bio-inspired wind sensing using strain sensors on flexible wings could revolutionize robotic flight control strategy. Researchers have developed a method to detect wind direction with 99% accuracy usi...
+Link: https://www.sciencedaily.com/releases/2024/12/241226153846.htm
 Headline: Crossing the Uncanny Valley: Breakthrough in technology for lifelike facial expressions in androids
 Description: Even highly realistic androids can cause unease when their facial expressions lack emotional consistency. Traditionally, a 'patchwork method' has been used for facial movements, but it comes with prac...
 Link: https://www.sciencedaily.com/releases/2024/12/241223135211.htm
@@ -323,16 +291,13 @@ Link: https://www.sciencedaily.com/releases/2024/12/241217130807.htm
 Headline: Breaking barriers: Study uses AI to interpret American Sign Language in real-time
 Description: A study is the first-of-its-kind to recognize American Sign Language (ASL) alphabet gestures using computer vision. Researchers developed a custom dataset of 29,820 static images of ASL hand gestures....
 Link: https://www.sciencedaily.com/releases/2024/12/241216125906.htm
-Headline: Empowering older adults with home-care robots
-Description: The rapidly increasing aging population will lead to a shortage of care providers in the future. While robotic technologies are a potential alternative, their widespread use is limited by poor accepta...
-Link: https://www.sciencedaily.com/releases/2024/12/241210115425.htm
-Headline: Scientists create AI that 'watches' videos by mimicking the brain
-Description: Imagine an artificial intelligence (AI) model that can watch and understand moving images with the subtlety of a human brain. Now, scientists have made this a reality by creating MovieNet: an innovati...
-Link: https://www.sciencedaily.com/releases/2024/12/241209163200.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: AI uses throat vibrations to work out what someone is trying to say
+Description: Throat vibrations made by people who find it difficult to speak, such as after a stroke, can be analysed by AI and used to create sentences
+Link: https://www.newscientist.com/article/2458385-ai-uses-throat-vibrations-to-work-out-what-someone-is-trying-to-say/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Glowing biological quantum sensor could track how cells form
 Description: A quantum sensor based on a protein from bioluminescent jellyfish can be made by the body itself and it may be able to help us track how cells form or detect disease at an early stage
 Link: https://www.newscientist.com/article/2461697-glowing-biological-quantum-sensor-could-track-how-cells-form/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -360,9 +325,6 @@ Link: https://www.newscientist.com/article/mg26435231-300-how-to-fix-computings-
 Headline: 2024 review: The best new robots of the year
 Description: New Scientist's round-up of some of the best new robots of 2024
 Link: https://www.newscientist.com/video/2460158-2024-review-the-best-new-robots-of-the-year/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: AI-powered avatars can gesture naturally as they speak
-Description: An AI model that understands the interplay between human body language, speech and emotion enables digital avatars to move more realistically when speaking
-Link: https://www.newscientist.com/article/2462259-ai-powered-avatars-can-gesture-naturally-as-they-speak/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -375,21 +337,7 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: How AI is unlocking ancient texts — and could rewrite history
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1huaewr/how_ai_is_unlocking_ancient_texts_and_could/"> <img alt="How AI is unlocking ancient texts — and could rewrite history" s...
-Link: https://www.reddit.com/r/artificial/comments/1huaewr/how_ai_is_unlocking_ancient_texts_and_could/
-Headline: Reflecting on o3 "beating ARC": are we reliving the ImageNet 2012 moment again?
-Description: <!-- SC_OFF --><div class="md"><p>AlexNet came and blown everything out of the water. Then you can reflect how much [a lot] progress there has been since 2012 till now just on this little dataset.</p>...
-Link: https://www.reddit.com/r/artificial/comments/1hugtlk/reflecting_on_o3_beating_arc_are_we_reliving_the/
-Headline: Google Gemini Live to appear in Windows taskbar
-Description: <!-- SC_OFF --><div class="md"><p>Google’s Gemini Live AI assistant may soon expand beyond Chrome's address bar to become a prominent feature on Windows taskbars. A recent Chromium patch hints at a st...
-Link: https://www.reddit.com/r/artificial/comments/1hujbmx/google_gemini_live_to_appear_in_windows_taskbar/
-Headline: Technological Talismans: Where Esoteric Art Meets Cutting-Edge Tech
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShelterCorrect"> /u/ShelterCorrect </a> <br /> <span><a href="https://www.perplexity.ai/search/the-amethyst-tablet-pdf-wSFKHIw3R9CFnbPRI3V...
-Link: https://www.reddit.com/r/artificial/comments/1hu3bdo/technological_talismans_where_esoteric_art_meets/
-Headline: Samsung AI Fridges To Order Groceries Automatically With Instacart Integration
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hu90s5/samsung_ai_fridges_to_order_groceries/"> <img alt="Samsung AI Fridges To Order Groceries Automatically With Instacart Int...
-Link: https://www.reddit.com/r/artificial/comments/1hu90s5/samsung_ai_fridges_to_order_groceries/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
