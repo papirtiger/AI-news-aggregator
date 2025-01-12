@@ -1,13 +1,20 @@
-AI News Updates - 2025-01-11 02:49:50
+AI News Updates - 2025-01-12 02:57:47
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Researchers open source Sky-T1, a ‘reasoning’ AI model that can be trained for less than $450
+Description: <p>So-called reasoning AI models are becoming easier — and cheaper — to develop. On Friday, NovaSky, a team of researchers based out of UC Berkeley&#8217;s Sky Computing Lab, released Sky-T1-32B-Previ...
+Link: https://techcrunch.com/2025/01/11/researchers-open-source-sky-t1-a-reasoning-ai-model-that-can-be-trained-for-less-than-450/
+Headline: Nvidia’s AI empire: A look at its top startup investments
+Description: <p>Over the last two years, Nvidia has used its ballooning fortunes to invest in over 80 AI startups. Here are the giant semiconductor's largest investments.</p>
+<p>© 2024 TechCrunch. All rights reser...
+Link: https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/
 Headline: Microsoft accuses group of developing tool to abuse its AI service in new lawsuit
 Description: <p>Microsoft has taken legal action against a group the company claims intentionally developed and used tools to bypass the safety guardrails of its cloud AI products. According to a complaint filed b...
 Link: https://techcrunch.com/2025/01/10/microsoft-accuses-group-of-developing-tool-to-abuse-its-ai-service-in-new-lawsuit/
 Headline: New OpenAI job listings reveal the company’s robotics plans
 Description: <p>OpenAI disbanded its robotics department. Then, it brought it back. Now, through a social media post from its hardware director and newly published job descriptions, OpenAI is revealing more about ...
 Link: https://techcrunch.com/2025/01/10/new-openai-job-listings-reveal-its-robotics-plans/
-Headline: How OpenAI’s bot crushed this seven-person company’s web site ‘like a DDoS attack’
+Headline: How OpenAI’s bot crushed this seven-person company’s website ‘like a DDoS attack’
 Description: <p>OpenAI was sending “tens of thousands” of server requests trying to download Triplegangers' entire site which hosts hundreds of thousands of photos.</p>
 <p>© 2024 TechCrunch. All rights reserved. F...
 Link: https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/
@@ -23,13 +30,6 @@ Link: https://techcrunch.com/podcast/5b-livestream-shopping-apps-nvidia-reveals-
 Headline: Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules
 Description: <p>Developers Max Brodeur-Urbas and Rahul Behal think that AI has the potential to automate lots of business-relevant tasks, but that many of the AI-powered automation tools on the market today are un...
 Link: https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/
-Headline: Hippocratic AI raises $141M for creating patient-facing AI agents
-Description: <p>Hippocratic AI, a startup building AI solutions that can handle non-diagnostic patient-facing tasks, secured a massive $141 million Series B at a valuation of $1.64 billion led by Kleiner Perkins, ...
-Link: https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/
-Headline: Nvidia’s AI avatar sat on my computer screen and weirded me out
-Description: <p>Nvidia unveiled a prototype AI avatar at CES 2025 that lives on your PC&#8217;s desktop. The AI assistant, R2X, looks like a video game character, and it can help you navigate apps on your computer...
-Link: https://techcrunch.com/2025/01/09/nvidias-ai-avatar-sat-on-my-computer-screen-and-weirded-me-out/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -139,6 +139,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: Anthropic’s chief scientist on 5 ways agents will be even better in 2025
+Description: Agents are the hottest thing in tech right now. Top firms from Google DeepMind to OpenAI to Anthropic are racing to augment large language models with the ability to carry out tasks by themselves. Kno...
+Link: https://www.technologyreview.com/2025/01/11/1109909/anthropics-chief-scientist-on-5-ways-agents-will-be-even-better-in-2025/
 Headline: What’s next for AI in 2025
 Description: MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. For the last couple of yea...
 Link: https://www.technologyreview.com/2025/01/08/1109188/whats-next-for-ai-in-2025/
@@ -166,9 +169,6 @@ Link: https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artif
 Headline: The AI Hype Index: Robot pets, simulated humans, and Apple’s AI text summaries
 Description: Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. ...
 Link: https://www.technologyreview.com/2024/12/31/1108640/ai-hype-index-apple-google-deepmind-openai-meta/
-Headline: The humans behind the robots
-Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Here’s a question. Imagine that, for $15,000, you could purcha...
-Link: https://www.technologyreview.com/2024/12/24/1109523/the-humans-behind-the-robots/
 
 ---
 
@@ -212,6 +212,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/optimizing-costs-of-generati
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Listen to your technology users — they have led to the most disruptive innovations in history
+Description: Technology users can be a source of ingenious ideas rather than a barrier. Here's how to seek out innovative disruption.
+Link: https://venturebeat.com/ai/listen-to-your-technology-users-they-have-led-to-the-most-disruptive-innovations-in-history/
 Headline: OpenAI has begun building out its robotics team
 Description: Previously, OpenAI partnered with robotics startup Figure to provide the models powering the latter's humanoid robots.
 Link: https://venturebeat.com/ai/openai-has-begun-building-out-its-robotics-team/
@@ -239,9 +242,6 @@ Link: https://venturebeat.com/ai/diffbots-ai-model-doesnt-guess-it-knows-thanks-
 Headline: How Narvar is using AI and data to enhance post-purchase customer experiences
 Description: How Narvar's new tech is using AI to harness the power of 42 billion consumer interactions a year to improve retail operations.
 Link: https://venturebeat.com/ai/how-narvar-is-using-ai-and-data-to-enhance-post-purchase-customer-experiences/
-Headline: Cohere just launched ‘North,’ its biggest AI bet yet for privacy-focused enterprises
-Description: Cohere launches North, a secure enterprise AI platform outperforming Microsoft Copilot and Google Vertex AI in testing, with Royal Bank of Canada among early adopters implementing the technology for r...
-Link: https://venturebeat.com/ai/cohere-launches-north-to-redefine-enterprise-ai-with-security-and-customization-at-its-core/
 
 ---
 
@@ -261,9 +261,6 @@ Link: https://www.zdnet.com/article/ai-agents-may-soon-surpass-people-as-primary
 Headline: Nvidia Cosmos - an AI platform to change the future of robots and cars - wins Best of CES 2025
 Description: At this year's CES, the GPU king unveiled agentic AI software tools, robotics training frameworks, and a dedicated AI workstation.
 Link: https://www.zdnet.com/article/nvidia-signs-largest-car-maker-toyota-to-use-its-self-driving-tech/
-Headline: Want a quick daily podcast based on your interests? Try Google's latest AI experiment
-Description: Dubbed Daily Listen, a podcast hosted by two AI chatbots will discuss topics based on your search and Discover activities on Google.
-Link: https://www.zdnet.com/article/want-a-quick-daily-podcast-based-on-your-interests-try-googles-latest-ai-experiment/
 
 ---
 
@@ -390,21 +387,27 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Project Digits: How NVIDIA's $3,000 AI Supercomputer Could Democratize Local AI Development | Caveman Press
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hxuno9/project_digits_how_nvidias_3000_ai_supercomputer/"> <img alt="Project Digits: How NVIDIA's $3,000 AI Supercomputer Could ...
-Link: https://www.reddit.com/r/artificial/comments/1hxuno9/project_digits_how_nvidias_3000_ai_supercomputer/
-Headline: One-Minute Daily AI News 1/9/2025
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Meta</strong> knew it used pirated books to train AI, authors say.[1]</li> <li><strong>Wall Street</strong> Job Losses May Top 200,000 as AI Replaces Ro...
-Link: https://www.reddit.com/r/artificial/comments/1hxxdun/oneminute_daily_ai_news_192025/
-Headline: Ai made into Game engine concepts: generating complex unique characters for every playthrough! With complex interaction with items and plot‐ This one: monster girls in a forest
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hyh81z/ai_made_into_game_engine_concepts_generating/"> <img alt="Ai made into Game engine concepts: generating complex unique ch...
-Link: https://www.reddit.com/r/artificial/comments/1hyh81z/ai_made_into_game_engine_concepts_generating/
-Headline: WhatsApp Tests New Design Featuring AI Chatbots And Really Hopes You Want To Talk
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hy59pg/whatsapp_tests_new_design_featuring_ai_chatbots/"> <img alt="WhatsApp Tests New Design Featuring AI Chatbots And Really H...
-Link: https://www.reddit.com/r/artificial/comments/1hy59pg/whatsapp_tests_new_design_featuring_ai_chatbots/
-Headline: I made a prototype concept to make ai into a text game engine. This one isabout being in a monster academy and attempting to hide your a human. So far it has: moving plot, auto made in depth characters, their own goals and interweaving conflicts among all characters user meets!
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hyh28e/i_made_a_prototype_concept_to_make_ai_into_a_text/"> <img alt="I made a prototype concept to make ai into a text game eng...
-Link: https://www.reddit.com/r/artificial/comments/1hyh28e/i_made_a_prototype_concept_to_make_ai_into_a_text/
+Headline: This year, says Zuckerberg, Meta and other tech companies will have AIs that can be mid-level engineers, and these "AI engineers" will write code and develop AI instead of human engineers
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hyoksd/this_year_says_zuckerberg_meta_and_other_tech/"> <img alt="This year, says Zuckerberg, Meta and other tech companies will...
+Link: https://www.reddit.com/r/artificial/comments/1hyoksd/this_year_says_zuckerberg_meta_and_other_tech/
+Headline: Jasper Zhang says AI agents are already renting GPUs on their own and doing AI development in PyTorch
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hz7va4/jasper_zhang_says_ai_agents_are_already_renting/"> <img alt="Jasper Zhang says AI agents are already renting GPUs on thei...
+Link: https://www.reddit.com/r/artificial/comments/1hz7va4/jasper_zhang_says_ai_agents_are_already_renting/
+Headline: Playing Human or Not and the A.I. gave up
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hymf34/playing_human_or_not_and_the_ai_gave_up/"> <img alt="Playing Human or Not and the A.I. gave up" src="https://preview.redd...
+Link: https://www.reddit.com/r/artificial/comments/1hymf34/playing_human_or_not_and_the_ai_gave_up/
+Headline: Which path are we on?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hyndx8/which_path_are_we_on/"> <img alt="Which path are we on?" src="https://preview.redd.it/qainqvhyeace1.png?width=640&amp;cro...
+Link: https://www.reddit.com/r/artificial/comments/1hyndx8/which_path_are_we_on/
+Headline: One-Minute Daily AI News 1/10/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Microsoft</strong> accuses group of developing tool to abuse its AI service in new lawsuit.[1]</li> <li>AI Algorithm Takes Us Closer to Forecasting the ...
+Link: https://www.reddit.com/r/artificial/comments/1hymd2r/oneminute_daily_ai_news_1102025/
+Headline: What are alternative Free AI generator to Chat GPT that allows you to ask explicit questions without dealing with the oppressive restrictions?
+Description: <!-- SC_OFF --><div class="md"><p>Its really annoying intetially or unintentionally having a question blocked because it has something suggestive. what other plat forms and most jail breaks don't work...
+Link: https://www.reddit.com/r/artificial/comments/1hz7zxi/what_are_alternative_free_ai_generator_to_chat/
+Headline: on-line AI image generator !
+Description: <!-- SC_OFF --><div class="md"><p>I'm looking for a good <strong>on-line AI image generator</strong> :</p> <p>- for free,</p> <p>- preferably unlimited access,</p> <p>- no filters (nsfw !),</p> <p>- g...
+Link: https://www.reddit.com/r/artificial/comments/1hyvy2r/online_ai_image_generator/
 
 ---
 
