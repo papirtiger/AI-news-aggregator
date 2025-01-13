@@ -1,4 +1,4 @@
-AI News Updates - 2025-01-12 02:57:47
+AI News Updates - 2025-01-13 02:55:51
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
 Headline: Researchers open source Sky-T1, a ‘reasoning’ AI model that can be trained for less than $450
@@ -33,6 +33,10 @@ Link: https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouve
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: How to turn off Apple Intelligence on your iPhone
+Description: <figure>
+      <img alt="iPhone with grayscale screen against a colorful illustrated background." src="https://cdn.vox-cdn.com/thumbor/Cfm7GaySgn0g3r9qTpQoNhaharA=/0x0:2040x1360/1310x873/cdn.vox-cdn.c...
+Link: https://www.theverge.com/24340563/apple-intelligence-ios-iphone-disable-how-to
 Headline: How Elon Musk’s xAI is quietly taking over X
 Description: <figure>
       <img alt="An image showing Elon Musk on a red striped background" src="https://cdn.vox-cdn.com/thumbor/jevGHIJKJqQsbmS0Z1qX3617ibM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus...
@@ -57,10 +61,6 @@ Headline: Omi is another AI companion wearable — but this one’s trying to re
 Description: <figure>
       <img alt="A man in a chair with a glowing wearable on his temple." src="https://cdn.vox-cdn.com/thumbor/O9ChqqdW-C2pSxk-cH_cPb3QO5A=/100x0:1180x720/1310x873/cdn.vox-cdn.com/uploads/chor...
 Link: https://www.theverge.com/2025/1/8/24338750/omi-ai-wearable-friend-companion
-Headline: Las Vegas police release ChatGPT logs from the suspect in the Cybertruck explosion
-Description: <figure>
-      <img alt="Screenshot of surveillance video, showing investigators with the Cybertruck after the explosion, as it sat in front of the Trump Hotel." src="https://cdn.vox-cdn.com/thumbor/R...
-Link: https://www.theverge.com/2025/1/7/24338788/las-vegas-cybertruck-explosion-chatgpt-ai-search
 
 ---
 
@@ -212,6 +212,12 @@ Link: https://aws.amazon.com/blogs/machine-learning/optimizing-costs-of-generati
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: AI is set to transform education — what enterprise leaders can learn from this development
+Description: Unbound Academy will replace teachers with AI tools, representing the latest chapter in a 60-year quest in computer assisted instruction.
+Link: https://venturebeat.com/ai/ai-is-set-to-transform-education-what-enterprise-leaders-can-learn-from-this-development/
+Headline: The 13 best ideas, products and services of CES 2025 | The DeanBeat
+Description: As one of 6,000 journalists at the show, I walked around a lot to find the coolest tech. My conclusion: The robots are coming.
+Link: https://venturebeat.com/ai/the-best-ideas-products-and-services-of-ces-2025-the-deanbeat/
 Headline: Listen to your technology users — they have led to the most disruptive innovations in history
 Description: Technology users can be a source of ingenious ideas rather than a barrier. Here's how to seek out innovative disruption.
 Link: https://venturebeat.com/ai/listen-to-your-technology-users-they-have-led-to-the-most-disruptive-innovations-in-history/
@@ -236,16 +242,13 @@ Link: https://venturebeat.com/ai/llamaindex-goes-beyond-rag-so-agents-can-make-c
 Headline: Microsoft’s new rStar-Math technique upgrades small models to outperform OpenAI’s o1-preview at math problems
 Description: Phi-4 and an rStar-Math paper suggest that compact, specialized models can provide powerful alternatives to the industry’s largest systems.
 Link: https://venturebeat.com/ai/microsofts-new-rstar-math-technique-upgrades-small-models-to-outperform-openais-o1-preview-at-math-problems/
-Headline: Diffbot’s AI model doesn’t guess — it knows, thanks to a trillion-fact knowledge graph
-Description: Diffbot challenges AI giants with a breakthrough open-source language model that outperforms ChatGPT and Google Gemini by prioritizing real-time fact retrieval over large-scale parameters, marking a p...
-Link: https://venturebeat.com/ai/diffbots-ai-model-doesnt-guess-it-knows-thanks-to-a-trillion-fact-knowledge-graph/
-Headline: How Narvar is using AI and data to enhance post-purchase customer experiences
-Description: How Narvar's new tech is using AI to harness the power of 42 billion consumer interactions a year to improve retail operations.
-Link: https://venturebeat.com/ai/how-narvar-is-using-ai-and-data-to-enhance-post-purchase-customer-experiences/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Halliday's new AI glasses are what Meta, Google, and Apple have been trying to build
+Description: I tried Halliday's AI smart glasses at CES 2025. With a display that's built into the frame - not the lens - they even beat my Ray-Ban Metas in several ways.
+Link: https://www.zdnet.com/article/hallidays-new-ai-glasses-are-what-meta-google-and-apple-have-been-trying-to-build/
 Headline: The best AI tech of CES 2025: Neural wristbands, smart mirrors and more
 Description: AI was featured in nearly every consumer tech category at CES. Here's what stood out the most.
 Link: https://www.zdnet.com/article/the-best-ai-tech-of-ces-2025-neural-wristbands-smart-mirrors-and-more/
@@ -258,9 +261,6 @@ Link: https://www.zdnet.com/article/the-fastest-growing-jobs-in-the-ai-powered-e
 Headline: AI agents may soon surpass people as primary application users
 Description: A 'binary big bang' occurred when AI foundation models cracked the natural language barrier, kickstarting a shift in our technology systems: how we design them, use them, and how they operate.
 Link: https://www.zdnet.com/article/ai-agents-may-soon-surpass-people-as-primary-application-users/
-Headline: Nvidia Cosmos - an AI platform to change the future of robots and cars - wins Best of CES 2025
-Description: At this year's CES, the GPU king unveiled agentic AI software tools, robotics training frameworks, and a dedicated AI workstation.
-Link: https://www.zdnet.com/article/nvidia-signs-largest-car-maker-toyota-to-use-its-self-driving-tech/
 
 ---
 
@@ -387,28 +387,21 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: This year, says Zuckerberg, Meta and other tech companies will have AIs that can be mid-level engineers, and these "AI engineers" will write code and develop AI instead of human engineers
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hyoksd/this_year_says_zuckerberg_meta_and_other_tech/"> <img alt="This year, says Zuckerberg, Meta and other tech companies will...
-Link: https://www.reddit.com/r/artificial/comments/1hyoksd/this_year_says_zuckerberg_meta_and_other_tech/
-Headline: Jasper Zhang says AI agents are already renting GPUs on their own and doing AI development in PyTorch
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hz7va4/jasper_zhang_says_ai_agents_are_already_renting/"> <img alt="Jasper Zhang says AI agents are already renting GPUs on thei...
-Link: https://www.reddit.com/r/artificial/comments/1hz7va4/jasper_zhang_says_ai_agents_are_already_renting/
-Headline: Playing Human or Not and the A.I. gave up
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hymf34/playing_human_or_not_and_the_ai_gave_up/"> <img alt="Playing Human or Not and the A.I. gave up" src="https://preview.redd...
-Link: https://www.reddit.com/r/artificial/comments/1hymf34/playing_human_or_not_and_the_ai_gave_up/
-Headline: Which path are we on?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hyndx8/which_path_are_we_on/"> <img alt="Which path are we on?" src="https://preview.redd.it/qainqvhyeace1.png?width=640&amp;cro...
-Link: https://www.reddit.com/r/artificial/comments/1hyndx8/which_path_are_we_on/
-Headline: One-Minute Daily AI News 1/10/2025
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Microsoft</strong> accuses group of developing tool to abuse its AI service in new lawsuit.[1]</li> <li>AI Algorithm Takes Us Closer to Forecasting the ...
-Link: https://www.reddit.com/r/artificial/comments/1hymd2r/oneminute_daily_ai_news_1102025/
-Headline: What are alternative Free AI generator to Chat GPT that allows you to ask explicit questions without dealing with the oppressive restrictions?
-Description: <!-- SC_OFF --><div class="md"><p>Its really annoying intetially or unintentionally having a question blocked because it has something suggestive. what other plat forms and most jail breaks don't work...
-Link: https://www.reddit.com/r/artificial/comments/1hz7zxi/what_are_alternative_free_ai_generator_to_chat/
-Headline: on-line AI image generator !
-Description: <!-- SC_OFF --><div class="md"><p>I'm looking for a good <strong>on-line AI image generator</strong> :</p> <p>- for free,</p> <p>- preferably unlimited access,</p> <p>- no filters (nsfw !),</p> <p>- g...
-Link: https://www.reddit.com/r/artificial/comments/1hyvy2r/online_ai_image_generator/
-
+Headline: SF police quietly re-opened the OpenAI whistleblower case after his parents showed evidence of murder
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1hzuz1g/sf_police_quietly_reopened_the_openai/"> <img alt="SF police quietly re-opened the OpenAI whistleblower case after his pa...
+Link: https://www.reddit.com/r/artificial/comments/1hzuz1g/sf_police_quietly_reopened_the_openai/
+Headline: What in the mother of digital capitalism and AI is this youtube add
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/jonnygotagoal"> /u/jonnygotagoal </a> <br /> <span><a href="https://i.redd.it/e48eyyklmjce1.png">[link]</a></span> &#32; <span><a href="ht...
+Link: https://www.reddit.com/r/artificial/comments/1hzk94o/what_in_the_mother_of_digital_capitalism_and_ai/
+Headline: One-Minute Daily AI News 1/11/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Researchers open source Sky-T1, a ‘reasoning’ AI model that can be trained for less than $450.[1]</li> <li>The woman who built an ‘aidbot’ for displaced people ...
+Link: https://www.reddit.com/r/artificial/comments/1hzczvg/oneminute_daily_ai_news_1112025/
+Headline: Funny Sora Fail
+Description: <!-- SC_OFF --><div class="md"><p>Seems like video generation has some problems with sharp movements I still like the result though. </p> <p>AI Goes Full Exorcist #aifail #aibloopers #scary <a href="h...
+Link: https://www.reddit.com/r/artificial/comments/1hzk2wh/funny_sora_fail/
+Headline: AI/Human Creative Prompting Collaborative Dynamic
+Description: <!-- SC_OFF --><div class="md"><p>In regards to movies for example: </p> <p>Is it possible for a narrow AI to produce novel (visual) content that humans find valuable, without the existence of a separ...
+Link: https://www.reddit.com/r/artificial/comments/1hzhofk/aihuman_creative_prompting_collaborative_dynamic/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
