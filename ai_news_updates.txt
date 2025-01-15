@@ -1,41 +1,57 @@
-AI News Updates - 2025-01-14 02:41:44
+AI News Updates - 2025-01-15 02:44:52
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: Microsoft forms new internal dev-focused AI org
-Description: <p>Microsoft has created a new engineering organization aimed at accelerating AI infrastructure and software development within the company. According to Bloomberg, Jay Parikh, previously VP and globa...
-Link: https://techcrunch.com/2025/01/13/microsoft-forms-new-internal-dev-focused-ai-org/
-Headline: OpenAI presents its preferred version of AI regulation in a new ‘blueprint’
-Description: <p>OpenAI on Monday published what it&#8217;s calling an &#8220;economic blueprint&#8221; for AI: a living document that lays out policies the company thinks it can build on with the U.S. government a...
-Link: https://techcrunch.com/2025/01/13/openai-presents-its-preferred-version-of-ai-regulation-in-a-new-blueprint/
-Headline: The first AI chip startup to go public in 2025 will be Blaize
-Description: <p>Blaize, an AI chip manufacturer founded by former Intel engineers, is set to IPO on the NASDAQ on January 14.</p>
+Headline: Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins
+Description: <p>Nvidia has been doubling down on the opportunity to build robotics and other industrial AI applications, with the launch of its Omniverse platform, and most recently Mega, an Omniverse Blueprint fr...
+Link: https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/
+Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
+Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with...
+Link: https://techcrunch.com/2025/01/14/chatgpt-everything-to-know-about-the-ai-chatbot/
+Headline: Meta execs obsessed over beating OpenAI’s GPT-4 internally, court filings reveal
+Description: <p>Executives and researchers leading Meta&#8217;s AI efforts obsessed over beating OpenAI&#8217;s GPT-4 model while developing Llama 3, according to internal messages unsealed by a court on Tuesday i...
+Link: https://techcrunch.com/2025/01/14/meta-execs-obsessed-over-beating-openais-gpt-4-internally-court-filings-reveal/
+Headline: Google’s NotebookLM had to teach its AI podcast hosts not to act annoyed at humans
+Description: <p>NotebookLM's viral AI podcast hosts sounded annoyed at human callers and required "friendliness tuning," Google says.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/
-Headline: Raspberry AI raises $24M from a16z to accelerate fashion design
-Description: <p>The world of fashion is moving at a faster pace each year. Most retailers introduce new styles each season, and fast-fashion companies like Shein, H&#38;M, and Zara update their collections continu...
-Link: https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/
+Link: https://techcrunch.com/2025/01/14/googles-notebooklm-had-to-teach-its-ai-podcast-hosts-not-to-act-annoyed-at-humans/
+Headline: OpenAI appoints BlackRock exec to its board
+Description: <p>OpenAI has appointed to its board of directors an executive at investment firm BlackRock. Adebayo &#8220;Bayo&#8221; Ogunlesi, a senior managing director at BlackRock and CEO of Global Infrastructu...
+Link: https://techcrunch.com/2025/01/14/openai-appoints-blackrock-exec-to-its-board/
+Headline: Biden administration opens up federal land to AI data centers
+Description: <p>With less than a week left in office, President Joe Biden is not done leaving his mark on the AI industry. President Biden issued an executive order on Tuesday that will allow private sector AI com...
+Link: https://techcrunch.com/2025/01/14/biden-administration-opens-up-federal-land-to-ai-data-centers/
+Headline: ChatGPT now lets you schedule reminders and recurring tasks
+Description: <p>Paying users of OpenAI&#8217;s ChatGPT can now ask the AI assistant to schedule reminders or recurring requests. The new beta feature, called tasks, will start rolling out to ChatGPT Plus, Team, an...
+Link: https://techcrunch.com/2025/01/14/chatgpt-now-lets-you-schedule-reminders-and-recurring-tasks/
+Headline: Apple joins consortium to help develop next-gen AI data center tech
+Description: <p>Apple has joined a consortium creating next-gen technology to link together chips in AI data centers. The consortium, the Ultra Accelerator Link Consortium, is developing a standard called UALink, ...
+Link: https://techcrunch.com/2025/01/14/apple-joins-consortium-to-help-develop-next-gen-ai-data-center-tech/
 Headline: A 24-year-old who exited his first company to Coinbase raises $3M for his next venture
 Description: <p>At 24 years old, Pryce Yebesi already has one exit: selling his crypto invoicing company Utopia Labs to Coinbase for an undisclosed amount.&#160; Some founders don&#8217;t just have one company in ...
-Link: https://techcrunch.com/2025/01/13/a-24-year-old-who-exited-his-first-company-to-coinbase-raises-3m-for-his-next-venture/
-Headline: Biden administration proposes sweeping new restrictions on exporting AI chips
-Description: <p>With a week left in office, President Joe Biden introduced a new set of guidelines and restrictions for exporting U.S.-made AI chips. On Monday the administration announced its Interim Final Rule o...
-Link: https://techcrunch.com/2025/01/13/biden-administration-proposes-sweeping-new-restrictions-on-exporting-ai-chips/
-Headline: Moody’s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers
-Description: <p>Financial services firm Moody&#8217;s announced on Monday that it has agreed to acquire Cape Analytics, a geospatial AI startup, for an undisclosed sum. The deal, which is expected to close in Q1, ...
-Link: https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/
-Headline: More money comes to AI healthcare: Qventus nabs $105M at $400M+ valuation
-Description: <p>Healthcare is proving to be one of the more lucrative industries for building AI solutions to speed up clinical, research, and administrative operations. Now, we have one of the latest examples of ...
-Link: https://techcrunch.com/2025/01/13/more-money-comes-to-ai-healthcare-qventus-nabs-105m-at-a-400m-valuation/
-Headline: CoreWeave, a $19B AI compute provider, opens its first international data centers in the UK
-Description: <p>CoreWeave, the cloud computing company that provides companies with AI compute resources, has formally opened its first two data centers in the U.K. — its first outside its domestic U.S. market. Co...
-Link: https://techcrunch.com/2025/01/13/coreweaves-first-international-data-centers-are-now-live-in-the-uk/
-Headline: UK throws its hat into the AI fire
-Description: <p>In 2023, the U.K. made a big song and dance about the need to consider the harms of AI, giving itself a leading role in the wider conversation around AI safety. Now, it’s whistling a very different...
-Link: https://techcrunch.com/2025/01/13/uk-throws-its-hat-into-the-ai-fire/
+Link: https://techcrunch.com/2025/01/14/a-24-year-old-who-exited-his-first-company-to-coinbase-raises-3m-for-his-next-venture/
+Headline: OpenAI quietly revises policy doc to remove reference to ‘politically unbiased’ AI
+Description: <p>OpenAI has quietly removed language endorsing &#8220;politically unbiased&#8221; AI from one of its recently published policy documents. In the original draft of its &#8220;economic blueprint&#8221...
+Link: https://techcrunch.com/2025/01/14/openai-quietly-revises-policy-doc-to-remove-reference-to-politically-unbiased-ai/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Inside Meta’s race to beat OpenAI: “We need to learn how to build frontier and win this race”
+Description: <figure>
+      <img alt="Image of Meta’s wordmark on a red background." src="https://cdn.vox-cdn.com/thumbor/BwVMZT47Kma0oyfAzqXDZkC_dlA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/im...
+Link: https://www.theverge.com/2025/1/14/24343692/meta-lawsuit-copyright-lawsuit-llama-libgen
+Headline: ChatGPT can now handle reminders and to-dos
+Description: <figure>
+      <img alt="ChatGPT logo in mint green and black colors." src="https://cdn.vox-cdn.com/thumbor/bq3kKjG6XVE4VkifY5fm6UjU-M8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/ima...
+Link: https://www.theverge.com/2025/1/14/24343528/openai-chatgpt-repeating-tasks-agent-ai
+Headline: Wyze cameras will use AI to describe what they see
+Description: <figure>
+      <img alt="Wyze Descriptive Alerts, describing three babies trying to escape their cribs." src="https://cdn.vox-cdn.com/thumbor/aVFHuejrJ76EBHDBxwnSzByMLbU=/0x0:2040x1360/1310x873/cdn.vo...
+Link: https://www.theverge.com/2025/1/14/24343388/wyze-security-cameras-ai-descriptive-alerts-cam-unlimited-pro
+Headline: Joe Biden signs executive order to speed AI data center construction
+Description: <figure>
+      <img alt="An aerial view of a large data center under construction next to a roadway." src="https://cdn.vox-cdn.com/thumbor/fWPO2UZLoxnYtE0vFcwmybTjoEk=/0x0:4183x2789/1310x873/cdn.vox-c...
+Link: https://www.theverge.com/2025/1/14/24328120/data-center-executive-order-biden-energy
 Headline: Mercedes-Benz’s Virtual Assistant uses Google’s conversational AI agent
 Description: <figure>
       <img alt="Interior of vehicle with screens across the dash and a word bubble coming from the driver’s seat saying “I’m looking for a great place to take my family for a special birthday...
@@ -56,14 +72,7 @@ Headline: How to turn off Apple Intelligence on your iPhone
 Description: <figure>
       <img alt="iPhone with grayscale screen against a colorful illustrated background." src="https://cdn.vox-cdn.com/thumbor/Cfm7GaySgn0g3r9qTpQoNhaharA=/0x0:2040x1360/1310x873/cdn.vox-cdn.c...
 Link: https://www.theverge.com/24340563/apple-intelligence-ios-iphone-disable-how-to
-Headline: How Elon Musk’s xAI is quietly taking over X
-Description: <figure>
-      <img alt="An image showing Elon Musk on a red striped background" src="https://cdn.vox-cdn.com/thumbor/jevGHIJKJqQsbmS0Z1qX3617ibM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus...
-Link: https://www.theverge.com/2025/1/10/24339249/elon-musk-xai-x-twitter
-Headline: VLC player demos real-time AI subtitling for videos
-Description: <figure>
-      <img alt="The VideoLAN traffic cone icon" src="https://cdn.vox-cdn.com/thumbor/dGsxhFnO6MSCnC8Od4MM7hnBUSA=/594x0:5406x3208/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73836331/...
-Link: https://www.theverge.com/2025/1/9/24339817/vlc-player-automatic-ai-subtitling-translation
+
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -71,6 +80,9 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: Healthcare Leaders, NVIDIA CEO Share AI Innovation Across the Industry
+Description: AI is making inroads across the entire healthcare industry — from genomic research to drug discovery, clinical trial workflows and patient care. In a fireside chat Monday during the annual J.P. Morgan...
+Link: https://blogs.nvidia.com/blog/jp-morgan-healthcare-2025/
 Headline: NVIDIA and IQVIA Build Domain-Expert Agentic AI for Healthcare and Life Sciences
 Description: IQVIA, the world’s leading provider of clinical research services, commercial insights and healthcare intelligence, is working with NVIDIA to build custom foundation models and agentic AI workflows th...
 Link: https://blogs.nvidia.com/blog/iqvia-agentic-ai-healthcare/
@@ -92,9 +104,7 @@ Link: https://blogs.nvidia.com/blog/world-foundation-models-advance-physical-ai/
 Headline: Why Enterprises Need AI Query Engines to Fuel Agentic AI
 Description: Data is the fuel of AI applications, but the magnitude and scale of enterprise data often make it too expensive and time-consuming to use effectively. According to IDC’s Global DataSphere1, enterprise...
 Link: https://blogs.nvidia.com/blog/ai-query-engines-agentic-ai/
-Headline: CES 2025: AI Advancing at ‘Incredible Pace,’ NVIDIA CEO Says
-Description: NVIDIA founder and CEO Jensen Huang kicked off CES 2025 with a 90-minute keynote that included new products to advance gaming, autonomous vehicles, robotics and agentic AI. AI is advancing at an ‘incr...
-Link: https://blogs.nvidia.com/blog/ces-2025-jensen-huang/
+
 ---
 
 From source: https://openai.com/blog/rss.xml
@@ -102,6 +112,36 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: US-China tech war escalates with new AI chips export controls
+Description: <p>The Biden administration&#8217;s final major policy move landed this week with a significant impact on global AI, as it unveiled the most comprehensive AI chips export controls to date. This eleven...
+Link: https://www.artificialintelligence-news.com/news/us-china-tech-war-escalates-with-new-ai-chips-export-controls/?utm_source=rss&utm_medium=rss&utm_campaign=us-china-tech-war-escalates-with-new-ai-chips-export-controls
+Headline: UK Government signs off sweeping AI action plan
+Description: <p>AI is set to become a cornerstone of the UK’s vision for economic and societal renewal with a sweeping action plan unveiled today by Prime Minister Keir Starmer. The government has committed to all...
+Link: https://www.artificialintelligence-news.com/news/uk-government-signs-off-sweeping-ai-action-plan/?utm_source=rss&utm_medium=rss&utm_campaign=uk-government-signs-off-sweeping-ai-action-plan
+Headline: Driver used ChatGPT to plan attack, authorities reveal
+Description: <p>The new year was only beginning, but technology had already taken centre stage in a tragic event that shocked many. Just outside the Trump International Hotel in Las Vegas, a Tesla Cybertruck erupt...
+Link: https://www.artificialintelligence-news.com/news/rriver-used-chatgpt-to-plan-attack-authorities-reveal/?utm_source=rss&utm_medium=rss&utm_campaign=rriver-used-chatgpt-to-plan-attack-authorities-reveal
+Headline: The role of hyperparameters in fine-tuning AI models
+Description: <p>You&#8217;ve got a great idea for an AI-based application. Think of fine-tuning like teaching a pre-trained AI model a new trick. Sure, it already knows plenty from training on massive datasets, bu...
+Link: https://www.artificialintelligence-news.com/news/the-role-of-hyperparameters-in-fine-tuning-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=the-role-of-hyperparameters-in-fine-tuning-ai-models
+Headline: Meta accused of using pirated data for AI development
+Description: <p>Plaintiffs in the case of Kadrey et al. vs. Meta have filed a motion alleging the firm knowingly used copyrighted works in the development of its AI models. The plaintiffs, which include author Ric...
+Link: https://www.artificialintelligence-news.com/news/meta-accused-using-pirated-data-for-ai-development/?utm_source=rss&utm_medium=rss&utm_campaign=meta-accused-using-pirated-data-for-ai-development
+Headline: Copyright concerns create need for a fair alternative in AI sector
+Description: <p>When future generations look back at the rise of artificial intelligence technologies, the year 2025 may be remembered as a major turning point, when the industry took concrete steps towards greate...
+Link: https://www.artificialintelligence-news.com/news/copyright-concerns-create-need-for-a-fair-alternative-in-ai-sector/?utm_source=rss&utm_medium=rss&utm_campaign=copyright-concerns-create-need-for-a-fair-alternative-in-ai-sector
+Headline: Microsoft releases Phi-4 language model on Hugging Face
+Description: <p>Microsoft has officially released its latest language model, Phi-4, on the AI repository Hugging Face. The model is available under the permissive MIT licence, allowing broad usage for developers, ...
+Link: https://www.artificialintelligence-news.com/news/microsoft-releases-phi-4-language-model-hugging-face/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-releases-phi-4-language-model-hugging-face
+Headline: AI and Big Data Expo Global: Less than 4 weeks to go!
+Description: <p>AI and Big Data Expo Global is under four weeks away. Set to take place at the Olympia, London, on 5-6 February 2025, this must-attend artificial intelligence and big data event is for professional...
+Link: https://www.artificialintelligence-news.com/news/ai-and-big-data-expo-global-less-than-4-weeks-to-go/?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-big-data-expo-global-less-than-4-weeks-to-go
+Headline: Singapore-based Firmus wins recognition for AI data centre design
+Description: <p>Singapore-based Firmus Technologies has been recognised with the Asia Pacific Data Centre Project of the Year award for its AI Factory facility. The facility stands out for its advanced infrastruct...
+Link: https://www.artificialintelligence-news.com/news/singapore-based-firmus-wins-recognition-for-ai-data-centre-design/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-based-firmus-wins-recognition-for-ai-data-centre-design
+Headline: NVIDIA advances AI frontiers with CES 2025 announcements
+Description: <p>NVIDIA CEO and founder Jensen Huang took the stage for a keynote at CES 2025 to outline the company’s vision for the future of AI in gaming, autonomous vehicles (AVs), robotics, and more. &#8220;AI...
+Link: https://www.artificialintelligence-news.com/news/nvidia-advances-ai-frontiers-with-ces-2025-announcements/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-advances-ai-frontiers-with-ces-2025-announcements
 
 ---
 
@@ -110,6 +150,12 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: Training robots in the AI-powered industrial metaverse
+Description: Imagine the bustling floors of tomorrow’s manufacturing plant: Robots, well-versed in multiple disciplines through adaptive AI education, work seamlessly and safely alongside human counterparts. These...
+Link: https://www.technologyreview.com/2025/01/14/1109104/training-robots-in-the-ai-powered-industrial-metaverse/
+Headline: Here’s our forecast for AI this year
+Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In December, our small but mighty AI reporting team was asked ...
+Link: https://www.technologyreview.com/2025/01/14/1109958/whats-next-for-ai-in-2025-2/
 Headline: Anthropic’s chief scientist on 4 ways agents will be even better in 2025
 Description: Agents are the hottest thing in tech right now. Top firms from Google DeepMind to OpenAI to Anthropic are racing to augment large language models with the ability to carry out tasks by themselves. Kno...
 Link: https://www.technologyreview.com/2025/01/11/1109909/anthropics-chief-scientist-on-5-ways-agents-will-be-even-better-in-2025/
@@ -134,12 +180,6 @@ Link: https://www.technologyreview.com/2025/01/03/1108937/fast-learning-robots-g
 Headline: Robotaxis: 10 Breakthrough Technologies 2025
 Description: WHO Baidu, Pony AI, Waymo, Wayve, Zoox WHEN Now If you live in certain cities in America or China, you’ve probably spotted driverless cars dropping off passengers. Perhaps you’ve even ridden in one yo...
 Link: https://www.technologyreview.com/2025/01/03/1108950/robotaxis-driverless-cars-breakthrough-technologies-2025/
-Headline: The biggest AI flops of 2024
-Description: The past 12 months have been undeniably busy for those working in AI. There have been more successful product launches than we can count, and even Nobel Prizes. But it hasn’t always been smooth sailin...
-Link: https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/
-Headline: The AI Hype Index: Robot pets, simulated humans, and Apple’s AI text summaries
-Description: Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. ...
-Link: https://www.technologyreview.com/2024/12/31/1108640/ai-hype-index-apple-google-deepmind-openai-meta/
 
 ---
 
@@ -152,6 +192,9 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Unlocking complex problem-solving with multi-agent collaboration on Amazon Bedrock
+Description: The research team at AWS has worked extensively on building and evaluating the multi-agent collaboration (MAC) framework so customers can orchestrate multiple AI agents on Amazon Bedrock Agents. In th...
+Link: https://aws.amazon.com/blogs/machine-learning/unlocking-complex-problem-solving-with-multi-agent-collaboration-on-amazon-bedrock/
 Headline: How BQA streamlines education quality reporting using Amazon Bedrock
 Description: The Education and Training Quality Authority (BQA) plays a critical role in improving the quality of education and training services in the Kingdom Bahrain. BQA reviews the performance of all educatio...
 Link: https://aws.amazon.com/blogs/machine-learning/how-bqa-streamlines-education-quality-reporting-using-amazon-bedrock/
@@ -173,68 +216,59 @@ Link: https://aws.amazon.com/blogs/machine-learning/unlock-cost-effective-ai-inf
 Headline: Align and monitor your Amazon Bedrock powered insurance assistance chatbot to responsible AI principles with AWS Audit Manager
 Description: Generative AI applications should be developed with adequate controls for steering the behavior of FMs. Responsible AI considerations such as privacy, security, safety, controllability, fairness, expl...
 Link: https://aws.amazon.com/blogs/machine-learning/align-and-monitor-your-amazon-bedrock-powered-insurance-assistance-chatbot-to-responsible-ai-principles-with-aws-audit-manager/
-Headline: Evaluate large language models for your machine translation tasks on AWS
-Description: This blog post with accompanying code presents a solution to experiment with real-time machine translation using foundation models (FMs) available in Amazon Bedrock. It can help collect more data on t...
-Link: https://aws.amazon.com/blogs/machine-learning/evaluate-large-language-models-for-your-machine-translation-tasks-on-aws/
-Headline: Parameta accelerates client email resolution with Amazon Bedrock Flows
-Description: In this post, we show you how Parameta used Amazon Bedrock Flows to transform their manual client email processing into an automated, intelligent workflow that reduced resolution times from weeks to d...
-Link: https://aws.amazon.com/blogs/machine-learning/parameta-accelerates-client-email-resolution-with-amazon-bedrock-flows/
-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: MiniMax unveils its own open source LLM with industry-leading 4M token context
+Description: LLM MiniMax-Text-o1 is of particular note for enabling up to 4 million tokens in its context window — equivalent to a small library.
+Link: https://venturebeat.com/ai/minimax-unveils-its-own-open-source-llm-with-industry-leading-4m-token-context/
+Headline: Hallucinations in AI: How GSK is addressing a critical problem in drug development
+Description: Hallucinations are a persistent problem in healthcare. Here's how GSK is using test-time compute scaling to improve its gen AI systems.
+Link: https://venturebeat.com/ai/hallucinations-in-ai-how-gsk-is-addressing-a-critical-problem-in-drug-development/
+Headline: Google’s Gemini AI just shattered the rules of visual processing — here’s what that means for you
+Description: Google's Gemini AI achieves a milestone with simultaneous video and image processing, unlocking possibilities through AnyChat.
+Link: https://venturebeat.com/ai/google-gemini-ai-just-shattered-the-rules-of-visual-processing-heres-what-that-means-for-you/
+Headline: OpenAI’s agentic era begins: ChatGPT Tasks offers job scheduling, reminders and more
+Description: OpenAI will let some users schedule task reminders on ChatGPT, a sign the company may be readying itself to release an agent.
+Link: https://venturebeat.com/ai/openais-agentic-era-begins-chatgpt-tasks-offers-job-scheduling-reminders-and-more/
+Headline: Cerebras Systems teams with Mayo Clinic on genomic model that predicts arthritis treatment
+Description: Cerebras Systems has teamed with Mayo Clinic to create an AI genomic foundation model that predicts the best medical treatments.
+Link: https://venturebeat.com/ai/cerebras-systems-teams-with-mayo-clinic-on-genomic-model-that-predicts-arthritis-treatment/
+Headline: How HP sees the era of the AI PC | Alex Cho
+Description: PC makers are betting everything on the AI bandwagon. At the CES 2025 tech trade show in Las Vegas last week, AI technology was everywhere.
+Link: https://venturebeat.com/games/how-hp-sees-the-era-of-the-ai-pc-alex-cho/
+Headline: Imec spins out Vertical Compute memory chip firm in $20.5M deal
+Description: Europe's Imec.xpand is spinning out memory chip firm Vertical Compute in a seed investment round worth $20.5 million.
+Link: https://venturebeat.com/ai/imec-spins-out-vertical-compute-memory-chip-firm-in-20-5m-deal/
 Headline: Do new AI reasoning models require new approaches to prompting?
 Description: Even when it comes to non-reasoning LLMs such as Claude 3.5 Sonnet, there may be room for regular users to improve their prompting.
 Link: https://venturebeat.com/ai/do-new-ai-reasoning-models-require-new-approaches-to-prompting/
 Headline: Mistral’s new Codestral code completion model races up third-party charts
 Description: The newest version of Mistral's code generation model Codestral aims to be more efficient and generate code twice as fast.
 Link: https://venturebeat.com/ai/mistrals-new-codestral-code-completion-model-races-up-third-party-charts/
-Headline: LlamaV-o1 is the AI model that explains its thought process—here’s why that matters
-Description: LlamaV-o1, a groundbreaking AI model from MBZUAI, revolutionizes multimodal reasoning by providing transparent step-by-step explanations across text and visual tasks, outperforming competitors in spee...
-Link: https://venturebeat.com/ai/llamav-o1-is-the-ai-model-that-explains-its-thought-process-heres-why-that-matters/
-Headline: Cybersecurity at AI speed: How agentic AI is supercharging SOC teams in 2025
-Description: Agentic AI helps SOCs automate decision-making and adapt to evolving threats, streamline workflows, and improve incident response.
-Link: https://venturebeat.com/ai/cybersecurity-at-ai-speed-agentic-ai-supercharging-soc/
-Headline: Up Network and DreamSmart partner on Web3 AI glasses powered by Google Gemini
-Description: <p>Up Network, the user-powered AI agent operating system, has announced its partnership with DreamSmart to introduce Web3 AI glasses powered by Google Gemini. This product integrates state-of-the-art...
-Link: https://venturebeat.com/ai/up-network-and-dreamsmart-partner-on-web3-ai-glasses-powered-by-google-gemini/
-Headline: In the future, we will all manage our own AI agents | Jensen Huang Q&A
-Description: Nvidia CEO Jensen Huang answered all of the press questions at an event at CES 2025. Then he took questions from financial analysts.
-Link: https://venturebeat.com/ai/in-the-future-we-will-all-manage-our-own-ai-agents-jensen-huang-qa/
-Headline: Adobe Firefly Bulk Create edits several images all at once
-Description: Adobe's new Firefly Bulk Create streamlines the tedious task of editing dozens of images for websites and social platforms.
-Link: https://venturebeat.com/ai/adobe-firefly-bulk-create-edits-several-images-all-at-once/
-Headline: Krafton and Nvidia team up to create smarter AI characters for PUBG and inZOI
-Description: Nvidia and Krafton unveiled a groundbreaking on-device AI that will enable smarter AI characters for PUBG and inZoi.
-Link: https://venturebeat.com/gaming-business/krafton-and-nvidia-team-up-to-create-smarter-ai-characters-for-pubg-and-inzoi/
-Headline: AI is set to transform education — what enterprise leaders can learn from this development
-Description: Unbound Academy will replace teachers with AI tools, representing the latest chapter in a 60-year quest in computer assisted instruction.
-Link: https://venturebeat.com/ai/ai-is-set-to-transform-education-what-enterprise-leaders-can-learn-from-this-development/
-Headline: The 13 best ideas, products and services of CES 2025 | The DeanBeat
-Description: As one of 6,000 journalists at the show, I walked around a lot to find the coolest tech. My conclusion: The robots are coming.
-Link: https://venturebeat.com/ai/the-best-ideas-products-and-services-of-ces-2025-the-deanbeat/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: Wanted: Humans to build robots for OpenAI - and not everyone is thrilled
-Description: A series of job listings for the ChatGPT maker's robotics team suggest the company is finally ready to leap into hardware.
-Link: https://www.zdnet.com/article/wanted-humans-to-build-robots-for-openai-and-not-everyone-is-thrilled/
-Headline: $450 and 19 hours is all it takes to rival OpenAI's o1-preview
-Description: UC Berkeley released an open-source model that's on par with o1's math and coding abilities - for a fraction of the cost.
-Link: https://www.zdnet.com/article/450-and-19-hours-is-all-it-takes-to-rival-openais-o1-preview/
-Headline: I tried an AI wristband that listens to you 24/7 - and makes IRL conversations searchable
-Description: The Bee Pioneer Band listens to everything you say - and offers feedback. Should I be worried?
-Link: https://www.zdnet.com/article/i-tried-an-ai-wristband-that-listens-to-you-247-and-makes-irl-conversations-searchable/
-Headline: How AI could supercharge your glucose monitor - and catch other health issues
-Description: Stanford researchers built an algorithm to predict subtypes of Type 2 diabetes that works right from your home.
-Link: https://www.zdnet.com/article/how-ai-could-supercharge-your-glucose-monitor-and-catch-other-health-issues/
-Headline: Halliday's new AI glasses are what Meta, Google, and Apple have been trying to build
-Description: I tried Halliday's AI smart glasses at CES 2025. With a display that's built into the frame - not the lens - they even beat my Ray-Ban Metas in several ways.
-Link: https://www.zdnet.com/article/hallidays-new-ai-glasses-are-what-meta-google-and-apple-have-been-trying-to-build/
-Headline: The best AI tech of CES 2025: Neural wristbands, smart mirrors and more
-Description: AI was featured in nearly every consumer tech category at CES. Here's what stood out the most.
-Link: https://www.zdnet.com/article/the-best-ai-tech-of-ces-2025-neural-wristbands-smart-mirrors-and-more/
+Headline: Samsung Unpacked 2025: How to watch and what to expect
+Description: At next week's event, we're looking forward to Samsung's Galaxy S25 lineup, new AI features, perhaps a Galaxy Ring 2, smart glasses - and more. See what's coming.
+Link: https://www.zdnet.com/article/samsung-unpacked-2025-how-to-watch-and-what-to-expect/
+Headline: Leaked Nothing Phone 3 email teases AI-powered flagship - but I'd rather see this
+Description: Synonymous with unique mid-range Android phones, Nothing is planning to launch its first true flagship in Q1 2025.
+Link: https://www.zdnet.com/article/leaked-nothing-phone-3-email-teases-ai-powered-flagship-but-id-rather-see-this/
+Headline: I bought an iPhone 16 for its AI features, but I haven't used them even once - here's why
+Description: C'mon, Apple. You're better than this.
+Link: https://www.zdnet.com/article/i-bought-an-iphone-16-for-its-ai-features-but-i-havent-used-them-even-once-heres-why/
+Headline: How to use Visual Intelligence on an iPhone 16 to identify unknown objects
+Description: Using the new Camera Control on the iPhone 16, Visual Intelligence will search for details and answer questions about something that you snap through the camera.
+Link: https://www.zdnet.com/article/how-to-use-visual-intelligence-on-an-iphone-16-to-identify-unknown-objects/
+Headline: These tech skills drove the biggest salary increases over the past year
+Description: A new tech salaries report suggests that working with AI boosts both pay and satisfaction - but it also cautions that excessive job hopping can work against you.
+Link: https://www.zdnet.com/article/these-tech-skills-drove-the-biggest-salary-increases-over-the-past-year/
+Headline: Red Hat bets big on AI with its Neural Magic acquisition
+Description: Everyone and their dog is getting into AI, but Red Hat has serious plans, and acquiring Neural Magic will help bring them to fruition.
+Link: https://www.zdnet.com/article/red-hat-bets-big-on-ai-with-its-neural-magic-acquisition/
+
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -360,27 +394,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Which AI Service Free/Paid you used the most.
-Description: <!-- SC_OFF --><div class="md"><p>For me it is still chatgpt. I know there are other chatbot out there but I started off AI with chatgpt and i still find it quite comfortable using it. </p> </div><!--...
-Link: https://www.reddit.com/r/artificial/comments/1i0echl/which_ai_service_freepaid_you_used_the_most/
-Headline: Data center projects worth £14bn announced with new UK government AI plan
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/Typical-Plantain256"> /u/Typical-Plantain256 </a> <br /> <span><a href="https://www.datacenterdynamics.com/en/news/uk-ai-opportunities-act...
-Link: https://www.reddit.com/r/artificial/comments/1i0ecj3/data_center_projects_worth_14bn_announced_with/
-Headline: One-Minute Daily AI News 1/12/2025
-Description: <!-- SC_OFF --><div class="md"><ol> <li>UK PM Starmer to outline plan to make Britain world leader in AI.[1]</li> <li>Zuckerberg announces <strong>Meta</strong> plans to replace Mid-Level engineers wi...
-Link: https://www.reddit.com/r/artificial/comments/1i06z97/oneminute_daily_ai_news_1122025/
-Headline: OpenAI’s “AI in America” blueprint is really a list of demands for the US government
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i0lwcq/openais_ai_in_america_blueprint_is_really_a_list/"> <img alt="OpenAI’s “AI in America” blueprint is really a list of dema...
-Link: https://www.reddit.com/r/artificial/comments/1i0lwcq/openais_ai_in_america_blueprint_is_really_a_list/
-Headline: Civil Construction Business
-Description: <!-- SC_OFF --><div class="md"><p>I work as a Contracts Manager in the civil construction industry. I am looking to leverage AI where possible in my work.</p> <p>I use Chat GTP to help with some of my...
-Link: https://www.reddit.com/r/artificial/comments/1i0tdzw/civil_construction_business/
-Headline: US places fresh export restrictions on AI chips
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i0lbej/us_places_fresh_export_restrictions_on_ai_chips/"> <img alt="US places fresh export restrictions on AI chips " src="https...
-Link: https://www.reddit.com/r/artificial/comments/1i0lbej/us_places_fresh_export_restrictions_on_ai_chips/
-Headline: Has any used AI without any "safety" guardrails? Does anyone know what they are?
-Description: <!-- SC_OFF --><div class="md"><p>I have long been very dubious of the so called safety guardrails that AI companies that OpneAI and Anthropic purport to have in place.</p> <p>Just as they keep what i...
-Link: https://www.reddit.com/r/artificial/comments/1i0m31c/has_any_used_ai_without_any_safety_guardrails/
+Headline: How can Hoody AI provide uncensored Sonnet?
+Description: <!-- SC_OFF --><div class="md"><p>So, I have a Premium account there and also a Pro account on Claude, however, I wonder how Hoody can achieves a lower level of censorship than Claude itself.</p> <p>F...
+Link: https://www.reddit.com/r/artificial/comments/1i15riu/how_can_hoody_ai_provide_uncensored_sonnet/
+Headline: Stuart Russell says superintelligence is coming, and CEOs of AI companies are deciding our fate. They admit a 10-25% extinction risk—playing Russian roulette with humanity without our consent. Why are we letting them do this?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i1iqpt/stuart_russell_says_superintelligence_is_coming/"> <img alt="Stuart Russell says superintelligence is coming, and CEOs of...
+Link: https://www.reddit.com/r/artificial/comments/1i1iqpt/stuart_russell_says_superintelligence_is_coming/
+Headline: A Spymaster Sheikh Controls a $1.5 Trillion Fortune. He Wants to Use It to Dominate AI
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i1749i/a_spymaster_sheikh_controls_a_15_trillion_fortune/"> <img alt="A Spymaster Sheikh Controls a $1.5 Trillion Fortune. He Wa...
+Link: https://www.reddit.com/r/artificial/comments/1i1749i/a_spymaster_sheikh_controls_a_15_trillion_fortune/
+Headline: Red teaming exercise finds AI agents can now hire hitmen on the darkweb to carry out assassinations
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i1ei8r/red_teaming_exercise_finds_ai_agents_can_now_hire/"> <img alt="Red teaming exercise finds AI agents can now hire hitmen o...
+Link: https://www.reddit.com/r/artificial/comments/1i1ei8r/red_teaming_exercise_finds_ai_agents_can_now_hire/
+Headline: One-Minute Daily AI News 1/13/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li>US tightens its grip on AI chip flows across the globe.[1]</li> <li><strong>OpenAI</strong> presents its preferred version of AI regulation in a new ‘blueprint’...
+Link: https://www.reddit.com/r/artificial/comments/1i0xs4n/oneminute_daily_ai_news_1132025/
+Headline: I made a prototype for generating pokemon-style worlds with ai
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i1dc6s/i_made_a_prototype_for_generating_pokemonstyle/"> <img alt="I made a prototype for generating pokemon-style worlds with a...
+Link: https://www.reddit.com/r/artificial/comments/1i1dc6s/i_made_a_prototype_for_generating_pokemonstyle/
+Headline: Open Source Alternative to AI Quiz Generators: Text2Question.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i19gv0/open_source_alternative_to_ai_quiz_generators/"> <img alt="Open Source Alternative to AI Quiz Generators: Text2Question."...
+Link: https://www.reddit.com/r/artificial/comments/1i19gv0/open_source_alternative_to_ai_quiz_generators/
+Headline: Industry Tailored AI?
+Description: <!-- SC_OFF --><div class="md"><p>So for context, I work for a homebuilding construction company and we are currently looking for an AI model similar to ChatGPT, but we want to eliminate having to giv...
+Link: https://www.reddit.com/r/artificial/comments/1i1lpp2/industry_tailored_ai/
 
 ---
 
