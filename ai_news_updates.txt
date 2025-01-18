@@ -1,36 +1,30 @@
-AI News Updates - 2025-01-17 02:42:50
+AI News Updates - 2025-01-18 02:39:51
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: Despite VCs investing $75B in Q4 , it’s still hard for startups to raise money, data proves
-Description: <p>After two years of relatively muted investment activity, it seems that VCs are starting to pour capital into startups at pandemic-era levels once again. But a closer look shows that they aren’t rea...
-Link: https://techcrunch.com/2025/01/16/despite-vcs-investing-75b-in-q4-its-still-hard-for-startups-to-raise-money-data-proves/
+Headline: Amazon suspends US drone deliveries following crash at testing facility
+Description: <p>Amazon has paused testing of its delivery drones following a crash involving two of its models, according to Bloomberg. It&#8217;s the latest setback for Amazon&#8217;s beleaguered Prime Air progra...
+Link: https://techcrunch.com/2025/01/17/amazon-suspends-u-s-drone-deliveries-following-crash-at-testing-facility/
+Headline: Perplexity acquires Read.cv, a social media platform for professionals
+Description: <p>Read.cv, a social media platform for professionals that competed with LinkedIn, has been acquired by AI-powered search engine Perplexity. As part of the deal, Read.cv will begin to wind down operat...
+Link: https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/
+Headline: AI startup Character AI tests games on the web
+Description: <p>Character AI, a startup that lets users chat with different AI-powered characters, is now testing games on its desktop and mobile web apps to increase engagement on its platform. The games are avai...
+Link: https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/
+Headline: ChatGPT’s newest feature lets users assign it traits like ‘chatty’ and ‘Gen Z’
+Description: <p>Update: OpenAI officially announced this feature one week after some users reported the arrival, and then disappearance, of the new options. It&#8217;s possible they went live prematurely. OpenAI i...
+Link: https://techcrunch.com/2025/01/17/chatgpts-newest-feature-lets-user-assign-it-traits-like-chatty-and-gen-z/
+Headline: OpenAI is trying to extend human life, with help from a longevity startup
+Description: <p>OpenAI says it trained a new AI model called GPT-4b micro with Retro Biosciences, a longevity science startup trying to extend the human lifespan by 10 years, according to the MIT Technology Review...
+Link: https://techcrunch.com/2025/01/17/openai-is-trying-to-extend-human-life-with-help-from-a-longevity-startup/
+Headline: Nord Security founders launch Nexos.ai to help enterprises take AI projects from pilot to production
+Description: <p>A new AI orchestration startup from the founders of Lithuanian unicorn Nord Security is setting out to help enterprises put their AI projects into production, with an initial focus on bringing grea...
+Link: https://techcrunch.com/2025/01/17/nord-security-founders-launch-nexos-ai-to-help-enterprises-take-ai-projects-from-pilot-to-production/
 Headline: Apple pauses AI notification summaries for news after generating false alerts
 Description: <p>Apple is pausing AI notification summaries for news and entertainment apps after facing backlash for generating inaccurate news alerts. In addition, the company is introducing changes to notificati...
 Link: https://techcrunch.com/2025/01/16/apple-pauses-ai-notification-summaries-for-news-after-generating-false-alerts/
 Headline: Nvidia releases more tools and guardrails to nudge enterprises to adopt AI agents
 Description: <p>Nvidia is releasing three new NIM microservices, or small independent services that are part of larger applications, to help enterprises bring additional control and safety measures to their AI age...
 Link: https://techcrunch.com/2025/01/16/nvidia-releases-more-tools-and-guardrails-to-nudge-enterprises-to-adopt-ai-agents/
-Headline: In AI copyright case, Zuckerberg turns to YouTube for his defense
-Description: <p>Meta CEO Mark Zuckerberg appears to have used YouTube&#8217;s battle to remove pirated content to defend his own company&#8217;s use of a dataset containing copyrighted e-books, revealed in newly r...
-Link: https://techcrunch.com/2025/01/15/in-ai-copyright-case-zuckerberg-turns-to-youtube-for-his-defense/
-Headline: Chinese AI company MiniMax releases new models it claims are competitive with the industry’s best
-Description: <p>Chinese firms continue to release AI models that rival the capabilities of systems developed by OpenAI and other U.S.-based AI companies. This week, MiniMax, an Alibaba- and Tencent-backed startup ...
-Link: https://techcrunch.com/2025/01/15/chinese-ai-company-minimax-releases-new-models-it-claims-are-competitive-with-the-industrys-best/
-Headline: More teens report using ChatGPT for schoolwork, despite the tech’s faults
-Description: <p>Younger Gen Zers are embracing OpenAI&#8217;s AI-powered chatbot, ChatGPT, for schoolwork, according to a new survey by the Pew Research Center. But it&#8217;s not clear that they&#8217;re fully aw...
-Link: https://techcrunch.com/2025/01/15/more-teens-report-using-chatgpt-for-schoolwork-despite-the-techs-faults/
-Headline: Meta adds 200 megawatts of solar to its 12 gigawatt renewable portfolio
-Description: <p>The news comes as tech companies ramp up their AI ambitions, adding data centers at a breakneck pace and boosting demand for power.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use o...
-Link: https://techcrunch.com/2025/01/15/meta-adds-200-megawatts-of-solar-to-its-12-gigawatt-renewable-portfolio/
-Headline: TikTok owner ByteDance powered an e-reader’s unhinged AI assistant
-Description: <p>The AI embedded in a popular e-reader was spouting Chinese propaganda. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2025/01/15/tiktok-owner-bytedance-powered-an-e-readers-unhinged-ai-assistant/
-Headline: OpenAI is bankrolling Axios’ expansion into four new markets
-Description: <p>OpenAI is getting into the local news game. Newsletter-based media organization Axios announced a partnership with OpenAI on Wednesday. As part of this three-year deal, the AI giant will fund Axios...
-Link: https://techcrunch.com/2025/01/15/openai-is-bankrolling-axios-expansion-into-four-new-markets/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -70,10 +64,6 @@ Headline: Microsoft creates new AI engineering group led by former Meta executiv
 Description: <figure>
       <img alt="Vector collage of the Microsoft logo among arrows and lines going up and down." src="https://cdn.vox-cdn.com/thumbor/Wc96w_kxLDZAE_6wwQdWket59q8=/0x0:2040x1360/1310x873/cdn.vo...
 Link: https://www.theverge.com/2025/1/13/24342793/microsoft-ai-engineering-group-coreai-jay-parikh
-Headline: Why CEO Matt Garman is willing to bet AWS on AI
-Description: <figure>
-      <img alt="Photo illustration of AWS CEO Matt Garman." src="https://cdn.vox-cdn.com/thumbor/tEGVJ_xdiyAgD7Yhpdhjpz4FRI0=/0x0:2759x1839/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image...
-Link: https://www.theverge.com/24338171/aws-ceo-matt-garman-ai-chips-anthropic-cloud-computing-trainium-decoder-podcast-interview
 
 ---
 
@@ -110,6 +100,12 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Microsoft advances materials discovery with MatterGen
+Description: <p>The discovery of new materials is key to solving some of humanity&#8217;s biggest challenges. However, as highlighted by Microsoft, traditional methods of discovering new materials can feel like “f...
+Link: https://www.artificialintelligence-news.com/news/microsoft-advances-materials-discovery-mattergen/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-advances-materials-discovery-mattergen
+Headline: US-China AI chip race: Cambricon’s first profit lands
+Description: <p>The US-China AI chip race has entered a new phase as Chinese chip designer Cambricon Technologies reports its first-ever quarterly profit. The milestone emerges against a backdrop of escalating US ...
+Link: https://www.artificialintelligence-news.com/news/us-china-ai-chip-race-cambricons-first-profit-lands/?utm_source=rss&utm_medium=rss&utm_campaign=us-china-ai-chip-race-cambricons-first-profit-lands
 Headline: L’Oréal: Making cosmetics sustainable with generative AI
 Description: <p>L’Oréal will leverage IBM&#8217;s generative AI (GenAI) technology to create innovative and sustainable cosmetic products. The partnership will involve developing a bespoke AI foundation model to s...
 Link: https://www.artificialintelligence-news.com/news/loreal-making-cosmetics-sustainable-generative-ai/?utm_source=rss&utm_medium=rss&utm_campaign=loreal-making-cosmetics-sustainable-generative-ai
@@ -134,12 +130,6 @@ Link: https://www.artificialintelligence-news.com/news/uk-government-signs-off-s
 Headline: Driver used ChatGPT to plan attack, authorities reveal
 Description: <p>The new year was only beginning, but technology had already taken centre stage in a tragic event that shocked many. Just outside the Trump International Hotel in Las Vegas, a Tesla Cybertruck erupt...
 Link: https://www.artificialintelligence-news.com/news/rriver-used-chatgpt-to-plan-attack-authorities-reveal/?utm_source=rss&utm_medium=rss&utm_campaign=rriver-used-chatgpt-to-plan-attack-authorities-reveal
-Headline: The role of hyperparameters in fine-tuning AI models
-Description: <p>You&#8217;ve got a great idea for an AI-based application. Think of fine-tuning like teaching a pre-trained AI model a new trick. Sure, it already knows plenty from training on massive datasets, bu...
-Link: https://www.artificialintelligence-news.com/news/the-role-of-hyperparameters-in-fine-tuning-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=the-role-of-hyperparameters-in-fine-tuning-ai-models
-Headline: Meta accused of using pirated data for AI development
-Description: <p>Plaintiffs in the case of Kadrey et al. vs. Meta have filed a motion alleging the firm knowingly used copyrighted works in the development of its AI models. The plaintiffs, which include author Ric...
-Link: https://www.artificialintelligence-news.com/news/meta-accused-using-pirated-data-for-ai-development/?utm_source=rss&utm_medium=rss&utm_campaign=meta-accused-using-pirated-data-for-ai-development
 
 ---
 
@@ -218,6 +208,18 @@ Link: https://aws.amazon.com/blogs/machine-learning/email-your-conversations-fro
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Beyond RAG: How cache-augmented generation reduces latency, complexity for smaller workloads
+Description: As LLMs become more capable, many RAG applications can be replaced with cache-augmented generation that include documents in the prompt.
+Link: https://venturebeat.com/ai/beyond-rag-how-cache-augmented-generation-reduces-latency-complexity-for-smaller-workloads/
+Headline: Runway’s new AI image generator Frames is here, and it looks fittingly cinematic
+Description: The model excels in rendering advanced textures, natural lighting and complex compositions, providing more flexibility.
+Link: https://venturebeat.com/ai/runways-new-ai-image-generator-frames-is-here-and-it-looks-fittingly-cinematic/
+Headline: Devin 1.2: Updated AI engineer enhances coding with smarter in-context reasoning, voice integration
+Description: Devin 1.2 will help developers with accelerated workflows and less cognitive load in file searches, understanding codebases or fixing code.
+Link: https://venturebeat.com/ai/devin-1-2-updated-ai-engineer-enhances-coding-smarter-in-context-reasoning-voice-integration/
+Headline: AI or Not raises $5M to stop AI fraud, deepfakes and misinformation
+Description: AI or Not, an AI fraud detection platform, has raised $5 million in a seed funding round to accelerate its use of "AI to detect AI" in images.
+Link: https://venturebeat.com/games/ai-or-not-raises-5m-to-stop-ai-fraud-deepfakes-and-misinformation/
 Headline: Microsoft just built an AI that designs materials for the future: Here’s how it works
 Description: Microsoft researchers unveil MatterGen, which accelerates scientific discovery 15X and doubles success rates for stable compounds.
 Link: https://venturebeat.com/ai/microsoft-mattergen-ai-system-generates-materials-that-could-change-industries-forever/
@@ -233,25 +235,22 @@ Link: https://venturebeat.com/ai/googles-new-neural-net-architecture-separates-m
 Headline: 4 bold AI predictions for 2025
 Description: Enterprises can prepare for AI becoming faster, cheaper and more capable in 2025, and take the lead on developing applications.
 Link: https://venturebeat.com/ai/4-bold-ai-predictions-for-2025/
-Headline: Build or buy? Scaling your enterprise gen AI pipeline in 2025
-Description: Successfully scaling gen AI requires clear, high-value use cases, technological flexibility and an adaptive workforce.
-Link: https://venturebeat.com/ai/build-or-buy-scaling-your-enterprise-gen-ai-in-pipeline-in-2025/
-Headline: Winning the war against adversarial AI needs to start with AI-native SOCs
-Description: Let's dive into the many reasons security leaders are embracing AI-native security operations centers (SOCs) as the future of defense.
-Link: https://venturebeat.com/security/winning-the-war-against-adversarial-ai-needs-to-start-with-ai-native-socswinning-the-war-against-adversarial-ai-starts-with-ai-native-socs/
-Headline: Not just hype — here are real-world use cases for AI agents
-Description: Here's how robotics manufacturing company Baca Systems and corporate food ordering platform ezCater are using Salesforce's AI agents.
-Link: https://venturebeat.com/ai/not-just-hype-here-are-real-world-use-cases-for-ai-agents/
-Headline: The path forward for gen AI-powered code development in 2025
-Description: AI-powered code development has come a long way in recent years. Here's where it's headed as 2025 gets underway.
-Link: https://venturebeat.com/ai/the-path-forward-for-gen-ai-powered-code-development-in-2025/
-Headline: AI factories are factories: Overcoming industrial challenges to commoditize AI
-Description: The infrastructure to support AI inherits many challenges that defined industrial factories, from power to scalability and reliability.
-Link: https://venturebeat.com/ai/ai-factories-are-factories-overcoming-industrial-challenges-to-commoditize-ai/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: No, AI won't revolutionize shopping - but this will
+Description: As big brands chase the latest AI trends, they're losing touch with their audience - making this the perfect time for you to join a movement that's reshaping e-commerce. Here's how.
+Link: https://www.zdnet.com/article/no-ai-wont-revolutionize-shopping-but-this-will/
+Headline: I spent hours testing ChatGPT Tasks - and its refusal to follow directions was mildly terrifying
+Description: ChatGPT tasks offers AI prompt scheduling and automation, but what happens when things go wrong? I explored the highs and lows of this promising yet frustrating - and worrying - beta tool.
+Link: https://www.zdnet.com/article/i-spent-hours-testing-chatgpt-tasks-and-the-ais-refusal-to-follow-directions-was-mildly-terrifying/
+Headline: Why the 'Bring Your Own AI' trend could mean big trouble for business leaders
+Description: Your staff will take matters into their own hands if you don't take a tight grip on generative AI. Here's how to wrestle back control.
+Link: https://www.zdnet.com/article/why-the-bring-your-own-ai-trend-could-mean-big-trouble-for-business-leaders/
+Headline: Managing AI agents as employees is the challenge of 2025, says Goldman Sachs CIO
+Description: There may even be AI 'layoffs' as programs are replaced by more highly capable versions.
+Link: https://www.zdnet.com/article/managing-ai-agents-as-employees-is-the-challenge-of-2025-says-goldman-sachs-cio/
 Headline: Can Gemini ever catch ChatGPT in the AI race? Here's where it stands now
 Description: Though growing in capability, Gemini still isn't as popular as competing AI apps and services.
 Link: https://www.zdnet.com/article/can-gemini-ever-catch-chatgpt-in-the-ai-race-heres-where-it-stands-now/
@@ -267,15 +266,6 @@ Link: https://www.zdnet.com/article/microsoft-and-education-company-pearson-part
 Headline: I tried Google's personalized Daily Listen AI podcast, and it was... interesting
 Description: Apparently I Google a lot of random things. 😆
 Link: https://www.zdnet.com/article/i-tried-googles-ai-generated-daily-listen-podcast-and-it-was-interesting/
-Headline: The best AI for coding in 2025 (and what not to use)
-Description: I've been subjecting chatbots to a set of real-world programming tests for 18 months now. There are two I recommend if you're looking for AI coding help - and several to avoid.
-Link: https://www.zdnet.com/article/the-best-ai-for-coding-in-2025-and-what-not-to-use/
-Headline: Gmail's new button makes using Gemini to reply to emails on Android a breeze
-Description: A new 'insert' button will make it faster to use Gemini's AI-written replies.
-Link: https://www.zdnet.com/article/gmails-new-button-makes-using-gemini-to-reply-to-emails-on-android-a-breeze/
-Headline: Microsoft's Copilot AI is coming to your Office apps - and it won't come cheap
-Description: Microsoft 365 subscribers in Australia, New Zealand, and some Asian markets just got an AI upgrade, along with a huge price increase. How long until customers in the US and Europe see the same?
-Link: https://www.zdnet.com/article/microsofts-copilot-ai-is-coming-to-your-office-apps-and-it-wont-come-cheap/
 
 ---
 
@@ -326,9 +316,21 @@ Link: https://www.aisnakeoil.com/p/ai-scaling-myths
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: Robots should be repurposed rather than recycled to combat rising scale of e-waste, scientists warn
+Description: The robotics industry should be creating robots that could be reprogrammed and repurposed for other tasks once its life span is completed, researchers have advised.
+Link: https://www.sciencedaily.com/releases/2025/01/250116133814.htm
+Headline: Innovative 6D pose dataset sets new standard for robotic grasping performance
+Description: Researchers have developed a novel 6D pose dataset designed to improve robotic grasping accuracy and adaptability in industrial settings. The dataset, which integrates RGB and depth images, demonstrat...
+Link: https://www.sciencedaily.com/releases/2025/01/250116133546.htm
 Headline: This fast and agile robotic insect could someday aid in mechanical pollination
 Description: New insect-scale microrobots can fly more than 100 times longer than previous versions. The new bots, also significantly faster and more agile, could someday be used to pollinate fruits and vegetables...
 Link: https://www.sciencedaily.com/releases/2025/01/250115165102.htm
+Headline: A new research program is Indigenizing artificial intelligence
+Description: A new initiative is challenging the conversation around the direction of artificial intelligence (AI). It charges that the current trajectory is inherently biased against non-Western modes of thinking...
+Link: https://www.sciencedaily.com/releases/2025/01/250115164916.htm
+Headline: Automatic speech recognition on par with humans in noisy conditions
+Description: Are humans or machines better at recognizing speech? A new study shows that in noisy conditions, current automatic speech recognition (ASR) systems achieve remarkable accuracy and sometimes even surpa...
+Link: https://www.sciencedaily.com/releases/2025/01/250114124753.htm
 Headline: Brain-inspired nanotech points to a new era in electronics
 Description: Imagine a future where your phone, computer or even a tiny wearable device can think and learn like the human brain -- processing information faster, smarter and using less energy. A breakthrough appr...
 Link: https://www.sciencedaily.com/releases/2025/01/250109130028.htm
@@ -344,22 +346,22 @@ Link: https://www.sciencedaily.com/releases/2025/01/250106195930.htm
 Headline: Artificial intelligence: Algorithms improve medical image analysis
 Description: Artificial intelligence has the potential to improve the analysis of medical image data. For example, algorithms based on deep learning can determine the location and size of tumors. This is the resul...
 Link: https://www.sciencedaily.com/releases/2025/01/250102162630.htm
-Headline: Wind sensing by biomimetic flexible flapping wing with strain sensors
-Description: Bio-inspired wind sensing using strain sensors on flexible wings could revolutionize robotic flight control strategy. Researchers have developed a method to detect wind direction with 99% accuracy usi...
-Link: https://www.sciencedaily.com/releases/2024/12/241226153846.htm
-Headline: Crossing the Uncanny Valley: Breakthrough in technology for lifelike facial expressions in androids
-Description: Even highly realistic androids can cause unease when their facial expressions lack emotional consistency. Traditionally, a 'patchwork method' has been used for facial movements, but it comes with prac...
-Link: https://www.sciencedaily.com/releases/2024/12/241223135211.htm
-Headline: Machine psychology: A bridge to general AI?
-Description: Artificial intelligence that is as intelligent as humans may become possible thanks to psychological learning models, combined with certain types of AI.
-Link: https://www.sciencedaily.com/releases/2024/12/241219190259.htm
-Headline: Laser-based artificial neuron mimics nerve cell functions at lightning speed
-Description: Researchers developed a laser-based artificial neuron that fully emulates the functions, dynamics and information processing of a biological graded neuron, which could lead to new breakthroughs in adv...
-Link: https://www.sciencedaily.com/releases/2024/12/241219152223.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Tiny insect-like robot can flip, loop and hover for up to 15 minutes
+Description: A flying robot the size of a postage stamp can hover for up to 15 minutes without breaking, and it can perform acrobatic manoeuvres
+Link: https://www.newscientist.com/article/2464538-tiny-insect-like-robot-can-flip-loop-and-hover-for-up-to-15-minutes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: US Supreme Court upholds TikTok ban – but the fight isn't over yet
+Description: Now that the US Supreme Court has decided that a law banning TikTok is constitutional, the platform is set to shut down in the US on 19 January – but Trump could still save it
+Link: https://www.newscientist.com/article/2464174-us-supreme-court-upholds-tiktok-ban-but-the-fight-isnt-over-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: World's first AI chatbot has finally been resurrected after decades
+Description: ELIZA is famous as a rudimentary artificial intelligence and the first ever chatbot, but versions found online today are actually knock-offs because the original computer code was lost – until now
+Link: https://www.newscientist.com/article/2463843-worlds-first-ai-chatbot-has-finally-been-resurrected-after-decades/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Robotic exoskeleton can train expert pianists to play faster
+Description: Trained pianists who hit a plateau improved their finger speed after a half-hour training session with a device that moves their fingers for them
+Link: https://www.newscientist.com/article/2464473-robotic-exoskeleton-can-train-expert-pianists-to-play-faster/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: NATO tests satellite internet as backup to sabotaged undersea cables
 Description: As apparent acts of sabotage cut undersea data cables around the world, NATO held its first demonstration of a project to quickly reroute crucial communications to satellite internet
 Link: https://www.newscientist.com/article/2464396-nato-tests-satellite-internet-as-backup-to-sabotaged-undersea-cables/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -378,18 +380,6 @@ Link: https://www.newscientist.com/article/2463634-meta-allowed-pornographic-ads
 Headline: World’s first fully 3D-printed microscope made in under 3 hours
 Description: The microscope cost less than £50 to build using an open-source design and a common 3D printer
 Link: https://www.newscientist.com/article/2462618-worlds-first-fully-3d-printed-microscope-made-in-under-3-hours/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Quantum computers get automatic error correction for the first time
-Description: A tiny quantum “refrigerator” can ensure that a quantum computer’s calculations start off error-free – without requiring oversight or even new hardware
-Link: https://www.newscientist.com/article/2463346-quantum-computers-get-automatic-error-correction-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Children are being overlooked in conversations about AI
-Description: We need to stop ignoring young people's firsthand experience with artificial intelligence. They are already at the sharp end of its development, says Mhairi Aitken
-Link: https://www.newscientist.com/article/2462689-children-are-being-overlooked-in-conversations-about-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: A healthy dose of AI can improve medical care and save lives
-Description: Done right, with real-world evidence to back up the claims and persuade doctors to adopt it, artificial intelligence has the power to enhance clinical outcomes
-Link: https://www.newscientist.com/article/mg26435252-400-a-healthy-dose-of-ai-can-improve-medical-care-and-save-lives/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Vaccine misinformation can easily poison AI – but there's a fix
-Description: Adding just a little medical misinformation to an AI model’s training data increases the chances that chatbots will spew harmful false content about vaccines and other topics
-Link: https://www.newscientist.com/article/2463113-vaccine-misinformation-can-easily-poison-ai-but-theres-a-fix/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -402,25 +392,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: In Eisenhower's farewell address, he warned of the military-industrial complex. In Biden's farewell address, he warned of the tech-industrial complex, and said AI is the most consequential technology of our time which could cure cancer or pose a risk to humanity.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i2y4ve/in_eisenhowers_farewell_address_he_warned_of_the/"> <img alt="In Eisenhower's farewell address, he warned of the military...
-Link: https://www.reddit.com/r/artificial/comments/1i2y4ve/in_eisenhowers_farewell_address_he_warned_of_the/
-Headline: Are Agentic AI the Next Big Trend or No?
-Description: <!-- SC_OFF --><div class="md"><p>We had a guy speak to our company and he quoted the firm Forrester that Agentic AI would be the next big trend in tech. I feel that even now the space is increasingly...
-Link: https://www.reddit.com/r/artificial/comments/1i2qekh/are_agentic_ai_the_next_big_trend_or_no/
-Headline: One-Minute Daily AI News 1/15/2025
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Trump, Musk Discuss AI, Cybersecurity With Microsoft CEO.[1]</li> <li>Chinese AI company MiniMax releases new models it claims are competitive with the industry...
-Link: https://www.reddit.com/r/artificial/comments/1i2hyk4/oneminute_daily_ai_news_1152025/
-Headline: D-SEC: A Dynamic Security-Utility Framework for Evaluating LLM Defenses Against Adaptive Attacks
-Description: <!-- SC_OFF --><div class="md"><p>This paper introduces an adaptive security system for LLMs using a multi-stage transformer architecture that dynamically adjusts its defenses based on interaction pat...
-Link: https://www.reddit.com/r/artificial/comments/1i2q8jq/dsec_a_dynamic_securityutility_framework_for/
-Headline: Inside the U.K.’s Bold Experiment in AI Safety
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i2vmzk/inside_the_uks_bold_experiment_in_ai_safety/"> <img alt="Inside the U.K.’s Bold Experiment in AI Safety" src="https://ext...
-Link: https://www.reddit.com/r/artificial/comments/1i2vmzk/inside_the_uks_bold_experiment_in_ai_safety/
-Headline: Gwern thinks it is almost game over: "OpenAI may have 'broken out', and crossed the last threshold of criticality to takeoff - recursively self-improving, where o4 or o5 will be able to automate AI R&D and finish off the rest."
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i2vzrt/gwern_thinks_it_is_almost_game_over_openai_may/"> <img alt="Gwern thinks it is almost game over: &quot;OpenAI may have 'b...
-Link: https://www.reddit.com/r/artificial/comments/1i2vzrt/gwern_thinks_it_is_almost_game_over_openai_may/
-
+Headline: ELIZA: World's first AI chatbot has finally been resurrected after 60 years
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i3kvrh/eliza_worlds_first_ai_chatbot_has_finally_been/"> <img alt="ELIZA: World's first AI chatbot has finally been resurrected ...
+Link: https://www.reddit.com/r/artificial/comments/1i3kvrh/eliza_worlds_first_ai_chatbot_has_finally_been/
+Headline: Democratic lawmakers pen letter accusing Meta, OpenAI, Google and more of trying to 'buy favor' with Trump
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i3v90o/democratic_lawmakers_pen_letter_accusing_meta/"> <img alt="Democratic lawmakers pen letter accusing Meta, OpenAI, Google ...
+Link: https://www.reddit.com/r/artificial/comments/1i3v90o/democratic_lawmakers_pen_letter_accusing_meta/
+Headline: I created an AI Agent that can review thousands of Tweets to identify user pain points and discover product ideas.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i3srry/i_created_an_ai_agent_that_can_review_thousands/"> <img alt="I created an AI Agent that can review thousands of Tweets to...
+Link: https://www.reddit.com/r/artificial/comments/1i3srry/i_created_an_ai_agent_that_can_review_thousands/
+Headline: Making AI illustrations that don’t look AI-generated
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i3nsmn/making_ai_illustrations_that_dont_look_aigenerated/"> <img alt="Making AI illustrations that don’t look AI-generated" src...
+Link: https://www.reddit.com/r/artificial/comments/1i3nsmn/making_ai_illustrations_that_dont_look_aigenerated/
+Headline: One-Minute Daily AI News 1/16/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Apple</strong> disables AI notifications for news in its beta iPhone software.[1]</li> <li><strong>MatterGen</strong>: A new paradigm of materials desig...
+Link: https://www.reddit.com/r/artificial/comments/1i3859u/oneminute_daily_ai_news_1162025/
+Headline: According to this survey of 23,730 consumers across 23 countries, comfort in using artificial intelligence has dropped 11% in one year and only 1 in 4 consumers trust organizations to use it responsibly.
+Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/MadisonJonesHR"> /u/MadisonJonesHR </a> <br /> <span><a href="https://success.qualtrics.com/rs/542-FMF-412/images/2025%20State%20of%20Cont...
+Link: https://www.reddit.com/r/artificial/comments/1i3vkco/according_to_this_survey_of_23730_consumers/
+Headline: Active inference research paper resources
+Description: <!-- SC_OFF --><div class="md"><p>This resource is pretty neat and more academic, on mobile you can click into each research paper.</p> <p>Karl Friston’s nature/natural approach to ai (free energy pri...
+Link: https://www.reddit.com/r/artificial/comments/1i3ivbv/active_inference_research_paper_resources/
+Headline: AI prompts and protecting privacy
+Description: <!-- SC_OFF --><div class="md"><p>When it comes to protecting privacy in the context of AI applications, a common question arises: How can sensitive data be safeguarded while still enabling the AI to ...
+Link: https://www.reddit.com/r/artificial/comments/1i3i2up/ai_prompts_and_protecting_privacy/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
