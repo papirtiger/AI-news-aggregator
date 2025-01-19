@@ -1,6 +1,9 @@
-AI News Updates - 2025-01-18 02:39:51
+AI News Updates - 2025-01-19 02:50:23
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: FTC says partnerships like Microsoft-OpenAI raise antitrust concerns
+Description: <p>The Federal Trade Commission said in a staff report issued Friday that there are potential competitive issues in partnerships between big tech companies and generative AI developers — specifically,...
+Link: https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/
 Headline: Amazon suspends US drone deliveries following crash at testing facility
 Description: <p>Amazon has paused testing of its delivery drones following a crash involving two of its models, according to Bloomberg. It&#8217;s the latest setback for Amazon&#8217;s beleaguered Prime Air progra...
 Link: https://techcrunch.com/2025/01/17/amazon-suspends-u-s-drone-deliveries-following-crash-at-testing-facility/
@@ -25,9 +28,14 @@ Link: https://techcrunch.com/2025/01/16/apple-pauses-ai-notification-summaries-f
 Headline: Nvidia releases more tools and guardrails to nudge enterprises to adopt AI agents
 Description: <p>Nvidia is releasing three new NIM microservices, or small independent services that are part of larger applications, to help enterprises bring additional control and safety measures to their AI age...
 Link: https://techcrunch.com/2025/01/16/nvidia-releases-more-tools-and-guardrails-to-nudge-enterprises-to-adopt-ai-agents/
+
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: Microsoft opens testing for Windows AI search
+Description: <figure>
+      <img alt="Vector collage of the Microsoft Copilot logo." src="https://cdn.vox-cdn.com/thumbor/kuCxFd-oS8clCX17pNep0-GAdTo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/im...
+Link: https://www.theverge.com/2025/1/18/24346770/microsoft-testing-windows-ai-search-copilot-plus-pcs
 Headline: Microsoft bundles Office AI features into Microsoft 365 and raises prices
 Description: <figure>
       <img alt="Vector illustration of Microsoft 365 logo." src="https://cdn.vox-cdn.com/thumbor/DWVlF1JtKBdU3VBiTQmbXHcXqAM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image...
@@ -60,10 +68,6 @@ Headline: Mercedes-Benz’s Virtual Assistant uses Google’s conversational AI 
 Description: <figure>
       <img alt="Interior of vehicle with screens across the dash and a word bubble coming from the driver’s seat saying “I’m looking for a great place to take my family for a special birthday...
 Link: https://www.theverge.com/2025/1/13/24342683/mercedes-benz-mbux-virtual-assistant-google-automotive-ai-agent
-Headline: Microsoft creates new AI engineering group led by former Meta executive
-Description: <figure>
-      <img alt="Vector collage of the Microsoft logo among arrows and lines going up and down." src="https://cdn.vox-cdn.com/thumbor/Wc96w_kxLDZAE_6wwQdWket59q8=/0x0:2040x1360/1310x873/cdn.vo...
-Link: https://www.theverge.com/2025/1/13/24342793/microsoft-ai-engineering-group-coreai-jay-parikh
 
 ---
 
@@ -208,6 +212,12 @@ Link: https://aws.amazon.com/blogs/machine-learning/email-your-conversations-fro
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Anthropomorphizing AI: Dire consequences of mistaking human-like for human have already emerged
+Description: Anthropomorphizing AI creates dangerous blind spots in business decision-making beyond simple operational inefficiencies.
+Link: https://venturebeat.com/ai/anthropomorphizing-ai-dire-consequences-of-mistaking-human-like-for-human-have-already-emerged/
+Headline: Microsoft AutoGen v0.4: A turning point toward more intelligent AI agents for enterprise developers
+Description: AutoGen represents Microsoft’s latest attempt to address the challenges of building multi-agent systems for enterprise applications. This article explores what this means for the state of agentic AI t...
+Link: https://venturebeat.com/ai/microsoft-autogen-v0-4-a-turning-point-toward-more-intelligent-ai-agents-for-enterprise-developers/
 Headline: Beyond RAG: How cache-augmented generation reduces latency, complexity for smaller workloads
 Description: As LLMs become more capable, many RAG applications can be replaced with cache-augmented generation that include documents in the prompt.
 Link: https://venturebeat.com/ai/beyond-rag-how-cache-augmented-generation-reduces-latency-complexity-for-smaller-workloads/
@@ -229,16 +239,13 @@ Link: https://venturebeat.com/data-infrastructure/enterprises-can-now-run-real-t
 Headline: You can now fine-tune your own version of AI image maker Flux with just 5 images
 Description: Whether for brand-consistent marketing visuals or detailed character art, the Flux Pro Finetuning API enhances precision and adaptability.
 Link: https://venturebeat.com/ai/you-can-now-fine-tune-your-own-version-of-ai-image-maker-flux-with-just-5-images/
-Headline: Google’s new neural-net LLM architecture separates memory components to control exploding costs of capacity and compute
-Description: Titans architecture complements attention layers with neural memory modules that select bits of information worth saving in the long term.
-Link: https://venturebeat.com/ai/googles-new-neural-net-architecture-separates-memory-components-to-control-exploding-costs/
-Headline: 4 bold AI predictions for 2025
-Description: Enterprises can prepare for AI becoming faster, cheaper and more capable in 2025, and take the lead on developing applications.
-Link: https://venturebeat.com/ai/4-bold-ai-predictions-for-2025/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: What to expect from Samsung Unpacked 2025: Galaxy S25 Ultra, AI features, and more
+Description: The Samsung Galaxy S25 lineup and new AI features are on the docket for the upcoming Galaxy Unpacked event. Maybe we'll be in for some fun teasers, too.
+Link: https://www.zdnet.com/article/what-to-expect-from-samsung-unpacked-2025-galaxy-s25-ultra-ai-features-and-more/
 Headline: No, AI won't revolutionize shopping - but this will
 Description: As big brands chase the latest AI trends, they're losing touch with their audience - making this the perfect time for you to join a movement that's reshaping e-commerce. Here's how.
 Link: https://www.zdnet.com/article/no-ai-wont-revolutionize-shopping-but-this-will/
@@ -257,9 +264,6 @@ Link: https://www.zdnet.com/article/can-gemini-ever-catch-chatgpt-in-the-ai-race
 Headline: It's official: All your Office apps are getting AI and a price increase
 Description: Every Microsoft 365 Personal and Family subscription is about to get Copilot AI features, along with a price increase of at least 30%. The global rollout comes after months of testing and is certain t...
 Link: https://www.zdnet.com/article/its-official-all-your-office-apps-are-getting-ai-and-a-price-increase/
-Headline: Samsung Unpacked 2025: How to watch and what to expect
-Description: At next week's event, we're looking forward to Samsung's Galaxy S25 lineup, new AI features, perhaps a Galaxy Ring 2, smart glasses - and more. See what's coming.
-Link: https://www.zdnet.com/article/samsung-unpacked-2025-how-to-watch-and-what-to-expect/
 Headline: Microsoft and education company Pearson partner on new AI upskilling initiative
 Description: The list of AI certifications keeps growing. Here's the latest from Pearson and Microsoft.
 Link: https://www.zdnet.com/article/microsoft-and-education-company-pearson-partner-on-new-ai-upskilling-initiative/
@@ -392,30 +396,7 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: ELIZA: World's first AI chatbot has finally been resurrected after 60 years
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i3kvrh/eliza_worlds_first_ai_chatbot_has_finally_been/"> <img alt="ELIZA: World's first AI chatbot has finally been resurrected ...
-Link: https://www.reddit.com/r/artificial/comments/1i3kvrh/eliza_worlds_first_ai_chatbot_has_finally_been/
-Headline: Democratic lawmakers pen letter accusing Meta, OpenAI, Google and more of trying to 'buy favor' with Trump
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i3v90o/democratic_lawmakers_pen_letter_accusing_meta/"> <img alt="Democratic lawmakers pen letter accusing Meta, OpenAI, Google ...
-Link: https://www.reddit.com/r/artificial/comments/1i3v90o/democratic_lawmakers_pen_letter_accusing_meta/
-Headline: I created an AI Agent that can review thousands of Tweets to identify user pain points and discover product ideas.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i3srry/i_created_an_ai_agent_that_can_review_thousands/"> <img alt="I created an AI Agent that can review thousands of Tweets to...
-Link: https://www.reddit.com/r/artificial/comments/1i3srry/i_created_an_ai_agent_that_can_review_thousands/
-Headline: Making AI illustrations that don’t look AI-generated
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i3nsmn/making_ai_illustrations_that_dont_look_aigenerated/"> <img alt="Making AI illustrations that don’t look AI-generated" src...
-Link: https://www.reddit.com/r/artificial/comments/1i3nsmn/making_ai_illustrations_that_dont_look_aigenerated/
-Headline: One-Minute Daily AI News 1/16/2025
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Apple</strong> disables AI notifications for news in its beta iPhone software.[1]</li> <li><strong>MatterGen</strong>: A new paradigm of materials desig...
-Link: https://www.reddit.com/r/artificial/comments/1i3859u/oneminute_daily_ai_news_1162025/
-Headline: According to this survey of 23,730 consumers across 23 countries, comfort in using artificial intelligence has dropped 11% in one year and only 1 in 4 consumers trust organizations to use it responsibly.
-Description: &#32; submitted by &#32; <a href="https://www.reddit.com/user/MadisonJonesHR"> /u/MadisonJonesHR </a> <br /> <span><a href="https://success.qualtrics.com/rs/542-FMF-412/images/2025%20State%20of%20Cont...
-Link: https://www.reddit.com/r/artificial/comments/1i3vkco/according_to_this_survey_of_23730_consumers/
-Headline: Active inference research paper resources
-Description: <!-- SC_OFF --><div class="md"><p>This resource is pretty neat and more academic, on mobile you can click into each research paper.</p> <p>Karl Friston’s nature/natural approach to ai (free energy pri...
-Link: https://www.reddit.com/r/artificial/comments/1i3ivbv/active_inference_research_paper_resources/
-Headline: AI prompts and protecting privacy
-Description: <!-- SC_OFF --><div class="md"><p>When it comes to protecting privacy in the context of AI applications, a common question arises: How can sensitive data be safeguarded while still enabling the AI to ...
-Link: https://www.reddit.com/r/artificial/comments/1i3i2up/ai_prompts_and_protecting_privacy/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
