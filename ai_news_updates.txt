@@ -1,6 +1,16 @@
-AI News Updates - 2025-01-19 02:50:23
+AI News Updates - 2025-01-20 02:48:09
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: AI benchmarking organization criticized for waiting to disclose funding from OpenAI
+Description: <p>An organization developing math benchmarks for AI didn&#8217;t disclose that it had received funding from OpenAI until relatively recently, drawing allegations of impropriety from some in the AI co...
+Link: https://techcrunch.com/2025/01/19/ai-benchmarking-organization-criticized-for-waiting-to-disclose-funding-from-openai/
+Headline: The Pentagon says AI is speeding up its ‘kill chain’
+Description: <p>Leading AI developers, such as OpenAI and Anthropic, are threading a delicate needle to sell software to the United States military: make the Pentagon more efficient, without letting their AI kill ...
+Link: https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/
+Headline: AI isn’t very good at history, new paper finds
+Description: <p>Top LLMs performed poorly on a high-level history test, a new paper has found.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2025/01/19/ai-isnt-very-good-at-history-new-paper-finds/
 Headline: FTC says partnerships like Microsoft-OpenAI raise antitrust concerns
 Description: <p>The Federal Trade Commission said in a staff report issued Friday that there are potential competitive issues in partnerships between big tech companies and generative AI developers — specifically,...
 Link: https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/
@@ -19,16 +29,6 @@ Link: https://techcrunch.com/2025/01/17/chatgpts-newest-feature-lets-user-assign
 Headline: OpenAI is trying to extend human life, with help from a longevity startup
 Description: <p>OpenAI says it trained a new AI model called GPT-4b micro with Retro Biosciences, a longevity science startup trying to extend the human lifespan by 10 years, according to the MIT Technology Review...
 Link: https://techcrunch.com/2025/01/17/openai-is-trying-to-extend-human-life-with-help-from-a-longevity-startup/
-Headline: Nord Security founders launch Nexos.ai to help enterprises take AI projects from pilot to production
-Description: <p>A new AI orchestration startup from the founders of Lithuanian unicorn Nord Security is setting out to help enterprises put their AI projects into production, with an initial focus on bringing grea...
-Link: https://techcrunch.com/2025/01/17/nord-security-founders-launch-nexos-ai-to-help-enterprises-take-ai-projects-from-pilot-to-production/
-Headline: Apple pauses AI notification summaries for news after generating false alerts
-Description: <p>Apple is pausing AI notification summaries for news and entertainment apps after facing backlash for generating inaccurate news alerts. In addition, the company is introducing changes to notificati...
-Link: https://techcrunch.com/2025/01/16/apple-pauses-ai-notification-summaries-for-news-after-generating-false-alerts/
-Headline: Nvidia releases more tools and guardrails to nudge enterprises to adopt AI agents
-Description: <p>Nvidia is releasing three new NIM microservices, or small independent services that are part of larger applications, to help enterprises bring additional control and safety measures to their AI age...
-Link: https://techcrunch.com/2025/01/16/nvidia-releases-more-tools-and-guardrails-to-nudge-enterprises-to-adopt-ai-agents/
-
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -212,6 +212,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/email-your-conversations-fro
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: AI comes alive: From bartenders to surgical aides to puppies, tomorrow’s robots are on their way
+Description: Beyond performing tasks, machines will integrate into our social fabric, requiring us to navigate new relationships with technology.
+Link: https://venturebeat.com/ai/ai-comes-alive-from-bartenders-to-surgical-aides-to-puppies-tomorrows-robots-are-on-their-way/
 Headline: Anthropomorphizing AI: Dire consequences of mistaking human-like for human have already emerged
 Description: Anthropomorphizing AI creates dangerous blind spots in business decision-making beyond simple operational inefficiencies.
 Link: https://venturebeat.com/ai/anthropomorphizing-ai-dire-consequences-of-mistaking-human-like-for-human-have-already-emerged/
@@ -236,9 +239,6 @@ Link: https://venturebeat.com/ai/microsoft-mattergen-ai-system-generates-materia
 Headline: Enterprises can now run real-time data through Google Cloud’s most advanced VMs
 Description: Early adopters like Couchbase are already seeing significant price-performance gains with Google Cloud's new VMs.
 Link: https://venturebeat.com/data-infrastructure/enterprises-can-now-run-real-time-data-through-google-clouds-most-advanced-vms/
-Headline: You can now fine-tune your own version of AI image maker Flux with just 5 images
-Description: Whether for brand-consistent marketing visuals or detailed character art, the Flux Pro Finetuning API enhances precision and adaptability.
-Link: https://venturebeat.com/ai/you-can-now-fine-tune-your-own-version-of-ai-image-maker-flux-with-just-5-images/
 
 ---
 
@@ -246,9 +246,6 @@ From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
 Headline: What to expect from Samsung Unpacked 2025: Galaxy S25 Ultra, AI features, and more
 Description: The Samsung Galaxy S25 lineup and new AI features are on the docket for the upcoming Galaxy Unpacked event. Maybe we'll be in for some fun teasers, too.
 Link: https://www.zdnet.com/article/what-to-expect-from-samsung-unpacked-2025-galaxy-s25-ultra-ai-features-and-more/
-Headline: No, AI won't revolutionize shopping - but this will
-Description: As big brands chase the latest AI trends, they're losing touch with their audience - making this the perfect time for you to join a movement that's reshaping e-commerce. Here's how.
-Link: https://www.zdnet.com/article/no-ai-wont-revolutionize-shopping-but-this-will/
 Headline: I spent hours testing ChatGPT Tasks - and its refusal to follow directions was mildly terrifying
 Description: ChatGPT tasks offers AI prompt scheduling and automation, but what happens when things go wrong? I explored the highs and lows of this promising yet frustrating - and worrying - beta tool.
 Link: https://www.zdnet.com/article/i-spent-hours-testing-chatgpt-tasks-and-the-ais-refusal-to-follow-directions-was-mildly-terrifying/
@@ -270,6 +267,9 @@ Link: https://www.zdnet.com/article/microsoft-and-education-company-pearson-part
 Headline: I tried Google's personalized Daily Listen AI podcast, and it was... interesting
 Description: Apparently I Google a lot of random things. 😆
 Link: https://www.zdnet.com/article/i-tried-googles-ai-generated-daily-listen-podcast-and-it-was-interesting/
+Headline: The best AI for coding in 2025 (and what not to use)
+Description: I've been subjecting chatbots to a set of real-world programming tests for 18 months now. There are two I recommend if you're looking for AI coding help - and several to avoid.
+Link: https://www.zdnet.com/article/the-best-ai-for-coding-in-2025-and-what-not-to-use/
 
 ---
 
@@ -396,7 +396,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-
+Headline: "Sam Altman has scheduled a closed-door briefing for U.S. government officials on Jan. 30 - AI insiders believe a big breakthrough on PHD level SuperAgents is coming." ... "OpenAI staff have been telling friends they are both jazzed and spooked by recent progress."
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i50okv/sam_altman_has_scheduled_a_closeddoor_briefing/"> <img alt="&quot;Sam Altman has scheduled a closed-door briefing for U.S...
+Link: https://www.reddit.com/r/artificial/comments/1i50okv/sam_altman_has_scheduled_a_closeddoor_briefing/
+Headline: OpenAI quietly funded independent math benchmark before setting record with o3
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i52ucw/openai_quietly_funded_independent_math_benchmark/"> <img alt="OpenAI quietly funded independent math benchmark before set...
+Link: https://www.reddit.com/r/artificial/comments/1i52ucw/openai_quietly_funded_independent_math_benchmark/
+Headline: Nobel laureate Geoffrey Hinton says there is evidence that AIs can be deliberately and intentionally deceptive
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i54col/nobel_laureate_geoffrey_hinton_says_there_is/"> <img alt="Nobel laureate Geoffrey Hinton says there is evidence that AIs ...
+Link: https://www.reddit.com/r/artificial/comments/1i54col/nobel_laureate_geoffrey_hinton_says_there_is/
+Headline: AI generated QR code that doesn’t work 💔
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i4rc7t/ai_generated_qr_code_that_doesnt_work/"> <img alt="AI generated QR code that doesn’t work 💔" src="https://preview.redd.it...
+Link: https://www.reddit.com/r/artificial/comments/1i4rc7t/ai_generated_qr_code_that_doesnt_work/
+Headline: One-Minute Daily AI News 1/18/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Perplexity</strong> AI makes a bid to merge with TikTok U.S.[1]</li> <li><strong>Google</strong> Maps is turning 20 — it’s mapping three more countries ...
+Link: https://www.reddit.com/r/artificial/comments/1i4qjsh/oneminute_daily_ai_news_1182025/
+Headline: I built an ai app for generating visualizations on any topic.
+Description: <!-- SC_OFF --><div class="md"><p>I am currently in university 4th year and thought of making a mobile app that can explain you a certain concept with visualizations. Being honest it's better suited f...
+Link: https://www.reddit.com/r/artificial/comments/1i4zgv0/i_built_an_ai_app_for_generating_visualizations/
+Headline: Phone AI For Ski Resort
+Description: <!-- SC_OFF --><div class="md"><p>Hi all. I was hoping for some points in the right direction as I’d like to implement a phone AI to answer calls from customers &amp; can answer questions (ie. How muc...
+Link: https://www.reddit.com/r/artificial/comments/1i53k3w/phone_ai_for_ski_resort/
+Headline: Could Pain Help Test AI for Sentience?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i4zmpt/could_pain_help_test_ai_for_sentience/"> <img alt="Could Pain Help Test AI for Sentience?" src="https://external-preview....
+Link: https://www.reddit.com/r/artificial/comments/1i4zmpt/could_pain_help_test_ai_for_sentience/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
