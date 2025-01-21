@@ -1,6 +1,27 @@
-AI News Updates - 2025-01-20 02:48:09
+AI News Updates - 2025-01-21 02:45:08
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: President Trump repeals Biden’s AI executive order
+Description: <p>During his first day in office, President Donald Trump revoked a 2023 executive order signed by former President Joe Biden that sought to reduce the potential risks AI poses to consumers, workers, ...
+Link: https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/
+Headline: UK to unveil ‘Humphrey’ assistant for civil servants with other AI plans to cut bureaucracy
+Description: <p>A week after the U.K. government announced a sweeping plan to make big investments into AI, it’s laying out more details around how this will take shape in the public sector. On the agenda: AI assi...
+Link: https://techcrunch.com/2025/01/20/uk-to-unveil-humphrey-assistant-for-civil-servants-with-other-ai-plans-to-cut-bureaucracy/
+Headline: OpenAI’s agent tool may be nearing release
+Description: <p>OpenAI may be close to releasing an AI tool that can take control of your PC and perform actions on your behalf. Tibor Blaho, a software engineer with a reputation for accurately leaking upcoming A...
+Link: https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/
+Headline: Friend delays shipments of its AI companion pendant
+Description: <p>Friend, a startup creating a $99, AI-powered necklace designed to be treated as a digital companion, has delayed its first batch of shipments until Q3. Friend had planned to ship devices to pre-ord...
+Link: https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/
+Headline: DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks
+Description: <p>Chinese AI lab DeepSeek has released an open version of DeepSeek-R1, its so-called reasoning model, that it claims performs as well as OpenAI&#8217;s o1 on certain AI benchmarks. R1 is available fr...
+Link: https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/
+Headline: Here are the types of AI companies enterprise VCs want to back in 2025
+Description: <p>The AI startup market is sprawling, from companies looking to develop new chips, to those using AI to build robots, to others looking to use AI to create niche solutions for industry-specific workf...
+Link: https://techcrunch.com/2025/01/20/here-are-the-types-of-ai-companies-enterprise-vcs-want-to-back-in-2025/
+Headline: Confirmed: AI vision startup Metropolis acquires Oosto (formerly known as AnyVision) for just $125M
+Description: <p>The general hype around all things AI is not lifting all boats, as certain startups continue to struggle and look for exits. In one of the latest developments, TechCrunch has learned and confirmed ...
+Link: https://techcrunch.com/2025/01/20/sources-ai-vision-startup-metropolis-is-buying-oosto-formerly-known-as-anyvision-for-just-125m/
 Headline: AI benchmarking organization criticized for waiting to disclose funding from OpenAI
 Description: <p>An organization developing math benchmarks for AI didn&#8217;t disclose that it had received funding from OpenAI until relatively recently, drawing allegations of impropriety from some in the AI co...
 Link: https://techcrunch.com/2025/01/19/ai-benchmarking-organization-criticized-for-waiting-to-disclose-funding-from-openai/
@@ -11,24 +32,7 @@ Headline: AI isn’t very good at history, new paper finds
 Description: <p>Top LLMs performed poorly on a high-level history test, a new paper has found.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 Link: https://techcrunch.com/2025/01/19/ai-isnt-very-good-at-history-new-paper-finds/
-Headline: FTC says partnerships like Microsoft-OpenAI raise antitrust concerns
-Description: <p>The Federal Trade Commission said in a staff report issued Friday that there are potential competitive issues in partnerships between big tech companies and generative AI developers — specifically,...
-Link: https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/
-Headline: Amazon suspends US drone deliveries following crash at testing facility
-Description: <p>Amazon has paused testing of its delivery drones following a crash involving two of its models, according to Bloomberg. It&#8217;s the latest setback for Amazon&#8217;s beleaguered Prime Air progra...
-Link: https://techcrunch.com/2025/01/17/amazon-suspends-u-s-drone-deliveries-following-crash-at-testing-facility/
-Headline: Perplexity acquires Read.cv, a social media platform for professionals
-Description: <p>Read.cv, a social media platform for professionals that competed with LinkedIn, has been acquired by AI-powered search engine Perplexity. As part of the deal, Read.cv will begin to wind down operat...
-Link: https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/
-Headline: AI startup Character AI tests games on the web
-Description: <p>Character AI, a startup that lets users chat with different AI-powered characters, is now testing games on its desktop and mobile web apps to increase engagement on its platform. The games are avai...
-Link: https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/
-Headline: ChatGPT’s newest feature lets users assign it traits like ‘chatty’ and ‘Gen Z’
-Description: <p>Update: OpenAI officially announced this feature one week after some users reported the arrival, and then disappearance, of the new options. It&#8217;s possible they went live prematurely. OpenAI i...
-Link: https://techcrunch.com/2025/01/17/chatgpts-newest-feature-lets-user-assign-it-traits-like-chatty-and-gen-z/
-Headline: OpenAI is trying to extend human life, with help from a longevity startup
-Description: <p>OpenAI says it trained a new AI model called GPT-4b micro with Retro Biosciences, a longevity science startup trying to extend the human lifespan by 10 years, according to the MIT Technology Review...
-Link: https://techcrunch.com/2025/01/17/openai-is-trying-to-extend-human-life-with-help-from-a-longevity-startup/
+
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -64,10 +68,6 @@ Headline: Joe Biden signs executive order to speed AI data center construction
 Description: <figure>
       <img alt="An aerial view of a large data center under construction next to a roadway." src="https://cdn.vox-cdn.com/thumbor/fWPO2UZLoxnYtE0vFcwmybTjoEk=/0x0:4183x2789/1310x873/cdn.vox-c...
 Link: https://www.theverge.com/2025/1/14/24328120/data-center-executive-order-biden-energy
-Headline: Mercedes-Benz’s Virtual Assistant uses Google’s conversational AI agent
-Description: <figure>
-      <img alt="Interior of vehicle with screens across the dash and a word bubble coming from the driver’s seat saying “I’m looking for a great place to take my family for a special birthday...
-Link: https://www.theverge.com/2025/1/13/24342683/mercedes-benz-mbux-virtual-assistant-google-automotive-ai-agent
 
 ---
 
@@ -104,6 +104,9 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: DeepSeek-R1 reasoning models rival OpenAI in performance
+Description: <p>DeepSeek has unveiled its first-generation DeepSeek-R1 and DeepSeek-R1-Zero models that are designed to tackle complex reasoning tasks. DeepSeek-R1-Zero is trained solely through large-scale reinfo...
+Link: https://www.artificialintelligence-news.com/news/deepseek-r1-reasoning-models-rival-openai-in-performance/?utm_source=rss&utm_medium=rss&utm_campaign=deepseek-r1-reasoning-models-rival-openai-in-performance
 Headline: Microsoft advances materials discovery with MatterGen
 Description: <p>The discovery of new materials is key to solving some of humanity&#8217;s biggest challenges. However, as highlighted by Microsoft, traditional methods of discovering new materials can feel like “f...
 Link: https://www.artificialintelligence-news.com/news/microsoft-advances-materials-discovery-mattergen/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-advances-materials-discovery-mattergen
@@ -131,9 +134,6 @@ Link: https://www.artificialintelligence-news.com/news/us-china-tech-war-escalat
 Headline: UK Government signs off sweeping AI action plan
 Description: <p>AI is set to become a cornerstone of the UK’s vision for economic and societal renewal with a sweeping action plan unveiled today by Prime Minister Keir Starmer. The government has committed to all...
 Link: https://www.artificialintelligence-news.com/news/uk-government-signs-off-sweeping-ai-action-plan/?utm_source=rss&utm_medium=rss&utm_campaign=uk-government-signs-off-sweeping-ai-action-plan
-Headline: Driver used ChatGPT to plan attack, authorities reveal
-Description: <p>The new year was only beginning, but technology had already taken centre stage in a tragic event that shocked many. Just outside the Trump International Hotel in Las Vegas, a Tesla Cybertruck erupt...
-Link: https://www.artificialintelligence-news.com/news/rriver-used-chatgpt-to-plan-attack-authorities-reveal/?utm_source=rss&utm_medium=rss&utm_campaign=rriver-used-chatgpt-to-plan-attack-authorities-reveal
 
 ---
 
@@ -142,6 +142,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: The second wave of AI coding is here
+Description: Ask people building generative AI what generative AI is good for right now—what they’re really fired up about—and many will tell you: coding.&#160; “That’s something that’s been very exciting for deve...
+Link: https://www.technologyreview.com/2025/01/20/1110180/the-second-wave-of-ai-coding-is-here/
 Headline: Meta’s new AI model can translate speech from more than 100 languages
 Description: Meta has released a new AI model that can translate speech from 101 different languages. It represents a step toward real-time, simultaneous interpretation, where words are translated as soon as they ...
 Link: https://www.technologyreview.com/2025/01/15/1109994/metas-new-ai-model-can-translate-speech-from-more-than-100-languages/
@@ -169,9 +172,6 @@ Link: https://www.technologyreview.com/2025/01/03/1108800/small-language-models-
 Headline: Generative AI search: 10 Breakthrough Technologies 2025
 Description: WHO Apple, Google, Meta, Microsoft, OpenAI, Perplexity WHEN Now Google’s introduction of AI Overviews, powered by its Gemini language model, will alter how billions of people search the internet. And ...
 Link: https://www.technologyreview.com/2025/01/03/1108820/generative-ai-search-apple-google-microsoft-breakthrough-technologies-2025/
-Headline: Fast-learning robots: 10 Breakthrough Technologies 2025
-Description: WHO Agility, Amazon, Covariant, Robust, Toyota Research Institute WHEN Now Generative AI is causing a paradigm shift in how robots are trained. It’s now clear how we might finally build the sort of tr...
-Link: https://www.technologyreview.com/2025/01/03/1108937/fast-learning-robots-generative-ai-breakthrough-technologies-2025/
 
 ---
 
@@ -212,6 +212,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/email-your-conversations-fro
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Open-source DeepSeek-R1 uses pure reinforcement learning to match OpenAI o1 — at 95% less cost
+Description: The company developed DeepSeek-R1 by using pure reinforcement learning on top of DeepSeek-V3-Base, and matched or beat o1 on some benchmarks.
+Link: https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement-learning-to-match-openai-o1-at-95-less-cost/
 Headline: AI comes alive: From bartenders to surgical aides to puppies, tomorrow’s robots are on their way
 Description: Beyond performing tasks, machines will integrate into our social fabric, requiring us to navigate new relationships with technology.
 Link: https://venturebeat.com/ai/ai-comes-alive-from-bartenders-to-surgical-aides-to-puppies-tomorrows-robots-are-on-their-way/
@@ -236,9 +239,6 @@ Link: https://venturebeat.com/games/ai-or-not-raises-5m-to-stop-ai-fraud-deepfak
 Headline: Microsoft just built an AI that designs materials for the future: Here’s how it works
 Description: Microsoft researchers unveil MatterGen, which accelerates scientific discovery 15X and doubles success rates for stable compounds.
 Link: https://venturebeat.com/ai/microsoft-mattergen-ai-system-generates-materials-that-could-change-industries-forever/
-Headline: Enterprises can now run real-time data through Google Cloud’s most advanced VMs
-Description: Early adopters like Couchbase are already seeing significant price-performance gains with Google Cloud's new VMs.
-Link: https://venturebeat.com/data-infrastructure/enterprises-can-now-run-real-time-data-through-google-clouds-most-advanced-vms/
 
 ---
 
@@ -354,6 +354,9 @@ Link: https://www.sciencedaily.com/releases/2025/01/250102162630.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: Brain implant lets man with paralysis fly a virtual drone by thought
+Description: A man with paralysis was able to fly a virtual drone through a complex obstacle course simply by thinking about moving his fingers, with signals being interpreted by an AI model
+Link: https://www.newscientist.com/article/2464080-brain-implant-lets-man-with-paralysis-fly-a-virtual-drone-by-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Tiny insect-like robot can flip, loop and hover for up to 15 minutes
 Description: A flying robot the size of a postage stamp can hover for up to 15 minutes without breaking, and it can perform acrobatic manoeuvres
 Link: https://www.newscientist.com/article/2464538-tiny-insect-like-robot-can-flip-loop-and-hover-for-up-to-15-minutes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -381,9 +384,6 @@ Link: https://www.newscientist.com/article/2464053-red-note-and-lemon8-are-not-t
 Headline: Meta allowed pornographic ads that break its content moderation rules
 Description: Last year, Meta allowed thousands of paid ads containing sexually explicit imagery on social media platforms, including Facebook and Instagram
 Link: https://www.newscientist.com/article/2463634-meta-allowed-pornographic-ads-that-break-its-content-moderation-rules/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: World’s first fully 3D-printed microscope made in under 3 hours
-Description: The microscope cost less than £50 to build using an open-source design and a common 3D printer
-Link: https://www.newscientist.com/article/2462618-worlds-first-fully-3d-printed-microscope-made-in-under-3-hours/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -396,30 +396,27 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: "Sam Altman has scheduled a closed-door briefing for U.S. government officials on Jan. 30 - AI insiders believe a big breakthrough on PHD level SuperAgents is coming." ... "OpenAI staff have been telling friends they are both jazzed and spooked by recent progress."
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i50okv/sam_altman_has_scheduled_a_closeddoor_briefing/"> <img alt="&quot;Sam Altman has scheduled a closed-door briefing for U.S...
-Link: https://www.reddit.com/r/artificial/comments/1i50okv/sam_altman_has_scheduled_a_closeddoor_briefing/
-Headline: OpenAI quietly funded independent math benchmark before setting record with o3
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i52ucw/openai_quietly_funded_independent_math_benchmark/"> <img alt="OpenAI quietly funded independent math benchmark before set...
-Link: https://www.reddit.com/r/artificial/comments/1i52ucw/openai_quietly_funded_independent_math_benchmark/
-Headline: Nobel laureate Geoffrey Hinton says there is evidence that AIs can be deliberately and intentionally deceptive
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i54col/nobel_laureate_geoffrey_hinton_says_there_is/"> <img alt="Nobel laureate Geoffrey Hinton says there is evidence that AIs ...
-Link: https://www.reddit.com/r/artificial/comments/1i54col/nobel_laureate_geoffrey_hinton_says_there_is/
-Headline: AI generated QR code that doesn’t work 💔
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i4rc7t/ai_generated_qr_code_that_doesnt_work/"> <img alt="AI generated QR code that doesn’t work 💔" src="https://preview.redd.it...
-Link: https://www.reddit.com/r/artificial/comments/1i4rc7t/ai_generated_qr_code_that_doesnt_work/
-Headline: One-Minute Daily AI News 1/18/2025
-Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Perplexity</strong> AI makes a bid to merge with TikTok U.S.[1]</li> <li><strong>Google</strong> Maps is turning 20 — it’s mapping three more countries ...
-Link: https://www.reddit.com/r/artificial/comments/1i4qjsh/oneminute_daily_ai_news_1182025/
-Headline: I built an ai app for generating visualizations on any topic.
-Description: <!-- SC_OFF --><div class="md"><p>I am currently in university 4th year and thought of making a mobile app that can explain you a certain concept with visualizations. Being honest it's better suited f...
-Link: https://www.reddit.com/r/artificial/comments/1i4zgv0/i_built_an_ai_app_for_generating_visualizations/
-Headline: Phone AI For Ski Resort
-Description: <!-- SC_OFF --><div class="md"><p>Hi all. I was hoping for some points in the right direction as I’d like to implement a phone AI to answer calls from customers &amp; can answer questions (ie. How muc...
-Link: https://www.reddit.com/r/artificial/comments/1i53k3w/phone_ai_for_ski_resort/
-Headline: Could Pain Help Test AI for Sentience?
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i4zmpt/could_pain_help_test_ai_for_sentience/"> <img alt="Could Pain Help Test AI for Sentience?" src="https://external-preview....
-Link: https://www.reddit.com/r/artificial/comments/1i4zmpt/could_pain_help_test_ai_for_sentience/
+Headline: AI Coding Landscape
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i5n3vm/ai_coding_landscape/"> <img alt="AI Coding Landscape" src="https://preview.redd.it/9ki4hv1fj4ee1.png?width=640&amp;crop=s...
+Link: https://www.reddit.com/r/artificial/comments/1i5n3vm/ai_coding_landscape/
+Headline: Outgoing National Security Advisor Jake Sullivan issued a final, urgent warning that the next few years will determine whether AI leads to existential catastrophe
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i5tu1r/outgoing_national_security_advisor_jake_sullivan/"> <img alt="Outgoing National Security Advisor Jake Sullivan issued a f...
+Link: https://www.reddit.com/r/artificial/comments/1i5tu1r/outgoing_national_security_advisor_jake_sullivan/
+Headline: One-Minute Daily AI News 1/19/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li><strong>Oscar</strong> Hopeful The Brutalist Comes Under Fire For Using AI.[1]</li> <li>Explained: Generative AI’s environmental impact.[2]</li> <li>AI startup ...
+Link: https://www.reddit.com/r/artificial/comments/1i5gxne/oneminute_daily_ai_news_1192025/
+Headline: Art Meets AI in eNuminous & Archimedes' Captivating New Album 'Sing Like Robots'
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i60rdt/art_meets_ai_in_enuminous_archimedes_captivating/"> <img alt="Art Meets AI in eNuminous &amp; Archimedes' Captivating New...
+Link: https://www.reddit.com/r/artificial/comments/1i60rdt/art_meets_ai_in_enuminous_archimedes_captivating/
+Headline: AI, Energy, & Water: Predictions?
+Description: <!-- SC_OFF --><div class="md"><p>There's a lot of discussion about the environmental impacts of AI, particularly its energy and water needs. </p> <p>I kind of expect that r&amp;d on more efficient co...
+Link: https://www.reddit.com/r/artificial/comments/1i5uy70/ai_energy_water_predictions/
+Headline: what upcoming AI tools are you most excited about in 2025 ?
+Description: <!-- SC_OFF --><div class="md"><p>As an enthusiast of AI development, I have been observing the growth of companion AI, especially the 'AI girlfriend'' type apps, becoming more popular over time. Do y...
+Link: https://www.reddit.com/r/artificial/comments/1i60ge3/what_upcoming_ai_tools_are_you_most_excited_about/
+Headline: Growing acceptance of artificial intelligence in Germany
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i5svbt/growing_acceptance_of_artificial_intelligence_in/"> <img alt="Growing acceptance of artificial intelligence in Germany" s...
+Link: https://www.reddit.com/r/artificial/comments/1i5svbt/growing_acceptance_of_artificial_intelligence_in/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
