@@ -1,40 +1,54 @@
-AI News Updates - 2025-01-24 02:46:21
+AI News Updates - 2025-01-25 02:39:43
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: Reliance plans world’s biggest AI data centre in India, report says
-Description: <p>Mukesh Ambani&#8217;s Reliance is planning to build what could become the world&#8217;s largest data center in Jamnagar, India, with a capacity of three gigawatts to capitalize on surging AI demand...
-Link: https://techcrunch.com/2025/01/23/reliance-plans-world-biggest-ai-data-centre-in-india-report-says/
-Headline: Even some of the best AI can’t beat this new benchmark
-Description: <p>The nonprofit Center for AI Safety (CAIS) and Scale AI, a company that provides a number of data labeling and AI development services, have released a challenging new benchmark for frontier AI syst...
-Link: https://techcrunch.com/2025/01/23/even-some-of-the-best-ai-cant-beat-this-new-benchmark/
-Headline: OpenAI says it may store deleted Operator data for up to 90 days
-Description: <p>OpenAI says that it might store chats and associated screenshots from customers who use Operator, the company&#8217;s AI &#8220;agent&#8221; tool, for up to 90 days — even after a user manually del...
-Link: https://techcrunch.com/2025/01/23/openai-says-it-may-store-deleted-operator-data-for-up-to-90-days/
-Headline: Anthropic’s new Citations feature aims to reduce AI errors
-Description: <p>In an announcement perhaps timed to divert attention away from OpenAI&#8217;s Operator, Anthropic Thursday unveiled a new feature for its developer API called Citations, which lets devs &#8220;grou...
-Link: https://techcrunch.com/2025/01/23/anthropics-new-citations-feature-aims-to-reduce-ai-errors/
-Headline: OpenAI and SoftBank are reportedly putting $19B each into Stargate
-Description: <p>We may now know roughly how much money SoftBank and OpenAI are contributing toward Stargate, the massive infrastructure project to build data centers for OpenAI across the U.S. SoftBank and OpenAI ...
-Link: https://techcrunch.com/2025/01/23/openai-and-softbank-are-reportedly-putting-19b-each-into-stargate/
-Headline: OpenAI launches Operator, an AI agent that performs tasks autonomously
-Description: <p>OpenAI CEO Sam Altman kicked off this year by saying in a blog post that 2025 would be big for AI agents, tools that can automate tasks and take actions on your behalf. Now, we&#8217;re seeing Open...
-Link: https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/
-Headline: Roli releases a 49-key educational keyboard and generative AI play
-Description: <p>Roli on Thursday announced its latest educational product at the NAAM audio show in Anaheim. The simply named Roli Piano builds on products like the Roli Airwave and Piano M, more than doubling the...
-Link: https://techcrunch.com/2025/01/23/roli-releases-a-49-key-educational-keyboard-and-generative-ai-play/
-Headline: Perplexity launches an assistant for Android
-Description: <p>AI-powered search engine Perplexity has launched an &#8220;agent,&#8221; of sorts, called Perplexity Assistant, which Perplexity says uses reasoning, search, and apps to help with daily tasks. Perp...
-Link: https://techcrunch.com/2025/01/23/perplexity-launches-an-assistant-for-android/
-Headline: Meta’s Yann LeCun predicts ‘new paradigm of AI architectures’ within 5 years and ‘decade of robotics’
-Description: <p>Meta&#8217;s chief AI scientist, Yann LeCun, says that a &#8220;new paradigm of AI architectures&#8221; will emerge in the next three to five years, going far beyond the capabilities of existing AI...
-Link: https://techcrunch.com/2025/01/23/metas-yann-lecun-predicts-a-new-ai-architectures-paradigm-within-5-years-and-decade-of-robotics/
-Headline: ChatGPT suffered a major outage this morning, but OpenAI says it’s back up
-Description: <p>OpenAI&#8217;s AI chatbot platform, ChatGPT, suffered a major outage Thursday. Early this morning, ChatGPT users started reporting issues accessing ChatGPT on the web and other platforms. According...
-Link: https://techcrunch.com/2025/01/23/chatgpt-suffered-a-major-outage-this-morning-but-openai-says-its-back-up/
+Headline: In motion to dismiss, chatbot platform Character AI claims it is protected by the First Amendment
+Description: <p>Character AI, a platform that lets users engage in roleplay with AI chatbots, has filed a motion to dismiss a case brought against it by the parent of a teen who committed suicide, allegedly after ...
+Link: https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/
+Headline: AI companies upped their federal lobbying spend in 2024 amid regulatory uncertainty
+Description: <p>Companies spent significantly more lobbying AI issues at the U.S. federal level last year compared to 2023 amid regulatory uncertainty. According to data compiled by OpenSecrets, 648 companies spen...
+Link: https://techcrunch.com/2025/01/24/ai-companies-upped-their-federal-lobbying-spend-in-2024-amid-regulatory-uncertainty/
+Headline: ElevenLabs has raised a new round at $3B+ valuation led by ICONIQ Growth, sources say
+Description: <p>Companies that want to build AI voice into their products are rushing to work with ElevenLabs, the startup that develops synthetic voice technology like voice cloning and dubbing tools. Now ElevenL...
+Link: https://techcrunch.com/2025/01/24/elevenlabs-has-raised-a-new-round-at-3b-valuation-led-by-iconiq-growth-sources-say/
+Headline: Stargate will use solar and batteries to power $100B AI venture
+Description: <p>Solar farms can be completed far faster than nuclear reactors and natural gas power plants.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+Link: https://techcrunch.com/2025/01/24/stargate-will-use-solar-and-batteries-to-power-100b-ai-venture/
+Headline: The AI industry’s pace has researchers stressed
+Description: <p>To outside observers, AI researchers are in an enviable position. They&#8217;re sought after by tech giants. They&#8217;re taking home eye-popping salaries. And they&#8217;re in the hottest industr...
+Link: https://techcrunch.com/2025/01/24/the-ai-industrys-pace-has-researchers-stressed/
+Headline: People are benchmarking AI by having it make balls bounce in rotating shapes
+Description: <p>The list of informal, weird AI benchmarks keeps growing. Over the past few days, some in the AI community on X have become obsessed with a test of how different AI models, particularly so-called re...
+Link: https://techcrunch.com/2025/01/24/people-are-benchmarking-ai-by-having-it-make-balls-bounce-in-rotating-shapes/
+Headline: Sam Altman’s World now wants to link AI agents to your digital identity
+Description: <p>OpenAI CEO Sam Altman took the technology world by surprise on Thursday with the release of Operator, his company&#8217;s first AI agent that can act autonomously on the web. But OpenAI is not Altm...
+Link: https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/
+Headline: How are founders positioning themselves for the next 4 years?
+Description: <p>As tech titans like Elon Musk and Mark Zuckerberg rubbed shoulders with politicians at President Trump’s inauguration, startup founders were working the D.C. party scene, aiming to secure a spot in...
+Link: https://techcrunch.com/podcast/how-are-founders-positioning-themselves-for-the-next-4-years/
+Headline: Mark Zuckerberg says Meta will have 1.3M GPUs for AI by year-end
+Description: <p>Meta CEO Mark Zuckerberg said that the company plans to significantly up its capital expenditures this year as it aims to keep pace with rivals in the cutthroat AI space. In a Facebook post Friday,...
+Link: https://techcrunch.com/2025/01/24/mark-zuckerberg-says-meta-will-have-1-3m-gpus-for-ai-by-year-end/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The AI spending frenzy is just getting started
+Description: <figure>
+      <img alt="Digital photo collage of OpenAI CEO Sam Altman, accompanied by U.S. President Donald Trump, Oracle CTO Larry Ellison (R), and SoftBank CEO Masayoshi Son (2nd-R)." src="https:/...
+Link: https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft
+Headline: Apple makes a change to its AI team and plans Siri upgrades
+Description: <figure>
+      <img alt="Vector illustration of the Apple logo." src="https://cdn.vox-cdn.com/thumbor/1Kht1vImsFQkmv_2YdixSoJQFyQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738...
+Link: https://www.theverge.com/2025/1/24/24351391/apple-change-ai-team-siri-upgrades-kim-vorrath
+Headline: Mark Zuckerberg wants you to know he has a big AI data center, too
+Description: <figure>
+      <img alt="Graphic collage of Mark Zuckerberg." src="https://cdn.vox-cdn.com/thumbor/b3ddCuMiT9_0hVTVTOnVFCKsRCg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738659...
+Link: https://www.theverge.com/2025/1/24/24351061/mark-zuckerberg-meta-ai-data-center-investment
+Headline: Samsung’s thin, big, boring AI phones
+Description: <figure>
+      <img alt="A photo of the Galaxy S25 Edge from the side, plus an illustration of the Vergecast hosts." src="https://cdn.vox-cdn.com/thumbor/9-M4JyriR8KywybiDcAn3n-b29k=/0x0:2040x1360/131...
+Link: https://www.theverge.com/2025/1/24/24350976/samsung-galaxy-s25-boring-tiktok-ban-openai-vergecast
 Headline: Google’s Gemini AI smart home controls are rolling out to everyone
 Description: <figure>
       <img alt="A gold thermostat with clouds displayed on the screen on a beige wall next to a staircase" src="https://cdn.vox-cdn.com/thumbor/rse6eVFyXWBHgD2HSZukpMhmgPs=/0x0:2700x1800/1310...
@@ -55,22 +69,6 @@ Headline: Google reportedly worked directly with Israel’s military on AI tools
 Description: <figure>
       <img alt="Vector illustration of the Google logo." src="https://cdn.vox-cdn.com/thumbor/ZEssk-y8L0yb69r0Sww4NSHfP64=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73...
 Link: https://www.theverge.com/2025/1/22/24349582/google-israel-defense-forces-idf-contract-gaza
-Headline: Google Gemini now works across multiple apps in a single prompt
-Description: <figure>
-      <img alt="An image showing a phone displaying Google Gemini Live, highlighting various new features." src="https://cdn.vox-cdn.com/thumbor/VOJFnd_XXHylpCKNLclMQ7EuxHs=/162x0:1935x1182/1...
-Link: https://www.theverge.com/2025/1/22/24349319/google-gemini-multiple-app-extensions-ai-samsung-bixby-circle-to-search
-Headline: Elon Musk, White House adviser, says OpenAI deal announced at White House is a sham
-Description: <figure>
-      <img alt="Photo collage of Elon Musk." src="https://cdn.vox-cdn.com/thumbor/6rjDfH0OE4CyjqgSKtgQV8NEnJI=/20x0:2021x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73861127/STK0...
-Link: https://www.theverge.com/2025/1/22/24349449/elon-musk-stargate-project-money-allegation
-Headline: Microsoft is letting OpenAI get its own AI compute now
-Description: <figure>
-      <img alt="Vector illustration of the Microsoft logo." src="https://cdn.vox-cdn.com/thumbor/rIECRNTw12SHOIT9pFwffOPH_Rg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image...
-Link: https://www.theverge.com/2025/1/21/24349006/microsoft-openai-compute-partnership
-Headline: OpenAI and Softbank are starting a $500 billion AI data center company
-Description: <figure>
-      <img alt="Donald Trump standing off to the side while OpenAI CEO Sam Altman speaks behind a lectern at the White House." src="https://cdn.vox-cdn.com/thumbor/avxUA3-DGj_6mzMAZxiUQO8jcYo...
-Link: https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project
 
 ---
 
@@ -79,6 +77,9 @@ From source: https://www.wired.com/category/artificial-intelligence/
 ---
 
 From source: https://blogs.nvidia.com/feed/
+Headline: AI Maps Titan’s Methane Clouds in Record Time
+Description: NVIDIA GPUs powered deep learning to decode years of Cassini data in seconds—helping researchers pioneer a smarter way to explore alien worlds.
+Link: https://blogs.nvidia.com/blog/ai-maps-titan-clouds/
 Headline: Fast, Low-Cost Inference Offers Key to Profitable AI
 Description: Businesses across every industry are rolling out AI services this year. For Microsoft, Oracle, Perplexity, Snap and hundreds of other leading companies, using the NVIDIA AI inference platform — a full...
 Link: https://blogs.nvidia.com/blog/ai-inference-platform/
@@ -100,6 +101,7 @@ Link: https://blogs.nvidia.com/blog/nemo-guardrails-nim-microservices/
 Headline: How AI Is Enhancing Surgical Safety and Education
 Description: Troves of unwatched surgical video footage are finding new life, fueling AI tools that help make surgery safer and enhance surgical education. The Surgical Data Science Collective (SDSC) is transformi...
 Link: https://blogs.nvidia.com/blog/how-ai-enhances-surgical-safety-education/
+
 ---
 
 From source: https://openai.com/blog/rss.xml
@@ -107,6 +109,15 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: Yiannis Antoniou, Lab49: OpenAI Operator kickstarts era of browser AI agents
+Description: <p>OpenAI has unveiled Operator, a tool that integrates seamlessly with web browsers to perform tasks autonomously. From filling out forms to ordering groceries, Operator promises to simplify repetiti...
+Link: https://www.artificialintelligence-news.com/news/yiannis-antoniou-lab49-openai-operator-era-browser-ai-agents/?utm_source=rss&utm_medium=rss&utm_campaign=yiannis-antoniou-lab49-openai-operator-era-browser-ai-agents
+Headline: How AI helped refine Hungarian accents in The Brutalist
+Description: <p>When it comes to movies buzzing with Oscar potential, Brady Corbet&#8217;s The Brutalist is a standout this awards season. The visually stunning drama transports viewers to the post-World War II er...
+Link: https://www.artificialintelligence-news.com/news/how-ai-helped-refine-hungarian-accents-in-the-brutalist/?utm_source=rss&utm_medium=rss&utm_campaign=how-ai-helped-refine-hungarian-accents-in-the-brutalist
+Headline: OpenAI targets business sector with advanced AI tools
+Description: <p>OpenAI, the powerhouse behind ChatGPT, is ramping up efforts to dominate the enterprise market with a suite of AI tools tailored for business users. The company recently revealed its plans to intro...
+Link: https://www.artificialintelligence-news.com/news/openai-targets-business-sector-advanced-ai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=openai-targets-business-sector-advanced-ai-tools
 Headline: OpenAI argues against ChatGPT data deletion in Indian court
 Description: <p>OpenAI has argued in an Indian court that removing the training data behind ChatGPT service would clash with its legal obligations in the United States. The statement was issued in response to a la...
 Link: https://www.artificialintelligence-news.com/news/openai-argues-against-chatgpt-data-deletion-in-indian-court/?utm_source=rss&utm_medium=rss&utm_campaign=openai-argues-against-chatgpt-data-deletion-in-indian-court
@@ -128,15 +139,6 @@ Link: https://www.artificialintelligence-news.com/news/microsoft-advances-materi
 Headline: US-China AI chip race: Cambricon’s first profit lands
 Description: <p>The US-China AI chip race has entered a new phase as Chinese chip designer Cambricon Technologies reports its first-ever quarterly profit. The milestone emerges against a backdrop of escalating US ...
 Link: https://www.artificialintelligence-news.com/news/us-china-ai-chip-race-cambricons-first-profit-lands/?utm_source=rss&utm_medium=rss&utm_campaign=us-china-ai-chip-race-cambricons-first-profit-lands
-Headline: L’Oréal: Making cosmetics sustainable with generative AI
-Description: <p>L’Oréal will leverage IBM&#8217;s generative AI (GenAI) technology to create innovative and sustainable cosmetic products. The partnership will involve developing a bespoke AI foundation model to s...
-Link: https://www.artificialintelligence-news.com/news/loreal-making-cosmetics-sustainable-generative-ai/?utm_source=rss&utm_medium=rss&utm_campaign=loreal-making-cosmetics-sustainable-generative-ai
-Headline: Cisco: Securing enterprises in the AI era
-Description: <p>As AI becomes increasingly integral to business operations, new safety concerns and security threats emerge at an unprecedented pace—outstripping the capabilities of traditional cybersecurity solut...
-Link: https://www.artificialintelligence-news.com/news/cisco-securing-enterprises-in-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=cisco-securing-enterprises-in-the-ai-era
-Headline: Biden’s executive order targets energy needs for AI data centres
-Description: <p>In the last days of office, President Joe Biden is taking steps to address the growing energy demands of advanced AI data centres. On Tuesday, he signed an executive order aimed at providing federa...
-Link: https://www.artificialintelligence-news.com/news/biden-executive-order-targets-energy-needs-for-ai-data-centres/?utm_source=rss&utm_medium=rss&utm_campaign=biden-executive-order-targets-energy-needs-for-ai-data-centres
 
 ---
 
@@ -145,6 +147,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: How a top Chinese AI model overcame US sanctions
+Description: The AI community is abuzz over DeepSeek R1, a new open-source reasoning model.  The model was developed by the Chinese AI startup DeepSeek, which claims that R1 matches or even surpasses OpenAI’s Chat...
+Link: https://www.technologyreview.com/2025/01/24/1110526/china-deepseek-top-ai-despite-sanctions/
 Headline: OpenAI launches Operator—an agent that can use a computer for you
 Description: After weeks of buzz, OpenAI has released Operator, its first AI agent. Operator is a web app that can carry out simple online tasks in a browser, such as booking concert tickets or filling an online g...
 Link: https://www.technologyreview.com/2025/01/23/1110484/openai-launches-operator-an-agent-that-can-use-a-computer-for-you/
@@ -169,9 +174,6 @@ Link: https://www.technologyreview.com/2025/01/14/1109104/training-robots-in-the
 Headline: Here’s our forecast for AI this year
 Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In December, our small but mighty AI reporting team was asked ...
 Link: https://www.technologyreview.com/2025/01/14/1109958/whats-next-for-ai-in-2025-2/
-Headline: Anthropic’s chief scientist on 4 ways agents will be even better in 2025
-Description: Agents are the hottest thing in tech right now. Top firms from Google DeepMind to OpenAI to Anthropic are racing to augment large language models with the ability to carry out tasks by themselves. Kno...
-Link: https://www.technologyreview.com/2025/01/11/1109909/anthropics-chief-scientist-on-5-ways-agents-will-be-even-better-in-2025/
 
 ---
 
@@ -184,6 +186,12 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Security best practices to consider while fine-tuning models in Amazon Bedrock
+Description: In this post, we implemented secure fine-tuning jobs in Amazon Bedrock, which is crucial for protecting sensitive data and maintaining the integrity of your AI models. By following the best practices ...
+Link: https://aws.amazon.com/blogs/machine-learning/security-best-practices-to-consider-while-fine-tuning-models-in-amazon-bedrock/
+Headline: Secure a generative AI assistant with OWASP Top 10 mitigation
+Description: In this post, we show you an example of a generative AI assistant application and demonstrate how to assess its security posture using the OWASP Top 10 for Large Language Model Applications, as well a...
+Link: https://aws.amazon.com/blogs/machine-learning/secure-a-generative-ai-assistant-with-owasp-top-10-mitigation/
 Headline: Streamline custom environment provisioning for Amazon SageMaker Studio: An automated CI/CD pipeline approach
 Description: In this post, we show how to create an automated continuous integration and delivery (CI/CD) pipeline solution to build, scan, and deploy custom Docker images to SageMaker Studio domains. You can use ...
 Link: https://aws.amazon.com/blogs/machine-learning/streamline-custom-environment-provisioning-for-amazon-sagemaker-studio-an-automated-ci-cd-pipeline-approach/
@@ -196,16 +204,21 @@ Link: https://aws.amazon.com/blogs/machine-learning/solve-forecasting-challenges
 Headline: Enabling generative AI self-service using Amazon Lex, Amazon Bedrock, and ServiceNow
 Description: In this post, we show how you can integrate Amazon Lex with Amazon Bedrock Knowledge Bases and ServiceNow to provide 24/7 automated support and self-service options.
 Link: https://aws.amazon.com/blogs/machine-learning/enabling-generative-ai-self-service-using-amazon-lex-amazon-bedrock-and-servicenow/
-Headline: HCLTech’s AWS powered AutoWise Companion: A seamless experience for informed automotive buyer decisions with data-driven design
-Description: This post introduces HCLTech’s AutoWise Companion, a transformative generative AI solution designed to enhance customers’ vehicle purchasing journey. In this post, we analyze the current industry chal...
-Link: https://aws.amazon.com/blogs/machine-learning/hcltechs-aws-powered-autowise-companion-a-seamless-experience-for-informed-automotive-buyer-decisions-with-data-driven-design/
-Headline: Mitigating risk: AWS backbone network traffic prediction using GraphStorm
-Description: In this post, we show how you can use our enterprise graph machine learning (GML) framework GraphStorm to solve prediction challenges on large-scale complex networks inspired by our practices of explo...
-Link: https://aws.amazon.com/blogs/machine-learning/mitigating-risk-aws-backbone-network-traffic-prediction-using-graphstorm/
-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Tech leaders respond to the rapid rise of DeepSeek
+Description: Marc Andreessen, Yann LeCunn and Mark Zuckerberg have all penned what appear to be responses to the Chinese open source model's ascent.
+Link: https://venturebeat.com/ai/tech-leaders-respond-to-the-rapid-rise-of-deepseek/
+Headline: Y Combinator’s hottest startup, Origami Agents, secures $2M seed round to supercharge sales teams with AI
+Description: Y Combinator's fastest-growing startup Origami Agents raised $2M to build AI research tools that help sales teams find perfect customers.
+Link: https://venturebeat.com/ai/y-combinators-hottest-startup-origami-agents-secures-2m-seed-round-to-supercharge-sales-teams-with-ai/
+Headline: OpenAI: Extending model ‘thinking time’ helps combat emerging cyber vulnerabilities
+Description: OpenAI used its own o1-preview and o1-mini models to test whether additional inference time compute protected against various attacks.
+Link: https://venturebeat.com/ai/openai-extending-model-thinking-time-helps-combat-emerging-cyber-vulnerabilities/
+Headline: Why everyone in AI is freaking out about DeepSeek
+Description: DeepSeek has a free website and mobile app even for U.S. users with an R1-powered chatbot interface similar to OpenAI's ChatGPT.
+Link: https://venturebeat.com/ai/why-everyone-in-ai-is-freaking-out-about-deepseek/
 Headline: Trump’s $500 billion AI moonshot: Ambition meets controversy in ‘Project Stargate’
 Description: Trump unveils ambitious $500 billion 'Project Stargate' AI initiative with tech giants OpenAI, Oracle, and SoftBank, sparking controversy as Elon Musk questions funding and environmentalists raise con...
 Link: https://venturebeat.com/ai/trumps-500-billion-ai-moonshot-ambition-meets-controversy-in-project-stargate/
@@ -221,52 +234,37 @@ Link: https://venturebeat.com/ai/hugging-face-shrinks-ai-vision-models-to-phone-
 Headline: Meet OpenAI’s Operator, an AI agent that uses the web to book you dinner reservations, order tickets, compile grocery lists and more
 Description: Instead of relying on specialized APIs, the system uses screenshots for visual input and virtual mouse and keyboard actions to complete tasks.
 Link: https://venturebeat.com/ai/meet-openais-operator-an-ai-agent-that-uses-the-web-to-book-you-dinner-reservations-order-tickets-compile-grocery-lists-and-more/
-Headline: Pipeshift cuts GPU usage for AI inferences 75% with modular interface engine
-Description: Pipeshift has a Lego-like system that allows teams to configure the right inference stack for their AI workloads, without extensive engineering.
-Link: https://venturebeat.com/ai/pipeshift-cuts-gpu-usage-for-ai-inferences-75-with-modular-interface-engine/
-Headline: Galileo launches Agentic Evaluations to fix AI agent errors before they cost you
-Description: Galileo launches Agentic Evaluations to help enterprises evaluate and monitor AI agents, securing $68M in funding as companies like Cisco adopt its platform for safer AI deployment.
-Link: https://venturebeat.com/ai/galileo-launches-agentic-evaluations-to-fix-ai-agent-errors-before-they-cost-you/
-Headline: ByteDance’s UI-TARS can take over your computer, outperforms GPT-4o and Claude
-Description: UI-TARS understands graphical user interfaces (GUIs), applies reasoning and takes autonomous, step-by-step action.
-Link: https://venturebeat.com/ai/bytedances-ui-tars-can-take-over-your-computer-outperforms-gpt-4o-and-claude/
-Headline: Google releases free Gemini 2.0 Flash Thinking model, pressuring OpenAI’s premium strategy
-Description: Google challenges OpenAI with free Gemini 2.0 Flash Thinking model, offering million-token processing, native code execution, and breakthrough performance in math and science benchmarks.
-Link: https://venturebeat.com/ai/google-releases-free-gemini-2-0-flash-thinking-model-pressuring-openais-premium-strategy/
-Headline: Samsung teases Android XR devices coming later this year
-Description: Samsung teased its efforts with multimodal AI and new form factors including smart glasses and extended reality (XR) devices.
-Link: https://venturebeat.com/games/samsung-teases-android-xr-devices-coming-later-this-year/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: What is Project Stargate? Why this $500-billion AI initiative could herald a 'platform shift'
-Description: OpenAI, SoftBank Group, Abu Dhabi, and Oracle are among the players in a joint venture meant to pour hundreds of billions more into AI data center funding.
-Link: https://www.zdnet.com/article/what-is-project-stargate-why-this-500-billion-ai-initiative-could-herald-a-platform-shift/
-Headline: The best robot vacuums for pet hair of 2025: Expert tested and reviewed
-Description: We tested the best robot vacuums for pet hair from iRobot, Roborock, and more to effortlessly keep your floors clean without the old upright vacuum.
-Link: https://www.zdnet.com/article/the-best-robot-vacuum-for-pet-hair/
-Headline: How to run a local LLM as a browser-based AI with this free extension
-Description: Ollama allows you to use a local LLM for your artificial intelligence needs, but by default, it is a command-line-only tool. To avoid having to use the terminal, try this extension instead.
-Link: https://www.zdnet.com/article/how-to-run-local-llm-as-browser-based-ai-with-this-free-extension/
-Headline: The Open Weight Definition offers another take on the OSAID debate
-Description: This new framework from the Open Source Alliance aims to finally set the standard for open-source AI models. Will it?
-Link: https://www.zdnet.com/article/the-open-weight-definition-offers-another-take-on-the-osaid-debate/
-Headline: Is ChatGPT down for you? OpenAI is on it - but these alternatives can help in the meantime
-Description: The world's most popular AI chatbot is down for some users. Here are some other options to get your fix.
-Link: https://www.zdnet.com/article/is-chatgpt-down-for-you-openai-is-on-it-but-these-alternatives-can-help-in-the-meantime/
-Headline: Samsung's new Galaxy AI features are what iPhone users wish they got with Apple Intelligence
-Description: I've been testing on-device AI assistants over the past year, and Samsung may have just lapped Apple with the new Galaxy S25 series.
-Link: https://www.zdnet.com/article/samsungs-new-galaxy-ai-features-are-what-iphone-users-wish-they-got-with-apple-intelligence/
-Headline: The future of sales? These AI agents offer 24/7 ABC energy for SMBs
-Description: Imagine a sales team that never sleeps. Palona is launching AI chatbots designed to act as personable, 24/7 sales agents for businesses, going beyond simple customer service to drive sales and build b...
-Link: https://www.zdnet.com/article/the-future-of-sales-these-ai-agents-offer-247-abc-energy-for-smbs/
-Headline: Samsung and Google's AI partnership is a bigger win than you think - and I'm worried for Apple
-Description: Samsung's partnership with Google imbues its new Galaxy S25 phones with powerful AI and deep integration across its ecosystem. That's a major, major win.
-Link: https://www.zdnet.com/article/samsung-and-googles-ai-partnership-is-a-bigger-win-than-you-think-and-im-worried-for-apple/
-Headline: Samsung Unpacked 2025: Everything you might've missed, Galaxy S25 Edge, AR glasses, more
-Description: Yesterday's launch event saw the unveiling of the Galaxy S25 series, new Galaxy AI features, and a fresh One UI 7 upgrade. Oh, and the S25 Edge made a surprise appearance.
-Link: https://www.zdnet.com/article/samsung-unpacked-2025-everything-you-mightve-missed-galaxy-s25-edge-ar-glasses-more/
+Headline: The Microsoft 365 Copilot launch was a total disaster
+Description: At the start of the New Year, with no warning, Microsoft gives its flagship productivity app a name change and a huge price increase. Why would the company make this mess? I asked Copilot, who explain...
+Link: https://www.zdnet.com/article/the-microsoft-365-copilot-launch-was-a-total-disaster/
+Headline: Google Home users can ask Gemini to control their smart homes now - how it works
+Description: Rolling out to all users this week, the new integration lets you ask the AI bot to turn lights on or off or control other smart devices.
+Link: https://www.zdnet.com/article/google-home-users-can-ask-gemini-to-control-their-smart-homes-now-how-it-works/
+Headline: AI isn't what your customers want - here's what to invest in instead
+Description: Big Tech keeps missing this crucial piece in AI innovation. Don't make the same mistake.
+Link: https://www.zdnet.com/article/ai-isnt-what-your-customers-want-heres-what-to-invest-in-instead/
+Headline: I tried Perplexity's assistant, and only one thing stops it from being my default phone AI
+Description: There's a new option to replace your Google Assistant, and it does almost everything right.
+Link: https://www.zdnet.com/article/i-tried-perplexitys-assistant-and-only-one-thing-stops-it-from-being-my-default-phone-ai/
+Headline: Samsung Unpacked 2025: Five biggest announcements, including S25 Edge and AR glasses
+Description: This week's product event saw the unveiling of the Galaxy S25 series, new Galaxy AI features, and a fresh One UI 7 upgrade. Oh, and we got some exciting surprises.
+Link: https://www.zdnet.com/article/samsung-unpacked-2025-five-biggest-announcements-including-s25-edge-and-ar-glasses/
+Headline: OpenAI's new ChatGPT agent can perform interactive tasks on your behalf
+Description: The new Operator tool is available only to ChatGPT Pro subscribers, for now.
+Link: https://www.zdnet.com/article/openais-new-chatgpt-agent-can-perform-interactive-tasks-on-your-behalf/
+Headline: Operator isn't worth its $200-per-month ChatGPT Pro subscription yet - here's why
+Description: Operator leverages AI to perform basic browser tasks like reservations and orders. But does this tool offer enough depth to justify its cost and hype?
+Link: https://www.zdnet.com/article/operator-isnt-worth-its-200-per-month-chatgpt-pro-subscription-yet-heres-why/
+Headline: Samsung appliances are about to get smarter and wiser - thanks to AI
+Description: The new Home AI features on various SmartThings appliances leverage ambient sensors to suggest different routines throughout your day.
+Link: https://www.zdnet.com/article/samsung-appliances-are-about-to-get-smarter-and-wiser-thanks-to-ai/
+Headline: Roll over, Darwin: How Google DeepMind's 'mind evolution' could enhance AI thinking
+Description: This new approach, based on natural selection, dramatically improves the reliability of large language models for practical tasks like trip planning. Here's how it works.
+Link: https://www.zdnet.com/article/roll-over-darwin-how-google-deepminds-mind-evolution-could-enhance-ai-thinking/
 
 ---
 
@@ -351,6 +349,15 @@ Link: https://www.sciencedaily.com/releases/2025/01/250106195930.htm
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
+Headline: A hole-filled battery could make wearables more breathable than cotton
+Description: A lithium battery patterned with holes is flexible, stretchable and allows more airflow than cotton, making it perfect for fitness tracking or medical monitoring wearables
+Link: https://www.newscientist.com/article/2465505-a-hole-filled-battery-could-make-wearables-more-breathable-than-cotton/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Electric cars now last as long as petrol and diesel counterparts
+Description: Records from UK vehicle safety tests show that the average lifespan of an electric vehicle is 18 years, and the reliability is still improving considerably from year to year
+Link: https://www.newscientist.com/article/2465166-electric-cars-now-last-as-long-as-petrol-and-diesel-counterparts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: New Tom Hanks film fails to wow despite the cutting-edge tech
+Description: Robert Zemeckis's would-be epic film Here relies on real-time de-ageing technology. But do its ambitions conceal a more mundane project?
+Link: https://www.newscientist.com/article/mg26535270-400-new-tom-hanks-film-fails-to-wow-despite-the-cutting-edge-tech/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: Brain implant lets man with paralysis fly a virtual drone by thought
 Description: A man with paralysis was able to fly a virtual drone through a complex obstacle course simply by thinking about moving his fingers, with signals being interpreted by an AI model
 Link: https://www.newscientist.com/article/2464080-brain-implant-lets-man-with-paralysis-fly-a-virtual-drone-by-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -372,15 +379,6 @@ Link: https://www.newscientist.com/article/2464396-nato-tests-satellite-internet
 Headline: Could spider silk be the answer to sustainable fashion?
 Description: Our Future Chronicles column explores an imagined history of inventions and developments yet to come. In its latest instalment, Rowan Hooper reveals how by 2029, we had learned how to make synthetic s...
 Link: https://www.newscientist.com/article/mg26535260-200-could-spider-silk-be-the-answer-to-sustainable-fashion/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Humanoid robot learns to waltz by mirroring people's movements
-Description: An AI trained on motion capture recordings can help robots smoothly imitate human actions, such as dancing, walking and throwing punches
-Link: https://www.newscientist.com/article/2464178-humanoid-robot-learns-to-waltz-by-mirroring-peoples-movements/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Red Note and Lemon8 are not the TikTok refuges you are looking for
-Description: The Chinese social media apps Red Note and Lemon8 have become popular alternatives for TikTok users ahead of a US government ban on TikTok. But government restrictions loom over those apps too
-Link: https://www.newscientist.com/article/2464053-red-note-and-lemon8-are-not-the-tiktok-refuges-you-are-looking-for/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: Meta allowed pornographic ads that break its content moderation rules
-Description: Last year, Meta allowed thousands of paid ads containing sexually explicit imagery on social media platforms, including Facebook and Instagram
-Link: https://www.newscientist.com/article/2463634-meta-allowed-pornographic-ads-that-break-its-content-moderation-rules/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -393,28 +391,24 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Anthropic chief says AI could surpass “almost all humans at almost everything” shortly after 2027
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i89s6q/anthropic_chief_says_ai_could_surpass_almost_all/"> <img alt="Anthropic chief says AI could surpass “almost all humans at...
-Link: https://www.reddit.com/r/artificial/comments/1i89s6q/anthropic_chief_says_ai_could_surpass_almost_all/
-Headline: AI tutor better than Harvard professor
-Description: <!-- SC_OFF --><div class="md"><p>Harvard students taking an introductory physics class in the fall of 2023,... But students learned more than twice as much in less time when they used an AI tutor in ...
-Link: https://www.reddit.com/r/artificial/comments/1i7xhl1/ai_tutor_better_than_harvard_professor/
-Headline: "The visible chain-of-thought from DeepSeek makes it nearly impossible to avoid anthropomorphizing the thing... It makes you feel like you are reading the diary of a somewhat tortured soul who wants to help."
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i82j1c/the_visible_chainofthought_from_deepseek_makes_it/"> <img alt="&quot;The visible chain-of-thought from DeepSeek makes it ...
-Link: https://www.reddit.com/r/artificial/comments/1i82j1c/the_visible_chainofthought_from_deepseek_makes_it/
-Headline: ByteDance is on the race too with their Doubao AI
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i81a81/bytedance_is_on_the_race_too_with_their_doubao_ai/"> <img alt="ByteDance is on the race too with their Doubao AI" src="ht...
-Link: https://www.reddit.com/r/artificial/comments/1i81a81/bytedance_is_on_the_race_too_with_their_doubao_ai/
-Headline: Google reportedly worked directly with Israel’s military on AI tools
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i89mev/google_reportedly_worked_directly_with_israels/"> <img alt="Google reportedly worked directly with Israel’s military on A...
-Link: https://www.reddit.com/r/artificial/comments/1i89mev/google_reportedly_worked_directly_with_israels/
-Headline: Microsoft's LinkedIn sued for disclosing customer information to train AI models
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i898td/microsofts_linkedin_sued_for_disclosing_customer/"> <img alt="Microsoft's LinkedIn sued for disclosing customer informati...
-Link: https://www.reddit.com/r/artificial/comments/1i898td/microsofts_linkedin_sued_for_disclosing_customer/
-Headline: Chat Orpheus: The "Zone" of Poetry in the Age of Machine Learning
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i8dmtd/chat_orpheus_the_zone_of_poetry_in_the_age_of/"> <img alt="Chat Orpheus: The &quot;Zone&quot; of Poetry in the Age of Mac...
-Link: https://www.reddit.com/r/artificial/comments/1i8dmtd/chat_orpheus_the_zone_of_poetry_in_the_age_of/
-
+Headline: Trump signs executive order on developing artificial intelligence ‘free from ideological bias’
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i91jjt/trump_signs_executive_order_on_developing/"> <img alt="Trump signs executive order on developing artificial intelligence ...
+Link: https://www.reddit.com/r/artificial/comments/1i91jjt/trump_signs_executive_order_on_developing/
+Headline: AI can now replicate itself | Scientists say AI has crossed a critical 'red line' after demonstrating how two popular large language models could clone themselves.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i90xf4/ai_can_now_replicate_itself_scientists_say_ai_has/"> <img alt="AI can now replicate itself | Scientists say AI has crosse...
+Link: https://www.reddit.com/r/artificial/comments/1i90xf4/ai_can_now_replicate_itself_scientists_say_ai_has/
+Headline: Meta to spend up to $65 billion this year to power AI goals, Zuckerberg says
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i92886/meta_to_spend_up_to_65_billion_this_year_to_power/"> <img alt="Meta to spend up to $65 billion this year to power AI goal...
+Link: https://www.reddit.com/r/artificial/comments/1i92886/meta_to_spend_up_to_65_billion_this_year_to_power/
+Headline: AI Godfather Fears Policymakers Running Out of Time to Take Action: “Unfortunately, we may not have a decade to get this right.”
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i8wa7q/ai_godfather_fears_policymakers_running_out_of/"> <img alt="AI Godfather Fears Policymakers Running Out of Time to Take A...
+Link: https://www.reddit.com/r/artificial/comments/1i8wa7q/ai_godfather_fears_policymakers_running_out_of/
+Headline: One-Minute Daily AI News 1/23/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Musk undercuts Trump on Stargate AI investment announcement.[1]</li> <li>Reliance plans world’s biggest AI data centre in India, report says.[2]</li> <li>AI wea...
+Link: https://www.reddit.com/r/artificial/comments/1i8ofjf/oneminute_daily_ai_news_1232025/
+Headline: OpenAI debuts operator
+Description: <!-- SC_OFF --><div class="md"><blockquote> <p>Today we’re releasing Operator⁠(opens in a new window), an agent that can go to the web to perform tasks for you. Using its own browser, it can look at a...
+Link: https://www.reddit.com/r/artificial/comments/1i8mh90/openai_debuts_operator/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
