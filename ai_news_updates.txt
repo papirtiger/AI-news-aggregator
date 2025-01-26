@@ -1,8 +1,14 @@
-AI News Updates - 2025-01-25 02:39:43
+AI News Updates - 2025-01-26 02:47:54
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: Will states lead the way on AI regulation?
+Description: <p>Last year was a busy time for lawmakers and lobbyists concerned about AI — most notably in California, where Gavin Newsom signed 18 new AI laws while also vetoing high-profile AI legislation. And 2...
+Link: https://techcrunch.com/2025/01/25/will-states-lead-the-way-on-ai-regulation/
+Headline: Paul McCartney calls on UK government to protect artists from AI
+Description: <p>Legendary musician Paul McCartney is warning against proposed changes to UK copyright law that would allow tech companies to freely train their models on online content unless the copyright holders...
+Link: https://techcrunch.com/2025/01/25/paul-mccartney-calls-on-uk-government-to-protect-artists-from-ai/
 Headline: In motion to dismiss, chatbot platform Character AI claims it is protected by the First Amendment
-Description: <p>Character AI, a platform that lets users engage in roleplay with AI chatbots, has filed a motion to dismiss a case brought against it by the parent of a teen who committed suicide, allegedly after ...
+Description: <p>Character AI, a platform that lets users engage in roleplay with AI chatbots, has filed a motion to dismiss a case brought against it by the parent of a teen who committed suicide after allegedly b...
 Link: https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/
 Headline: AI companies upped their federal lobbying spend in 2024 amid regulatory uncertainty
 Description: <p>Companies spent significantly more lobbying AI issues at the U.S. federal level last year compared to 2023 amid regulatory uncertainty. According to data compiled by OpenSecrets, 648 companies spen...
@@ -23,12 +29,6 @@ Link: https://techcrunch.com/2025/01/24/people-are-benchmarking-ai-by-having-it-
 Headline: Sam Altman’s World now wants to link AI agents to your digital identity
 Description: <p>OpenAI CEO Sam Altman took the technology world by surprise on Thursday with the release of Operator, his company&#8217;s first AI agent that can act autonomously on the web. But OpenAI is not Altm...
 Link: https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/
-Headline: How are founders positioning themselves for the next 4 years?
-Description: <p>As tech titans like Elon Musk and Mark Zuckerberg rubbed shoulders with politicians at President Trump’s inauguration, startup founders were working the D.C. party scene, aiming to secure a spot in...
-Link: https://techcrunch.com/podcast/how-are-founders-positioning-themselves-for-the-next-4-years/
-Headline: Mark Zuckerberg says Meta will have 1.3M GPUs for AI by year-end
-Description: <p>Meta CEO Mark Zuckerberg said that the company plans to significantly up its capital expenditures this year as it aims to keep pace with rivals in the cutthroat AI space. In a Facebook post Friday,...
-Link: https://techcrunch.com/2025/01/24/mark-zuckerberg-says-meta-will-have-1-3m-gpus-for-ai-by-year-end/
 
 ---
 
@@ -207,6 +207,9 @@ Link: https://aws.amazon.com/blogs/machine-learning/enabling-generative-ai-self-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Why ‘prosocial AI’ must be the framework for designing, deploying and governing AI
+Description: Prosocial AI supports a hybrid future where human and machine intelligences co-evolve, guided by shared principles and grounded in truth.
+Link: https://venturebeat.com/ai/why-prosocial-ai-must-be-the-framework-for-designing-deploying-and-governing-ai/
 Headline: Tech leaders respond to the rapid rise of DeepSeek
 Description: Marc Andreessen, Yann LeCunn and Mark Zuckerberg have all penned what appear to be responses to the Chinese open source model's ascent.
 Link: https://venturebeat.com/ai/tech-leaders-respond-to-the-rapid-rise-of-deepseek/
@@ -231,28 +234,28 @@ Link: https://venturebeat.com/games/capcom-testing-generative-ai-to-manage-tens-
 Headline: Hugging Face shrinks AI vision models to phone-friendly size, slashing computing costs
 Description: Hugging Face's new SmolVLM models run on smartphones, outperform larger systems and slash computing costs by 300X.
 Link: https://venturebeat.com/ai/hugging-face-shrinks-ai-vision-models-to-phone-friendly-size-slashing-computing-costs/
-Headline: Meet OpenAI’s Operator, an AI agent that uses the web to book you dinner reservations, order tickets, compile grocery lists and more
-Description: Instead of relying on specialized APIs, the system uses screenshots for visual input and virtual mouse and keyboard actions to complete tasks.
-Link: https://venturebeat.com/ai/meet-openais-operator-an-ai-agent-that-uses-the-web-to-book-you-dinner-reservations-order-tickets-compile-grocery-lists-and-more/
 
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+Headline: Could your job be at risk due to AI? Do this before it's too late
+Description: I have 78 million reasons why your career depends on what you do today. Here is everything you need to know.
+Link: https://www.zdnet.com/article/could-your-job-be-at-risk-due-to-ai-do-this-before-its-too-late/
+Headline: Your customers don't want more AI - here's what to invest in instead
+Description: There's a disturbing trend in Big Tech. Don't make the same mistake.
+Link: https://www.zdnet.com/article/your-customers-dont-want-more-ai-heres-what-to-invest-in-instead/
+Headline: Samsung Unpacked 2025 recap: 5 biggest product announcements that you might've missed
+Description: The Tuesday event saw the unveiling of the Galaxy S25 series, new Galaxy AI features, and a fresh One UI 7 upgrade. Oh, and we got some exciting surprises.
+Link: https://www.zdnet.com/article/samsung-unpacked-2025-recap-5-biggest-product-announcements-that-you-mightve-missed/
 Headline: The Microsoft 365 Copilot launch was a total disaster
 Description: At the start of the New Year, with no warning, Microsoft gives its flagship productivity app a name change and a huge price increase. Why would the company make this mess? I asked Copilot, who explain...
 Link: https://www.zdnet.com/article/the-microsoft-365-copilot-launch-was-a-total-disaster/
 Headline: Google Home users can ask Gemini to control their smart homes now - how it works
 Description: Rolling out to all users this week, the new integration lets you ask the AI bot to turn lights on or off or control other smart devices.
 Link: https://www.zdnet.com/article/google-home-users-can-ask-gemini-to-control-their-smart-homes-now-how-it-works/
-Headline: AI isn't what your customers want - here's what to invest in instead
-Description: Big Tech keeps missing this crucial piece in AI innovation. Don't make the same mistake.
-Link: https://www.zdnet.com/article/ai-isnt-what-your-customers-want-heres-what-to-invest-in-instead/
 Headline: I tried Perplexity's assistant, and only one thing stops it from being my default phone AI
 Description: There's a new option to replace your Google Assistant, and it does almost everything right.
 Link: https://www.zdnet.com/article/i-tried-perplexitys-assistant-and-only-one-thing-stops-it-from-being-my-default-phone-ai/
-Headline: Samsung Unpacked 2025: Five biggest announcements, including S25 Edge and AR glasses
-Description: This week's product event saw the unveiling of the Galaxy S25 series, new Galaxy AI features, and a fresh One UI 7 upgrade. Oh, and we got some exciting surprises.
-Link: https://www.zdnet.com/article/samsung-unpacked-2025-five-biggest-announcements-including-s25-edge-and-ar-glasses/
 Headline: OpenAI's new ChatGPT agent can perform interactive tasks on your behalf
 Description: The new Operator tool is available only to ChatGPT Pro subscribers, for now.
 Link: https://www.zdnet.com/article/openais-new-chatgpt-agent-can-perform-interactive-tasks-on-your-behalf/
@@ -262,9 +265,6 @@ Link: https://www.zdnet.com/article/operator-isnt-worth-its-200-per-month-chatgp
 Headline: Samsung appliances are about to get smarter and wiser - thanks to AI
 Description: The new Home AI features on various SmartThings appliances leverage ambient sensors to suggest different routines throughout your day.
 Link: https://www.zdnet.com/article/samsung-appliances-are-about-to-get-smarter-and-wiser-thanks-to-ai/
-Headline: Roll over, Darwin: How Google DeepMind's 'mind evolution' could enhance AI thinking
-Description: This new approach, based on natural selection, dramatically improves the reliability of large language models for practical tasks like trip planning. Here's how it works.
-Link: https://www.zdnet.com/article/roll-over-darwin-how-google-deepminds-mind-evolution-could-enhance-ai-thinking/
 
 ---
 
@@ -391,24 +391,7 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-Headline: Trump signs executive order on developing artificial intelligence ‘free from ideological bias’
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i91jjt/trump_signs_executive_order_on_developing/"> <img alt="Trump signs executive order on developing artificial intelligence ...
-Link: https://www.reddit.com/r/artificial/comments/1i91jjt/trump_signs_executive_order_on_developing/
-Headline: AI can now replicate itself | Scientists say AI has crossed a critical 'red line' after demonstrating how two popular large language models could clone themselves.
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i90xf4/ai_can_now_replicate_itself_scientists_say_ai_has/"> <img alt="AI can now replicate itself | Scientists say AI has crosse...
-Link: https://www.reddit.com/r/artificial/comments/1i90xf4/ai_can_now_replicate_itself_scientists_say_ai_has/
-Headline: Meta to spend up to $65 billion this year to power AI goals, Zuckerberg says
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i92886/meta_to_spend_up_to_65_billion_this_year_to_power/"> <img alt="Meta to spend up to $65 billion this year to power AI goal...
-Link: https://www.reddit.com/r/artificial/comments/1i92886/meta_to_spend_up_to_65_billion_this_year_to_power/
-Headline: AI Godfather Fears Policymakers Running Out of Time to Take Action: “Unfortunately, we may not have a decade to get this right.”
-Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i8wa7q/ai_godfather_fears_policymakers_running_out_of/"> <img alt="AI Godfather Fears Policymakers Running Out of Time to Take A...
-Link: https://www.reddit.com/r/artificial/comments/1i8wa7q/ai_godfather_fears_policymakers_running_out_of/
-Headline: One-Minute Daily AI News 1/23/2025
-Description: <!-- SC_OFF --><div class="md"><ol> <li>Musk undercuts Trump on Stargate AI investment announcement.[1]</li> <li>Reliance plans world’s biggest AI data centre in India, report says.[2]</li> <li>AI wea...
-Link: https://www.reddit.com/r/artificial/comments/1i8ofjf/oneminute_daily_ai_news_1232025/
-Headline: OpenAI debuts operator
-Description: <!-- SC_OFF --><div class="md"><blockquote> <p>Today we’re releasing Operator⁠(opens in a new window), an agent that can go to the web to perform tasks for you. Using its own browser, it can look at a...
-Link: https://www.reddit.com/r/artificial/comments/1i8mh90/openai_debuts_operator/
+
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
