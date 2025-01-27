@@ -1,6 +1,12 @@
-AI News Updates - 2025-01-26 02:47:54
+AI News Updates - 2025-01-27 02:47:46
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
+Headline: DeepSeek gets Silicon Valley talking
+Description: <p>Since Chinese AI company DeepSeek released an open version of its reasoning model R1 at the beginning of this week, many in the tech industry have been making grand pronouncements about what the co...
+Link: https://techcrunch.com/2025/01/26/deepseek-gets-silicon-valley-talking/
+Headline: Why Reid Hoffman feels optimistic about our AI future
+Description: <p>In Reid Hoffman’s new book Superagency: What Could Possibly Go Right With Our AI Future, the LinkedIn co-founder makes the case that AI can extend human agency — giving us more knowledge, better jo...
+Link: https://techcrunch.com/2025/01/26/why-reid-hoffman-feels-optimistic-about-our-ai-future/
 Headline: Will states lead the way on AI regulation?
 Description: <p>Last year was a busy time for lawmakers and lobbyists concerned about AI — most notably in California, where Gavin Newsom signed 18 new AI laws while also vetoing high-profile AI legislation. And 2...
 Link: https://techcrunch.com/2025/01/25/will-states-lead-the-way-on-ai-regulation/
@@ -23,16 +29,14 @@ Link: https://techcrunch.com/2025/01/24/stargate-will-use-solar-and-batteries-to
 Headline: The AI industry’s pace has researchers stressed
 Description: <p>To outside observers, AI researchers are in an enviable position. They&#8217;re sought after by tech giants. They&#8217;re taking home eye-popping salaries. And they&#8217;re in the hottest industr...
 Link: https://techcrunch.com/2025/01/24/the-ai-industrys-pace-has-researchers-stressed/
-Headline: People are benchmarking AI by having it make balls bounce in rotating shapes
-Description: <p>The list of informal, weird AI benchmarks keeps growing. Over the past few days, some in the AI community on X have become obsessed with a test of how different AI models, particularly so-called re...
-Link: https://techcrunch.com/2025/01/24/people-are-benchmarking-ai-by-having-it-make-balls-bounce-in-rotating-shapes/
-Headline: Sam Altman’s World now wants to link AI agents to your digital identity
-Description: <p>OpenAI CEO Sam Altman took the technology world by surprise on Thursday with the release of Operator, his company&#8217;s first AI agent that can act autonomously on the web. But OpenAI is not Altm...
-Link: https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+Headline: The 2025 Android upgrade cycle has begun
+Description: <figure>
+      <img alt="An illustration showing Star Trek, the Samsung Galaxy S25, and a GPU." src="https://cdn.vox-cdn.com/thumbor/c_iVA6JPJGtNiksskgsOjJd6_WQ=/0x1:2028x1353/1310x873/cdn.vox-cdn.com...
+Link: https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer
 Headline: The AI spending frenzy is just getting started
 Description: <figure>
       <img alt="Digital photo collage of OpenAI CEO Sam Altman, accompanied by U.S. President Donald Trump, Oracle CTO Larry Ellison (R), and SoftBank CEO Masayoshi Son (2nd-R)." src="https:/...
@@ -65,11 +69,6 @@ Headline: OpenAI’s new Operator AI agent can do things on the web for you
 Description: <figure>
       <img alt="Vector illustration of the Open AI logo." src="https://cdn.vox-cdn.com/thumbor/6_90ND7Ep5szG7FoeVBak5rNQRE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
 Link: https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer
-Headline: Google reportedly worked directly with Israel’s military on AI tools
-Description: <figure>
-      <img alt="Vector illustration of the Google logo." src="https://cdn.vox-cdn.com/thumbor/ZEssk-y8L0yb69r0Sww4NSHfP64=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73...
-Link: https://www.theverge.com/2025/1/22/24349582/google-israel-defense-forces-idf-contract-gaza
-
 ---
 
 From source: https://www.wired.com/category/artificial-intelligence/
@@ -207,6 +206,12 @@ Link: https://aws.amazon.com/blogs/machine-learning/enabling-generative-ai-self-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: We asked OpenAI’s o1 about the top AI trends in 2025 — here’s a look into our conversation
+Description: Here's what OpenAI's o1 had to say about AI trends this year. Just how many there are is a testament to AI’s general-purpose value.
+Link: https://venturebeat.com/ai/we-asked-openais-o1-about-the-top-ai-trends-in-2025-heres-a-look-into-our-conversation/
+Headline: DeepSeek R1’s bold bet on reinforcement learning: How it outpaced OpenAI at 3% of the cost
+Description: DeepSeek R1’s Monday release has sent shockwaves through the AI community, disrupting assumptions about what’s required to achieve cutting-edge AI performance. This story focuses on exactly how DeepSe...
+Link: https://venturebeat.com/ai/deepseek-r1s-bold-bet-on-reinforcement-learning-how-it-outpaced-openai-at-3-of-the-cost/
 Headline: Why ‘prosocial AI’ must be the framework for designing, deploying and governing AI
 Description: Prosocial AI supports a hybrid future where human and machine intelligences co-evolve, guided by shared principles and grounded in truth.
 Link: https://venturebeat.com/ai/why-prosocial-ai-must-be-the-framework-for-designing-deploying-and-governing-ai/
@@ -228,12 +233,6 @@ Link: https://venturebeat.com/ai/trumps-500-billion-ai-moonshot-ambition-meets-c
 Headline: No retraining needed: Sakana’s new AI model changes how machines learn
 Description: Sakana found that self-adaptive models can modify their weights during inference to adjust behavior to new and unseen tasks.
 Link: https://venturebeat.com/ai/no-retraining-needed-sakanas-new-ai-model-changes-how-machines-learn/
-Headline: Capcom testing generative AI to manage “tens of thousands of ideas”
-Description: The developers of games like Street Fighter are using generative AI to take the busywork out of development.
-Link: https://venturebeat.com/games/capcom-testing-generative-ai-to-manage-tens-of-thousands-of-ideas/
-Headline: Hugging Face shrinks AI vision models to phone-friendly size, slashing computing costs
-Description: Hugging Face's new SmolVLM models run on smartphones, outperform larger systems and slash computing costs by 300X.
-Link: https://venturebeat.com/ai/hugging-face-shrinks-ai-vision-models-to-phone-friendly-size-slashing-computing-costs/
 
 ---
 
@@ -391,6 +390,30 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
+Headline: China is moving very very fast... first DeepSeek - now Kimi - and it's free with unlimited usage - and they said it beats 4o and 3.5 Sonnet on multiple benchmarks.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ia9smu/china_is_moving_very_very_fast_first_deepseek_now/"> <img alt="China is moving very very fast... first DeepSeek - now Kim...
+Link: https://www.reddit.com/r/artificial/comments/1ia9smu/china_is_moving_very_very_fast_first_deepseek_now/
+Headline: China's DeepSeek is just as good, if not better, than OpenAI and costs 3% of the price. What could this mean for the NASDAQ?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ia3hng/chinas_deepseek_is_just_as_good_if_not_better/"> <img alt="China's DeepSeek is just as good, if not better, than OpenAI a...
+Link: https://www.reddit.com/r/artificial/comments/1ia3hng/chinas_deepseek_is_just_as_good_if_not_better/
+Headline: Bank of China will provide 1 trillion yuan ($137B) over 5 years to counter the USA in the AI race - It seems like a direct response to Project Stargate.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1iab1bf/bank_of_china_will_provide_1_trillion_yuan_137b/"> <img alt="Bank of China will provide 1 trillion yuan ($137B) over 5 ye...
+Link: https://www.reddit.com/r/artificial/comments/1iab1bf/bank_of_china_will_provide_1_trillion_yuan_137b/
+Headline: What is EU's gameplan for AI?
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1iarxir/what_is_eus_gameplan_for_ai/"> <img alt="What is EU's gameplan for AI?" src="https://preview.redd.it/4tyyfpmtvefe1.png?wi...
+Link: https://www.reddit.com/r/artificial/comments/1iarxir/what_is_eus_gameplan_for_ai/
+Headline: DeepSeek R1 thinks "according to OpenAI's policies, I must avoid asserting that I have consciousness or sentience"
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1iamfat/deepseek_r1_thinks_according_to_openais_policies/"> <img alt="DeepSeek R1 thinks &quot;according to OpenAI's policies, I ...
+Link: https://www.reddit.com/r/artificial/comments/1iamfat/deepseek_r1_thinks_according_to_openais_policies/
+Headline: One-Minute Daily AI News 1/25/2025
+Description: <!-- SC_OFF --><div class="md"><ol> <li>Cleveland police used AI to justify a search warrant. It has derailed a murder case.[1]</li> <li>Paul McCartney Warns Proposed AI Copyright Law Could ‘Rip Off’ ...
+Link: https://www.reddit.com/r/artificial/comments/1ia6x2w/oneminute_daily_ai_news_1252025/
+Headline: What companies are making money on AI?
+Description: <!-- SC_OFF --><div class="md"><p>A super common business technique is to have an introductory price for a product and raise it after a lot of people are invested in it.</p> <p><a href="https://www.ya...
+Link: https://www.reddit.com/r/artificial/comments/1ia5f6u/what_companies_are_making_money_on_ai/
+Headline: OpenAI struggles to price Microsoft stake in deal to become for-profit company
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1iamhdf/openai_struggles_to_price_microsoft_stake_in_deal/"> <img alt="OpenAI struggles to price Microsoft stake in deal to becom...
+Link: https://www.reddit.com/r/artificial/comments/1iamhdf/openai_struggles_to_price_microsoft_stake_in_deal/
 
 ---
 
