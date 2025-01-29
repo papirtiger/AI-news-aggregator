@@ -1,79 +1,67 @@
-AI News Updates - 2025-01-28 02:44:06
+AI News Updates - 2025-01-29 02:43:14
 
 From source: https://techcrunch.com/category/artificial-intelligence/feed/
-Headline: Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups
-Description: <p>LinkedIn founder Reid Hoffman and Siddhartha Mukherjee, cancer researcher and author of the book “The Emperor of All Maladies,” have co-founded an AI-powered drug discovery startup, Manas AI. The c...
-Link: https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/
-Headline: Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo
-Description: <p>The tech industry's reaction to AI model DeepSeek R1 has been wild. Pat Gelsinger, for instance, is elated and thinks it will make AI better for everyone.</p>
-<p>© 2024 TechCrunch. All rights reser...
-Link: https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/
-Headline: Quartz has been quietly publishing AI-generated news articles
-Description: <p>Quartz, the international business news outlet, has been quietly aggregating reporting from other outlets, including TechCrunch, in order to publish AI-generated articles under the byline “Quartz I...
-Link: https://techcrunch.com/2025/01/27/quartz-has-been-quietly-publishing-ai-generated-news-articles/
-Headline: DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks
-Description: <p>Chinese AI lab DeepSeek has released an open version of DeepSeek-R1, its so-called reasoning model, that it claims performs as well as OpenAI&#8217;s o1 on certain AI benchmarks. R1 is available fr...
-Link: https://techcrunch.com/2025/01/27/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/
-Headline: Nvidia drops $600B off its market cap amid the rise of DeepSeek
-Description: <p>DeepSeek, a Chinese AI startup, became the talk of the proverbial AI town when it released its R1 model on Friday. R1&#8217;s functionality and accuracy compared to its U.S. counterparts, despite u...
-Link: https://techcrunch.com/2025/01/27/nvidia-drops-600bn-off-its-market-cap-amid-the-rise-of-deepseek/
-Headline: Alibaba’s Qwen team releases AI models that can control PCs and phones
-Description: <p>Chinese AI lab DeepSeek might be getting the bulk of the tech industry&#8217;s attention this week. But one of its top domestic rivals, Alibaba, isn&#8217;t sitting idly by. Alibaba&#8217;s Qwen te...
-Link: https://techcrunch.com/2025/01/27/alibabas-qwen-team-releases-ai-models-that-can-control-pcs-and-phones/
-Headline: DeepSeek displaces ChatGPT as the App Store’s top app
-Description: <p>The mobile app for DeepSeek, a Chinese AI lab, skyrocketed to the No. 1 spot in app stores around the globe this weekend, topping the U.S.-based AI chatbot, ChatGPT. On iOS, DeepSeek is currently t...
-Link: https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/
-Headline: How DeepSeek’s efficient AI could stall the nuclear renaissance
-Description: <p>The startups and power producers that are betting big on new nuclear are vulnerable to an energy efficient AI model.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-Link: https://techcrunch.com/2025/01/27/how-deepseeks-efficient-ai-could-stall-the-nuclear-renaissance/
-Headline: OpenAI-backed 1X acquires Kind Humanoid
-Description: <p>1X has acquired Kind Humanoid, the Norwegian robotics startup told TechCrunch on Monday. The deal marks a small but key consolidation for a humanoid robotics industry on the brink of a major moment...
-Link: https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/
+Headline: SoftBank to invest $500M in robotics startup SkildAI
+Description: <p>SoftBank is negotiating a $500 million investment in Skild AI, a software company building a foundational model for robotics at a $4 billion valuation, Bloomberg and Financial Times reported. The t...
+Link: https://techcrunch.com/2025/01/28/softbank-to-invest-500m-in-robotics-startup-skildai/
+Headline: Italy sends first data watchdog request to DeepSeek: ‘The data of millions of Italians is at risk’
+Description: <p>The jury is still out on whether the Chinese AI upstart DeepSeek is a game changer or possibly part of an elaborate plan by its hedge fund parent company to short Nvidia and other tech stocks. Whic...
+Link: https://techcrunch.com/2025/01/28/italy-sends-first-data-watchdog-request-to-deepseek-the-data-of-millions-of-italians-is-at-risk/
+Headline: DeepSeek: Everything you need to know about the AI chatbot app
+Description: <p>DeepSeek has gone viral. Chinese AI lab DeepSeek broke into the mainstream consciousness this week after&#160;its chatbot app rose to the top of the Apple App Store charts. DeepSeek’s AI models, wh...
+Link: https://techcrunch.com/2025/01/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/
+Headline: David Sacks claims there’s ‘substantial evidence’ that DeepSeek used OpenAI’s models to train its own
+Description: <p>David Sacks, Trump&#8217;s AI and crypto &#8220;czar,&#8221; said in an interview on Fox on Tuesday that there&#8217;s &#8220;substantial evidence&#8221; that Chinese AI company DeepSeek &#8220;dis...
+Link: https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/
+Headline: Figure AI details plan to improve humanoid robot safety in the workplace
+Description: <p>Safety is often overlooked in the rush to bring humanoid robots to the workplace. As high-profile corporations ranging from retailers like Amazon to carmakers such as Mercedes and BMW have announce...
+Link: https://techcrunch.com/2025/01/28/figure-ai-details-plan-to-improve-humanoid-robot-safety-in-the-workplace/
+Headline: Hugging Face researchers are trying to build a more open version of DeepSeek’s AI ‘reasoning’ model
+Description: <p>Barely a week after DeepSeek released its R1 &#8220;reasoning&#8221; AI model — which sent markets into a tizzy — researchers at Hugging Face are trying to replicate the model from scratch in what ...
+Link: https://techcrunch.com/2025/01/28/hugging-face-researchers-are-trying-to-build-a-more-open-version-of-deepseeks-ai-reasoning-model/
+Headline: Eric Schmidt says DeepSeek marks a ‘turning point’ for the global AI race
+Description: <p>Former Google CEO Eric Schmidt called for the United States to ramp up open source AI efforts to address the rise of DeepSeek in a Washington Post op-ed published Tuesday. Just last year, Schmidt s...
+Link: https://techcrunch.com/2025/01/28/eric-schmidt-says-deepseek-marks-a-turning-point-for-the-global-ai-race/
+Headline: Who is Liang Wenfeng? DeepSeek founder comes from AI investing
+Description: <p>DeepSeek, a Chinese AI lab, has Silicon Valley reeling with its R1 reasoning model, which it claims uses far less computing power than those of American AI leaders &#8212; and, it&#8217;s open sour...
+Link: https://techcrunch.com/2025/01/28/who-is-liang-wenfeng-deepseek-founder-comes-from-ai-investing/
+Headline: ChatGPT: Everything you need to know about the AI-powered chatbot
+Description: <p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with...
+Link: https://techcrunch.com/2025/01/28/chatgpt-everything-to-know-about-the-ai-chatbot/
 
 ---
 
 From source: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
 Headline: DeepSeek: all the news about the startup that’s shaking up AI stocks
-Description: <figure>
-      <img alt="Vector illustration of the Deepseek logo" src="https://cdn.vox-cdn.com/thumbor/-MwSxpmvwjLDlRz6r3RIJfee50Y=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
+Description: DeepSeek is shaking up the AI industry with cost-efficient large language models it claims can perform just as well as rivals from giants like OpenAI and Meta. The Chinese startup says its flagship R1...
 Link: https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai
+Headline: Why everyone is freaking out about DeepSeek
+Description: It took about a month for the finance world to start freaking out about DeepSeek, but when it did, it took more than half a trillion dollars &#226;&#x20ac;&#x201d; or one entire Stargate &#226;&#x20ac...
+Link: https://www.theverge.com/ai-artificial-intelligence/598846/deepseek-big-tech-ai-industry-nvidia-impac
+Headline: OpenAI launches ChatGPT for government agencies
+Description: OpenAI has launched ChatGPT Gov, a version of its flagship chatbot that’s tailored to government agencies. The company says the tool will let US government agencies securely access OpenAI’s frontier m...
+Link: https://www.theverge.com/news/598852/openai-chatgpt-gov-government-agencies
+Headline: From ChatGPT to Gemini: how AI is rewriting the internet
+Description: Big players, including Microsoft, with Copilot, Google, with Gemini, and OpenAI, with GPT-4o, are making AI chatbot technology previously restricted to test labs more accessible to the general public....
+Link: https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai
+Headline: Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy
+Description: The rise of generative AI has been powered by Nvidia and its advanced GPUs. As demand far outstrips supply, the H100 has become highly sought after and extremely expensive, making Nvidia a trillion-do...
+Link: https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia
+Headline: Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more
+Description: Apple has released iOS 18 &#8212; plus iPadOS 18, macOS Sequoia, watchOS 11, and other new updates &#8212; bringing several key updates to how the company&#8217;s devices operate and setting the stage...
+Link: https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16
 Headline: iOS 18.3 is out with tweaks to AI notification summaries
-Description: <figure>
-      <img alt="" src="https://cdn.vox-cdn.com/thumbor/BpzpfJcwOG8JxeZMRL_GPnkAXW4=/0x0:2700x1800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73870823/247263_iphone_16_pro_AKrales_106...
+Description: iOS 18.3 is here, and it&#8217;s bringing changes to AI notification summaries on your iPhone. In iOS 18.3&#8217;s release notes, Apple says it has temporarily disabled notification summaries for news...
 Link: https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default
 Headline: Meta AI will use its ‘memory’ to provide better recommendations
-Description: <figure>
-      <img alt="Image of Meta’s logo with a red and blue background." src="https://cdn.vox-cdn.com/thumbor/ELEajo90eNndGr7c9pGpVM7MWuI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_i...
+Description: Meta is widely launching the ability for its AI chatbot to &#8220;remember&#8221; certain details about you, such as your dietary preferences or your interests, the company said in a blog post on Mond...
 Link: https://www.theverge.com/2025/1/27/24352992/meta-ai-memory-personalization
 Headline: DeepSeek’s top-ranked AI app is restricting sign-ups due to ‘malicious attacks’
-Description: <figure>
-      <img alt="Vector illustration of the Deepseek logo" src="https://cdn.vox-cdn.com/thumbor/yA5nfMN4b8dOQDjEkm0pZU3p_FM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
+Description: After surging to the top of Apple&#8217;s App Store charts in the US, DeepSeek&#8217;s AI Assistant is now restricting new user sign-ups. According to an incident report page, registrations are being ...
 Link: https://www.theverge.com/2025/1/27/24353023/deepseek-ai-app-restricting-sign-ups-malicious-attacks
 Headline: China’s DeepSeek AI is hitting Nvidia where it hurts
-Description: <figure>
-      <img alt="Vector illustration of the Deepseek logo" src="https://cdn.vox-cdn.com/thumbor/xP_1JfXlojvCfpvKps_Ou1mzyxs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/7...
+Description: A chatbot made by Chinese artificial intelligence startup DeepSeek has rocketed to the top of Apple&#8217;s App Store charts in the US this week, dethroning OpenAI&#8217;s ChatGPT as the most download...
 Link: https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store
-Headline: The 2025 Android upgrade cycle has begun
-Description: <figure>
-      <img alt="An illustration showing Star Trek, the Samsung Galaxy S25, and a GPU." src="https://cdn.vox-cdn.com/thumbor/c_iVA6JPJGtNiksskgsOjJd6_WQ=/0x1:2028x1353/1310x873/cdn.vox-cdn.com...
-Link: https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer
-Headline: The AI spending frenzy is just getting started
-Description: <figure>
-      <img alt="Digital photo collage of OpenAI CEO Sam Altman, accompanied by U.S. President Donald Trump, Oracle CTO Larry Ellison (R), and SoftBank CEO Masayoshi Son (2nd-R)." src="https:/...
-Link: https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft
-Headline: Apple makes a change to its AI team and plans Siri upgrades
-Description: <figure>
-      <img alt="Vector illustration of the Apple logo." src="https://cdn.vox-cdn.com/thumbor/1Kht1vImsFQkmv_2YdixSoJQFyQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738...
-Link: https://www.theverge.com/2025/1/24/24351391/apple-change-ai-team-siri-upgrades-kim-vorrath
-Headline: Mark Zuckerberg wants you to know he has a big AI data center, too
-Description: <figure>
-      <img alt="Graphic collage of Mark Zuckerberg." src="https://cdn.vox-cdn.com/thumbor/b3ddCuMiT9_0hVTVTOnVFCKsRCg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/738659...
-Link: https://www.theverge.com/2025/1/24/24351061/mark-zuckerberg-meta-ai-data-center-investment
-Headline: Samsung’s thin, big, boring AI phones
-Description: <figure>
-      <img alt="A photo of the Galaxy S25 Edge from the side, plus an illustration of the Vergecast hosts." src="https://cdn.vox-cdn.com/thumbor/9-M4JyriR8KywybiDcAn3n-b29k=/0x0:2040x1360/131...
-Link: https://www.theverge.com/2025/1/24/24350976/samsung-galaxy-s25-boring-tiktok-ban-openai-vergecast
 
 ---
 
@@ -113,6 +101,12 @@ From source: https://openai.com/blog/rss.xml
 ---
 
 From source: https://www.artificialintelligence-news.com/feed/
+Headline: ChatGPT Gov aims to modernise US government agencies
+Description: <p>OpenAI has launched ChatGPT Gov, a specially designed version of its AI chatbot tailored for use by US government agencies. ChatGPT Gov aims to harness the potential of AI to enhance efficiency, pr...
+Link: https://www.artificialintelligence-news.com/news/chatgpt-gov-aims-modernise-us-government-agencies/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-gov-aims-modernise-us-government-agencies
+Headline: Ericsson launches Cognitive Labs to pioneer telecoms AI research
+Description: <p>Ericsson has launched Cognitive Labs, a research-driven initiative dedicated to advancing AI for telecoms.&#160; Operating virtually rather than from a single physical base, Cognitive Labs will exp...
+Link: https://www.artificialintelligence-news.com/news/ericsson-cognitive-labs-pioneer-telecoms-ai-research/?utm_source=rss&utm_medium=rss&utm_campaign=ericsson-cognitive-labs-pioneer-telecoms-ai-research
 Headline: DeepSeek restricts sign-ups amid ‘large-scale malicious attacks’
 Description: <p>DeepSeek is grappling with service disruptions and restricting new account sign-ups to combat what it describes as “large-scale malicious attacks.” The Chinese firm’s chat app, which recently soare...
 Link: https://www.artificialintelligence-news.com/news/deepseek-restricts-sign-ups-large-scale-malicious-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=deepseek-restricts-sign-ups-large-scale-malicious-attacks
@@ -137,12 +131,6 @@ Link: https://www.artificialintelligence-news.com/news/7-top-free-ai-coding-tool
 Headline: Rodolphe Malaguti, Conga: Poor data hinders AI in public services
 Description: <p>According to Rodolphe Malaguti, Product Strategy and Transformation at Conga, poor data structures and legacy systems are hindering the potential of AI in transforming public services. Taxpayer-fun...
 Link: https://www.artificialintelligence-news.com/news/rodolphe-malaguti-conga-poor-data-ai-potential-in-public-services/?utm_source=rss&utm_medium=rss&utm_campaign=rodolphe-malaguti-conga-poor-data-ai-potential-in-public-services
-Headline: DeepSeek-R1 reasoning models rival OpenAI in performance
-Description: <p>DeepSeek has unveiled its first-generation DeepSeek-R1 and DeepSeek-R1-Zero models that are designed to tackle complex reasoning tasks. DeepSeek-R1-Zero is trained solely through large-scale reinfo...
-Link: https://www.artificialintelligence-news.com/news/deepseek-r1-reasoning-models-rival-openai-in-performance/?utm_source=rss&utm_medium=rss&utm_campaign=deepseek-r1-reasoning-models-rival-openai-in-performance
-Headline: Microsoft advances materials discovery with MatterGen
-Description: <p>The discovery of new materials is key to solving some of humanity&#8217;s biggest challenges. However, as highlighted by Microsoft, traditional methods of discovering new materials can feel like “f...
-Link: https://www.artificialintelligence-news.com/news/microsoft-advances-materials-discovery-mattergen/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-advances-materials-discovery-mattergen
 
 ---
 
@@ -151,6 +139,9 @@ From source: https://www.ai-trends.com/feed/
 ---
 
 From source: https://www.technologyreview.com/topic/artificial-intelligence/feed
+Headline: AI’s energy obsession just got a reality check
+Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Just a week in, the AI sector has already seen its first ...
+Link: https://www.technologyreview.com/2025/01/28/1110599/ais-energy-obsession-gets-a-reality-check/
 Headline: How a top Chinese AI model overcame US sanctions
 Description: The AI community is abuzz over DeepSeek R1, a new open-source reasoning model.&#160; The model was developed by the Chinese AI startup DeepSeek, which claims that R1 matches or even surpasses OpenAI’s...
 Link: https://www.technologyreview.com/2025/01/24/1110526/china-deepseek-top-ai-despite-sanctions/
@@ -175,9 +166,6 @@ Link: https://www.technologyreview.com/2025/01/15/1109994/metas-new-ai-model-can
 Headline: Training robots in the AI-powered industrial metaverse
 Description: Imagine the bustling floors of tomorrow’s manufacturing plant: Robots, well-versed in multiple disciplines through adaptive AI education, work seamlessly and safely alongside human counterparts. These...
 Link: https://www.technologyreview.com/2025/01/14/1109104/training-robots-in-the-ai-powered-industrial-metaverse/
-Headline: Here’s our forecast for AI this year
-Description: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In December, our small but mighty AI reporting team was asked ...
-Link: https://www.technologyreview.com/2025/01/14/1109958/whats-next-for-ai-in-2025-2/
 
 ---
 
@@ -190,6 +178,12 @@ From source: https://www.microsoft.com/en-us/ai/ai-blog-feed
 ---
 
 From source: https://aws.amazon.com/blogs/machine-learning/feed/
+Headline: Develop a RAG-based application using Amazon Aurora with Amazon Kendra
+Description: RAG retrieves data from a preexisting knowledge base (your data), combines it with the LLM’s knowledge, and generates responses with more human-like language. However, in order for generative AI to un...
+Link: https://aws.amazon.com/blogs/machine-learning/develop-a-rag-based-application-using-amazon-aurora-with-amazon-kendra/
+Headline: Optimizing AI responsiveness: A practical guide to Amazon Bedrock latency-optimized inference
+Description: In this post, we explore how Amazon Bedrock latency-optimized inference can help address the challenges of maintaining responsiveness in LLM applications. We'll dive deep into strategies for optimizin...
+Link: https://aws.amazon.com/blogs/machine-learning/optimizing-ai-responsiveness-a-practical-guide-to-amazon-bedrock-latency-optimized-inference/
 Headline: Create a SageMaker inference endpoint with custom model & extended container
 Description: This post walks you through the end-to-end process of deploying a single custom model on SageMaker using NASA’s Prithvi model. The Prithvi model is a first-of-its-kind temporal Vision transformer pre-...
 Link: https://aws.amazon.com/blogs/machine-learning/create-a-sagemaker-inference-endpoint-with-custom-model-extended-container/
@@ -202,16 +196,24 @@ Link: https://aws.amazon.com/blogs/machine-learning/secure-a-generative-ai-assis
 Headline: Streamline custom environment provisioning for Amazon SageMaker Studio: An automated CI/CD pipeline approach
 Description: In this post, we show how to create an automated continuous integration and delivery (CI/CD) pipeline solution to build, scan, and deploy custom Docker images to SageMaker Studio domains. You can use ...
 Link: https://aws.amazon.com/blogs/machine-learning/streamline-custom-environment-provisioning-for-amazon-sagemaker-studio-an-automated-ci-cd-pipeline-approach/
-Headline: Video security analysis for privileged access management using generative AI and Amazon Bedrock
-Description: In this post, we show you an innovative solution to a challenge faced by security teams in highly regulated industries: the efficient security analysis of vast amounts of video recordings from Privile...
-Link: https://aws.amazon.com/blogs/machine-learning/video-security-analysis-for-privileged-access-management-using-generative-ai-and-amazon-bedrock/
-Headline: Solve forecasting challenges for the retail and CPG industry using Amazon SageMaker Canvas
-Description: In this post, we show you how Amazon Web Services (AWS) helps in solving forecasting challenges by customizing machine learning (ML) models for forecasting. We dive into Amazon SageMaker Canvas and ex...
-Link: https://aws.amazon.com/blogs/machine-learning/solve-forecasting-challenges-for-the-retail-and-cpg-industry-using-amazon-sagemaker-canvas/
-
 ---
 
 From source: https://venturebeat.com/category/ai/feed/
+Headline: Alibaba’s Qwen2.5-Max challenges U.S. tech giants, reshapes enterprise AI
+Description: Alibaba's Qwen2.5-Max AI model sets new performance benchmarks in enterprise-ready artificial intelligence, promising reduced infrastructure costs and improved efficiency for business applications.
+Link: https://venturebeat.com/ai/alibabas-qwen2-5-max-challenges-u-s-tech-giants-reshapes-enterprise-ai/
+Headline: Jack Dorsey is back with Goose, a new, ultra simple open source AI agent building platform from his startup Block
+Description: Goose’s capabilities are enhanced through Block’s collaboration with Anthropic, a leading AI safety and research company.
+Link: https://venturebeat.com/programming-development/jack-dorsey-is-back-with-goose-a-new-ultra-simple-open-source-ai-agent-building-platform-from-his-startup-block/
+Headline: Outsmarting AI-powered cyber attacks: A 2025 playbook for real-time endpoint defense
+Description: Endpoint, identity, and multi-domain attacks are dominating the enterprise threatscape today, fueled by new tradecraft invented using gen AI.
+Link: https://venturebeat.com/security/outsmarting-ai-powered-cyber-attacks-endpoint-defense-2025/
+Headline: Essential principles to produce and consume data for AI acceleration
+Description: <p><span class="ARTICLELISTING__LABEL"><span class="ARTICLE-TYPE">VB LAB INSIGHTS:</span></span> This is a VB Lab Insights article presented by Capital One. AI offers transformative potential, but unl...
+Link: https://venturebeat.com/ai/essential-principles-to-produce-and-consume-data-for-ai-acceleration/
+Headline: Incention bridges Hollywood and AI with debut project by David S. Goyer on Story platform
+Description: Incention is launching a platform to bring AI and blockchain to Hollywood, and it is working with Hollywood writer David S. Goyer.
+Link: https://venturebeat.com/games/incention-bridges-hollywood-and-ai-with-debut-project-by-david-s-goyer-on-story-platform/
 Headline: DeepSeek-R1 is a boon for enterprises — making AI apps cheaper, easier to build, and more innovative
 Description: AI labs might be in panic mode, but enterprises are here to reap the rewards of the effects caused by DeepSeek R1.
 Link: https://venturebeat.com/ai/deepseek-r1-is-a-boon-for-enterprises-making-ai-apps-cheaper-easier-to-build-and-more-innovative/
@@ -224,46 +226,33 @@ Link: https://venturebeat.com/ai/is-deepseek-really-sending-data-to-china-lets-d
 Headline: Calm down: DeepSeek-R1 is great, but ChatGPT’s product advantage is far from over
 Description: For now, ChatGPT remains the better-rounded and more capable product, offering a suite of features that DeepSeek simply cannot match.
 Link: https://venturebeat.com/ai/calm-down-deepseek-r1-is-great-but-chatgpts-product-advantage-is-far-from-over/
-Headline: Pocket Worlds acquires AI-based UGC team Infinite Canvas
-Description: Pocket Worlds, maker of the popular social gaming app Highrise has acquired Infinite Canvas, an AI-driven user-generated content team.
-Link: https://venturebeat.com/games/pocket-worlds-acquires-ai-based-ugc-team-infinite-canvas/
-Headline: We asked OpenAI’s o1 about the top AI trends in 2025 — here’s a look into our conversation
-Description: Here's what OpenAI's o1 had to say about AI trends this year. Just how many there are is a testament to AI’s general-purpose value.
-Link: https://venturebeat.com/ai/we-asked-openais-o1-about-the-top-ai-trends-in-2025-heres-a-look-into-our-conversation/
-Headline: DeepSeek-R1’s bold bet on reinforcement learning: How it outpaced OpenAI at 3% of the cost
-Description: DeepSeek-R1’s Monday release has sent shockwaves through the AI community, disrupting assumptions about what’s required to achieve cutting-edge AI performance. This story focuses on exactly how DeepSe...
-Link: https://venturebeat.com/ai/deepseek-r1s-bold-bet-on-reinforcement-learning-how-it-outpaced-openai-at-3-of-the-cost/
-Headline: Why ‘prosocial AI’ must be the framework for designing, deploying and governing AI
-Description: Prosocial AI supports a hybrid future where human and machine intelligences co-evolve, guided by shared principles and grounded in truth.
-Link: https://venturebeat.com/ai/why-prosocial-ai-must-be-the-framework-for-designing-deploying-and-governing-ai/
 ---
 
 From source: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
-Headline: Why China's DeepSeek could burst our AI bubble
-Description: The startup's open-source reasoning model R1 is clobbering AI rivals and panicking investors. But there's more.
-Link: https://www.zdnet.com/article/why-chinas-deepseek-could-burst-our-ai-bubble/
-Headline: Apple releases iOS 18.3 with AI-powered Apple Intelligence on by default
-Description: The move means that people who don't want to use Apple's AI tech will need to manually disable it.
-Link: https://www.zdnet.com/article/apple-releases-ios-18-3-with-ai-powered-apple-intelligence-on-by-default/
-Headline: Enterprises are hitting a 'speed limit' in deploying Gen AI - here's why
-Description: Many C-suite executives have been cheerleaders for their company's work in AI despite slow progress, finds Deloitte's latest survey.
-Link: https://www.zdnet.com/article/enterprises-are-hitting-a-speed-limit-in-deploying-gen-ai-heres-why/
-Headline: 'Humanity's Last Exam' benchmark is stumping top AI models - can you do any better?
-Description: A new academic benchmark aims to 'test the limits of AI knowledge at the frontiers of human expertise.' So far, these LLMs are stumped.
-Link: https://www.zdnet.com/article/humanitys-last-exam-benchmark-is-stumping-top-ai-models-can-you-do-any-better/
-Headline: How to remove Copilot from your Microsoft 365 plan
-Description: Copilot has muscled its way into Microsoft 365 with a price hike to boot. But you can remove the AI from Word and revert to the classic plan. Here's how.
-Link: https://www.zdnet.com/article/how-to-remove-copilot-from-your-microsoft-365-plan/
-Headline: Could your job be at risk due to AI? Do this before it's too late
-Description: I have 78 million reasons why your career depends on what you do today. Here is everything you need to know.
-Link: https://www.zdnet.com/article/could-your-job-be-at-risk-due-to-ai-do-this-before-its-too-late/
-Headline: Your customers don't want more AI - here's what to invest in instead
-Description: There's a disturbing trend in Big Tech. Don't make the same mistake.
-Link: https://www.zdnet.com/article/your-customers-dont-want-more-ai-heres-what-to-invest-in-instead/
-Headline: Samsung Unpacked 2025 recap: 5 biggest product announcements that you might've missed
-Description: The Tuesday event saw the unveiling of the Galaxy S25 series, new Galaxy AI features, and a fresh One UI 7 upgrade. Oh, and we got some exciting surprises.
-Link: https://www.zdnet.com/article/samsung-unpacked-2025-recap-5-biggest-product-announcements-that-you-mightve-missed/
-
+Headline: Is DeepSeek's new image model another win for cheaper AI?
+Description: Janus-Pro, DeepSeek's latest release, reportedly beats Stable Diffusion and older DALL-E models.
+Link: https://www.zdnet.com/article/is-deepseeks-new-image-model-another-win-for-cheaper-ai/
+Headline: I tested DeepSeek's R1 and V3 coding skills - and we're not all doomed (yet)
+Description: Are DeepSeek V3 and R1 the next big things in AI? How this Chinese open-source chatbot outperformed some big-name AIs in coding tests, despite using vastly less infrastructure than its competitors.
+Link: https://www.zdnet.com/article/i-tested-deepseeks-r1-and-v3-coding-skills-and-were-not-all-doomed-yet/
+Headline: Gemini's Deep Research browses the web for you - try the Android app now for free
+Description: See how Google's agentic AI, rolling out this week to the Gemini Android app, can be your new research assistant.
+Link: https://www.zdnet.com/article/geminis-deep-research-browses-the-web-for-you-try-the-android-app-now-for-free/
+Headline: Block's new open-source AI agent 'goose' lets you change direction mid-air
+Description: Block built its agent - 'codename goose' - to do it all, from writing code to ordering your dinner. Here's how to access it.
+Link: https://www.zdnet.com/article/blocks-new-open-source-ai-agent-goose-lets-you-change-direction-mid-air/
+Headline: Google's new AI tool is changing the way teams work and organize research
+Description: NotebookLM Plus can be a helpful assistant for any team or professional. Here's how.
+Link: https://www.zdnet.com/article/google-debuts-notebooklm-plus-for-businesses-and-professionals/
+Headline: Apple researchers reveal the secret sauce behind DeepSeek AI
+Description: The AI model that shook the world is part of a broad trend to squeeze more out of chips using what's called sparsity.
+Link: https://www.zdnet.com/article/apple-researchers-reveal-the-secret-sauce-behind-deepseek-ai/
+Headline: Why Canvas is ChatGPT's best productivity feature for power users
+Description: If you use OpenAI's AI tool to co-edit code or text, you will never again use ChatGPT without the Canvas tool. Here's why.
+Link: https://www.zdnet.com/article/why-canvas-is-chatgpts-best-productivity-feature-for-power-users/
+Headline: We're losing the battle against complexity, and AI may or may not help
+Description: Thinkers and doers across the industry agree that AI is a double-edged sword, reducing some complexity while adding more.
+Link: https://www.zdnet.com/article/were-losing-the-battle-against-complexity-and-ai-may-or-may-not-help/
 ---
 
 From source: https://www.forbes.com/ai/feed/
@@ -313,6 +302,9 @@ Link: https://www.aisnakeoil.com/p/ai-scaling-myths
 ---
 
 From source: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+Headline: 'Embodied energy' powers modular worm, jellyfish robots
+Description: In the same way that terrestrial life evolved from ocean swimmers to land walkers, soft robots are progressing, too, thanks to recent research in battery development and design.
+Link: https://www.sciencedaily.com/releases/2025/01/250127162040.htm
 Headline: Neuromorphic semiconductor chip that learns and corrects itself?
 Description: Scientists have developed a computing chip that can learn, correct errors, and process AI tasks.
 Link: https://www.sciencedaily.com/releases/2025/01/250121125920.htm
@@ -340,16 +332,16 @@ Link: https://www.sciencedaily.com/releases/2025/01/250109125624.htm
 Headline: Using robots in nursing homes linked to higher employee retention, better patient care
 Description: Facing high employee turnover and an aging population, nursing homes have increasingly turned to robots to complete a variety of care tasks, but few researchers have explored how these technologies im...
 Link: https://www.sciencedaily.com/releases/2025/01/250108173155.htm
-Headline: AI slashes cost and time for chip design, but that is not all
-Description: Researchers have harnessed artificial intelligence to take a key step toward slashing the time and cost of designing new wireless chips and discovering new functionalities to meet expanding demands fo...
-Link: https://www.sciencedaily.com/releases/2025/01/250106195930.htm
 
 ---
 
 From source: https://www.newscientist.com/subject/technology/feed/
-Headline: How big a deal is China's DeepSeek AI model?
+Headline: Experimental XB-1 aircraft goes supersonic for the first time
+Description: Boom Supersonic’s XB-1 aircraft broke the sound barrier during three test runs, a step toward the possible return of supersonic commercial flights
+Link: https://www.newscientist.com/article/2465962-experimental-xb-1-aircraft-goes-supersonic-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Headline: Why China's DeepSeek is threatening to disrupt the AI industry
 Description: The new AI model from China's DeepSeek performs on a level with leading US models without requiring as much computing power – but despite a huge drop in their stock, it's not game over for US tech com...
-Link: https://www.newscientist.com/article/2465757-how-big-a-deal-is-chinas-deepseek-ai-model/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
+Link: https://www.newscientist.com/article/2465757-why-chinas-deepseek-is-threatening-to-disrupt-the-ai-industry/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 Headline: A hole-filled battery could make wearables more breathable than cotton
 Description: A lithium battery patterned with holes is flexible, stretchable and allows more airflow than cotton, making it perfect for fitness tracking or medical monitoring wearables
 Link: https://www.newscientist.com/article/2465505-a-hole-filled-battery-could-make-wearables-more-breathable-than-cotton/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
@@ -374,9 +366,6 @@ Link: https://www.newscientist.com/article/2463843-worlds-first-ai-chatbot-has-f
 Headline: Robotic exoskeleton can train expert pianists to play faster
 Description: Trained pianists who hit a plateau improved their finger speed after a half-hour training session with a device that moves their fingers for them
 Link: https://www.newscientist.com/article/2464473-robotic-exoskeleton-can-train-expert-pianists-to-play-faster/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
-Headline: NATO tests satellite internet as backup to sabotaged undersea cables
-Description: As apparent acts of sabotage cut undersea data cables around the world, NATO held its first demonstration of a project to quickly reroute crucial communications to satellite internet
-Link: https://www.newscientist.com/article/2464396-nato-tests-satellite-internet-as-backup-to-sabotaged-undersea-cables/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology
 
 ---
 
@@ -389,7 +378,18 @@ From source: https://www.nature.com/subjects/artificial-intelligence.rss
 ---
 
 From source: https://www.reddit.com/r/artificial/top/.rss
-
+Headline: It's not easy to keep up with AI news.
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1iccqem/its_not_easy_to_keep_up_with_ai_news/"> <img alt="It's not easy to keep up with AI news." src="https://preview.redd.it/2g...
+Link: https://www.reddit.com/r/artificial/comments/1iccqem/its_not_easy_to_keep_up_with_ai_news/
+Headline: DeepSeek just blew up the AI industry’s narrative that it needs more money and power
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ic0o9y/deepseek_just_blew_up_the_ai_industrys_narrative/"> <img alt="DeepSeek just blew up the AI industry’s narrative that it n...
+Link: https://www.reddit.com/r/artificial/comments/1ic0o9y/deepseek_just_blew_up_the_ai_industrys_narrative/
+Headline: OpenAI announces ChatGPT Gov
+Description: <table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ic2dc8/openai_announces_chatgpt_gov/"> <img alt="OpenAI announces ChatGPT Gov" src="https://preview.redd.it/y8h9cthisqfe1.png?wi...
+Link: https://www.reddit.com/r/artificial/comments/1ic2dc8/openai_announces_chatgpt_gov/
+Headline: Stop DeepSeek tiananmen square memes
+Description: <!-- SC_OFF --><div class="md"><p>We got it, they have a filter. And as with the filter of OpenAi, it has its limitations. But can we stop posting this every 5min? </p> </div><!-- SC_ON --> &#32; subm...
+Link: https://www.reddit.com/r/artificial/comments/1iby642/stop_deepseek_tiananmen_square_memes/
 ---
 
 From source: https://aimagazine.com/ai-and-machine-learning
