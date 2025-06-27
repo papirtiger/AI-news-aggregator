@@ -24,19 +24,44 @@ jobs:
 
     - name: Run AI news scanner
       run: python ai_news_scanner.py
-      
+
+    - name: Run employer branding news scanner
+      run: python eb_news_scanner.py
+
+    - name: Generate employer branding newsletter
+      run: python generate_newsletter.py
+
     - name: Commit and push if there are changes
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
-        git add ai_news_updates.txt
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update AI news" && git push)
+        git add ai_news_updates.txt eb_news_updates.txt newsletter_content.md
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update news" && git push)
 
-    - name: Upload artifact
+    - name: Trigger Make.com webhook
+      if: ${{ secrets.MAKE_WEBHOOK_URL != '' }}
+      env:
+        MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+      run: |
+        curl -X POST "$MAKE_WEBHOOK_URL"
+
+    - name: Upload AI news artifact
       uses: actions/upload-artifact@v3
       with:
         name: ai-news-updates
         path: ai_news_updates.txt
+
+    - name: Upload employer branding news artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: eb-news-updates
+        path: eb_news_updates.txt
+
+    - name: Upload newsletter content
+      uses: actions/upload-artifact@v3
+      with:
+        name: newsletter-content
+        path: newsletter_content.md
 
     - name: Output Python version and pip list
       if: always()  # This will run regardless of previous step outcomes
